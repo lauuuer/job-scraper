@@ -15,6 +15,7 @@ import sys
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
+from .dedup import dedupe_jobs
 from .filters import JobFilter
 from .sources import FETCHERS
 
@@ -54,7 +55,15 @@ def collect(config: dict) -> list[dict]:
         if not fetcher:
             log(f"fonte desconhecida no config: {name}")
             continue
-        jobs.extend(fetcher())
+        if name == "adzuna":
+            jobs.extend(fetcher(
+                countries=config.get("adzuna_countries", ["br"]),
+                query=config.get("adzuna_query", "developer engineer"),
+                pages=config.get("adzuna_pages", 2),
+                max_days_old=config.get("max_age_days", 30),
+            ))
+        else:
+            jobs.extend(fetcher())
     return jobs
 
 
@@ -99,8 +108,15 @@ def main() -> int:
             prev["is_new"] = False
             matched[jid] = prev
 
+    # Dedup de "mesma vaga em fontes diferentes" (por empresa+título e descrição).
+    deduped, removed = dedupe_jobs(list(matched.values()), config)
+    log(f"dedup: {removed} duplicatas mescladas | {len(deduped)} únicas")
+    # first_seen pode ter sido recuado p/ o mais antigo do grupo: recalcula is_new.
+    for j in deduped:
+        j["is_new"] = j.get("first_seen") == today
+
     jobs_out = sorted(
-        matched.values(),
+        deduped,
         key=lambda j: (j.get("first_seen", ""), j.get("date", "")),
         reverse=True,
     )

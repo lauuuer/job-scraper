@@ -589,6 +589,90 @@
       "seniority": 5,
       "domain": 1,
       "note": "AI Cinematic Video Editor — vídeo, fora de escopo"
+    },
+    "jobicy-146992": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Senior Travel Consultant — agente de viagens/atendimento, não é tech"
+    },
+    "himalayas-https://himalayas.app/companies/alternative-payments/jobs/senior-platform-engineer": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 7,
+      "domain": 7,
+      "note": "Platform Engineer numa fintech (AR/AP p/ SMB) — domínio de pagamentos é seu, mas papel tende a infra"
+    },
+    "himalayas-https://himalayas.app/companies/chainlink-labs/jobs/data-analyst-economics": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 3,
+      "note": "Data Analyst de economia cripto/DeFi — não é seu perfil (DS/analytics)"
+    },
+    "jobicy-146875": {
+      "fit": 7.0,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 7,
+      "note": "Back-end Python (semi-senior) em e-learning, LATAM — Python backend + edtech (sua preferência)"
+    },
+    "jobicy-146874": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Senior Data Analyst (travel) — não é seu perfil"
+    },
+    "jobicy-146873": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 7,
+      "domain": 1,
+      "note": "Senior Product Designer (UX) — design, fora de escopo"
+    },
+    "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-cloud-devops-engineer-aws-terraform": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 2,
+      "note": "Senior Cloud/DevOps (AWS/Terraform) — deal-breaker de infra"
+    },
+    "workingnomads-https://www.workingnomads.com/job/go/1663269/": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 6,
+      "note": "Senior React Native Developer (Lemon.io) — RN/Expo está no seu stack, marketplace senior"
+    },
+    "workingnomads-https://www.workingnomads.com/job/go/1658647/": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 7,
+      "domain": 1,
+      "note": "Senior UI & UX / Graphic Designer — design gráfico, fora de escopo"
+    },
+    "workingnomads-https://www.workingnomads.com/job/go/1656108/": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 8,
+      "domain": 3,
+      "note": "Senior Blockchain Developer — Solidity/smart contracts, não é seu stack"
+    },
+    "workingnomads-https://www.workingnomads.com/job/go/1630232/": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 3,
+      "domain": 1,
+      "note": "Junior Sales & Business Development — vendas, não é tech"
+    },
+    "workingnomads-https://www.workingnomads.com/job/go/1612686/": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "AI Cinematic Video Editor — vídeo, fora de escopo (mesma vaga do EverAI já listada)"
     }
   }
 }

@@ -28,6 +28,11 @@ jobs:
 
       - name: Coletar e filtrar vagas
         run: python -m scraper.main
+        env:
+          # Opcionais: só usados se a fonte "adzuna" estiver ligada no config.json.
+          # Adicione em Settings -> Secrets and variables -> Actions. Sem eles, é pulada.
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
 
       - name: Commit do jobs.json atualizado
         run: |
