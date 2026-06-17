@@ -1,5 +1,594 @@
 {
-  "scored_at": "",
-  "rubric": "fit 0-10 = holístico; stack/seniority/domain 0-10 por fator",
-  "scores": {}
+  "scored_at": "2026-06-17",
+  "rubric": "fit 0-10 = holistico; stack/seniority/domain 0-10 por fator",
+  "scores": {
+    "wwr-https://weworkremotely.com/remote-jobs/revvity-principal-devops-engineer-build-release-and-cloud-automation": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 3,
+      "domain": 1,
+      "note": "DevOps/IaC puro (Terraform, Jenkins, AWS, 10+ anos) — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/runware-staff-devops-engineer": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 3,
+      "domain": 1,
+      "note": "Staff DevOps/SRE bare-metal + GPU em escala — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/career-team-enterprises-devops-engineer": {
+      "fit": 4.5,
+      "stack": 6,
+      "seniority": 5,
+      "domain": 4,
+      "note": "MERN (Next/Node/Mongo) que você faz, mas papel é DevOps-cêntrico (K8s/Terraform/AWS)"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 1,
+      "note": "DevOps GCP/Terraform/K8s — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/vultr-network-devops-engineer-rdma-fabric-automation": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "Network DevOps RDMA fabric — infra de rede pura, fora de escopo"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 1,
+      "note": "Web Designer (landing/criativos/marca) — é design, não dev"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": "WordPress + Shopify end-to-end; você faz os dois, perfil mais agência"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-engineer-ii": {
+      "fit": 4.0,
+      "stack": 5,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Security cloud-native/edge FedRAMP gov/defesa, lidera time; pouco full-stack"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe": {
+      "fit": 9.0,
+      "stack": 9,
+      "seniority": 8,
+      "domain": 9,
+      "note": "Node/React/TS/Postgres + pagamentos offline-first/retry-safe = exatamente seu SyncDesk/fintech"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4": {
+      "fit": 8.5,
+      "stack": 9,
+      "seniority": 8,
+      "domain": 7,
+      "note": "React full-stack para startups US/EU — match direto de stack e senioridade"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/math-salesforce-analyst-sr": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Salesforce CRM — fora do seu stack"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/qive-analista-de-crm-pleno-afirmativa-para-pessoas-negras": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 3,
+      "note": "Analista de CRM — não é papel de dev"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Analisar correção de código p/ treino de IA, $70/h flexível; pede diploma de CS (você não tem)"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 7,
+      "note": "Full-stack senior end-to-end, aluguel garantido (fintech-ish), time pequeno senior"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2": {
+      "fit": 3.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Ruby on Rails 4+ anos — RoR é 'caution' p/ você"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/knowmad-mood-java-devops-senior-pipelines-ci-cd-y-docker": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Java + DevOps/CI-CD/Docker — metade infra, Java não é seu foco"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/fatturaelettronica-app-full-stack-web-app-developer-saas-mid-senior": {
+      "fit": 4.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 6,
+      "note": "PHP/React SaaS (stack ok), mas exige italiano ótimo"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/insignia-consultancy-solutions-devops-lead": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 1,
+      "note": "DevOps lead K8s/Terraform multi-cloud — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures": {
+      "fit": 2.0,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 2,
+      "note": "DevOps de infra cripto (Binance) — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect": {
+      "fit": 8.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 9,
+      "note": "AI Engineer/Architect LLM/agents — seu nicho de IA"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x": {
+      "fit": 3.5,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Next.js + .NET/Azure/SQL (stack ótimo) mas exige fuso ±2h da Suíça — você está em GMT-3"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 6,
+      "note": "C#/ASP.NET 5+ anos — você faz .NET"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "DevOps FedRAMP CI/CD — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-junior": {
+      "fit": 5.0,
+      "stack": 7,
+      "seniority": 4,
+      "domain": 6,
+      "note": "Frontend React Junior (BR) — stack bate, mas nível abaixo do seu"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-flutter-pleno": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Flutter/Dart — 'caution', não é seu stack"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-pleno": {
+      "fit": 6.0,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Frontend React Pleno (BR) — bom match de stack"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home": {
+      "fit": 4.0,
+      "stack": 3,
+      "seniority": 4,
+      "domain": 4,
+      "note": "Help desk MSP Apple jr/mid; você tem base de suporte (PS/ServiceNow), mas é Mac-específico"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/luxury-presence-staff-software-engineer-ai-website-builder-us-remote": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 7,
+      "note": "Staff full-stack AI-first website builder (real estate) — full-stack + IA"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 2,
+      "note": "DevOps Terraform/K8s AWS/GCP (BR) — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 2,
+      "note": "IaC/DevOps Azure AKS — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3": {
+      "fit": 8.0,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 7,
+      "note": "Go/TS/React/Expo/GraphQL/Postgres, IA agressiva, $150-250k — match forte"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "QA Engineer — você escreve testes, mas não é papel de QA"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor": {
+      "fit": 5.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Full-stack, mas domínio 3D/rendering pesado"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/indigenous-climate-action-request-for-proposals-website-developer": {
+      "fit": 4.0,
+      "stack": 5,
+      "seniority": 5,
+      "domain": 4,
+      "note": "RFP redesign de site/CMS — perfil agência/proposta"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ninjaone-localization-web-developer": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 3,
+      "note": "Localization web dev / QA multilíngue — nicho"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-senior-technical-business-analyst-atlanta-ga": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 2,
+      "note": "Business Analyst — não é dev"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/binance-senior-solutions-engineer-api-python-node-js": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Solutions Engineer API Python/Node (trading) — sabe API/Node, semi-client-facing cripto"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-backend-pleno": {
+      "fit": 6.0,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Backend Pleno (BR) Node/Docker/CI — bom match"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 3,
+      "note": "DevOps migração GitHub/CI-CD — infra-cêntrico"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/bluematrix-devops-engineer-emea-us-shift": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 1,
+      "note": "DevOps Terraform/Ansible/K8s/AWS — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 8,
+      "note": "Full-stack AI agentic (healthcare) — IA + full-stack"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/tether-ai-research-engineer": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 7,
+      "domain": 4,
+      "note": "AI Research (RL/treino de modelos/multi-modal) — é ML research, não eng. de app de IA"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect": {
+      "fit": 8.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 9,
+      "note": "AI Engineer/Architect de produção (agents/RAG/eval), $120-170/h — seu nicho exato"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 6,
+      "note": "Dev independente senior top-tier, $90-170/h, flexível"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1": {
+      "fit": 7.0,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 6,
+      "note": "React/Redux/Firebase/TS, escala de milhões — frontend forte"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/patrianna-devops-engineer": {
+      "fit": 2.0,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 2,
+      "note": "DevOps de infra gaming em escala — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Founding eng, mas IaC end-to-end (Terraform/AWS) + pipelines de dados/QGIS — infra-cêntrico"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x": {
+      "fit": 3.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": ".NET Core/SQL/K8s/Azure (stack ok), mas fuso ±2h da Suíça"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 2,
+      "note": "DevOps AWS/K8s — deal-breaker"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/perforce-senior-sales-engineer-delphix": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Sales Engineer Delphix — papel de vendas"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "QA Automation (Salesforce) — não é core"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Data Analyst 11 anos saúde/Curam — fora do perfil"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Shopify freelance $100-200/h — você faz Liquid"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/premiersoft-devops-e-platform-senior-remoto": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 3,
+      "note": "DevOps/Platform migração de 320 repos GitHub — infra-cêntrico"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 3,
+      "note": "DevOps/sysadmin Linux/AWS — infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 2,
+      "note": "Platform/SRE — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-gxp-instrument-systems-engineer-norwood-ma": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 1,
+      "note": "GxP instrumentação de laboratório regulada — fora do perfil"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-electrical-engineer-tonawanda-ny": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 4,
+      "domain": 1,
+      "note": "Engenheiro Elétrico (AutoCAD/PLC, presencial) — não é software"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/servicetitan-web-developer": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Web dev de sites de marketing — frontend ok, escopo limitado"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/mobena-frontend-engineer": {
+      "fit": 7.0,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 7,
+      "note": "Frontend owner React/Svelte, fintech/estate planning, startup de 3 pessoas"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/thrill-labs-devops-engineer": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 1,
+      "note": "DevOps AWS/K8s/Pulumi, 10M tx/dia — deal-breaker de escala"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/vvd-product-engineer": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Product/Design Engineer (IA criativa, motion) — parte design"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer": {
+      "fit": 8.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 9,
+      "note": "React/NestJS/Postgres/Temporal + sistemas de eval de LLM — seu nicho exato"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/level-support-engineer": {
+      "fit": 5.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Support Engineer RMM/MSP — elegível pelo background de suporte, mas pede 10+ anos MSP"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only": {
+      "fit": 3.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Support SQL/web — mas só México (geo-trava)"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 7,
+      "domain": 3,
+      "note": "SDET automação FedRAMP — teste/security"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": "ASP.NET Core/C#/Angular/SQL — stack ok, mas Angular + pede diploma"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d": {
+      "fit": 5.0,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Founding Product Engineer full-stack IA, mas em alemão (DACH)"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Shopify 2.0/Liquid/CRO senior — você faz Shopify"
+    },
+    "remoteok-1133506": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 3,
+      "domain": 1,
+      "note": "Analista Administrativo Jr — não é tech"
+    },
+    "remotive-2090991": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Frontend React/GraphQL/Jest, plataforma de IA de carreira, full-time"
+    },
+    "remoteok-1133430": {
+      "fit": 4.0,
+      "stack": 5,
+      "seniority": 5,
+      "domain": 3,
+      "note": "Design Engineer (arte/música/cultura) — metade design, nicho"
+    },
+    "remotive-2090982": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Data Scientist (NumPy/Pandas/ML) — você não é DS"
+    },
+    "remotive-2090910": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff full-stack marketplace BR + AI coding agents (Claude Code), $80-100k — mas pede residir em Belo Horizonte"
+    },
+    "remotive-2090911": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff full-stack marketplace BR + AI agents (Claude Code), $80-100k — mas pede residir em Florianópolis"
+    },
+    "remotive-2090909": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff full-stack marketplace BR + AI agents (Claude Code), $80-100k — mas pede residir em Porto Alegre"
+    },
+    "remotive-2090912": {
+      "fit": 8.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff full-stack marketplace BR + AI agents (Claude Code), $80-100k — e em São Paulo (sua cidade)"
+    },
+    "remotive-2090913": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff full-stack marketplace BR + AI agents (Claude Code), $80-100k — mas pede residir em Campinas"
+    },
+    "remotive-2090899": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff Product Engineer marketplace BR + AI agents (Claude Code) — mas pede residir em Florianópolis"
+    },
+    "remotive-2090900": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff Product Engineer marketplace BR + AI agents (Claude Code) — mas pede residir em Belo Horizonte"
+    },
+    "remotive-2090901": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff Product Engineer marketplace BR + AI agents (Claude Code) — mas pede residir em Porto Alegre"
+    },
+    "remotive-2090902": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff Product Engineer marketplace BR + AI agents (Claude Code) — mas pede residir em Campinas"
+    },
+    "remotive-2090890": {
+      "fit": 8.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Staff Product Engineer marketplace BR + AI agents (Claude Code) — e em São Paulo (sua cidade)"
+    },
+    "remotive-2090887": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "AI Cinematic Video Editor — vídeo, fora de escopo"
+    }
+  }
 }
