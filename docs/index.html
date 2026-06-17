@@ -9,6 +9,7 @@
     --bg: #0f1115; --panel: #171a21; --panel2: #1e222b; --border: #2a2f3a;
     --text: #e6e8ec; --muted: #8b93a1; --accent: #5b9cff; --new: #38c172;
     --chip: #232834; --apply: #2f9e6e; --notfit: #b85c5c;
+    --fit-hi: #38c172; --fit-mid: #5b9cff; --fit-lo: #8b93a1;
   }
   * { box-sizing: border-box; }
   body {
@@ -54,6 +55,13 @@
   .chip.reason { color: #ffb3b3; background: #2d2024; }
   .badge-new { background: var(--new); color: #07210f; font-weight: 700; border-radius: 999px;
                padding: 1px 7px; font-size: 11px; margin-left: 6px; }
+  .fit { display: inline-block; min-width: 34px; text-align: center; font-weight: 700;
+         border-radius: 7px; padding: 3px 7px; font-size: 13px; cursor: help; }
+  .fit-hi { background: rgba(56,193,114,.18); color: var(--fit-hi); }
+  .fit-mid { background: rgba(91,156,255,.16); color: var(--fit-mid); }
+  .fit-lo { background: rgba(139,147,161,.15); color: var(--fit-lo); }
+  .fit-none { color: var(--muted); }
+  td.fitcol { white-space: nowrap; }
   .empty { color: var(--muted); padding: 40px; text-align: center; }
   .count { color: var(--muted); font-size: 13px; margin-left: auto; }
   td.date { color: var(--muted); font-size: 13px; white-space: nowrap; }
@@ -64,7 +72,6 @@
   }
   .btn:hover { border-color: var(--accent); }
   .btn.apply:hover { border-color: var(--apply); color: #8ff0c0; }
-  .btn.back:hover { border-color: var(--accent); }
   select.notfit { color: #ffb3b3; }
   select.reason-edit { font-size: 12px; }
 </style>
@@ -91,6 +98,14 @@
     <option value="unknown">Não informado</option>
   </select>
   <select id="source"><option value="">Todas as fontes</option></select>
+  <select id="fitmin" title="Filtra por nota de fit">
+    <option value="0">Fit: todos</option>
+    <option value="5">Fit ≥ 5</option>
+    <option value="6">Fit ≥ 6</option>
+    <option value="7">Fit ≥ 7</option>
+    <option value="8">Fit ≥ 8</option>
+    <option value="9">Fit ≥ 9</option>
+  </select>
   <label class="toggle" id="onlynew-wrap"><input type="checkbox" id="onlynew"> Só novas hoje</label>
   <span class="count" id="count"></span>
 </div>
@@ -99,6 +114,7 @@
   <table id="tbl">
     <thead>
       <tr>
+        <th data-sort="fit">Fit</th>
         <th data-sort="title">Cargo</th>
         <th data-sort="region">Região</th>
         <th data-sort="source">Fonte</th>
@@ -116,6 +132,7 @@ const STORE_KEY = "jobscraper.status.v1";
 const REASONS = ["Stack", "Senioridade", "Domínio", "Localização", "Salário", "Outro"];
 
 let ALL = [];
+let SCORES = {};                  // id -> {fit, stack, seniority, domain, note}
 let view = "active";              // active | applied | notfit
 let sortKey = "first_seen", sortDir = -1;
 
@@ -126,8 +143,6 @@ function loadState() {
 }
 function saveState(s) { localStorage.setItem(STORE_KEY, JSON.stringify(s)); }
 
-// Guarda um SNAPSHOT da vaga junto com o status, pra ela continuar nas abas
-// Aplicadas/Não é fit mesmo depois de sumir do feed diário.
 function setStatus(job, status, reason) {
   const s = loadState();
   s[job.id] = {
@@ -138,12 +153,8 @@ function setStatus(job, status, reason) {
   saveState(s);
   render();
 }
-function clearStatus(id) {
-  const s = loadState(); delete s[id]; saveState(s); render();
-}
-function setReason(id, reason) {
-  const s = loadState(); if (s[id]) { s[id].r = reason; saveState(s); render(); }
-}
+function clearStatus(id) { const s = loadState(); delete s[id]; saveState(s); render(); }
+function setReason(id, reason) { const s = loadState(); if (s[id]) { s[id].r = reason; saveState(s); render(); } }
 
 // ---- helpers ------------------------------------------------------------- //
 function esc(s) {
@@ -154,6 +165,15 @@ function stateToJob(id, e) {
            region: e.region, source: e.source, first_seen: e.first_seen, is_new: false,
            reason: e.r, marked_at: e.t };
 }
+function fitOf(id) { const s = SCORES[id]; return (s && typeof s.fit === "number") ? s.fit : null; }
+function fitTier(v) { return v >= 8 ? "hi" : v >= 6 ? "mid" : "lo"; }
+function fitCell(id) {
+  const s = SCORES[id];
+  if (!s || typeof s.fit !== "number") return '<span class="fit-none">—</span>';
+  const tip = `Stack ${s.stack ?? "?"} · Senioridade ${s.seniority ?? "?"} · Domínio ${s.domain ?? "?"}` +
+              (s.note ? `\n${s.note}` : "");
+  return `<span class="fit fit-${fitTier(s.fit)}" title="${esc(tip)}">${s.fit.toFixed(1)}</span>`;
+}
 
 // ---- render -------------------------------------------------------------- //
 function render() {
@@ -161,9 +181,9 @@ function render() {
   const q = document.getElementById("q").value.trim().toLowerCase();
   const region = document.getElementById("region").value;
   const source = document.getElementById("source").value;
+  const fitmin = parseFloat(document.getElementById("fitmin").value) || 0;
   const onlynew = document.getElementById("onlynew").checked;
 
-  // base de itens conforme a aba
   let items;
   if (view === "active") {
     items = ALL.filter(j => !state[j.id]);
@@ -172,10 +192,10 @@ function render() {
     items = Object.entries(state).filter(([, e]) => e.s === want).map(([id, e]) => stateToJob(id, e));
   }
 
-  // filtros comuns
   let rows = items.filter(j => {
     if (region && j.region !== region) return false;
     if (source && j.source !== source) return false;
+    if (fitmin > 0) { const f = fitOf(j.id); if (f === null || f < fitmin) return false; }
     if (view === "active" && onlynew && !j.is_new) return false;
     if (q) {
       const hay = (j.title + " " + j.company + " " + (j.location || "")).toLowerCase();
@@ -186,6 +206,11 @@ function render() {
 
   const key = (view === "active") ? sortKey : (sortKey === "first_seen" ? "marked_at" : sortKey);
   rows.sort((a, b) => {
+    if (key === "fit") {
+      const x = fitOf(a.id), y = fitOf(b.id);
+      const xx = x === null ? -1 : x, yy = y === null ? -1 : y;
+      return (xx - yy) * sortDir;
+    }
     const x = (a[key] || ""), y = (b[key] || "");
     return (x < y ? -1 : x > y ? 1 : 0) * sortDir;
   });
@@ -217,7 +242,7 @@ function rowHtml(j) {
       </select>`;
   } else if (view === "applied") {
     actions = `<button class="btn back" data-act="reactivate" data-id="${esc(j.id)}">↩ Reativar</button>`;
-  } else { // notfit
+  } else {
     const opts = REASONS.map(r => `<option value="${r}"${r === j.reason ? " selected" : ""}>${r}</option>`).join("");
     actions = `
       <select class="reason-edit" data-act="setreason" data-id="${esc(j.id)}">
@@ -227,6 +252,7 @@ function rowHtml(j) {
   }
   return `
     <tr>
+      <td class="fitcol">${fitCell(j.id)}</td>
       <td>
         <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
         ${newBadge} ${reasonChip}
@@ -242,22 +268,16 @@ function rowHtml(j) {
 function bindRowActions() {
   document.querySelectorAll("[data-act]").forEach(el => {
     const id = el.dataset.id, act = el.dataset.act;
-    if (act === "apply") {
-      el.onclick = () => setStatus(ALL.find(j => j.id === id), "applied", "");
-    } else if (act === "notfit") {
-      el.onchange = () => setStatus(ALL.find(j => j.id === id), "notfit", el.value);
-    } else if (act === "reactivate") {
-      el.onclick = () => clearStatus(id);
-    } else if (act === "setreason") {
-      el.onchange = () => setReason(id, el.value);
-    }
+    if (act === "apply") el.onclick = () => setStatus(ALL.find(j => j.id === id), "applied", "");
+    else if (act === "notfit") el.onchange = () => setStatus(ALL.find(j => j.id === id), "notfit", el.value);
+    else if (act === "reactivate") el.onclick = () => clearStatus(id);
+    else if (act === "setreason") el.onchange = () => setReason(id, el.value);
   });
 }
 
 function updateTabCounts(state) {
   const vals = Object.values(state);
-  const active = ALL.filter(j => !state[j.id]).length;
-  document.getElementById("n-active").textContent = `(${active})`;
+  document.getElementById("n-active").textContent = `(${ALL.filter(j => !state[j.id]).length})`;
   document.getElementById("n-applied").textContent = `(${vals.filter(e => e.s === "applied").length})`;
   document.getElementById("n-notfit").textContent = `(${vals.filter(e => e.s === "notfit").length})`;
 }
@@ -267,36 +287,40 @@ document.querySelectorAll(".tab").forEach(t => {
   t.onclick = () => {
     document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
     t.classList.add("active");
-    view = t.dataset.view;
-    sortDir = (view === "active") ? -1 : -1; sortKey = "first_seen";
+    view = t.dataset.view; sortKey = "first_seen"; sortDir = -1;
     render();
   };
 });
 document.querySelectorAll("th[data-sort]").forEach(th => {
   th.onclick = () => {
     const k = th.dataset.sort; if (!k) return;
-    if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = (k === "first_seen") ? -1 : 1; }
+    if (sortKey === k) sortDir *= -1;
+    else { sortKey = k; sortDir = (k === "first_seen" || k === "fit") ? -1 : 1; }
     render();
   };
 });
-["q", "region", "source", "onlynew"].forEach(id =>
+["q", "region", "source", "fitmin", "onlynew"].forEach(id =>
   document.getElementById(id).addEventListener("input", render));
 
 // ---- carga --------------------------------------------------------------- //
-fetch("jobs.json?_=" + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    ALL = data.jobs || [];
-    const when = data.generated_at ? new Date(data.generated_at).toLocaleString("pt-BR") : "—";
-    document.getElementById("meta").textContent =
-      `Atualizado: ${when} · ${data.count || 0} vagas no feed · ${data.new_today || 0} novas hoje · fontes: ${(data.sources || []).join(", ") || "—"}`;
-    const sel = document.getElementById("source");
-    [...new Set(ALL.map(j => j.source))].sort().forEach(s => {
-      const o = document.createElement("option"); o.value = o.textContent = s; sel.appendChild(o);
-    });
-    render();
-  })
-  .catch(e => { document.getElementById("meta").textContent = "Erro ao carregar jobs.json: " + e; });
+Promise.all([
+  fetch("jobs.json?_=" + Date.now()).then(r => r.json()),
+  fetch("scores.json?_=" + Date.now()).then(r => r.ok ? r.json() : { scores: {} }).catch(() => ({ scores: {} })),
+]).then(([data, scoreData]) => {
+  ALL = data.jobs || [];
+  SCORES = scoreData.scores || {};
+  const when = data.generated_at ? new Date(data.generated_at).toLocaleString("pt-BR") : "—";
+  const nScored = Object.keys(SCORES).length;
+  document.getElementById("meta").textContent =
+    `Atualizado: ${when} · ${data.count || 0} vagas no feed · ${data.new_today || 0} novas hoje` +
+    (nScored ? ` · ${nScored} com fit` : " · sem fit ainda (rode o scoring)") +
+    ` · fontes: ${(data.sources || []).join(", ") || "—"}`;
+  const sel = document.getElementById("source");
+  [...new Set(ALL.map(j => j.source))].sort().forEach(s => {
+    const o = document.createElement("option"); o.value = o.textContent = s; sel.appendChild(o);
+  });
+  render();
+}).catch(e => { document.getElementById("meta").textContent = "Erro ao carregar dados: " + e; });
 </script>
 </body>
 </html>
