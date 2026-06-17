@@ -8,7 +8,7 @@
   :root {
     --bg: #0f1115; --panel: #171a21; --panel2: #1e222b; --border: #2a2f3a;
     --text: #e6e8ec; --muted: #8b93a1; --accent: #5b9cff; --new: #38c172;
-    --chip: #232834;
+    --chip: #232834; --apply: #2f9e6e; --notfit: #b85c5c;
   }
   * { box-sizing: border-box; }
   body {
@@ -18,6 +18,14 @@
   header { padding: 20px 24px 8px; }
   h1 { margin: 0 0 4px; font-size: 20px; }
   .meta { color: var(--muted); font-size: 13px; }
+  .tabs { display: flex; gap: 4px; padding: 12px 24px 0; flex-wrap: wrap; }
+  .tab {
+    background: var(--panel2); color: var(--muted); border: 1px solid var(--border);
+    border-bottom: none; border-radius: 8px 8px 0 0; padding: 8px 14px; font-size: 14px;
+    cursor: pointer;
+  }
+  .tab.active { background: var(--bg); color: var(--text); font-weight: 600; border-color: var(--accent); }
+  .tab .n { color: var(--muted); font-weight: 400; }
   .controls {
     position: sticky; top: 0; z-index: 5; background: var(--bg);
     padding: 12px 24px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
@@ -43,11 +51,22 @@
   .chip.region-worldwide { color: #7ec8ff; }
   .chip.region-brazil { color: #6ee7a8; }
   .chip.region-latam { color: #ffd479; }
+  .chip.reason { color: #ffb3b3; background: #2d2024; }
   .badge-new { background: var(--new); color: #07210f; font-weight: 700; border-radius: 999px;
                padding: 1px 7px; font-size: 11px; margin-left: 6px; }
   .empty { color: var(--muted); padding: 40px; text-align: center; }
   .count { color: var(--muted); font-size: 13px; margin-left: auto; }
   td.date { color: var(--muted); font-size: 13px; white-space: nowrap; }
+  td.actions { white-space: nowrap; text-align: right; }
+  .btn {
+    border: 1px solid var(--border); background: var(--panel2); color: var(--text);
+    border-radius: 7px; padding: 6px 10px; font-size: 13px; cursor: pointer; margin-left: 6px;
+  }
+  .btn:hover { border-color: var(--accent); }
+  .btn.apply:hover { border-color: var(--apply); color: #8ff0c0; }
+  .btn.back:hover { border-color: var(--accent); }
+  select.notfit { color: #ffb3b3; }
+  select.reason-edit { font-size: 12px; }
 </style>
 </head>
 <body>
@@ -55,6 +74,12 @@
   <h1>Vagas remotas — Dev &amp; Support (sem mentoring/coaching/pairing)</h1>
   <div class="meta" id="meta">Carregando…</div>
 </header>
+
+<div class="tabs" id="tabs">
+  <div class="tab active" data-view="active">Ativas <span class="n" id="n-active"></span></div>
+  <div class="tab" data-view="applied">Aplicadas <span class="n" id="n-applied"></span></div>
+  <div class="tab" data-view="notfit">Não é fit <span class="n" id="n-notfit"></span></div>
+</div>
 
 <div class="controls">
   <input type="search" id="q" placeholder="Buscar por cargo, empresa…">
@@ -66,7 +91,7 @@
     <option value="unknown">Não informado</option>
   </select>
   <select id="source"><option value="">Todas as fontes</option></select>
-  <label class="toggle"><input type="checkbox" id="onlynew"> Só novas hoje</label>
+  <label class="toggle" id="onlynew-wrap"><input type="checkbox" id="onlynew"> Só novas hoje</label>
   <span class="count" id="count"></span>
 </div>
 
@@ -78,88 +103,200 @@
         <th data-sort="region">Região</th>
         <th data-sort="source">Fonte</th>
         <th data-sort="first_seen">Visto em</th>
+        <th></th>
       </tr>
     </thead>
     <tbody id="rows"></tbody>
   </table>
-  <div class="empty" id="empty" hidden>Nenhuma vaga bate nos filtros agora.</div>
+  <div class="empty" id="empty" hidden></div>
 </div>
 
 <script>
+const STORE_KEY = "jobscraper.status.v1";
+const REASONS = ["Stack", "Senioridade", "Domínio", "Localização", "Salário", "Outro"];
+
 let ALL = [];
+let view = "active";              // active | applied | notfit
 let sortKey = "first_seen", sortDir = -1;
 
-function fmtDate(s) { return s || "—"; }
+// ---- estado persistente (localStorage) ---------------------------------- //
+function loadState() {
+  try { return JSON.parse(localStorage.getItem(STORE_KEY)) || {}; }
+  catch { return {}; }
+}
+function saveState(s) { localStorage.setItem(STORE_KEY, JSON.stringify(s)); }
 
+// Guarda um SNAPSHOT da vaga junto com o status, pra ela continuar nas abas
+// Aplicadas/Não é fit mesmo depois de sumir do feed diário.
+function setStatus(job, status, reason) {
+  const s = loadState();
+  s[job.id] = {
+    s: status, r: reason || "", t: new Date().toISOString(),
+    title: job.title, company: job.company, location: job.location,
+    url: job.url, region: job.region, source: job.source, first_seen: job.first_seen,
+  };
+  saveState(s);
+  render();
+}
+function clearStatus(id) {
+  const s = loadState(); delete s[id]; saveState(s); render();
+}
+function setReason(id, reason) {
+  const s = loadState(); if (s[id]) { s[id].r = reason; saveState(s); render(); }
+}
+
+// ---- helpers ------------------------------------------------------------- //
+function esc(s) {
+  return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+function stateToJob(id, e) {
+  return { id, title: e.title, company: e.company, location: e.location, url: e.url,
+           region: e.region, source: e.source, first_seen: e.first_seen, is_new: false,
+           reason: e.r, marked_at: e.t };
+}
+
+// ---- render -------------------------------------------------------------- //
 function render() {
+  const state = loadState();
   const q = document.getElementById("q").value.trim().toLowerCase();
   const region = document.getElementById("region").value;
   const source = document.getElementById("source").value;
   const onlynew = document.getElementById("onlynew").checked;
 
-  let rows = ALL.filter(j => {
+  // base de itens conforme a aba
+  let items;
+  if (view === "active") {
+    items = ALL.filter(j => !state[j.id]);
+  } else {
+    const want = view === "applied" ? "applied" : "notfit";
+    items = Object.entries(state).filter(([, e]) => e.s === want).map(([id, e]) => stateToJob(id, e));
+  }
+
+  // filtros comuns
+  let rows = items.filter(j => {
     if (region && j.region !== region) return false;
     if (source && j.source !== source) return false;
-    if (onlynew && !j.is_new) return false;
+    if (view === "active" && onlynew && !j.is_new) return false;
     if (q) {
-      const hay = (j.title + " " + j.company + " " + j.location).toLowerCase();
+      const hay = (j.title + " " + j.company + " " + (j.location || "")).toLowerCase();
       if (!hay.includes(q)) return false;
     }
     return true;
   });
 
+  const key = (view === "active") ? sortKey : (sortKey === "first_seen" ? "marked_at" : sortKey);
   rows.sort((a, b) => {
-    const x = (a[sortKey] || ""), y = (b[sortKey] || "");
+    const x = (a[key] || ""), y = (b[key] || "");
     return (x < y ? -1 : x > y ? 1 : 0) * sortDir;
   });
 
-  const tbody = document.getElementById("rows");
-  tbody.innerHTML = rows.map(j => `
+  document.getElementById("rows").innerHTML = rows.map(j => rowHtml(j)).join("");
+  bindRowActions();
+
+  const labels = { active: "Nenhuma vaga ativa bate nos filtros.",
+                   applied: "Você ainda não marcou nenhuma vaga como aplicada.",
+                   notfit: "Você ainda não marcou nenhuma vaga como “não é fit”." };
+  const empty = document.getElementById("empty");
+  empty.hidden = rows.length > 0; empty.textContent = labels[view];
+
+  document.getElementById("count").textContent = `${rows.length} ${rows.length === 1 ? "vaga" : "vagas"}`;
+  updateTabCounts(state);
+  document.getElementById("onlynew-wrap").style.display = (view === "active") ? "" : "none";
+}
+
+function rowHtml(j) {
+  const newBadge = j.is_new ? '<span class="badge-new">NOVA</span>' : '';
+  const reasonChip = (view === "notfit" && j.reason) ? `<span class="chip reason">${esc(j.reason)}</span>` : '';
+  let actions = "";
+  if (view === "active") {
+    const opts = REASONS.map(r => `<option value="${r}">${r}</option>`).join("");
+    actions = `
+      <button class="btn apply" data-act="apply" data-id="${esc(j.id)}">✓ Apliquei</button>
+      <select class="notfit" data-act="notfit" data-id="${esc(j.id)}">
+        <option value="" selected disabled>✗ Não é fit…</option>${opts}
+      </select>`;
+  } else if (view === "applied") {
+    actions = `<button class="btn back" data-act="reactivate" data-id="${esc(j.id)}">↩ Reativar</button>`;
+  } else { // notfit
+    const opts = REASONS.map(r => `<option value="${r}"${r === j.reason ? " selected" : ""}>${r}</option>`).join("");
+    actions = `
+      <select class="reason-edit" data-act="setreason" data-id="${esc(j.id)}">
+        <option value="" ${j.reason ? "" : "selected"} disabled>motivo…</option>${opts}
+      </select>
+      <button class="btn back" data-act="reactivate" data-id="${esc(j.id)}">↩ Reativar</button>`;
+  }
+  return `
     <tr>
       <td>
-        <a class="title" href="${j.url}" target="_blank" rel="noopener">${esc(j.title)}</a>
-        ${j.is_new ? '<span class="badge-new">NOVA</span>' : ''}
+        <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        ${newBadge} ${reasonChip}
         <div class="company">${esc(j.company || "—")}${j.location ? " · " + esc(j.location) : ""}</div>
       </td>
-      <td><span class="chip region-${j.region}">${j.region}</span></td>
+      <td><span class="chip region-${esc(j.region)}">${esc(j.region)}</span></td>
       <td><span class="chip">${esc(j.source)}</span></td>
-      <td class="date">${fmtDate(j.first_seen)}</td>
-    </tr>`).join("");
-
-  document.getElementById("empty").hidden = rows.length > 0;
-  document.getElementById("count").textContent = `${rows.length} de ${ALL.length} vagas`;
+      <td class="date">${esc(j.first_seen || "—")}</td>
+      <td class="actions">${actions}</td>
+    </tr>`;
 }
 
-function esc(s) {
-  return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+function bindRowActions() {
+  document.querySelectorAll("[data-act]").forEach(el => {
+    const id = el.dataset.id, act = el.dataset.act;
+    if (act === "apply") {
+      el.onclick = () => setStatus(ALL.find(j => j.id === id), "applied", "");
+    } else if (act === "notfit") {
+      el.onchange = () => setStatus(ALL.find(j => j.id === id), "notfit", el.value);
+    } else if (act === "reactivate") {
+      el.onclick = () => clearStatus(id);
+    } else if (act === "setreason") {
+      el.onchange = () => setReason(id, el.value);
+    }
+  });
 }
 
+function updateTabCounts(state) {
+  const vals = Object.values(state);
+  const active = ALL.filter(j => !state[j.id]).length;
+  document.getElementById("n-active").textContent = `(${active})`;
+  document.getElementById("n-applied").textContent = `(${vals.filter(e => e.s === "applied").length})`;
+  document.getElementById("n-notfit").textContent = `(${vals.filter(e => e.s === "notfit").length})`;
+}
+
+// ---- listeners ----------------------------------------------------------- //
+document.querySelectorAll(".tab").forEach(t => {
+  t.onclick = () => {
+    document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+    t.classList.add("active");
+    view = t.dataset.view;
+    sortDir = (view === "active") ? -1 : -1; sortKey = "first_seen";
+    render();
+  };
+});
 document.querySelectorAll("th[data-sort]").forEach(th => {
-  th.addEventListener("click", () => {
-    const k = th.dataset.sort;
+  th.onclick = () => {
+    const k = th.dataset.sort; if (!k) return;
     if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = (k === "first_seen") ? -1 : 1; }
     render();
-  });
+  };
 });
 ["q", "region", "source", "onlynew"].forEach(id =>
   document.getElementById(id).addEventListener("input", render));
 
+// ---- carga --------------------------------------------------------------- //
 fetch("jobs.json?_=" + Date.now())
   .then(r => r.json())
   .then(data => {
     ALL = data.jobs || [];
     const when = data.generated_at ? new Date(data.generated_at).toLocaleString("pt-BR") : "—";
     document.getElementById("meta").textContent =
-      `Atualizado: ${when} · ${data.count || 0} vagas · ${data.new_today || 0} novas hoje · fontes: ${(data.sources || []).join(", ") || "—"}`;
+      `Atualizado: ${when} · ${data.count || 0} vagas no feed · ${data.new_today || 0} novas hoje · fontes: ${(data.sources || []).join(", ") || "—"}`;
     const sel = document.getElementById("source");
     [...new Set(ALL.map(j => j.source))].sort().forEach(s => {
       const o = document.createElement("option"); o.value = o.textContent = s; sel.appendChild(o);
     });
     render();
   })
-  .catch(e => {
-    document.getElementById("meta").textContent = "Erro ao carregar jobs.json: " + e;
-  });
+  .catch(e => { document.getElementById("meta").textContent = "Erro ao carregar jobs.json: " + e; });
 </script>
 </body>
 </html>
