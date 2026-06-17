@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Vagas — Dev / Support remoto (sem mentoring)</title>
+<style>
+  :root {
+    --bg: #0f1115; --panel: #171a21; --panel2: #1e222b; --border: #2a2f3a;
+    --text: #e6e8ec; --muted: #8b93a1; --accent: #5b9cff; --new: #38c172;
+    --chip: #232834;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; font: 15px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+    background: var(--bg); color: var(--text);
+  }
+  header { padding: 20px 24px 8px; }
+  h1 { margin: 0 0 4px; font-size: 20px; }
+  .meta { color: var(--muted); font-size: 13px; }
+  .controls {
+    position: sticky; top: 0; z-index: 5; background: var(--bg);
+    padding: 12px 24px; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;
+    border-bottom: 1px solid var(--border);
+  }
+  input[type=search], select {
+    background: var(--panel2); color: var(--text); border: 1px solid var(--border);
+    border-radius: 8px; padding: 8px 10px; font-size: 14px;
+  }
+  input[type=search] { min-width: 220px; flex: 1; }
+  label.toggle { display: flex; align-items: center; gap: 6px; color: var(--muted); font-size: 14px; cursor: pointer; }
+  .wrap { padding: 8px 24px 40px; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); vertical-align: top; }
+  th { color: var(--muted); font-weight: 600; font-size: 12px; text-transform: uppercase; letter-spacing: .04em; cursor: pointer; user-select: none; }
+  th:hover { color: var(--text); }
+  tr:hover td { background: var(--panel); }
+  a.title { color: var(--text); text-decoration: none; font-weight: 600; }
+  a.title:hover { color: var(--accent); text-decoration: underline; }
+  .company { color: var(--muted); font-size: 13px; }
+  .chip { display: inline-block; background: var(--chip); color: var(--muted); border-radius: 999px;
+          padding: 2px 9px; font-size: 12px; white-space: nowrap; }
+  .chip.region-worldwide { color: #7ec8ff; }
+  .chip.region-brazil { color: #6ee7a8; }
+  .chip.region-latam { color: #ffd479; }
+  .badge-new { background: var(--new); color: #07210f; font-weight: 700; border-radius: 999px;
+               padding: 1px 7px; font-size: 11px; margin-left: 6px; }
+  .empty { color: var(--muted); padding: 40px; text-align: center; }
+  .count { color: var(--muted); font-size: 13px; margin-left: auto; }
+  td.date { color: var(--muted); font-size: 13px; white-space: nowrap; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Vagas remotas — Dev &amp; Support (sem mentoring/coaching/pairing)</h1>
+  <div class="meta" id="meta">Carregando…</div>
+</header>
+
+<div class="controls">
+  <input type="search" id="q" placeholder="Buscar por cargo, empresa…">
+  <select id="region">
+    <option value="">Todas as regiões</option>
+    <option value="worldwide">Worldwide</option>
+    <option value="brazil">Brazil</option>
+    <option value="latam">LATAM</option>
+    <option value="unknown">Não informado</option>
+  </select>
+  <select id="source"><option value="">Todas as fontes</option></select>
+  <label class="toggle"><input type="checkbox" id="onlynew"> Só novas hoje</label>
+  <span class="count" id="count"></span>
+</div>
+
+<div class="wrap">
+  <table id="tbl">
+    <thead>
+      <tr>
+        <th data-sort="title">Cargo</th>
+        <th data-sort="region">Região</th>
+        <th data-sort="source">Fonte</th>
+        <th data-sort="first_seen">Visto em</th>
+      </tr>
+    </thead>
+    <tbody id="rows"></tbody>
+  </table>
+  <div class="empty" id="empty" hidden>Nenhuma vaga bate nos filtros agora.</div>
+</div>
+
+<script>
+let ALL = [];
+let sortKey = "first_seen", sortDir = -1;
+
+function fmtDate(s) { return s || "—"; }
+
+function render() {
+  const q = document.getElementById("q").value.trim().toLowerCase();
+  const region = document.getElementById("region").value;
+  const source = document.getElementById("source").value;
+  const onlynew = document.getElementById("onlynew").checked;
+
+  let rows = ALL.filter(j => {
+    if (region && j.region !== region) return false;
+    if (source && j.source !== source) return false;
+    if (onlynew && !j.is_new) return false;
+    if (q) {
+      const hay = (j.title + " " + j.company + " " + j.location).toLowerCase();
+      if (!hay.includes(q)) return false;
+    }
+    return true;
+  });
+
+  rows.sort((a, b) => {
+    const x = (a[sortKey] || ""), y = (b[sortKey] || "");
+    return (x < y ? -1 : x > y ? 1 : 0) * sortDir;
+  });
+
+  const tbody = document.getElementById("rows");
+  tbody.innerHTML = rows.map(j => `
+    <tr>
+      <td>
+        <a class="title" href="${j.url}" target="_blank" rel="noopener">${esc(j.title)}</a>
+        ${j.is_new ? '<span class="badge-new">NOVA</span>' : ''}
+        <div class="company">${esc(j.company || "—")}${j.location ? " · " + esc(j.location) : ""}</div>
+      </td>
+      <td><span class="chip region-${j.region}">${j.region}</span></td>
+      <td><span class="chip">${esc(j.source)}</span></td>
+      <td class="date">${fmtDate(j.first_seen)}</td>
+    </tr>`).join("");
+
+  document.getElementById("empty").hidden = rows.length > 0;
+  document.getElementById("count").textContent = `${rows.length} de ${ALL.length} vagas`;
+}
+
+function esc(s) {
+  return (s || "").replace(/[&<>"]/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c]));
+}
+
+document.querySelectorAll("th[data-sort]").forEach(th => {
+  th.addEventListener("click", () => {
+    const k = th.dataset.sort;
+    if (sortKey === k) sortDir *= -1; else { sortKey = k; sortDir = (k === "first_seen") ? -1 : 1; }
+    render();
+  });
+});
+["q", "region", "source", "onlynew"].forEach(id =>
+  document.getElementById(id).addEventListener("input", render));
+
+fetch("jobs.json?_=" + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    ALL = data.jobs || [];
+    const when = data.generated_at ? new Date(data.generated_at).toLocaleString("pt-BR") : "—";
+    document.getElementById("meta").textContent =
+      `Atualizado: ${when} · ${data.count || 0} vagas · ${data.new_today || 0} novas hoje · fontes: ${(data.sources || []).join(", ") || "—"}`;
+    const sel = document.getElementById("source");
+    [...new Set(ALL.map(j => j.source))].sort().forEach(s => {
+      const o = document.createElement("option"); o.value = o.textContent = s; sel.appendChild(o);
+    });
+    render();
+  })
+  .catch(e => {
+    document.getElementById("meta").textContent = "Erro ao carregar jobs.json: " + e;
+  });
+</script>
+</body>
+</html>

@@ -1,0 +1,52 @@
+{
+  "_comment": "Edite estas listas para ajustar o que entra/sai. Tudo é comparado em minúsculas. Tokens curtos (l1, jr) batem por palavra inteira; frases com espaço batem por trecho.",
+
+  "include_title_keywords": [
+    "developer", "engineer", "programmer", "software",
+    "backend", "back-end", "frontend", "front-end", "full stack", "fullstack",
+    "devops", "sre", "site reliability", "platform engineer",
+    "support engineer", "technical support", "customer support engineer",
+    "help desk", "helpdesk", "service desk", "support analyst",
+    "l1", "l2", "l3", "tier 1", "tier 2", "tier 3",
+    "qa", "quality assurance", "test engineer", "automation",
+    "sysadmin", "system administrator", "infrastructure",
+    "data engineer", "data analyst", "analytics engineer",
+    "junior", "jr", "pleno", "mid-level", "mid level", "senior", "sr"
+  ],
+
+  "exclude_title_keywords": [
+    "intern", "internship", "trainee", "estágio", "estagio", "estagiário",
+    "manager", "head of", "director", "vp ", "chief"
+  ],
+
+  "exclude_keywords": [
+    "mentor", "coach", "pairing", "pair programming", "pair-programming",
+    "degree required", "degree is required", "must have a degree",
+    "requires a degree", "bachelor's degree required", "bachelor degree required",
+    "bsc required", "ba/bs required", "college degree required"
+  ],
+
+  "region_keywords": {
+    "worldwide": ["worldwide", "anywhere", "global", "remote - global", "100% remote"],
+    "brazil": ["brazil", "brasil"],
+    "latam": ["latam", "latin america", "south america", "americas", "north and south america"]
+  },
+
+  "region_block_keywords": [
+    "usa only", "us only", "u.s. only", "us-only", "united states only",
+    "us based", "us-based", "must be located in the us", "must reside in the us",
+    "europe only", "eu only", "eu-based", "uk only", "canada only", "india only",
+    "emea only", "us citizens", "us citizen", "must be authorized to work in the us"
+  ],
+
+  "keep_unknown_region": true,
+
+  "sources": {
+    "remoteok": true,
+    "remotive": true,
+    "arbeitnow": true,
+    "weworkremotely": true
+  },
+
+  "max_age_days": 30
+}

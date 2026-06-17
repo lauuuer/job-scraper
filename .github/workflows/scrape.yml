@@ -1,0 +1,42 @@
+name: scrape-jobs
+
+on:
+  schedule:
+    # 09:00 UTC = 06:00 no horário de Brasília. Roda 1x/dia.
+    - cron: "0 9 * * *"
+  workflow_dispatch: {}   # permite rodar manualmente pelo botão "Run workflow"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrape-jobs
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Coletar e filtrar vagas
+        run: python -m scraper.main
+
+      - name: Commit do jobs.json atualizado
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/jobs.json
+          if git diff --staged --quiet; then
+            echo "Sem mudanças nas vagas."
+          else
+            git commit -m "chore: atualiza vagas ($(date -u +%F))"
+            git push
+          fi
