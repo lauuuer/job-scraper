@@ -34,9 +34,14 @@
 
   "region_block_keywords": [
     "usa only", "us only", "u.s. only", "us-only", "united states only",
-    "us based", "us-based", "must be located in the us", "must reside in the us",
-    "europe only", "eu only", "eu-based", "uk only", "canada only", "india only",
-    "emea only", "us citizens", "us citizen", "must be authorized to work in the us"
+    "us-based", "u.s.-based", "u.s. based",
+    "based in the united states", "based in the us", "based in the u.s.",
+    "located in the united states", "reside in the united states", "reside in the us",
+    "united states citizenship", "u.s. citizenship", "us citizenship",
+    "us citizens", "u.s. citizens", "must be a us citizen", "must be a u.s. citizen",
+    "authorized to work in the united states", "must be authorized to work in the us",
+    "europe only", "eu only", "based in europe", "uk only", "united kingdom only",
+    "canada only", "india only", "australia only", "germany only", "emea only"
   ],
 
   "keep_unknown_region": true,

@@ -65,9 +65,10 @@ class JobFilter:
             if p.search(text):
                 return False, f"contém termo proibido: {p.pattern}"
 
-        # Geo-trava ("USA only" etc.) aparece no título ou na localização mesmo
-        # quando a fonte marca a região como "Anywhere". Bloqueia, exceto Brasil.
-        geo = title + " " + (job.get("location") or "").lower()
+        # Geo-trava ("USA only", "must be based in the US", "US citizenship"...)
+        # frequentemente está enterrada na DESCRIÇÃO, mesmo a fonte marcando a
+        # região como "Anywhere". Por isso varremos título + localização + texto.
+        geo = title + " " + (job.get("location") or "").lower() + " " + (job.get("description") or "").lower()
         if any(p.search(geo) for p in self.region_block):
             return False, "vaga geo-travada (não worldwide/brazil)"
 
