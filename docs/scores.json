@@ -673,6 +673,685 @@
       "seniority": 5,
       "domain": 1,
       "note": "AI Cinematic Video Editor — vídeo, fora de escopo (mesma vaga do EverAI já listada)"
+    },
+    "himalayas-https://himalayas.app/companies/tabby/jobs/senior-marketing-analyst-marketing-analytics": {
+      "fit": 2.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 3,
+      "note": "Marketing Analyst (fintech BNPL) - analytics de marketing, nao e dev"
+    },
+    "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-software-engineer-golang-react": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 6,
+      "note": "Full-Stack Go/React (Jahnel, LATAM) - Go+React no seu stack; horario EST"
+    },
+    "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-engineer-next-js-aws": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 7,
+      "note": "Full-Stack Next.js/AWS em plataforma de IA (Jahnel, LATAM) - Next+IA forte"
+    },
+    "himalayas-https://himalayas.app/companies/yuno/jobs/technical-support-analyst": {
+      "fit": 6.5,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 7,
+      "note": "Technical Support Analyst em fintech de pagamentos (Yuno, LATAM) - elegivel por suporte + dominio"
+    },
+    "himalayas-https://himalayas.app/companies/prozenda-hungary-kft/jobs/net-developer": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Senior .NET Developer (Hungria, remoto) - voce faz .NET"
+    },
+    "himalayas-https://himalayas.app/companies/luxury-presence/jobs/sr-data-engineer-latam": {
+      "fit": 4.5,
+      "stack": 4,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Data Engineer (real estate AI) - pipelines de dados, nao e seu core"
+    },
+    "adzuna-5766582074": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 5,
+      "note": "Developer generico (Wiley, Curitiba) - descricao vaga, edtech/publishing"
+    },
+    "adzuna-5767035481": {
+      "fit": 4.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Amazon SDE II (BH) - big tech, escala extrema + provavel diploma, presencial BH"
+    },
+    "adzuna-5767093010": {
+      "fit": 5.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Backend Java/Spring+Go+GCP/K8s (streaming) - Java ok, mas pesado em GCP/K8s"
+    },
+    "adzuna-5767258146": {
+      "fit": 7.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 8,
+      "note": "AI Engineer agentic (CI&T, Sao Paulo) - IA + sua cidade"
+    },
+    "adzuna-5767246149": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 6,
+      "note": "Full-Stack Lead Python cloud-native (Campinas) - lead Python full-stack"
+    },
+    "adzuna-5767034337": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 4,
+      "note": "Developer generico (HCLTech, Acre) - vaga vaga de consultoria"
+    },
+    "adzuna-5767222371": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 4,
+      "note": "Developer generico (Wipro, SP) - descricao padrao de consultoria"
+    },
+    "adzuna-5767058783": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 5,
+      "domain": 7,
+      "note": "Developer (Topaz, fintech, Indaiatuba) - dominio financeiro bom, stack vaga"
+    },
+    "adzuna-5767141742": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Java Senior (Wipro, Curitiba) - voce faz Java"
+    },
+    "adzuna-5767098892": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Platform Engineer (Pitang) - tende a infra"
+    },
+    "adzuna-5766865434": {
+      "fit": 4.5,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 5,
+      "note": "Analista N1 de operacoes/suporte/observabilidade (GFT, SP) - elegivel por suporte"
+    },
+    "adzuna-5765439854": {
+      "fit": 6.5,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 7,
+      "note": "Backend em pricing/order books/matching (trading) - backend + fintech"
+    },
+    "adzuna-5764710709": {
+      "fit": 4.5,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 5,
+      "note": "ServiceNow Developer (SP) - voce tem base de ServiceNow (PS), mas e nicho"
+    },
+    "adzuna-5764710657": {
+      "fit": 3.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Integracao IBM App Connect (ACE) - ESB de nicho, nao e seu stack"
+    },
+    "adzuna-5763536854": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Webflow Developer - no-code, deal-breaker"
+    },
+    "adzuna-5763537451": {
+      "fit": 4.5,
+      "stack": 5,
+      "seniority": 5,
+      "domain": 4,
+      "note": "Full-Stack generico (TCS) - consultoria, descricao padrao"
+    },
+    "adzuna-5763537664": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 3,
+      "note": "Database Reliability Engineer (DBRE) - DBA/infra, nao e seu core"
+    },
+    "adzuna-5763877599": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 3,
+      "note": "IAM Engineer (WEX) - identidade/RBAC/automacao, infra de seguranca"
+    },
+    "adzuna-5762119984": {
+      "fit": 7.0,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Full-Stack Mid React/TS + Java/Spring (PJ, $19-24/h) - match direto"
+    },
+    "adzuna-5762118419": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "HIL Validation Engineer (dSPACE/CAN/Matlab) - hardware, nao e software"
+    },
+    "adzuna-5762118335": {
+      "fit": 4.5,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 5,
+      "note": "Support Engineer (TCS) - elegivel por suporte"
+    },
+    "adzuna-5762118516": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 2,
+      "note": "JR iOS Developer (Swift) - native mobile, deal-breaker"
+    },
+    "adzuna-5762118510": {
+      "fit": 7.0,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Senior Fullstack React/TS/Node/SQL/Python (Coforge) - stack bate bem"
+    },
+    "adzuna-5762118436": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Shopify Developer (Hays, PJ, ingles) - voce faz Shopify"
+    },
+    "adzuna-5762461469": {
+      "fit": 4.0,
+      "stack": 3,
+      "seniority": 4,
+      "domain": 4,
+      "note": "Application Support SAP L1/L2 - suporte, mas SAP-especifico"
+    },
+    "adzuna-5762118451": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 4,
+      "domain": 2,
+      "note": "Automation Support (automacao industrial CLP/IHM) - nao e seu perfil"
+    },
+    "adzuna-5762119085": {
+      "fit": 5.5,
+      "stack": 5,
+      "seniority": 5,
+      "domain": 7,
+      "note": "Dialogflow AI/ML chatbots, NLP, GenAI (Compass UOL) - overlap de IA conversacional"
+    },
+    "adzuna-5762120710": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "Field Service Engineer (baterias BESS) - campo, nao e software"
+    },
+    "adzuna-5762120868": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "ESS Commissioning Engineer (energia) - nao e software"
+    },
+    "adzuna-5762120849": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "SCADA Engineer (Lima, Peru) - automacao de rede eletrica, nao e seu perfil"
+    },
+    "adzuna-5762984655": {
+      "fit": 7.0,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 8,
+      "note": "Backend Java/Python + LLMs + MCP, agentic (Encora) - backend + IA/agents"
+    },
+    "adzuna-5762307540": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Full-Stack Java & Ruby - Java ok, Ruby e caution"
+    },
+    "adzuna-5763001690": {
+      "fit": 5.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Full-Stack em ecossistema descentralizado/Web3 - full-stack ok, dominio blockchain"
+    },
+    "adzuna-5762998258": {
+      "fit": 3.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Quality Engineer (supply chain SaaS) - QA nao e seu core"
+    },
+    "adzuna-5761821468": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "AppSec Java PRESENCIAL SP - seguranca + presencial"
+    },
+    "adzuna-5760047495": {
+      "fit": 8.0,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 9,
+      "note": "Senior GenAI Engineer: RAG, AI agents, automacoes em producao (CI&T) - seu nicho de IA"
+    },
+    "adzuna-5760047777": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Secondary Design Engineer (subestacao HV) - eletrica, nao e software"
+    },
+    "adzuna-5760048653": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Electrical/Electronic Engineer (Halliburton, oleo&gas) - nao e software"
+    },
+    "adzuna-5760679294": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Golang Developer (Sequoia) - voce faz Go"
+    },
+    "adzuna-5758359089": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Full-Stack Node/Java/Python/C#, REST/SQL, OAuth (Kaav, Indaiatuba) - match amplo"
+    },
+    "adzuna-5758358736": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "CAD & Simulation Engineer (aeroespacial) - nao e software"
+    },
+    "adzuna-5758358738": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Product Quality Engineer (Sorocaba, 100% presencial) - manufatura, nao e seu perfil"
+    },
+    "adzuna-5758359561": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "RF Planning & Design Engineer (telecom/5G) - nao e software"
+    },
+    "adzuna-5758359232": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Supplier Development Engineer (solar) - qualidade de fornecedor, nao e seu perfil"
+    },
+    "adzuna-5758358850": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 5,
+      "domain": 4,
+      "note": "UX/UI Designer | Frontend React/Vite/Expo (G30) - parte frontend bate, mas foco UX/UI"
+    },
+    "adzuna-5757772550": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Platform Engineer (AI-native SaaS gov) - infra/plataforma"
+    },
+    "adzuna-5756535327": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Engineer (Acteon, mooring/subsea oleo&gas) - nao e software"
+    },
+    "adzuna-5755289673": {
+      "fit": 8.0,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 9,
+      "note": "AI Engineer: LLM agents, LangChain/LangGraph, Python, producao (Insight Global) - seu nicho"
+    },
+    "adzuna-5755287521": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Electrical Engineer (HV, FairPlay) - nao e software"
+    },
+    "adzuna-5755633001": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Senior Electrical Design Engineer (HV) - nao e software"
+    },
+    "adzuna-5755633328": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "Junior OT & Industrial Networking (relocation Shanghai) - nao e seu perfil"
+    },
+    "adzuna-5755911388": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Senior Tableau Developer - BI, nao e seu stack"
+    },
+    "adzuna-5754859823": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": ".NET Framework/Core + monitoring infra (CSG) - voce faz .NET"
+    },
+    "adzuna-5753411493": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 3,
+      "note": "Systems Engineer (deploy de sistemas de transporte, turnos) - integracao/ops"
+    },
+    "adzuna-5753042152": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Project Engineer (robotica/intralogistica) - nao e software"
+    },
+    "adzuna-5753041558": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 2,
+      "note": "Sales Engineer / Technical Trainer (LG) - vendas/treinamento"
+    },
+    "adzuna-5753635741": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Infrastructure Engineer (inDrive, escala ride-hailing) - infra em escala, deal-breaker"
+    },
+    "adzuna-5751650579": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Fullstack BR (Simera) - full-stack generico bom, APIs/escala"
+    },
+    "adzuna-5752065171": {
+      "fit": 2.0,
+      "stack": 1,
+      "seniority": 7,
+      "domain": 2,
+      "note": "Sales Engineer Sr / pre-vendas (TOTVS) - nao e dev"
+    },
+    "adzuna-5751208891": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "GTM Engineer (RevOps/dados/automacao/IA) - ops semi-tecnico"
+    },
+    "adzuna-5750867466": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Senior DevOps (Azure/K8s/ArgoCD/IaC) - deal-breaker"
+    },
+    "adzuna-5751177018": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Senior Fullstack SaaS (TownSq) - full-stack, US/CA/MX"
+    },
+    "adzuna-5751208896": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 4,
+      "note": "BI Developer (SaaS medicina) - BI/dados, nao e seu core"
+    },
+    "adzuna-5746536004": {
+      "fit": 7.0,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Senior React Native (Sigma, remoto qualquer lugar do BR) - RN/Expo no seu stack"
+    },
+    "adzuna-5745165857": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 8,
+      "note": "Full-Stack Python: AI agents p/ juridico, founding eng (Sofira, SP) - IA+Python+founding+BR"
+    },
+    "adzuna-5745165336": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Senior Fullstack mobile/web automotivo (Stellantis, BH) - full-stack, mas corp/BH"
+    },
+    "adzuna-5744638931": {
+      "fit": 3.0,
+      "stack": 2,
+      "seniority": 4,
+      "domain": 4,
+      "note": "Deskside Support on-site (Mogi das Cruzes) - suporte presencial de hardware"
+    },
+    "adzuna-5744180813": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Electrical Project Engineer (Holanda) - nao e software"
+    },
+    "adzuna-5744097502": {
+      "fit": 3.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 4,
+      "note": "SAP Concur Quality Engineer - SAP/QA, nao e seu core"
+    },
+    "adzuna-5743615421": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Senior Java backend distribuido/cloud-native (Applaudo) - voce faz Java backend"
+    },
+    "adzuna-5742298475": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 7,
+      "domain": 1,
+      "note": "Senior FSRU Operations Engineer (naval/energia) - nao e software"
+    },
+    "adzuna-5742317545": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Lead DevOps (K8s/CI-CD/IaC, SP) - deal-breaker"
+    },
+    "adzuna-5742775916": {
+      "fit": 6.0,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 5,
+      "note": "WordPress Developer (Pavago, LATAM, US hours) - voce faz WordPress"
+    },
+    "adzuna-5741625906": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Sales Engineer (Omicron) - vendas"
+    },
+    "adzuna-5740642839": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Software Developer C#/.NET/TS/SQL Server (Noir, SP hibrido) - match .NET forte"
+    },
+    "adzuna-5740804477": {
+      "fit": 2.5,
+      "stack": 3,
+      "seniority": 6,
+      "domain": 3,
+      "note": "DevOps (AWS/K8s/CI-CD, Pavago) - deal-breaker"
+    },
+    "adzuna-5739680665": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 3,
+      "note": "Client Service Engineer (Sony, broadcast) - suporte de hardware de broadcast"
+    },
+    "adzuna-5739909662": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 3,
+      "note": "Salesforce Marketing Cloud (relocation Portugal) - nao e seu stack + relocation"
+    },
+    "adzuna-5738669139": {
+      "fit": 5.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Technical Support Engineer (BI platform, SQL) - elegivel por suporte + SQL"
+    },
+    "adzuna-5739219018": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 3,
+      "note": "Mid Salesforce Marketing Cloud - nao e seu stack"
+    },
+    "adzuna-5739219312": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Oracle GoldenGate Data Engineer (CDC) - nao e seu stack"
+    },
+    "adzuna-5739154637": {
+      "fit": 3.5,
+      "stack": 5,
+      "seniority": 8,
+      "domain": 3,
+      "note": "Software Engineer Infrastructure (Airbnb) - infra/escala + provavel diploma"
+    },
+    "adzuna-5737509983": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Safety Engineer (Colgate, EHS/incendio) - nao e software"
+    },
+    "adzuna-5737509705": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 7,
+      "domain": 1,
+      "note": "Mechanical & Rotating Equipment Engineer (oleo&gas) - nao e software"
+    },
+    "adzuna-5738068373": {
+      "fit": 4.5,
+      "stack": 5,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Developer Experience Engineer IoT&Cloud (Toradex) - DevEx interessante, mas embarcado"
+    },
+    "adzuna-5737510314": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "Third Engineer / oficial de maquinas (navio) - nao e software"
+    },
+    "adzuna-5738119860": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Senior Data Engineer (Azure Data Factory/ETL) - nao e seu core"
+    },
+    "adzuna-5736319836": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Full-stack (Plexus, SP) - full-stack generico bom"
+    },
+    "adzuna-5736319444": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 7,
+      "domain": 3,
+      "note": "Sr Front End Spotfire Engineer (TCS) - BI, nao e seu stack"
+    },
+    "adzuna-5736319912": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 3,
+      "note": "DataOps Engineer (relocation Portugal) - nao e seu core + relocation"
+    },
+    "adzuna-5735286285": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 8,
+      "note": "Senior Software Engineer TS backend/full-stack, pagamentos/compliance, remote-first (Sur) - TS+fintech"
     }
   }
 }
