@@ -73,9 +73,14 @@ Edite [`config.json`](config.json):
 2. Exponha como variáveis de ambiente (local) ou **GitHub Secrets** (no Actions):
    `ADZUNA_APP_ID` e `ADZUNA_APP_KEY`.
 3. Em `config.json`: troque `"adzuna": false` para `true` e ajuste
-   `adzuna_countries` (ex.: `["br","us"]`), `adzuna_query` e `adzuna_pages`.
+   `adzuna_countries` (ex.: `["br","us"]`), `adzuna_remote_terms` e `adzuna_pages`.
 
 Sem as chaves, a fonte é simplesmente pulada — não quebra o run.
+
+> **Remoto:** a Adzuna não tem flag de "remote" e devolve a descrição truncada.
+> Por isso buscamos pelos termos de `adzuna_remote_terms` via `what_phrase`, que
+> faz o filtro **no servidor da Adzuna** (sobre o texto completo) — assim só vêm
+> vagas remotas. O cargo é filtrado normalmente pelo `include_title_keywords`.
 
 ## Limitações honestas
 

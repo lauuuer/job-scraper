@@ -58,7 +58,7 @@ def collect(config: dict) -> list[dict]:
         if name == "adzuna":
             jobs.extend(fetcher(
                 countries=config.get("adzuna_countries", ["br"]),
-                query=config.get("adzuna_query", "developer engineer"),
+                remote_terms=config.get("adzuna_remote_terms"),
                 pages=config.get("adzuna_pages", 2),
                 max_days_old=config.get("max_age_days", 30),
             ))
