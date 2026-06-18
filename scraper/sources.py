@@ -312,26 +312,19 @@ def fetch_workingnomads() -> list[dict]:
 # Configure ADZUNA_APP_ID / ADZUNA_APP_KEY no ambiente (ou nos GitHub Secrets).
 # Sem chave, a função apenas loga e devolve [] — não quebra o run.
 #
-# IMPORTANTE — remoto: a API da Adzuna NÃO tem flag de "remote" e a descrição
-# que ela devolve vem TRUNCADA, então filtrar remoto no nosso lado é furado.
-# Solução: fazemos o Adzuna filtrar no servidor dele (onde ele vê o texto
-# completo) buscando o termo de remoto via `what_phrase` (frase exata). Assim só
-# voltam vagas remotas; o filtro de TÍTULO do pipeline cuida do cargo.
-#
 # config.json (opcional):
-#   "adzuna_countries": ["br"]                      # códigos ISO (br, us, gb...)
-#   "adzuna_remote_terms": ["remoto","remote","home office"]  # frases de remoto
-#   "adzuna_pages": 2                               # páginas por termo/país (50/pág)
+#   "adzuna_countries": ["br"]          # códigos ISO de país suportados pela Adzuna
+#   "adzuna_query": "developer engineer" # termos buscados (campo what_or)
+#   "adzuna_pages": 2                    # páginas por país (50 resultados/página)
 # --------------------------------------------------------------------------- #
 _ADZUNA_COUNTRY_NAME = {
     "br": "Brasil", "us": "United States", "gb": "United Kingdom", "ca": "Canada",
     "de": "Germany", "fr": "France", "es": "Spain", "it": "Italy", "pt": "Portugal",
     "nl": "Netherlands", "au": "Australia", "mx": "Mexico", "in": "India",
 }
-_ADZUNA_DEFAULT_REMOTE_TERMS = ["remoto", "remote", "home office"]
 
 
-def fetch_adzuna(countries=None, remote_terms=None,
+def fetch_adzuna(countries=None, query: str = "developer engineer",
                  pages: int = 2, max_days_old: int = 30) -> list[dict]:
     app_id = os.environ.get("ADZUNA_APP_ID", "").strip()
     app_key = os.environ.get("ADZUNA_APP_KEY", "").strip()
@@ -340,52 +333,43 @@ def fetch_adzuna(countries=None, remote_terms=None,
         return []
 
     countries = countries or ["br"]
-    remote_terms = remote_terms or _ADZUNA_DEFAULT_REMOTE_TERMS
-    seen: set[str] = set()
     jobs = []
     for country in countries:
         country = country.lower().strip()
         cname = _ADZUNA_COUNTRY_NAME.get(country, country.upper())
-        for term in remote_terms:
-            for page in range(1, pages + 1):
-                try:
-                    data = _get_json(
-                        f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}",
-                        params={
-                            "app_id": app_id,
-                            "app_key": app_key,
-                            "results_per_page": 50,
-                            # what_phrase = frase exata no texto completo (server-side):
-                            # garante que a vaga é de fato remota.
-                            "what_phrase": term,
-                            "max_days_old": max_days_old,
-                            "content-type": "application/json",
-                        },
-                    )
-                except Exception as e:  # noqa: BLE001
-                    _log(f"adzuna {country}/{term} p{page} falhou: {e}")
-                    break
-                results = data.get("results", [])
-                if not results:
-                    break
-                for item in results:
-                    jid = f"adzuna-{item.get('id')}"
-                    if jid in seen:
-                        continue  # mesma vaga pode bater em mais de um termo de remoto
-                    seen.add(jid)
-                    loc = ((item.get("location") or {}).get("display_name") or "").strip()
-                    # anexa país (p/ o classificador de região) + "Remoto" (rastreável)
-                    location = f"{loc}, {cname} (Remoto)" if loc else f"{cname} (Remoto)"
-                    jobs.append({
-                        "id": jid,
-                        "title": (item.get("title") or "").strip(),
-                        "company": ((item.get("company") or {}).get("display_name") or "").strip(),
-                        "location": location,
-                        "url": item.get("redirect_url") or "",
-                        "source": "Adzuna",
-                        "description": strip_html(item.get("description")),
-                        "date": _iso_date(item.get("created")),
-                    })
+        for page in range(1, pages + 1):
+            try:
+                data = _get_json(
+                    f"https://api.adzuna.com/v1/api/jobs/{country}/search/{page}",
+                    params={
+                        "app_id": app_id,
+                        "app_key": app_key,
+                        "results_per_page": 50,
+                        "what_or": query,
+                        "max_days_old": max_days_old,
+                        "content-type": "application/json",
+                    },
+                )
+            except Exception as e:  # noqa: BLE001
+                _log(f"adzuna {country} p{page} falhou: {e}")
+                break
+            results = data.get("results", [])
+            if not results:
+                break
+            for item in results:
+                loc = ((item.get("location") or {}).get("display_name") or "").strip()
+                # anexa o nome do país p/ o classificador de região reconhecer (ex.: "brazil")
+                location = f"{loc}, {cname}" if loc else cname
+                jobs.append({
+                    "id": f"adzuna-{item.get('id')}",
+                    "title": (item.get("title") or "").strip(),
+                    "company": ((item.get("company") or {}).get("display_name") or "").strip(),
+                    "location": location,
+                    "url": item.get("redirect_url") or "",
+                    "source": "Adzuna",
+                    "description": strip_html(item.get("description")),
+                    "date": _iso_date(item.get("created")),
+                })
     _log(f"adzuna: {len(jobs)} vagas")
     return jobs
 

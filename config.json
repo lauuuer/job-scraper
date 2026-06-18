@@ -66,9 +66,9 @@
     "adzuna": true
   },
 
-  "_adzuna": "Para ligar o Adzuna: defina ADZUNA_APP_ID e ADZUNA_APP_KEY no ambiente (ou GitHub Secrets), troque \"adzuna\" para true. A Adzuna não tem flag de remoto, então buscamos pelos termos de remoto abaixo via what_phrase (filtro feito no servidor da Adzuna, sobre o texto completo). O cargo é filtrado pelo include_title_keywords normal.",
+  "_adzuna": "Para ligar o Adzuna: defina ADZUNA_APP_ID e ADZUNA_APP_KEY no ambiente (ou GitHub Secrets), troque \"adzuna\" para true, e ajuste os campos abaixo. Sem chave ele é pulado.",
   "adzuna_countries": ["br"],
-  "adzuna_remote_terms": ["remoto", "remote", "home office", "trabalho remoto"],
+  "adzuna_query": "developer engineer",
   "adzuna_pages": 2,
 
   "_dedup": "Mescla a mesma vaga vinda de fontes diferentes. Mesma empresa + título >= title_similarity, OU descrições >= description_similarity (com descrição >= min_description_chars).",
