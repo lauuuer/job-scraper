@@ -54,7 +54,7 @@
     "jobicy": true,
     "himalayas": true,
     "workingnomads": true,
-    "adzuna": false
+    "adzuna": true
   },
 
   "_adzuna": "Para ligar o Adzuna: defina ADZUNA_APP_ID e ADZUNA_APP_KEY no ambiente (ou GitHub Secrets), troque \"adzuna\" para true, e ajuste os campos abaixo. Sem chave ele é pulado.",
