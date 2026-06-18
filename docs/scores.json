@@ -1,5 +1,5 @@
 {
-  "scored_at": "2026-06-17",
+  "scored_at": "2026-06-18",
   "rubric": "fit 0-10 = holistico; stack/seniority/domain 0-10 por fator",
   "scores": {
     "wwr-https://weworkremotely.com/remote-jobs/revvity-principal-devops-engineer-build-release-and-cloud-automation": {
@@ -1366,6 +1366,41 @@
       "seniority": 6,
       "domain": 4,
       "note": "SDET/QA automation (Seattle WA) - teste nao e seu core + geo US"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/mongoose-product-support-specialist": {
+      "fit": 5.5,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 6,
+      "note": "Product Support de plataforma de IA p/ ensino sup. (Mongoose) - elegivel por suporte + edtech"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/zapiet-merchant-support-specialist-2": {
+      "fit": 5.5,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 6,
+      "note": "Merchant Support de app Shopify (Zapiet) - suporte + voce conhece Shopify"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist": {
+      "fit": 3.0,
+      "stack": 1,
+      "seniority": 4,
+      "domain": 2,
+      "note": "Customer Support / order mgmt de varejo de saunas - atendimento nao-tecnico"
+    },
+    "himalayas-https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 3,
+      "domain": 4,
+      "note": "Junior Data Analyst entry-level (Hire Hangar) - nao e seu core e nivel jr"
+    },
+    "remotive-1919265": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 8,
+      "domain": 6,
+      "note": "Senior Independent Software Developer (A.Team) - marketplace top-tier de dev senior"
     }
   }
 }
