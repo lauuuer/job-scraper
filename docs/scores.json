@@ -1352,6 +1352,20 @@
       "seniority": 8,
       "domain": 8,
       "note": "Senior Software Engineer TS backend/full-stack, pagamentos/compliance, remote-first (Sur) - TS+fintech"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required": {
+      "fit": 5.5,
+      "stack": 5,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Web Developer BigCommerce - plataforma de e-commerce (tipo Shopify/Woo), voce pega bem"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "SDET/QA automation (Seattle WA) - teste nao e seu core + geo US"
     }
   }
 }

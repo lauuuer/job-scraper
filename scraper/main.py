@@ -104,9 +104,15 @@ def main() -> int:
     for jid, prev in previous.items():
         if jid in matched or jid in raw_ids:
             continue
-        if prev.get("first_seen", "0") >= cutoff:
-            prev["is_new"] = False
-            matched[jid] = prev
+        if prev.get("first_seen", "0") < cutoff:
+            continue
+        # Re-aplica os filtros atuais: se o config mudou (ex.: novo exclude),
+        # uma vaga antiga que agora não passa mais é descartada, não ressuscitada.
+        ok, _reason = jf.matches(prev)
+        if not ok:
+            continue
+        prev["is_new"] = False
+        matched[jid] = prev
 
     # Dedup de "mesma vaga em fontes diferentes" (por empresa+título e descrição).
     deduped, removed = dedupe_jobs(list(matched.values()), config)

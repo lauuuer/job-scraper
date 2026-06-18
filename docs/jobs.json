@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T02:12:54+00:00",
-  "count": 193,
-  "new_today": 97,
+  "generated_at": "2026-06-18T02:21:38+00:00",
+  "count": 169,
+  "new_today": 95,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,19 +14,6 @@
   ],
   "jobs": [
     {
-      "id": "himalayas-https://himalayas.app/companies/tabby/jobs/senior-marketing-analyst-marketing-analytics",
-      "title": "Senior Marketing Analyst, Marketing Analytics",
-      "company": "Tabby",
-      "location": "",
-      "url": "https://himalayas.app/companies/tabby/jobs/senior-marketing-analyst-marketing-analytics",
-      "source": "Himalayas",
-      "description": "Tabby creates financial freedom in the way people shop, earn and save by reshaping their relationship with money. Over 20 million users choose Tabby to stay in control of their spending and make the most out of their money. The company’s flagship offering allows shoppers to split their payments online and in-store with no interest or fees. Over 40,000 global brands and small businesses, including Amazon, Noon, IKEA, and SHEIN use Tabby to accelerate growth and gain loyal customers by offering easy and flexible payments online and in stores. Tabby generates over $14 billion in annual transaction volume for its partner brands and is the highest-rated, most-reviewed, largest, and fastest-growing FinTech in the GCC region. Tabby launched in 2019 and has since raised +$1 billion in equity and debt funding from global and regional investors, and now has an implied valuation of $4.5 billion. About the role The Senior Marketing Analyst will work with our marketing team and help us evaluate marketing efficiency and find the best way to acquire new and reactivate existing users. You'll collaborate closely with Analysts, Marketing, and Product teams. What you will be doing Act as an analytical partner to the Head of Marketing and Performance Marketing leads, challenging plans and shaping data-backed channel mix and budget decisions, including evaluation of customer acquisition cost, customer spending forecast, and finding an optimal mix of marketing channels; Own the mobile attribution framework across paid and organic channels, including setup, maintenance and quality control in tools like AppsFlyer, Adjust, etc. Design, run and analyse experiments to measure incrementality, including holdout tests, geo experiments and conversion lift studies, and translate results into clear, actionable recommendations. Generate hypothesis, conduct research and A/B tests, and present your findings clearly and compellingly to highlight the importance of your insights Measure the impact of offline and upper-funnel campaigns (OOH, TV, radio, etc.) on app installs, sign-ups, branded search and other performance metrics using appropriate analytical approaches. Support and monitor existing performance marketing metrics, identify areas for improvement, and develop new metrics that inform decision-making across the organization. Develop data visualizations and reports that are informative and easily understood by business and product teams. Own the necessary data flows in collaboration with the Data Engineering team, from defining requirements to validating data quality. What you will need Minimum of 3 years of work experience as a data/marketing analyst. Deep hands-on experience with mobile attribution tools such as AppsFlyer, Adjust or similar, and troubleshooting. Solid understanding of iOS and Android attribution flows, including SKAN, ATT consent, deferred deep links and in-app event tracking. Proficiency in SQL and relational databases. Proficiency in data visualization tools, particularly Tableau. Proficiency in digital marketing platforms from Meta and Google; Knowledge of Python (Pandas, Numpy, Statsmodels, Matplotlib, etc.) is a plus. Experience in designing and conducting A/B tests is a plus. Experience with LTV forecasting and cohort-based revenue modelling is a strong plus. Strong quantitative skills and a structured approach to problem-solving. Ability to analyze issues, identify root causes, and recommend solutions. Fluent English level Job Benefits Relocation and Employment We offer remote work from anywhere in the world (our schedule is based on Dubai time though) and are happy to work out an individual relocation plan for you. Our employees have the opportunity to choose a country for registration: at the moment those are Armenia, Georgia, Serbia, Poland, Spain. What you can expect We offer flexible working hours and trust you to work enough hours to do your job well, at times that suit you and your team. A working environment that gives you autonomy and responsibility from day one. You should be comfortable with the idea that the quality of your work will influence the shape of your career. Participation in the company’s employee stock options program. We are passionate about creating an inclusive, high-performing workplace that gives people from all backgrounds the support they need to thrive, grow, and meet their goals (whatever they may be). If this sounds exciting to you, we’d love to hear from you! Originally posted on Himalayas",
-      "date": "2026-06-17",
-      "region": "unknown",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
       "id": "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-software-engineer-golang-react",
       "title": "Senior Full-Stack Software Engineer (GoLang/React)",
       "company": "Jahnel Group",
@@ -37,7 +24,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-engineer-next-js-aws",
@@ -50,7 +37,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/yuno/jobs/technical-support-analyst",
@@ -63,7 +50,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/prozenda-hungary-kft/jobs/net-developer",
@@ -76,7 +63,7 @@
       "date": "2026-06-17",
       "region": "unknown",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/luxury-presence/jobs/sr-data-engineer-latam",
@@ -89,7 +76,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5766582074",
@@ -102,7 +89,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767035481",
@@ -115,7 +102,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767093010",
@@ -128,7 +115,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767258146",
@@ -141,7 +128,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767246149",
@@ -154,7 +141,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767034337",
@@ -167,7 +154,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767222371",
@@ -180,7 +167,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767058783",
@@ -193,7 +180,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -210,7 +197,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767098892",
@@ -223,7 +210,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5766865434",
@@ -236,7 +223,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5765439854",
@@ -249,7 +236,7 @@
       "date": "2026-06-16",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5764710709",
@@ -262,7 +249,7 @@
       "date": "2026-06-15",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5764710657",
@@ -275,7 +262,7 @@
       "date": "2026-06-15",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763536854",
@@ -288,7 +275,7 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763537451",
@@ -301,7 +288,7 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763537664",
@@ -314,7 +301,7 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763877599",
@@ -327,7 +314,7 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762119984",
@@ -340,20 +327,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762118419",
-      "title": "HIL Validation Engineer",
-      "company": "Tekshapers",
-      "location": "Betim, Minas Gerais, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118419?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=5846272DD199AF70AA552D95D241671A204C1ECA",
-      "source": "Adzuna",
-      "description": "Job Title – HIL Validation Engineer Job Location – Betim, Brazil Duration – Full time Experience level – 5 Years Mandatory Skills – dSPACE, CAN/LIN, Matlab, CANape Required Skills & Experience: Connect ECUs, sensors, and actuators to LabCar; manage wiring harness and breakout box testing. Perform Hardware-in-the-Loop (HIL) validation for Body domain ECUs using dSPACE HIL systems (PHS/Scalexio). Commission HIL rigs and debug hardware/software integration issues. Develop HIL test specifications, …",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118335",
@@ -366,7 +340,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118516",
@@ -379,7 +353,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118510",
@@ -392,7 +366,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118436",
@@ -405,7 +379,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762461469",
@@ -418,7 +392,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -435,7 +409,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762119085",
@@ -448,46 +422,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762120710",
-      "title": "Field Service Engineer – Brazil",
-      "company": "Contemporary Amperex Technology Co., Limited",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762120710?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=D0F293FC4A3177706E0DE56A4D13D547C9BCB31A",
-      "source": "Adzuna",
-      "description": "Responsibilities : Be responsible for the maintenance and management of BESS area, keep the site in good order, implement various safety technical measures, and organize technical personnel at all levels to carry out preventive maintenance and corrective maintenance. Safety risk assessment, implementation of safety precautions and safety operation of energy storage system. Analyze and summarize the faults in BESS area, and give the optimization scheme and the rectification scheme of batch probl…",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762120868",
-      "title": "ESS Commissioning Engineer - Sao Paulo",
-      "company": "Contemporary Amperex Technology Co., Limited",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762120868?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=C49C3F73434370DFDAECDCD724F28351AF24003C",
-      "source": "Adzuna",
-      "description": "About CATL CATL invites you to continue our legend of green energy! CATL is a World Fortune 300 Company, a global leader who provides premier EV battery and energy storage battery for the world. CATL's EV battery consumption volume has ranked No.1 in the world for seven consecutive years and global energy storage battery shipment has also ranked No.1 for three consecutive years. Our Visio nStrive to be a global premier innovative technology corporation, deliver excellent contribution to green e…",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762120849",
-      "title": "Distribution Network SCADA Engineer - Peru (Lima)",
-      "company": "NARI Brasil Holding Ltda",
-      "location": "Sorocaba, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762120849?se=mORMNrtq8RGJEN9EejDKcQ&utm_medium=api&utm_source=bd0bee3e&v=3CB75F6E17C6E48C6A35AFEDCC302387B75D4B1F",
-      "source": "Adzuna",
-      "description": "Distribution Network SCADA Engineer Main Responsibilities This position is based in Lima, Peru, focusing on providing full-process technical support and external coordination for overseas projects related to distribution automation and SCADA systems. It requires mastering the professional knowledge of distribution automation business and software operation, so as to ensure that NARI technical personnel on site can smoothly advance the overall project progress throughout the entire project. Requ…",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762984655",
@@ -500,7 +435,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762307540",
@@ -513,7 +448,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763001690",
@@ -526,7 +461,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762998258",
@@ -539,7 +474,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5761821468",
@@ -552,7 +487,7 @@
       "date": "2026-06-12",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760047495",
@@ -565,7 +500,7 @@
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760047777",
@@ -578,20 +513,7 @@
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5760048653",
-      "title": "Brazil - RJ - Electrical/Electronic Engineer - Wireline and Perforating",
-      "company": "Halliburton",
-      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5760048653?se=mORMNrtq8RGJEN9EejDKcQ&utm_medium=api&utm_source=bd0bee3e&v=4C9165CC61EA5CE77DB6A3C456AB90D6AEDCBFAC",
-      "source": "Adzuna",
-      "description": "We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry. Job Duties Demonstrates creativity, foresight, and mature engineering judgment in anticipating and solving engineering p…",
-      "date": "2026-06-11",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760679294",
@@ -604,7 +526,7 @@
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758359089",
@@ -617,20 +539,7 @@
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5758358736",
-      "title": "CAD & Simulation Engineer – Aerospace",
-      "company": "Highbrow Technology Inc",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758358736?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=8859ED19B452212CC0803319C52F3DA3271AE6E6",
-      "source": "Adzuna",
-      "description": "Hiring Now | CAD & Simulation Engineer – Aerospace | Remote Contract Opportunity Location: India & Greenlit Countries (Mexico, Bangladesh, Brazil, Colombia, Egypt) Employment Type: Contractor Assignment ⏳ Contract Duration: 8 Weeks Start Date: Immediate About the Role: hiring experienced CAD & Simulation Engineers for an exciting aerospace-focused AI engineering project. We are looking for professionals with deep expertise in aerospace design, CAD engineering, simulation workflows, and stron…",
-      "date": "2026-06-10",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758358738",
@@ -643,33 +552,7 @@
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5758359561",
-      "title": "RF Planning & Design Engineer",
-      "company": "First Point Group",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758359561?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=2EA06D8A0BF699DFE1BE8A9EFA9872E4F53491E2",
-      "source": "Adzuna",
-      "description": "Hiring Now – RF Planning & Design Engineer | Brazil Join a global technology leader that helps some of the world’s largest communications service providers accelerate their digital transformation and 5G evolution. This organization delivers innovative software, network, and cloud solutions that impact millions of users worldwide. You'll have the opportunity to work on cutting-edge telecom projects, collaborate with industry experts, and contribute to next-generation network deployments in a d…",
-      "date": "2026-06-10",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5758359232",
-      "title": "Supplier Development Engineer (SDE)",
-      "company": "Trinasolar",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758359232?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=AD4FB1BD316D2EC159255609DC50D4EDA04FE28C",
-      "source": "Adzuna",
-      "description": "We are looking for a talented and proactive Supplier Development Engineer (SDE) to join our team in Latin America. If you have a passion for the renewable energy industry and experience in ensuring the highest quality standards, this is the opportunity for you! As a key member of our team, you will be responsible for the entire quality lifecycle of our suppliers in the region, from evaluation and qualification to continuous supervision and problem-solving. Main Responsibilities: • Supplier Eval…",
-      "date": "2026-06-10",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758358850",
@@ -682,7 +565,7 @@
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5757772550",
@@ -695,7 +578,7 @@
       "date": "2026-06-09",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5756535327",
@@ -708,7 +591,7 @@
       "date": "2026-06-08",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5755289673",
@@ -721,59 +604,7 @@
       "date": "2026-06-07",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5755287521",
-      "title": "Electrical Engineer",
-      "company": "FairPlay Engineering",
-      "location": "Bahia, Nordeste, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5755287521?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=187E1FE6ED711A7186F14AD3CFEAB85FBBA6905A",
-      "source": "Adzuna",
-      "description": "You have built solid experience in high-voltage engineering and you are ready to take full technical ownership of primary system design on projects that sit at the heart of the energy transition. If working on complex HV infrastructure for a technically leading organisation in Europe interests you, this role is worth your full attention. Company Information Our client is a recognised leader in the design, implementation, and management of high-voltage systems in the Netherlands. With a strong f…",
-      "date": "2026-06-07",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5755633001",
-      "title": "Senior Electrical Design Engineer",
-      "company": "FairPlay Engineering",
-      "location": "Ceará, Nordeste, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5755633001?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=4EDC19E19E9436AA3CE265A0A8E73879FBCAA38B",
-      "source": "Adzuna",
-      "description": "You have built solid experience in secondary systems design for high-voltage substations and you are ready to take a senior technical role on projects that sit at the heart of the energy transition. If designing the protection, control, and monitoring systems that keep critical grid infrastructure running safely and reliably is where you do your best work, this role is worth your full attention. Company Information Our client is a recognised leader in the design, implementation, and management …",
-      "date": "2026-06-07",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5755633328",
-      "title": "Junior OT & Industrial Networking Engineer",
-      "company": "Autech Dynamics",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5755633328?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=2ED81B90B6023106B1FD34C39AD328477D228FA8",
-      "source": "Adzuna",
-      "description": "Shanghai, China (Full Relocation Required) International Travel Required (up to 50%) Company Description Autech Dynamics is a global Industrial Automation & Operational Technology (OT) company specialized in complex industrial environments, brownfield modernization, industrial networking, virtualization, and OT cybersecurity. Operating across Europe, Asia, and the Middle East, Autech Dynamics supports major industrial clients in sectors such as Pulp & Paper, Energy, and Heavy Industry. Our wo…",
-      "date": "2026-06-07",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5755911388",
-      "title": "Senior Tableau Developer ID69195",
-      "company": "AgileEngine",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/details/5755911388?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17 industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. WHY JOIN US If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! ABOUT THE ROLE We are looking for a Senior Tableau Developer to support Tableau S…",
-      "date": "2026-06-07",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5754859823",
@@ -786,7 +617,7 @@
       "date": "2026-06-06",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5753411493",
@@ -799,33 +630,7 @@
       "date": "2026-06-05",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5753042152",
-      "title": "Project Engineer",
-      "company": "Quicktron Robotics",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5753042152?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=8F52560C948D842D3F75A1A7432565D2AD410773",
-      "source": "Adzuna",
-      "description": "About Quicktron: Quicktron’s mobile robot’s technology accelerates innovation in intralogistics and manufacturing automation since 2014. With more than 22,000 mobile robots installed and operational globally, we deliver leading mobile robotics platform and solutions that enable our customers to optimize their logistics and manufacturing operations efficiency across 50 industries. Find out more about us here: www.quicktron.com.cn Role Background： We are looking for energetic and passionate indiv…",
-      "date": "2026-06-05",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5753041558",
-      "title": "Sales Engineer - Technical Trainer",
-      "company": "LG Electronics",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5753041558?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=59F6EE1A19AC1AF3753012624F75A5AF327EE19A",
-      "source": "Adzuna",
-      "description": "At LG, we deliver products and services that make lives better, easier and happier through increased functionality and fun. Put simply, we offer the latest innovations to make “Life Good” – from home appliances, consumer electronics and mobile communications to business innovations in digital signage, air conditioning, solar and LED lighting. As a global leader, we strive for greatness in product leadership, market leadership and people leadership to realize our growth strategies. We strongly b…",
-      "date": "2026-06-05",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5753635741",
@@ -838,7 +643,7 @@
       "date": "2026-06-05",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751650579",
@@ -851,20 +656,7 @@
       "date": "2026-06-04",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5752065171",
-      "title": "[Pré-vendas] Especialista em Engenharia de Vendas Sênior - Sales Engineer",
-      "company": "TOTVS",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5752065171?se=mORMNrtq8RGJEN9EejDKcQ&utm_medium=api&utm_source=bd0bee3e&v=FC438487CDC61F5821D139640A9DD05EB4E51355",
-      "source": "Adzuna",
-      "description": "O profissional será responsável pelo apoio e execução da estratégia “Go to Market” do TOTVS Identity junto aos times comerciais e de canais, bem como a evolução da Receita Recorrente, garantindo o crescimento da “marketshare\" e “take rate” de todo o segmento e plataforma de atuação. O QUE VOCÊ VAI FAZER: Identificar e qualificar leads para que o time de arquitetura seja envolvido apenas em oportunidades com real potencial de compra; Demonstrar ofertas de produtos que atendam aos clientes, em ce…",
-      "date": "2026-06-04",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751208891",
@@ -877,7 +669,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5750867466",
@@ -890,7 +682,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751177018",
@@ -903,7 +695,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751208896",
@@ -916,7 +708,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5746536004",
@@ -929,7 +721,7 @@
       "date": "2026-05-31",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5745165857",
@@ -942,7 +734,7 @@
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5745165336",
@@ -955,7 +747,7 @@
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5744638931",
@@ -968,24 +760,11 @@
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
       "dup_count": 1
-    },
-    {
-      "id": "adzuna-5744180813",
-      "title": "Electrical Project Engineer",
-      "company": "Xelvin",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5744180813?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=75445578E338ED4A53420D784C56C1C2B14D63F3",
-      "source": "Adzuna",
-      "description": "Electrical Engineer – Energy Solutions Location: North Holland (Netherlands) Employment Type: Full-time Contract Type: Long-term (with potential for permanent employment) Relocation support available About the Role: Are you passionate about advanced energy systems and electrical engineering in real-world industrial environments? We are looking for an Electrical Engineer who enjoys working on complex energy solutions where power generation, battery systems, automation, and control technologies c…",
-      "date": "2026-05-28",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
     },
     {
       "id": "adzuna-5744097502",
@@ -998,7 +777,7 @@
       "date": "2026-05-28",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -1015,7 +794,7 @@
       "date": "2026-05-28",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742298475",
@@ -1028,7 +807,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742317545",
@@ -1041,7 +820,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742775916",
@@ -1054,20 +833,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5741625906",
-      "title": "Sales Engineer",
-      "company": "Omicron",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/details/5741625906?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "Description What's it all about? Develop business strategies for a territory of Brazil and/or Application Area Provide support in developing, maintaining, and improving customer and OMICRON relationships. Develop, maintain, and improve customer relationships in OMICRON-designated territory. Establish initial communication with the customer for support and organization of commercial visits. Follow sales activities at market events, such as conferences, user meetings, seminars, and exhibitions. U…",
-      "date": "2026-05-26",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5740642839",
@@ -1080,7 +846,7 @@
       "date": "2026-05-25",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5740804477",
@@ -1093,7 +859,7 @@
       "date": "2026-05-25",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5739680665",
@@ -1106,20 +872,7 @@
       "date": "2026-05-24",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5739909662",
-      "title": "Salesforce Marketing Cloud Developer (Relocation to Portugal)",
-      "company": "Aubay Portugal",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5739909662?se=mORMNrtq8RGJEN9EejDKcQ&utm_medium=api&utm_source=bd0bee3e&v=95EA552568F0A871F52D1665A8F82F137A668C18",
-      "source": "Adzuna",
-      "description": "Your connection with Aubay starts in the following lines: Aubay Portugal is a French multinational company that has been operating in the country since 2007, with offices in Lisbon and Porto. We are a leading technology consultancy with a presence in seven European Union countries, specializing in the management, implementation, development and maintenance of information systems. With more than 150 active partners, we operate in strategic sectors such as banking, insurance, automotive, aviation…",
-      "date": "2026-05-24",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5738669139",
@@ -1132,20 +885,7 @@
       "date": "2026-05-23",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5739219018",
-      "title": "Mid Salesforce Mkt Cloud Developer",
-      "company": "QiBit",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5739219018?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=8C2A4B041BE7F9D54FE8ABE1488772B8DE0591B1",
-      "source": "Adzuna",
-      "description": "Estamos em busca de um Mid Salesforce Marketing Cloud Developer, que irá apoiar na evolução e sustentação de canais digitais com foco em Personalization, automações e integrações com dados. Essa é uma vaga com contratação outsourcing, onde você será contratado pela Qibit e atuará alocado no cliente. Principais responsabilidades: - Evoluir e manter componentes no Personalization; - Desenvolver e dar suporte a implementações (templates/estrutura server-side); - Codificar, testar e implantar soluç…",
-      "date": "2026-05-23",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5739219312",
@@ -1158,7 +898,7 @@
       "date": "2026-05-23",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5739154637",
@@ -1171,33 +911,7 @@
       "date": "2026-05-23",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5737509983",
-      "title": "Safety Engineer",
-      "company": "Colgate-Palmolive",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5737509983?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=C667FA0F2EF5B412714590928010CC1C831791ED",
-      "source": "Adzuna",
-      "description": "Title: Safety Engineer Location: São Paulo, São Paulo Role Summary: The Sr. Safety Engineer is responsible to lead the fire team and ERP plan, in order to maintain the site's fire system according to Colgate Standards and Brazilian Regulation, and also support the EHS program. This role will be pivotal in executing and ensuring compliance with company standards and Brazilian Regulation. Responsibilities: Guarantee the adherence of Loss Prevention program (Colgate Standards and Brazilian Regulat…",
-      "date": "2026-05-22",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5737509705",
-      "title": "Mechanical and Rotating Equipment Engineer (Onshore)",
-      "company": "Airswift",
-      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5737509705?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=41BF030C1396F3B2B444E899DFCEC504493213F7",
-      "source": "Adzuna",
-      "description": "Airswift is seeking a Mechanical and Rotating Equipment Engineer (Onshore) to in Rio de Janeiro, in a permanent position with an Oil and Gas Company. Act as a Technical Authority (Integrity) to evaluate and respond to Management of Change (MOC) and Technical Assistance (TA) requests. Lead Root Cause Failure Analysis (RCFA/RCA) and develop reliability and maintenance strategies for rotating equipment (pumps, compressors, turbines, gearboxes, and dry gas seal systems), ensuring compliance with co…",
-      "date": "2026-05-22",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5738068373",
@@ -1210,7 +924,7 @@
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5737510314",
@@ -1223,7 +937,7 @@
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5738119860",
@@ -1236,7 +950,7 @@
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5736319836",
@@ -1249,20 +963,7 @@
       "date": "2026-05-21",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5736319444",
-      "title": "Sr Front End Spotfire Engineer",
-      "company": "Tata Consultancy Services",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5736319444?se=3nLxNbtq8RG_BMtCFqsKdw&utm_medium=api&utm_source=bd0bee3e&v=5F3D73230E3AA0C4D67A383FF1A8268EAADD3BEF",
-      "source": "Adzuna",
-      "description": "Come to one of the biggest IT Services companies in the world! Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We are looking for a Senior Front End Spotfire Engineer . In this role you will: Design and bu…",
-      "date": "2026-05-21",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5736319912",
@@ -1275,7 +976,7 @@
       "date": "2026-05-21",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5735286285",
@@ -1288,7 +989,7 @@
       "date": "2026-05-20",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -1305,7 +1006,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/runware-staff-devops-engineer",
@@ -1318,7 +1019,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/career-team-enterprises-devops-engineer",
@@ -1331,7 +1032,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt",
@@ -1344,7 +1045,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/vultr-network-devops-engineer-rdma-fabric-automation",
@@ -1357,7 +1058,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
@@ -1370,7 +1071,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
@@ -1383,7 +1084,7 @@
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-engineer-ii",
@@ -1396,7 +1097,7 @@
       "date": "Wed, 03 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/pos-full-stack-javascript-engineer-remote-latam-or-europe",
@@ -1409,7 +1110,7 @@
       "date": "Wed, 03 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
@@ -1422,20 +1123,7 @@
       "date": "Wed, 03 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/math-salesforce-analyst-sr",
-      "title": "Salesforce Analyst Sr",
-      "company": "MATH",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/math-salesforce-analyst-sr",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: BR URL: http://math.group A MATH é um ecossistema de ciência de dados e inteligência artificial dedicado a resolver problemas complexos de negócio. Atuamos ao lado de empresas que precisam transformar grandes volumes de dados em decisões mais claras, rápidas e eficientes. Salesforce Analyst Sr Missão: Executar atividades de desenvolvimento e implementação de soluções de alta complexidade no cliente, através de ferramentas específicas e metodologias ágeis, e responsável pelo levantamento de necessidades de melhorias e na arquitetura do projeto, bem como responsável tecnicamente no desenvolvimento de customizações e suporte ao time em compartilhar experiências e técnicas, visando garantir a satisfação do cliente com as entregas. Atividades: Configuração e Implementação de Soluções: Realizar o desenho de soluções de alta complexidade, atuando na configuração e implementação de soluções standard e apoiando na parametrização de plataformas de CRM, garantindo qualidade nas entregas Roadmap: Colaborar na criação e gestão do roadmap do projeto, monitorando o progresso e garantindo alinhamento estratégico e operacional Governança: Atuar na manutenção da segurança, integridade e aplicação de boas práticas nas plataformas CRM, mitigando riscos e garantindo conformidade com políticas e regulamentações Documentação de Projeto: Produzir e revisar documentações de base de conhecimento, projetos e entregas, garantindo registro estruturado e acessível das decisões técnicas Avaliação de Risco: Realizar avaliações de risco, identificando problemas potenciais e implementando estratégias de mitigação para garantir continuidade e sucesso dos projetos Inovação e Melhoria Contínua: Identificar oportunidades de melhoria em processos e soluções, propondo e implementando iniciativas que aumentem eficiência e eficácia TechSkills: Pacote Office (Excel e PowerPoint) Conhecimento em inglês intermediário Salesforce Certified Administrator Salesforce Certified Advanced Administrator Salesforce Certified Platform App Builder Salesforce Certified Sales Cloud Consultant Salesforce Certified Service Cloud Consultant Salesforce Certified Data Architect Salesforce Certified Application Architect Nossos benefícios: 🍽️ Vale Refeição 🏥 Assistência Médica 🦷 Assistência Odontológica 💙 Seguro de Vida 🩺 StarBem - Psicoterapias e Nutricionista 🤸‍♀️ Ginástica Laboral 🏋️ Wellhub (Gympass) 👶 Auxílio Creche 💵 Creditas 🎓 Parceria com Instituições de Ensino Plano PET Parceria com o SESC 💰 Bonificação por Certificação 🤑 Bonificação por Indicação 👩🏻‍💻 Equipamentos fornecidos pela MATH Nossos Valores: #InnovaMathers #CollabMathers #TrueMathers #HumanMather To apply: https://weworkremotely.com/remote-jobs/math-salesforce-analyst-sr",
-      "date": "Tue, 26 Ma",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/qive-analista-de-crm-pleno-afirmativa-para-pessoas-negras",
@@ -1448,7 +1136,7 @@
       "date": "Tue, 26 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/stellar-ai-senior-software-engineer",
@@ -1461,7 +1149,7 @@
       "date": "Tue, 21 Oc",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/nomad-senior-software-engineer-ii",
@@ -1474,7 +1162,7 @@
       "date": "Tue, 19 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/onthegosystems-senior-ruby-on-rails-developer-2",
@@ -1487,7 +1175,7 @@
       "date": "Tue, 19 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/knowmad-mood-java-devops-senior-pipelines-ci-cd-y-docker",
@@ -1500,7 +1188,7 @@
       "date": "Tue, 16 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/fatturaelettronica-app-full-stack-web-app-developer-saas-mid-senior",
@@ -1513,7 +1201,7 @@
       "date": "Tue, 09 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/insignia-consultancy-solutions-devops-lead",
@@ -1526,7 +1214,7 @@
       "date": "Tue, 02 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/binance-devops-engineer-futures",
@@ -1539,7 +1227,7 @@
       "date": "Tue, 02 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
@@ -1552,7 +1240,7 @@
       "date": "Tue, 02 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false,
+      "is_new": true,
       "also_on": [
         "WorkingNomads"
       ],
@@ -1569,7 +1257,7 @@
       "date": "Thu, 30 Ap",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/thehivecareers-co-web-developer-remote",
@@ -1582,7 +1270,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-devops-engineer-ii",
@@ -1595,7 +1283,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-junior",
@@ -1608,7 +1296,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-flutter-pleno",
@@ -1621,7 +1309,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-frontend-pleno",
@@ -1634,7 +1322,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
@@ -1647,7 +1335,7 @@
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/luxury-presence-staff-software-engineer-ai-website-builder-us-remote",
@@ -1660,7 +1348,7 @@
       "date": "Thu, 21 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-cubos-devops-pessoa-engenheira-de-devops-pleno",
@@ -1673,7 +1361,7 @@
       "date": "Thu, 21 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/radix-profissional-iac-devops",
@@ -1686,7 +1374,33 @@
       "date": "Thu, 21 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "title": "Web Developer (BigCommerce Experience Required)",
+      "company": "Remote VA",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Philippines URL: http://remoteva.ph Description Are you a detail-oriented web developer with experience in BigCommerce? We're looking for a talented and motivated individual to update and maintain our company website. You’ll work closely with our remote team to ensure a smooth, visually appealing, and high-converting online presence. Job Responsibilities: -Maintain and update the existing website on BigCommerce -Implement design and content updates as needed -Troubleshoot bugs and ensure website performance and security -Optimize site for speed, mobile responsiveness, and SEO -Collaborate with other remote team members as needed Requirements Requirements: -Proven experience working with BigCommerce -Strong understanding of HTML, CSS, JavaScript, and responsive web design -Ability to work independently and manage time efficiently -Portfolio showcasing previous work on web development projects, especially BigCommerce-based sites -Excellent communication skills Tools You'll Use: -BigCommerce -Any relevant front-end web development tools Benefits Benefits: -Work from the comfort of your home -Consistent weekday schedule (9 AM – 5 PM EST) -Opportunity to grow within a remote team environment Salary: $700 USD / month Send your CV and portfolio to: 📧 mondilla.jay03@gmail.com To apply: https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "title": "SDET / Automated QA Engineer- Seattle WA",
+      "company": "AHU Technologies",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description The SDET's responsibilities include writing automated tests and focuses on the testability, robustness, and performance of software. As such, an SDET is a test professional with programming skills who can create automation testing tools and frameworks, and add to the ever- growing suite of regression tests, and tests required for promoting from lower to higher environments. To be successful as an SDET, you should have excellent time management and organizational skills as well as effective communication skills. You should have a passion for designing, development, and testing and the ability to upgrade your technical skills within the constantly changing technology sector. Principal Duties and Responsibilities: ? Understanding the flow of code and how it interacts with different components. ? Understanding project documents, customer demands, and product objectives to create and execute test cases. ? Setting up, maintaining, and performing test automation frameworks on multiple application platforms, such as Web, cloud, front-end, and back-end (integration), and building test scenarios and acceptance tests. ? Investigating customer problems referred to you by the technical support team, testing bugs, and creating and managing bug reports. ? Handling technical communications and understanding the customers' systems. ? Working with deployments teams, resolving level issues for systems, coordinating on product design, and offering inputs on the testability of functional elements and product designs. ? Noting all testing actions, you have performed in daily and weekly reports. ? Analysing and disintegrating software systems and coordinating with other teams to enhance the overall design. ? Researching test tools, methodologies, and trends and upgrading existing practices and processes. ? Managing the final quality on production release. This is a remote position. About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-3",
@@ -1699,7 +1413,7 @@
       "date": "Thu, 14 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cortes-23-senior-qa-engineer-2",
@@ -1712,7 +1426,7 @@
       "date": "Thu, 11 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/abstract-full-stack-web-developer-remote-contractor",
@@ -1725,7 +1439,7 @@
       "date": "Thu, 11 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/indigenous-climate-action-request-for-proposals-website-developer",
@@ -1738,7 +1452,7 @@
       "date": "Thu, 11 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ninjaone-localization-web-developer",
@@ -1751,7 +1465,7 @@
       "date": "Thu, 11 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-senior-technical-business-analyst-atlanta-ga",
@@ -1764,7 +1478,7 @@
       "date": "Thu, 11 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/binance-senior-solutions-engineer-api-python-node-js",
@@ -1777,7 +1491,7 @@
       "date": "Thu, 04 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/cubos-tecnologia-banco-de-talentos-pessoa-desenvolvedora-backend-pleno",
@@ -1790,7 +1504,7 @@
       "date": "Thu, 04 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/premiersoft-engenheiro-devops-github-e-ci-cd-remoto",
@@ -1803,7 +1517,7 @@
       "date": "Thu, 04 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/bluematrix-devops-engineer-emea-us-shift",
@@ -1816,7 +1530,7 @@
       "date": "Thu, 04 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/reveleer-full-stack-ai-engineer",
@@ -1829,7 +1543,7 @@
       "date": "Thu, 02 Ap",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/tether-ai-research-engineer",
@@ -1842,7 +1556,7 @@
       "date": "Thu, 02 Ap",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/a-team-senior-independent-ai-engineer-architect",
@@ -1855,7 +1569,7 @@
       "date": "Sun, 16 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
@@ -1868,7 +1582,7 @@
       "date": "Sun, 16 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/speechify-inc-senior-software-engineer-web-1",
@@ -1881,7 +1595,7 @@
       "date": "Sat, 23 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/patrianna-devops-engineer",
@@ -1894,7 +1608,7 @@
       "date": "Sat, 06 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/memora-aps-founding-engineer",
@@ -1907,7 +1621,7 @@
       "date": "Sat, 06 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/comparis-ch-backend-engineer-80-100-f-m-x",
@@ -1920,7 +1634,7 @@
       "date": "Mon, 27 Ap",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/createit-s-c-borkowski-bartosz-fredrych-aleksander-devops-engineer",
@@ -1933,20 +1647,7 @@
       "date": "Mon, 18 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/perforce-senior-sales-engineer-delphix",
-      "title": "Senior Sales Engineer - Delphix",
-      "company": "Perforce",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/perforce-senior-sales-engineer-delphix",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Argentina / Santiago URL: http://perforce.com Perforce is a community of collaborative experts, problem solvers, and possibility seekers who believe work should be both challenging and fun. We are proud to inspire creativity, foster belonging, support collaboration, and encourage wellness. At Perforce, you’ll work with and learn from some of the best and brightest in business. Before you know it, you’ll be in the middle of a rewarding career at a company headed in one direction: upward. With a global footprint spanning more than 80 countries and including over 75% of the Fortune 100, Perforce Software, Inc. is trusted by the world’s leading brands to deliver solutions for the toughest challenges. The best run DevOps teams in the world choose Perforce. Positi on Summary: Perforce Software is seeking to hire an experienced Senior Sales Engineer to join our Delphix team in Argentina or Chile. This role is key to our success in the region. You will be expected to have a positive impact on our customers, partners, and the extended Delphix family. This role will provide a great opportunity to leverage your skills and experience in a highly ambitious and successful company. While Delphix seeks an autonomous and creative Senior Sales Engineer, this individual must also be a team player who can successfully partner with the existing Go-To-Market team. Customer satisfaction and success is imperative for building a long-term subscription licensing business. Responsibilities: Lead and develop technical sales efforts for key accounts. Conduct extensive discovery on business objectives and challenges, use cases, and technical architecture/topology. Position Delphix within the customer’s digital transformation journey to highlight how Delphix helps discover sensitive data and automate data compliance, accelerate software delivery, accelerate the journey to the cloud as well as the adoption of disruptive AI technologies. Customize and conduct presentations, demos, workshops, and proof of concept (POC) trials connecting Delphix capabilities to customer business objectives and business value in a way that demonstrates significant ROI and blocks competitors. Act as the liaison among the customer and Delphix Sales, Engineering, Product Management, Customer Success, Professional Services and Support teams—especially on behalf of the customer. Educate customers on the value proposition Delphix provides, and assist the customer to quantify that value at the technical, project, and LOB level. Collaborate with customers to adopt or improve deployment pipelines, implement best practices in continuous learning for development, enable fast and reliable automated testing, adopt automated release management, and realize continuous integration/delivery. Partner with the Sales and Field Services teams to jointly create a sales strategy to exceed revenue objectives for Delphix and drive additional appetite and grow customer’s use of Delphix. Develop / enhance reusable technical assets to scale presales. Qualifications: Fluency in English and Spanish (verbal & written). Available for 30% travel (primarily regional). Superior listening, communication, and presentation skills. Excellent time management and coordination skills within a matrixed organization. Highly entrepreneurial, with a high level of energy, dedication and an unceasing drive to succeed. Confident with a sense of pragmatism to deliver results regardless of obstacles. High commitment to customer service and customer satisfaction. Strong sense of personal ownership and responsibility in accomplishing the organizational objectives and key results. Professional experience designing and delivering technology solutions (solutions on a cloud platform a plus). 7 years’ experience in the one of the following technology areas: DevOps/CICD/TDM, Cloud, Data Masking & Governance, Data Management or Database Technologies (e.g., Oracle, MS SQL, Postgres, Amazon RDS, change data capture, etc.). 5+ years’ experience in software technology sales, technical consulting, technical solution design, or commensurate experience in a similar role. Extensive experience presenting to executives, IT, business leaders and technology teams. Familiarity with DevOps Tools, Cloud services, TDM tools, or software frameworks (TOGAF, ITIL, etc.) a plus. Experience with source control, testing, continuous integration, and group management DevOps tools such as Puppet, Chef, Docker, Kubernetes, Jenkins, Ansible, Jira, Selenium, etc. a plus. OS administration (Linux, Windows), and networking troubleshooting. AI Fluency: Level 1: Basic AI User (Foundation) - Uses approved AI tools to support daily work, writes basic prompts, and reviews outputs for accuracy while following security, privacy, and Responsible AI guidelines. All employees are expected to demonstrate AI fluency appropriate to their role and level, including responsible use of AI tools, sound judgment, and adherence to company AI governance and security policy standards. Come work with us! Our team members are valued for their contributions, introduced to new opportunities, and rewarded well . Perforce combines the experience and rewards of a start-up with the security of an established and privately held profitable company. If you are passionate about the technology that impacts our day-to-day lives and want to work with talented and dedicated people across the globe, apply today! www.perforce.com Please click here for: EOE & Belonging Statements | Perforce Software We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. To apply: https://weworkremotely.com/remote-jobs/perforce-senior-sales-engineer-delphix",
-      "date": "Mon, 15 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
@@ -1959,7 +1660,7 @@
       "date": "Mon, 15 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
@@ -1972,7 +1673,7 @@
       "date": "Mon, 15 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-3",
@@ -1985,7 +1686,7 @@
       "date": "Mon, 13 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/premiersoft-devops-e-platform-senior-remoto",
@@ -1998,7 +1699,7 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/covent-it-devops-engineer-contract",
@@ -2011,7 +1712,7 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-platform-site-reliability-engineer",
@@ -2024,7 +1725,7 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-gxp-instrument-systems-engineer-norwood-ma",
@@ -2037,20 +1738,7 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-electrical-engineer-tonawanda-ny",
-      "title": "Electrical Engineer - Tonawanda, NY",
-      "company": "AHU Technologies",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-electrical-engineer-tonawanda-ny",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Replies within 24 hours Benefits: 401(k) Dental insurance Health insurance Tuition assistance Vision insurance Position: Electrical Engineer Location: Tonawanda, New York (Buffalo Area, NY) Work Type: On-site Years of Experience: 3–5 years Pay Based on Experience: Yes Job Type: Full-time Position Overview The Electrical Engineer will be responsible for designing electrical schematics and control systems, supporting project execution, and ensuring accurate technical documentation. This role involves collaboration with project teams, shop floor personnel, and field service teams to deliver high-quality engineering solutions in a regulated manufacturing environment. Core Responsibilities Design and develop electrical schematics using AutoCAD Create power cabinet layouts and specify electrical components Design control systems and interface with PLCs Maintain and update electrical design libraries and CAD documentation Generate Bills of Material (BOMs) from electrical drawings Produce customer documentation and validation protocols as required Provide technical support to shop floor and field service teams Ensure compliance with Safety, Health, Environment, and Quality (SHEQ) standards Required Qualifications Bachelor’s degree in Electrical Engineering 3–5 years of experience in electrical design and engineering Proficiency with AutoCAD and electrical design software Experience creating electrical schematics and BOMs Familiarity with industry standards including NEC, IEC, and NEN1010 Ability to work from Process and Instrumentation Diagrams (P&IDs) Preferred Qualifications Experience supporting manufacturing/shop floor and field service teams Strong attention to detail in documentation and design control Ability to manage multiple projects and deadlines effectively Comfortable working within regulated and international standards environments Compensation & Benefits Annual bonus opportunity Medical, dental, vision, life, and disability insurance 401(k) retirement plan Tuition assistance Continuous learning and professional development opportunities This is a remote position. Compensation: $70,000.00 - $95,000.00 per year About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-electrical-engineer-tonawanda-ny",
-      "date": "Mon, 08 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/servicetitan-web-developer",
@@ -2063,7 +1751,7 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/mobena-frontend-engineer",
@@ -2076,7 +1764,7 @@
       "date": "Fri, 16 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/thrill-labs-devops-engineer",
@@ -2089,7 +1777,7 @@
       "date": "Fri, 12 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/vvd-product-engineer",
@@ -2102,7 +1790,7 @@
       "date": "Fri, 12 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/aguru-uk-ltd-senior-full-stack-engineer",
@@ -2115,7 +1803,7 @@
       "date": "Fri, 12 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/level-support-engineer",
@@ -2128,7 +1816,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/varicent-support-engineer-sql-web-applications-remote-mexico-only",
@@ -2141,7 +1829,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-software-development-engineer-in-test-ii-automation",
@@ -2154,7 +1842,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-web-applications-developer-sacramento-ca",
@@ -2167,7 +1855,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d",
@@ -2180,7 +1868,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
@@ -2193,7 +1881,7 @@
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jobicy-146992",
@@ -2206,7 +1894,7 @@
       "date": "2026-06-17",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "himalayas-https://himalayas.app/companies/alternative-payments/jobs/senior-platform-engineer",
@@ -2219,7 +1907,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "himalayas-https://himalayas.app/companies/chainlink-labs/jobs/data-analyst-economics",
@@ -2232,7 +1920,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remoteok-1133506",
@@ -2241,11 +1929,11 @@
       "location": "SÃ£o Paulo, SÃ£o Paulo, SÃ£o Paulo, Brasil",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-administrativo-jr-grupo-ri-happy-1133506",
       "source": "RemoteOK",
-      "description": "Responsabilidades e Atividades ResponsÃ¡vel por executar, acompanhar e apoiar os processos relacionados Ã rotinas administrativas, garantindo qualidade, cumprimento de prazos e aderÃªncia Ã s diretrizes da companhia. Atua no monitoramento de indicadores, elaboraÃ§Ã£o de anÃ¡lises e relatÃ³rios, suporte Ã s Ã¡reas parceiras, identificaÃ§Ã£o de oportunidades de melhoria e contribuiÃ§Ã£o para os resultados do negÃ³cio. Escolaridade Ensino Superior completo ou cursando em Ã¡rea correlata. ExperiÃªncia NecessÃ¡ria MÃ­nimo de 1 ano de experiÃªncia na Ã¡rea. CompetÃªncias Comportamentais Na nossa empresa, o resultado Ã© tÃ£o importante quanto a forma como chegamos atÃ© ele. Por isso, buscamos profissionais que se identifiquem e vivenciem diariamente os nossos valores SUPER. SatisfaÃ§Ã£o em Servir: Aqui, o cliente (interno ou externo) estÃ¡ no centro de tudo. Buscamos pessoas proativas, empÃ¡ticas e que sintam prazer em ajudar, resolver problemas e entregar a melhor experiÃªncia com excelÃªncia e agilidade. Unidos pela DiversÃ£o: Acreditamos que o resultado vem mais rÃ¡pido quando trabalhamos em um ambiente leve, colaborativo e descontraÃ­do. Valorizamos o espÃ­rito de equipe, o respeito mÃºtuo, a celebraÃ§Ã£o das conquistas e a construÃ§Ã£o de um clima positivo. PaixÃ£o pelo NegÃ³cio: Procuramos profissionais com \"atitude de dono\" (accountability), que tenham brilho nos olhos, curiosidade para aprender constantemente e foco em entregar o seu melhor para fazer o negÃ³cio crescer de forma inovadora. EssÃªncia da Simplicidade: Valorizamos o que Ã© prÃ¡tico, direto e focado no que gera valor real. Buscamos pessoas que descompliquem processos, que se comuniquem com clareza e transparÃªncia, e que ajam sempre com humildade. Respeito pelo AmanhÃ£: Agir com Ã©tica, responsabilidade e respeito Ã diversidade Ã© inegociÃ¡vel para nÃ³s. Queremos pessoas comprometidas com o desenvolvimento contÃ­nuo (prÃ³prio e do ecossistema) e com o impacto positivo das suas decisÃµes no futuro da sociedade e do negÃ³cio. CompetÃªncias TÃ©cnicas Conhecimento dos processos de rotinas administrativas; anÃ¡lise de indicadores; elaboraÃ§Ã£o de relatÃ³rios; Pacote Office ou Google Workspace; utilizaÃ§Ã£o de sistemas corporativos; gestÃ£o de processos; capacidade de planejamento, organizaÃ§Ã£o e acompanhamento de resultados. Idiomas NecessÃ¡rios PortuguÃªs fluente Please mention the word **HANDILY** and tag RNTcuMTUxLjEyOC44NQ== when applying to show you read the job post completely (#RNTcuMTUxLjEyOC44NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Responsabilidades e Atividades ResponsÃ¡vel por executar, acompanhar e apoiar os processos relacionados Ã rotinas administrativas, garantindo qualidade, cumprimento de prazos e aderÃªncia Ã s diretrizes da companhia. Atua no monitoramento de indicadores, elaboraÃ§Ã£o de anÃ¡lises e relatÃ³rios, suporte Ã s Ã¡reas parceiras, identificaÃ§Ã£o de oportunidades de melhoria e contribuiÃ§Ã£o para os resultados do negÃ³cio. Escolaridade Ensino Superior completo ou cursando em Ã¡rea correlata. ExperiÃªncia NecessÃ¡ria MÃ­nimo de 1 ano de experiÃªncia na Ã¡rea. CompetÃªncias Comportamentais Na nossa empresa, o resultado Ã© tÃ£o importante quanto a forma como chegamos atÃ© ele. Por isso, buscamos profissionais que se identifiquem e vivenciem diariamente os nossos valores SUPER. SatisfaÃ§Ã£o em Servir: Aqui, o cliente (interno ou externo) estÃ¡ no centro de tudo. Buscamos pessoas proativas, empÃ¡ticas e que sintam prazer em ajudar, resolver problemas e entregar a melhor experiÃªncia com excelÃªncia e agilidade. Unidos pela DiversÃ£o: Acreditamos que o resultado vem mais rÃ¡pido quando trabalhamos em um ambiente leve, colaborativo e descontraÃ­do. Valorizamos o espÃ­rito de equipe, o respeito mÃºtuo, a celebraÃ§Ã£o das conquistas e a construÃ§Ã£o de um clima positivo. PaixÃ£o pelo NegÃ³cio: Procuramos profissionais com \"atitude de dono\" (accountability), que tenham brilho nos olhos, curiosidade para aprender constantemente e foco em entregar o seu melhor para fazer o negÃ³cio crescer de forma inovadora. EssÃªncia da Simplicidade: Valorizamos o que Ã© prÃ¡tico, direto e focado no que gera valor real. Buscamos pessoas que descompliquem processos, que se comuniquem com clareza e transparÃªncia, e que ajam sempre com humildade. Respeito pelo AmanhÃ£: Agir com Ã©tica, responsabilidade e respeito Ã diversidade Ã© inegociÃ¡vel para nÃ³s. Queremos pessoas comprometidas com o desenvolvimento contÃ­nuo (prÃ³prio e do ecossistema) e com o impacto positivo das suas decisÃµes no futuro da sociedade e do negÃ³cio. CompetÃªncias TÃ©cnicas Conhecimento dos processos de rotinas administrativas; anÃ¡lise de indicadores; elaboraÃ§Ã£o de relatÃ³rios; Pacote Office ou Google Workspace; utilizaÃ§Ã£o de sistemas corporativos; gestÃ£o de processos; capacidade de planejamento, organizaÃ§Ã£o e acompanhamento de resultados. Idiomas NecessÃ¡rios PortuguÃªs fluente Please mention the word **HANDILY** and tag RMjgwNDo3ZjA6OTE4MzplNjIxOmRjNjU6YzFmZDozOTIxOjViODk= when applying to show you read the job post completely (#RMjgwNDo3ZjA6OTE4MzplNjIxOmRjNjU6YzFmZDozOTIxOjViODk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-16",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090991",
@@ -2258,7 +1946,7 @@
       "date": "2026-06-16",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jobicy-146875",
@@ -2271,7 +1959,7 @@
       "date": "2026-06-16",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jobicy-146874",
@@ -2284,7 +1972,7 @@
       "date": "2026-06-16",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "jobicy-146873",
@@ -2297,7 +1985,7 @@
       "date": "2026-06-16",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-cloud-devops-engineer-aws-terraform",
@@ -2310,7 +1998,7 @@
       "date": "2026-06-16",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remoteok-1133430",
@@ -2319,11 +2007,11 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-design-engineer-usb-club-1133430",
       "source": "RemoteOK",
-      "description": "We areÂ USB Club Â and we are hiring looking for a multi-faceted design engineer to help us push forward our sneaker net for designers, artists, DJs, writers, musicians, researchers, engineers. Original Job posting link here Responsibilities Ideally you are someone who can both design and code , with an acute understanding of the cultural, design, artist, music and research spaces. Product Roadmapping, Research & Strategy USB Club offers a lot of opportunity and potential, whether that's â the ability to access the network on the web in read-only or entry-level modes for folks who don't yet have their USB; the ability to bring your own USB or bless your existing USB with privileges to access the network and serve as a USB club key; the ability for artists to sell bespoke USBs with their own custom content, reaching their loyalists and superfans, and building back-channel secret networks to share their in-progress and impromptu work; or growing the platform more into a cloud backup system for DJs and touring musicians to ensure that their work is well preserved; or building integrations with are.na and other knowledge graph platforms so that files saved on USB can be accessible everywhere and vice versa; We see the product development and iteration of the next chapter of USB Club as one of the more exciting and expansive parts of this role. We have some opinions about where to start but we expect the right person in this role to be someone who can build upon our vision and help realize their own ideas to the highest degree. Product & Web Design USB Club Â ships a MacOS desktop app & iOS app that you can access when you own one of our USBs. You use the desktop app to share files and collect files from other people, both onto your USB and more generally on the network. You can think of it kinda like Limewire or a torrenting platform of the early 00âs. Something that happens behind the scenes, something where culture moves silently - if you know, you know. Engineering Our desktop app is an Electron app, our iOS app is a true native app. Our website is in Vue (although weâll likely move to Next.js soon), and our API is in Typescript on PostgresQL. We have some dashboards in Retool, and we integrate with Typeform & Airtable. While weâll have the support of Sanctuary Computer when necessary, weâre hoping this individual can hold their own in the code, and confidently ship production-grade features without much hand holding. Social, Posters, Campaigns & Messaging A big part of USB Club is the posters, campaigns, and general messaging strategies that we put onto the internet. A big part of what we do is to build culture around the network. Not only should we be thinking about the product as something that can be improved and more accessible and more utilitarian but also as something where culture happens behind the scenes. Time & Compensation Compensation for this role will be on an hourly basis (rates discussed via email, pending seniority and ability). The hourly rate here isÂ $40 - $75/hr , For now we expect that this isÂ not a full-time role , although it will likely grow to in that direction. We expect that over the next 2 - 3 months a commitment of around 20 - 25 hours a week would suffice. Apply now We see this role as a good starter project for starting to join garden3d, and work more closely withÂ XXIX Â andÂ Sanctuary Computer Â our client services business, across all of our client projects. USB Club is an internal and cultural project so it's a really good place to get started working together, but weâd love to frame this as the start to a longer and more involved relationship, if thatâs of interest! If youâre interested in this role or others, kindly applyÂ and select â USB Club Design Engineer â (among other roles you might be interested in!) Kindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process. Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! Please mention the word **TOGETHERNESS** and tag RNTcuMTUxLjEyOC44NQ== when applying to show you read the job post completely (#RNTcuMTUxLjEyOC44NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "We areÂ USB Club Â and we are hiring looking for a multi-faceted design engineer to help us push forward our sneaker net for designers, artists, DJs, writers, musicians, researchers, engineers. Original Job posting link here Responsibilities Ideally you are someone who can both design and code , with an acute understanding of the cultural, design, artist, music and research spaces. Product Roadmapping, Research & Strategy USB Club offers a lot of opportunity and potential, whether that's â the ability to access the network on the web in read-only or entry-level modes for folks who don't yet have their USB; the ability to bring your own USB or bless your existing USB with privileges to access the network and serve as a USB club key; the ability for artists to sell bespoke USBs with their own custom content, reaching their loyalists and superfans, and building back-channel secret networks to share their in-progress and impromptu work; or growing the platform more into a cloud backup system for DJs and touring musicians to ensure that their work is well preserved; or building integrations with are.na and other knowledge graph platforms so that files saved on USB can be accessible everywhere and vice versa; We see the product development and iteration of the next chapter of USB Club as one of the more exciting and expansive parts of this role. We have some opinions about where to start but we expect the right person in this role to be someone who can build upon our vision and help realize their own ideas to the highest degree. Product & Web Design USB Club Â ships a MacOS desktop app & iOS app that you can access when you own one of our USBs. You use the desktop app to share files and collect files from other people, both onto your USB and more generally on the network. You can think of it kinda like Limewire or a torrenting platform of the early 00âs. Something that happens behind the scenes, something where culture moves silently - if you know, you know. Engineering Our desktop app is an Electron app, our iOS app is a true native app. Our website is in Vue (although weâll likely move to Next.js soon), and our API is in Typescript on PostgresQL. We have some dashboards in Retool, and we integrate with Typeform & Airtable. While weâll have the support of Sanctuary Computer when necessary, weâre hoping this individual can hold their own in the code, and confidently ship production-grade features without much hand holding. Social, Posters, Campaigns & Messaging A big part of USB Club is the posters, campaigns, and general messaging strategies that we put onto the internet. A big part of what we do is to build culture around the network. Not only should we be thinking about the product as something that can be improved and more accessible and more utilitarian but also as something where culture happens behind the scenes. Time & Compensation Compensation for this role will be on an hourly basis (rates discussed via email, pending seniority and ability). The hourly rate here isÂ $40 - $75/hr , For now we expect that this isÂ not a full-time role , although it will likely grow to in that direction. We expect that over the next 2 - 3 months a commitment of around 20 - 25 hours a week would suffice. Apply now We see this role as a good starter project for starting to join garden3d, and work more closely withÂ XXIX Â andÂ Sanctuary Computer Â our client services business, across all of our client projects. USB Club is an internal and cultural project so it's a really good place to get started working together, but weâd love to frame this as the start to a longer and more involved relationship, if thatâs of interest! If youâre interested in this role or others, kindly applyÂ and select â USB Club Design Engineer â (among other roles you might be interested in!) Kindly submit a complete and thoughtful application, including relevant links that help verify your work experience and identity. Applications with missing or insufficient information will not move forward in the review process. Our team carefully reviews every complete submission, and we truly appreciate the time and effort you put into applying! Please mention the word **TOGETHERNESS** and tag RMjgwNDo3ZjA6OTE4MzplNjIxOmRjNjU6YzFmZDozOTIxOjViODk= when applying to show you read the job post completely (#RMjgwNDo3ZjA6OTE4MzplNjIxOmRjNjU6YzFmZDozOTIxOjViODk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-15",
       "region": "unknown",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1663269/",
@@ -2336,7 +2024,7 @@
       "date": "2026-06-12",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090982",
@@ -2349,7 +2037,7 @@
       "date": "2026-06-11",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1658647/",
@@ -2362,7 +2050,7 @@
       "date": "2026-06-11",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1656108/",
@@ -2375,7 +2063,7 @@
       "date": "2026-06-10",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090910",
@@ -2388,7 +2076,7 @@
       "date": "2026-06-02",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090911",
@@ -2401,7 +2089,7 @@
       "date": "2026-06-02",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090909",
@@ -2414,7 +2102,7 @@
       "date": "2026-06-02",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090912",
@@ -2427,7 +2115,7 @@
       "date": "2026-06-02",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090913",
@@ -2440,7 +2128,7 @@
       "date": "2026-06-02",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090899",
@@ -2453,7 +2141,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090900",
@@ -2466,7 +2154,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090901",
@@ -2479,7 +2167,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1630232/",
@@ -2492,7 +2180,7 @@
       "date": "2026-05-27",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090902",
@@ -2505,7 +2193,7 @@
       "date": "2026-05-26",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090890",
@@ -2518,7 +2206,7 @@
       "date": "2026-05-21",
       "region": "brazil",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "remotive-2090887",
@@ -2531,7 +2219,7 @@
       "date": "2026-05-19",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1612686/",
@@ -2544,7 +2232,7 @@
       "date": "2026-05-19",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": true
     }
   ]
 }

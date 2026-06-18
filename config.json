@@ -16,7 +16,13 @@
 
   "exclude_title_keywords": [
     "intern", "internship", "trainee", "estágio", "estagio", "estagiário",
-    "manager", "head of", "director", "vp ", "chief"
+    "manager", "head of", "director", "vp ", "chief",
+
+    "electrical", "mechanical", "civil", "hardware", "industrial", "marine",
+    "field service", "commissioning", "scada", "validation engineer",
+    "rf planning", "hil", "cad ", "supplier", "project engineer",
+    "safety engineer", "sales engineer", "pre-vendas", "pré-vendas",
+    "salesforce", "tableau", "spotfire", "marketing"
   ],
 
   "exclude_keywords": [
