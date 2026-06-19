@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T12:25:29+00:00",
-  "count": 180,
-  "new_today": 85,
+  "generated_at": "2026-06-19T12:45:21+00:00",
+  "count": 208,
+  "new_today": 28,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,378 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/aura-devops-engineer",
+      "title": "DevOps Engineer",
+      "company": "Aura",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/aura-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote Poland URL: http://aura.com Aura is on a mission to create a safer internet. In a world where our lives are increasingly online, Aura's category-defining suite of intelligent digital safety products help millions of customers protect themselves against digital threats, and that number is growing rapidly. This is an exciting phase at Aura, and our team of over 400 people worldwide is guided by a leadership slate that's successfully grown startups into multi-billion dollar organizations. Come build with us! DevOps Engineer About the Role: We are looking for a DevOps engineer with a passion for infrastructure as code. We create tools used by all of Aura and we take pride in building at a massive scale. We help with every aspect of the software development lifecycle within Aura, and are thought leaders guiding teams to a consistent and stable future. Day to Day: Create tools for use by all of Aura in multiple languages and paradigms. EG Serverless / Containers. Doesn’t mean you have to have experience with all of these, but a willingness to learn, and a willingness to dive in Investigate better ways to enable teams to deploy and manage networks and product deployments Assist with deployments using Terraform and GH Actions Debug cloud issues when development teams need assistance Offer design assistance for teams trying new stuff. Help offer vision and strategic optimization to ensure we move forward quickly, and securely What you bring to the table: 3 - 5 years of experience Passion for cloud computing and a helpful and curious attitude Experience writing Infrastructure as code Experience with any programming language An eye for detail A willingness to engage with multiple teams to solve problems Ownership It would be great if you also had: Experience with Serverless or Containerized Deployments Logging and Monitoring strategies at scale Especially Cloudwatch and Grafana Experience with Python or Typescript Experience with a data lake or large data ETL infrastructure Experience optimizing costs in cloud Aura is proud to be an equal employment workplace. All qualified applicants will be considered for employment without regard to, and will not be discriminated against based on race, color, ancestry, national origin, religion, age, sex, gender, marital status, sexual orientation, gender identity, disability status, veteran status, or any protected category. Beyond equal employment opportunity, Aura is committed to being an inclusive community where all feel welcome. Aura is dedicated to providing an accessible environment for all candidates during the application process and for employees during their employment. If you need accessibility assistance and/or a reasonable accommodation due to a disability, please let your Talent Acquisition Partner know. Important privacy information for United States based job applicants can be found here . To apply: https://weworkremotely.com/remote-jobs/aura-devops-engineer",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
+      "title": "DevOps Engineer",
+      "company": "AssureSoft",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: LATAM URL: http://assuresoft.com The key to our success is simple; we deliver the highest quality, on time, with passion and commitment, and live every day by a set of great values. We've built a company that fosters long-term careers in an environment of continuous learning, with cutting-edge benefits, tools, and resources. In addition, certifications that endorse our company as a great place to work. Responsibilities Support cloud infrastructure initiatives with AWS as the primary platform. Work across multi-cloud environments, including GCP as a secondary priority. Support Kubernetes-based infrastructure and deployment workflows. Maintain and contribute to Infrastructure as Code practices. Assist with CI/CD and deployment support using tools such as Harness and Argo CD. Support customer technical onboarding and integrations related to data ingestion pipelines. Collaborate with internal teams to improve deployment workflows and internal environments. Share ideas, raise concerns, and contribute solutions within an open team culture. Requirements Strong hands-on AWS expertise. Comfort working with or learning GCP as a second-priority cloud platform. Good Kubernetes knowledge. Experience with Infrastructure as Code. Experience supporting CI/CD and deployment workflows. Familiarity with tools such as Harness and Argo CD. Ability to support customer integrations and data ingestion pipeline setup. Ability to work autonomously in an empowered, fast-moving team environment. Nice to Have Exposure to OCI. #LI-REMOTE About us AssureSoft is a multinational software development and information technology company providing strategic consulting, technology services, and outsourcing business processes. We work to innovate and create quality software with motivated, passionate, and qualified teams that develop in an environment of professional, stable growth and continuous learning. Inclusive Opportunities for Every Talent. At AssureSoft, we believe that true innovation is born from diversity—of ideas, experiences, and perspectives. That’s why our hiring practices are inclusive and reflect a firm commitment to equity and equal opportunity. Here, every person—regardless of origin, gender, orientation, or beliefs—finds a space to grow, contribute, and be valued not only for their talent, but also for who they are. What sets us apart Great Place To Work certification. A company with more than 15 years of experience. Work with world-class clients and long-term projects. English scholarships for an external institute. English classes with company teachers. State-of-the-art tools and resources. Certifications for your professional growth. Recreation and leisure activities. Compliance with the regulations and labor rights of your region. Retention of your personal information: AssureSoft will retain your personal information for as long as necessary to fulfill the purposes for which it was collected or as necessary to comply with our legal obligations, resolve disputes, and maintain appropriate business records. Once the purpose has been fulfilled, your personal information will be retained and blocked due to the possibility of legal and governmental requirements, and until the status of limitations has run out. Important Notice Regarding Personal Information : If you do not want your personal and professional information to be retained in our database, please send your request for data removal to info@assuresoft.com . To apply: https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "jobicy-144179",
+      "title": "Golang Engineer",
+      "company": "Plain Concepts",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/144179-golang-engineer",
+      "source": "Jobicy",
+      "description": "We are seeking a Senior Golang Engineer with strong expertise in event-driven architectures, distributed systems, and modern AI-assisted software engineering practices. The ideal candidate has deep hands-on experience with Apache Kafka, high-performance backend engineering, and the ability to design resilient microservices at scale, while leveraging modern AI-powered development tools to improve productivity, code quality, and engineering efficiency. You will join a highly technical engineering team working with modern practices such as microservices, observability, CI/CD, clean architecture, cloud-native development, and AI-assisted coding workflows. Responsibilities Develop, maintain, and optimize high-performance backend services in Go (Golang). Build and improve event pipelines and messaging systems using Kafka (producers, consumers, partitions, consumer groups). Design APIs (REST/gRPC) and integrations across multiple backend microservices. Implement unit, integration, and performance tests. Collaborate closely with DevOps, Data Engineering, QA, and AI-focused teams. Contribute to architectural decisions regarding schemas, event versioning, idempotency, streaming patterns, and backpressure handling. Leverage AI-assisted development tools (e.g., GitHub Copilot, Cursor, ChatGPT, Claude, or similar) to improve development productivity, debugging, testing, documentation, and code quality. Contribute to the adoption of AI-driven engineering practices and developer productivity initiatives across the software development lifecycle. Design backend services and integrations capable of supporting AI/LLM-powered systems, intelligent automation workflows, and scalable data processing solutions. Evaluate and implement emerging AI engineering tools and frameworks to improve software delivery efficiency and engineering standards. Requirements Advanced proficiency in Golang (5+ years), with deep understanding of concurrency, memory management, profiling, benchmarking, and idiomatic Go patterns. Expert-level hands-on experience with Kafka. Solid foundation in distributed systems principles: consistency, replication, fault tolerance, event-driven architecture, resiliency patterns, and backpressure handling. Strong experience with microservices at scale, API design (REST/gRPC), and service-to-service communication. Proficiency with Docker, CI/CD workflows, and automated testing (unit, integration, load). Experience deploying and operating systems in modern cloud platforms (AWS/GCP/Azure), including monitoring, alerting, and autoscaling. Practical experience using AI-powered development tools and modern AI-assisted engineering workflows in professional environments. Strong understanding of software engineering fundamentals while effectively leveraging AI-enhanced development practices. Experience integrating APIs, automation workflows, or AI-powered services into distributed architectures is considered a plus. Strong communication skills and proficiency in English. All candidates must be based in Brazil Open to work in a B2B model",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277531",
+      "title": "Automation Engineer",
+      "company": "Insight Global",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277531?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4EDDBE50157944E076C81E4AE2E941DF861EA628",
+      "source": "Adzuna",
+      "description": "This is a fully remote position, PJ model, salary range 20-30/hr USD. 1 Jr/mid level and 1 senior opening. Required Skills & Experience Strong programming experience in Java Hands-on experience with Appium for mobile automation (iOS and/or Android) Hands-on experience with Selenium for web automation Proven experience building and supporting test automation frameworks Strong experience developing and executing automated test scripts Hands-on experience working with Generative AI (GenAI) to: Dev…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277533",
+      "title": "System Engineer",
+      "company": "Insight Global",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277533?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=CFE8FB6B4DF41DA999D3ACC2D3A5A883EE2FA4C4",
+      "source": "Adzuna",
+      "description": "Systems Engineer II *Please Read* Duration: This is expected to be a 12 month engagement with extensions Location: Remote Notice Period: Cannot be longer than 2 weeks Pay: 17.40/hr to 21.13/hr USD or $2,784 to $3,380 USD per month Systems Engineer II Must Haves: • 5 plus years managing core infrastructure across Windows Server and Linux with strong Microsoft focus • Experience with VMware vSphere, virtual environments, and remote desktop delivery using RDS and RemoteApp • Strong PowerShell scri…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277232",
+      "title": "Salesfroce & AWS Developer",
+      "company": "Insight Global",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277232?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=816B36E8BE9A4D62E741B407EA4DE132BB5E8A14",
+      "source": "Adzuna",
+      "description": "Senior Salesforce & AWS Developer Remote : Must sit in Brazil Pay: $25-$28/hr Required Skills & Experience -5–7 years of hands-on experience as a Salesforce Developer -Salesforce development experience including Apex, Lightning Web Components (LWC), Visualforce, Flows, Lightning Applications, SOQL, SOSL, Aura Framework -Experience with Salesforce custom objects, validation rules, workflows, reports, dashboards, analytic snapshots -Salesforce technical experience including Apex classes, controll…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276366",
+      "title": "Kotlin Developer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276366?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4E56AD6C02D67277CD8F174F38F9DC40A5F9BCFE",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for Kotlin developers to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about pr…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276363",
+      "title": "TypeScript Developer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "Manaus, Amazonas, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276363?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=D274378BF94F60B4040E2986AC1BDEFFA43F6311",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Typescript Developer to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about program…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "adzuna-5769277700",
+      "title": "Senior Laravel Developer",
+      "company": "Bask Labs",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277700?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=55001085B3A2FA75C1CD435AE90C310AC5DCDDAA",
+      "source": "Adzuna",
+      "description": "Role Description As a Senior Laravel Developer at Bask Labs, you will design, develop, and maintain robust backend services and APIs for healthcare applications using Laravel and related PHP ecosystems. You will collaborate with product managers, designers, and other engineers to translate business and clinical requirements into secure, performant, and scalable solutions. Day-to-day responsibilities include architecting application components, implementing new features, refactoring legacy code,…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276223",
+      "title": "Senior Python Developer",
+      "company": "INDI Staffing Services",
+      "location": "Guarulhos, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276223?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=D0C9166EECE92317E9760828E0A6DA15EEBC1B56",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: Step into the world of advanced software engineering as our Senior Python Developer, where you'll architect sophisticated solutions for global clients. This isn't just about coding, it's about leading technical initiatives, ment…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 2
+    },
+    {
+      "id": "adzuna-5769276282",
+      "title": "Senior DevOps / Infrastructure Engineer",
+      "company": "Sphise",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276282?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=5464FA21EC56DB03431FFF53AD1850F1EEDE2CAF",
+      "source": "Adzuna",
+      "description": "Senior DevOps / Infrastructure Engineer Location: Brazil (Remote) Role Overview: Sphise is looking for an experienced DevOps Engineer with extensive AWS and IaaC experience. This is the first role in our new DevOps group, and this person will be responsible for transitioning all of the current processes from Development to DevOps. The ideal candidate will have strong knowledge of supporting production PHP/JS/MySQL environments, ideally environments that utilize Laravel. You will establish, main…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277381",
+      "title": "Senior Analytics Engineer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Campinas, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277381?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=98147013AD0B3C1E5C0BCBC51E4E736F76965E8B",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for a Senior Analytics Engineer to join our Analyst team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276365",
+      "title": "Angular Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Manaus, Amazonas, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276365?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4462523FF252A0060FEE31C9632EDEDBB0CA65DC",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passiona…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277762",
+      "title": "Android Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277762?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=1B127095A44EED4909DA1EAB7FAE9831D0D51BCD",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Android Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players p…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277278",
+      "title": "Site Reliability Engineer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277278?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=EB94B92C4E70F816D43CC2CB6E6E76A03A7FC253",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for a Site Reliability Engineer to build and maintain highly reliable, scalable, and secure OpenShift/Kubernetes clusters. We will need you to approach the problem of building and maintaining production systems fr…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276290",
+      "title": "AI Engineer (PJ | Híbrido)",
+      "company": "Hays",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276290?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=FD6CCF2C7CC38C53EE3F0E89B4FECFF0B6728932",
+      "source": "Adzuna",
+      "description": "Contratação: PJ Modalidade: Híbrido - apenas 1 dia presencial - referência metrô Mackenzie/Consolação Missão Posição de execução técnica dentro do squad de IA. Enquanto o Arquiteto define o que e como, e o Facilitador habilita as áreas, você produz os artefatos. Possuímos um backlog ativo de mais de 100 iniciativas, com ciclos curtos e alto volume de contextos diferentes. Responsabilidades •Construir agentes de IA, automações com Copilot Studio, integrações via API e pipelines de dados para ini…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277292",
+      "title": "Senior Front End Engineer",
+      "company": "Ranqia",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277292?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=DB1FAD4A3EECD519C0F1122C2431E3666C4702CB",
+      "source": "Adzuna",
+      "description": "O contexto A forma como as pessoas buscam informação está sendo reescrita. Metade dos consumidores já passa por uma IA antes de comprar, e as marcas que aparecem nas respostas do ChatGPT, Gemini e Perplexity estão tomando o lugar das que dominavam o Google. A RanqIA é a infraestrutura que mede isso, explica o porquê, e ajuda marcas a mudar o resultado. É um mercado sendo inventado agora, não existe playbook, e parte do seu trabalho é ajudar a escrevê-lo. O papel Você vai ser dono do produto que…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276269",
+      "title": "Junior .NET Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276269?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=73E1ADA7E3B702BCD0144CEDAA29E0AED80E5024",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We seek a proficient Junior .NET Developer capable of maintaining high standards of technical quality and innovation, dedicated to continuous improvement, and committed to assisting clients worldwide. Success in this role requir…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769276303",
+      "title": "Work From Home Frontend Developer",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276303?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=FEBC02404058A9E897826C92B27F01DEF37E0DF4",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for Frontend Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team …",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5769277518",
+      "title": "Backend Developer – Senior (Java | Node.js)",
+      "company": "OSF Digital",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277518?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=5E3321942A3A2C778B85080684B3B05532686186",
+      "source": "Adzuna",
+      "description": "Vaga: Desenvolvedor(a) Backend Java / Node.js Estamos em busca de um(a) Desenvolvedor(a) Backend com experiência sólida em Java e Node.js , com foco em arquitetura moderna, boas práticas de engenharia de software e atuação em ambientes corporativos complexos. Responsabilidades Desenvolver e manter APIs e serviços backend escaláveis Atuar com arquitetura baseada em microsserviços e Event-Driven Participar de definições arquiteturais e code reviews Implementar boas práticas de segurança e observ…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "remoteok-1133583",
+      "title": "Analista de Sucesso do Cliente Pleno",
+      "company": "ZENVIA",
+      "location": "Brasil,",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-sucesso-do-cliente-pleno-zenvia-1133583",
+      "source": "RemoteOK",
+      "description": "Anunciada 10:37:36. Estamos em busca de uma pessoa Analista de Sucesso do Cliente Pleno para se juntar Ã nossa equipeâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **SEAMLESS** and tag RMTMuODMuMTYxLjg2 when applying to show you read the job post completely (#RMTMuODMuMTYxLjg2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5768013180",
+      "title": "Transmission Engineer",
+      "company": "Brightsmith",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5768013180?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=0BF63D56E7A3D6E012FC6B4171333BE633C02F5E",
+      "source": "Adzuna",
+      "description": "Transmission Line Engineer - LATAM Our client is seeking a Transmission Line Engineer to join their growing engineering team. This role will be responsible for supporting the analysis, design, and execution of overhead transmission line projects for utility and energy clients. The ideal candidate will have experience in transmission line design, power systems, and engineering project delivery, with the ability to manage multiple priorities in a fast-paced environment. This is an excellent oppor…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5768014047",
+      "title": "Onsite support Engineer",
+      "company": "N Consulting Global",
+      "location": "Camacan, Bahia, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5768014047?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=59B788E0E2E769450CE286038C10FCC6CC9B4ED9",
+      "source": "Adzuna",
+      "description": "Job Summary: We are seeking a skilled and customer-focused Desktop Support Engineer to provide technical support and assistance to end-users regarding computer systems, hardware, and software issues. The ideal candidate will have a strong understanding of IT infrastructure and a passion for problem-solving. Key Responsibilities: Provide first- and second-level support to end-users for desktop/laptop hardware, software, and peripheral issues. Install, configure, and maintain operating systems, s…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5768014001",
+      "title": "Technical Support Engineer",
+      "company": "ThetaData",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5768014001?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=A82686C4895B57404E6BF09B7ED1E39F319ADE44",
+      "source": "Adzuna",
+      "description": "About Theta Data Theta Data is a pioneering data company specializing in low-latency APIs for delivering high-speed options and stocks data. Our mission is to empower users with real-time, actionable information to make well-informed decisions in dynamic financial markets. With a focus on speed and broad data coverage, Theta Data stands at the forefront of the options data industry by providing essential tools and insights. We are dedicated to equipping professionals with the resources needed t…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5768536303",
+      "title": "Developer",
+      "company": "Halliburton",
+      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/details/5768536303?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "We are looking for the right people — people who want to innovate, achieve, grow and lead. We attract and retain the best talent by investing in our employees and empowering them to develop themselves and their careers. Experience the challenges, rewards and opportunity of working for one of the world’s largest providers of products and services to the global energy industry. API Developer: As a Senior API Developer at Halliburton, you will play a crucial role in advancing our technological cap…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5768398961",
+      "title": "Senior Java Developer",
+      "company": "Ciklum",
+      "location": "Rondônia, Norte, Brasil",
+      "url": "https://www.adzuna.com.br/details/5768398961?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Ciklum is looking for a Senior Java Developer to join our team full-time in Romania.We are a custom product engineering company that supports both multinational organizations and scaling startups to solve their most complex business challenges. With a global team of over 4,000 highly skilled developers, consultants, analysts and product owners, we engineer technology that redefines industries and shapes the way people live. About the role: As a Senior Java Developer, become a part of a cross-fu…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "remoteok-1133550",
+      "title": "Paralegal Senior Paralegal Fully",
+      "company": "Leadenhall Search & Selection",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-paralegal-senior-paralegal-fully-leadenhall-search-selection-1133550",
+      "source": "RemoteOK",
+      "description": "Paralegal / Senior Paralegal (Remote â U.S. & Canada) A rapidly growing technology company at theâ¦See this and similar jobs on LinkedIn. Please mention the word **BELIEVEABLE** and tag RMTMuODMuMTYxLjg2 when applying to show you read the job post completely (#RMTMuODMuMTYxLjg2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-06-17",
+      "region": "unknown",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5753041663",
+      "title": "AI Engineer (Pleno)",
+      "company": "Sankhya",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5753041663?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=5A53BF9026E600CBA29BD265D92B733ABE08EF6C",
+      "source": "Adzuna",
+      "description": "Buscamos um(a) AI Engineer para atuar no coração do Sankhya RH, sendo a ponte de integração entre as soluções da nossa Unidade de Negócios (Pontotel, Mindsight, Vixting, Sankhya LMS, Benefícios e Folha). Aqui, você não vai apenas trabalhar com modelagem tradicional. Você vai construir o futuro do nosso produto, criando agentes de IA que substituirão telas estáticas por interfaces dinâmicas e conversacionais. Neste papel, cada integração importa: você atuará diretamente na criação de agentes usa…",
+      "date": "2026-06-05",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/mongoose-product-support-specialist",
       "title": "Product Support Specialist",
       "company": "Mongoose",
@@ -24,7 +396,7 @@
       "date": "Tue, 16 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/zapiet-merchant-support-specialist-2",
@@ -33,11 +405,11 @@
       "location": "Anywhere in the World",
       "url": "https://weworkremotely.com/remote-jobs/zapiet-merchant-support-specialist-2",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: United Kingdom URL: https://www.zapiet.com/ The Role We're seeking two exceptional Merchant Support Specialist's to join our global team. This role is critical in ensuring our merchants succeed by providing world-class support and insights that drive our product development. Who We're Looking For Required Qualities A patient, empathetic professional with a great sense of humour Exceptional written and verbal communication skills in English Tech-savvy and proficient with SaaS applications Proven Shopify experience Familiarity with Microsoft Teams and O365 suite applications Flexibility to work across Americas timezone, including weekend availability Strong independent working style with high self-motivation\\ Flexibility to work across European and APAC time zones, including weekend availability Bonus Qualifications Fluency in a second (or third) language Additional e-commerce platform experience Key Responsibilities Provide comprehensive customer support across multiple channels: Email Live chat Social media Telephone support Conduct personalized onboarding and setup sessions via video calls Develop and maintain help documentation and tutorials Analyse and track feature requests and support trends Contribute to continuous improvement of our support processes Why Join Zapiet? Work with a self-funded, profitable company that prioritizes customer success Collaborate with an international team spanning 17 countries Make a meaningful impact on company growth Enjoy a dynamic, meeting-light work environment Opportunity for significant personal and professional development Our Global Footprint Supporting over 10,000 merchants worldwide Team members in 17 countries 24/7 coverage across global time zones Cutting-edge e-commerce solutions How to Apply If you're passionate about supporting merchants and ready to make a difference in e-commerce, we want to hear from you! Zapiet is an equal opportunity employer committed to creating an inclusive environment for all team members. To apply: https://weworkremotely.com/remote-jobs/zapiet-merchant-support-specialist-2",
+      "description": "Headquarters: UK URL: https://zapiet.com/ The Role We're seeking two exceptional Merchant Support Specialist's to join our global team. This role is critical in ensuring our merchants succeed by providing world-class support and insights that drive our product development. Who We're Looking For Required Qualities A patient, empathetic professional with a great sense of humour Exceptional written and verbal communication skills in English Tech-savvy and proficient with SaaS applications Proven Shopify experience Familiarity with Microsoft Teams and O365 suite applications Flexibility to work across Americas timezone, including weekend availability Strong independent working style with high self-motivation Flexibility to work across European and APAC time zones, including weekend availability Bonus Qualifications Fluency in a second (or third) language Additional e-commerce platform experience Key Responsibilities Provide comprehensive customer support across multiple channels: Email Live chat Social media Telephone support Conduct personalized onboarding and setup sessions via video calls Develop and maintain help documentation and tutorials Analyse and track feature requests and support trends Contribute to continuous improvement of our support processes Why Join Zapiet? Work with a self-funded, profitable company that prioritizes customer success Collaborate with an international team spanning 17 countries Make a meaningful impact on company growth Enjoy a dynamic, meeting-light work environment Opportunity for significant personal and professional development Our Global Footprint Supporting over 10,000 merchants worldwide Team members in 17 countries 24/7 coverage across global time zones Cutting-edge e-commerce solutions How to Apply If you're passionate about supporting merchants and ready to make a difference in e-commerce, we want to hear from you! Zapiet is an equal opportunity employer committed to creating an inclusive environment for all team members. To apply: https://weworkremotely.com/remote-jobs/zapiet-merchant-support-specialist-2",
       "date": "Mon, 15 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/select-saunas-customer-support-specialist",
@@ -50,59 +422,20 @@
       "date": "Mon, 08 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018",
-      "title": "Junior Data Analyst",
-      "company": "Hire Hangar",
-      "location": "Argentina, Brazil, Colombia, Dominican Republic, Egypt, Ethiopia, Mexico, Panama, South Africa, United Arab Emirates, Yemen",
-      "url": "https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018",
-      "source": "Himalayas",
-      "description": "Join Hire Hangar and work with fast-growing global companies while building a long-term, remote career. Junior Data Analyst – Launch Your Analytics Career Location: Remote Are you eager to get started in the world of data analytics? We’re offering an exciting opportunity for a Junior Data Analyst to join our team and grow alongside experienced professionals in a fast-paced, data-driven organization. Whether you’re a recent graduate, a career switcher, or a self-taught learner, if you’re comfortable with numbers, curious about patterns, and ready to roll up your sleeves, this role is for you. Key Responsibilities: Assist in collecting, cleaning, and organizing data for analysis Build simple reports and visualizations to support business teams Help monitor key metrics and investigate anomalies Document data sources, definitions, and processes Support senior analysts on ongoing analytics projects Qualifications: Degree in a STEM field or equivalent experience (bootcamp, internship, self-taught) Basic knowledge of Excel and an interest in SQL and BI tools Strong desire to learn and grow within data analytics Great attention to detail and time management Effective communicator and team player We connect top talent with vetted employers, competitive pay, and real growth opportunities. Originally posted on Himalayas",
-      "date": "2026-06-18",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5768013031",
-      "title": "ML/AI Engineer",
-      "company": "Elios AI",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5768013031?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=DFBFD08A25AD1AABA32D372DA70506AC33402513",
-      "source": "Adzuna",
-      "description": "ML/AI Engineer (Databricks) Location: Remote (Brazil) | Type: Contract | Experience: 3 to 5 years About the Role We're hiring an ML/AI Engineer to build and ship machine learning and AI systems on top of a modern Databricks data platform. You'll work close to the data, turning messy enterprise sources into features, models, and AI-powered applications that run reliably in production rather than living in a notebook. The client is a data and AI platform company that modernizes how energy and hea…",
-      "date": "2026-06-18",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5768011780",
-      "title": "Software Engineer — Investment Platform & Infrastructure",
-      "company": "Point Break Capital",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5768011780?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=FF79B3834F0A417EBA1F217EBD9C6D2CC512F290",
-      "source": "Adzuna",
-      "description": "Point Break is a private investment fund backed by a group of highly successful Brazilian entrepreneurs, investing across fixed income, global macro, and public and private equities, with teams in Miami and São Paulo. We are hiring a software engineer to build and maintain a centralized platform that supports our day-to-day work by automating routines, improving the research process, and making extensive use of artificial intelligence in all relevant ways. It is a major long-term investment for…",
-      "date": "2026-06-18",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5768011959",
       "title": "ServiceNow Application Portfolio Management (APM) & Data Quality Engineer - Contractor in USD",
       "company": "All European Careers",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5768011959?se=bEEAyhBr8RGotaYrHOwyUw&utm_medium=api&utm_source=bd0bee3e&v=3D8B266BE59411DAFC36D69465EFC141BEBE923B",
+      "url": "https://www.adzuna.com.br/land/ad/5768011959?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=3D8B266BE59411DAFC36D69465EFC141BEBE923B",
       "source": "Adzuna",
       "description": "For our international customer in Valencia, we are looking for a ServiceNow Application Portfolio Management (APM) & Data Quality Engineer. The role focuses on ongoing APM data maintenance in ServiceNow (APM/CMDB-related records as applicable), identifying data gaps and inconsistencies, coordinating updates with application/service owners, and tracking technical debt indicators and remediation progress. EU candidates are welcome to apply. Candidates need to be based in Valencia or willing to re…",
       "date": "2026-06-18",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767606028",
@@ -115,7 +448,50 @@
       "date": "2026-06-18",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018",
+      "title": "Junior Data Analyst",
+      "company": "Hire Hangar",
+      "location": "Argentina, Brazil, Colombia, Dominican Republic, Egypt, Ethiopia, Mexico, Panama, South Africa, United Arab Emirates, Yemen",
+      "url": "https://himalayas.app/companies/hire-hangar/jobs/junior-data-analyst-4174160018",
+      "source": "Himalayas",
+      "description": "Join Hire Hangar and work with fast-growing global companies while building a long-term, remote career. Junior Data Analyst – Launch Your Analytics Career Location: Remote Are you eager to get started in the world of data analytics? We’re offering an exciting opportunity for a Junior Data Analyst to join our team and grow alongside experienced professionals in a fast-paced, data-driven organization. Whether you’re a recent graduate, a career switcher, or a self-taught learner, if you’re comfortable with numbers, curious about patterns, and ready to roll up your sleeves, this role is for you. Key Responsibilities: Assist in collecting, cleaning, and organizing data for analysis Build simple reports and visualizations to support business teams Help monitor key metrics and investigate anomalies Document data sources, definitions, and processes Support senior analysts on ongoing analytics projects Qualifications: Degree in a STEM field or equivalent experience (bootcamp, internship, self-taught) Basic knowledge of Excel and an interest in SQL and BI tools Strong desire to learn and grow within data analytics Great attention to detail and time management Effective communicator and team player We connect top talent with vetted employers, competitive pay, and real growth opportunities. Originally posted on Himalayas",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5768013031",
+      "title": "ML/AI Engineer",
+      "company": "Elios AI",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5768013031?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=DFBFD08A25AD1AABA32D372DA70506AC33402513",
+      "source": "Adzuna",
+      "description": "ML/AI Engineer (Databricks) Location: Remote (Brazil) | Type: Contract | Experience: 3 to 5 years About the Role We're hiring an ML/AI Engineer to build and ship machine learning and AI systems on top of a modern Databricks data platform. You'll work close to the data, turning messy enterprise sources into features, models, and AI-powered applications that run reliably in production rather than living in a notebook. The client is a data and AI platform company that modernizes how energy and hea…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5768011780",
+      "title": "Software Engineer — Investment Platform & Infrastructure",
+      "company": "Point Break Capital",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5768011780?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=FF79B3834F0A417EBA1F217EBD9C6D2CC512F290",
+      "source": "Adzuna",
+      "description": "Point Break is a private investment fund backed by a group of highly successful Brazilian entrepreneurs, investing across fixed income, global macro, and public and private equities, with teams in Miami and São Paulo. We are hiring a software engineer to build and maintain a centralized platform that supports our day-to-day work by automating routines, improving the research process, and making extensive use of artificial intelligence in all relevant ways. It is a major long-term investment for…",
+      "date": "2026-06-18",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5768013540",
@@ -128,7 +504,7 @@
       "date": "2026-06-18",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5766582074",
@@ -141,7 +517,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767035411",
@@ -154,7 +530,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767035481",
@@ -167,20 +543,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5767093010",
-      "title": "Backend Developer",
-      "company": "Infotree Global Solutions",
-      "location": "Brasilia, Distrito Federal, Brasil",
-      "url": "https://www.adzuna.com.br/details/5767093010?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "We're seeking a Senior Backend Engineer with 5 years of experience building high-performance, scalable APIs and backend services. You’ll work with Java (Spring Boot), Golang, and Google Cloud Platform (GCP) to support search and personalization features for a major streaming platform. 12 months Project Key Skills: - Java with Spring Boot - Golang - GCP (Pub/Sub, GKE, MySQL, Spanner) - AWS (EKS, ECS, Lambda, Aurora/RDS, etc.) - Kubernetes, Docker, Microservices - Strong system design and archit…",
-      "date": "2026-06-17",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767258146",
@@ -193,7 +556,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767246149",
@@ -206,7 +569,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767034337",
@@ -219,20 +582,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5767222371",
-      "title": "Developer",
-      "company": "Wipro Limited",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/details/5767222371?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "Sao Paulo, Brazil - Tech Hiring - 3055876 Role Purpose Do - Instrumental in understanding the requirements and design of the product/ software - _Develop software solutions by studying information needs, studying systems flow, data usage and work processes_ - _Investigating problem areas followed by the software development life cycle_ - _Facilitate root cause analysis of the system issues and problem statement_ - _Identify ideas to improve system performance and impact availability_ - _Analyze…",
-      "date": "2026-06-17",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5767058783",
@@ -245,7 +595,24 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "adzuna-5767222371",
+      "title": "Developer",
+      "company": "Wipro Limited",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5767222371?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Sao Paulo, Brazil - Tech Hiring - 3055876 Role Purpose Do - Instrumental in understanding the requirements and design of the product/ software - _Develop software solutions by studying information needs, studying systems flow, data usage and work processes_ - _Investigating problem areas followed by the software development life cycle_ - _Facilitate root cause analysis of the system issues and problem statement_ - _Identify ideas to improve system performance and impact availability_ - _Analyze…",
+      "date": "2026-06-17",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -262,7 +629,20 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5767093010",
+      "title": "Backend Developer",
+      "company": "Infotree Global Solutions",
+      "location": "Brasilia, Distrito Federal, Brasil",
+      "url": "https://www.adzuna.com.br/details/5767093010?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "We're seeking a Senior Backend Engineer with 5 years of experience building high-performance, scalable APIs and backend services. You’ll work with Java (Spring Boot), Golang, and Google Cloud Platform (GCP) to support search and personalization features for a major streaming platform. 12 months Project Key Skills: - Java with Spring Boot - Golang - GCP (Pub/Sub, GKE, MySQL, Spanner) - AWS (EKS, ECS, Lambda, Aurora/RDS, etc.) - Kubernetes, Docker, Microservices - Strong system design and archit…",
+      "date": "2026-06-17",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5767098892",
@@ -275,7 +655,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-software-engineer-golang-react",
@@ -288,7 +668,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/jahnel-group/jobs/senior-full-stack-engineer-next-js-aws",
@@ -301,7 +681,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/yuno/jobs/technical-support-analyst",
@@ -314,7 +694,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/prozenda-hungary-kft/jobs/net-developer",
@@ -327,7 +707,7 @@
       "date": "2026-06-17",
       "region": "unknown",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/luxury-presence/jobs/sr-data-engineer-latam",
@@ -340,7 +720,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5766865434",
@@ -353,7 +733,7 @@
       "date": "2026-06-17",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remotive-1919265",
@@ -366,7 +746,7 @@
       "date": "2026-06-16",
       "region": "latam",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5765439854",
@@ -379,7 +759,7 @@
       "date": "2026-06-16",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5764710709",
@@ -392,7 +772,7 @@
       "date": "2026-06-15",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5764710657",
@@ -405,7 +785,33 @@
       "date": "2026-06-15",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5763537451",
+      "title": "Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5763537451?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=EA67A1DC9B84ACC0DBB868B73F4238A895D4C3F0",
+      "source": "Adzuna",
+      "description": "Come to one of the biggest IT Services companies in the world! Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We’re looking for a talente d Full Stack Developer to join our team and help build scalable, h…",
+      "date": "2026-06-14",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5763537664",
+      "title": "Database Reliability Engineer - DBRE",
+      "company": "Vortigo Digital",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5763537664?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=9E614D0B88868C0D31D8981E7FF6805997EA3963",
+      "source": "Adzuna",
+      "description": "Somos a Vortigo - nascemos com o propósito de criar aplicativos mobile para um mundo em constante movimento, mas não paramos por aí. Ampliamos nossa atuação e hoje desenvolvemos softwares para ajudar empresas e startups no processo de transformação digital. Nosso time é composto por pessoas apaixonadas por desafios gigantes, mudando a experiência dos usuários a nível global. Estamos espalhados pelo Brasil e pelo mundo, tocando projetos nacionais e internacionais. Nosso ambiente é descontraído, …",
+      "date": "2026-06-14",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5763536854",
@@ -418,33 +824,7 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5763537451",
-      "title": "Full Stack Developer",
-      "company": "Tata Consultancy Services",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5763537451?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=EA67A1DC9B84ACC0DBB868B73F4238A895D4C3F0",
-      "source": "Adzuna",
-      "description": "Come to one of the biggest IT Services companies in the world! Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We’re looking for a talente d Full Stack Developer to join our team and help build scalable, h…",
-      "date": "2026-06-14",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5763537664",
-      "title": "Database Reliability Engineer - DBRE",
-      "company": "Vortigo Digital",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5763537664?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=9E614D0B88868C0D31D8981E7FF6805997EA3963",
-      "source": "Adzuna",
-      "description": "Somos a Vortigo - nascemos com o propósito de criar aplicativos mobile para um mundo em constante movimento, mas não paramos por aí. Ampliamos nossa atuação e hoje desenvolvemos softwares para ajudar empresas e startups no processo de transformação digital. Nosso time é composto por pessoas apaixonadas por desafios gigantes, mudando a experiência dos usuários a nível global. Estamos espalhados pelo Brasil e pelo mundo, tocando projetos nacionais e internacionais. Nosso ambiente é descontraído, …",
-      "date": "2026-06-14",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763877599",
@@ -457,72 +837,46 @@
       "date": "2026-06-14",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762119984",
       "title": "Full Stack Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
+      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
       "source": "Adzuna",
       "description": "This is a Mid-Level Full Stack Developer role, can sit fully remote, PJ model and salary range is 19-24/hr USD. Must-Haves: • 3 years of professional experience as a Full-Stack Developer (initially backend-heavy, evolving into 50/50 full-stack) • Front-End: JavaScript, TypeScript, React, Redux, CSS – primarily building new components (70%) and modifying existing ones (30%) • Back-End: Java, Spring Boot, REST APIs, Postman, SQL – building APIs, creating controllers, handling DB integration, and …",
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118335",
       "title": "Support Engineer",
       "company": "Tata Consultancy Services",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118335?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=66E9AD4EDA30D4F4E82EE2C3FF2671453C2D5930",
+      "url": "https://www.adzuna.com.br/land/ad/5762118335?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=66E9AD4EDA30D4F4E82EE2C3FF2671453C2D5930",
       "source": "Adzuna",
       "description": "Come to one of the biggest IT Services companies in the world! Here you can transform your career! Why to join TCS ? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment We are looking for a Support Engineer . In this role, you will: Collaborate closely with cross…",
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762118510",
-      "title": "Senior Fullstack Developer",
-      "company": "Coforge",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118510?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=B1B43F4BE8805830DB152078A71BEDA8CCDDDC21",
-      "source": "Adzuna",
-      "description": "Job Title: Senior Fullstack Developer Key Skills: React, TypeScript, Node.js, SQL, Python, IOS. Location: Brazil Mode: Remote We at Coforge are hiring Senior Fullstack Developer with the following skill set. Key Responsibilities Development of new features across frontend and backend; Maintenance and improvement of existing code; Design and implementation of technical solutions end-to-end; Perform code reviews and ensure quality of team deliverables; Help define and document practices, methodol…",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5762118436",
-      "title": "Shopify Developer (Remote | PJ)",
-      "company": "Hays",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118436?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=0FD0C9698B4A3083DB60115B43C50BCE78E81657",
-      "source": "Adzuna",
-      "description": "100% Remote PJ / Contractor Fluent English Shopify Developer (B2B / B2C) Top Skills / Requirements • Solid experience as a Shopify Developer • Must possess strong experience and proficiency with responsive web design and mobile optimization • Must possess strong experience and proficiency with theme development and customization in the Shopify ecosystem • Must possess strong knowledge of front-end technologies including HTML, CSS, and JavaScript • Must possess strong experience with version con…",
-      "date": "2026-06-13",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762461469",
       "title": "Application Support Engineer",
       "company": "ThunderSoft",
       "location": "Cidade Monções, Zona Sul, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762461469?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=513EC0281E000955F899D4DDCF0B191E73C3D668",
+      "url": "https://www.adzuna.com.br/land/ad/5762461469?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=513EC0281E000955F899D4DDCF0B191E73C3D668",
       "source": "Adzuna",
       "description": "L1/L2 Job Description and Daily Support/New Project Mode L1/L2 Job Summary ： The SAP L1/L2 Support Engineer is responsible for providing first-line technical support for SAP systems. This role involves monitoring system health, troubleshooting basic issues, and escalating complex problems to higher-level support teams. The ideal candidate will have a strong understanding of SAP landscapes and a passion for ensuring system stability and user satisfaction. L1/L2 Key Responsibilities ： Incident Ma…",
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -533,26 +887,39 @@
       "title": "Automation Support Engineer",
       "company": "Adasoft",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118451?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=14F093F92E6BD5C8127DA330ADCC5970A4E26EF2",
+      "url": "https://www.adzuna.com.br/land/ad/5762118451?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=14F093F92E6BD5C8127DA330ADCC5970A4E26EF2",
       "source": "Adzuna",
       "description": "Olá! Nós da Adasoft estamos buscando um Engenheiro de Suporte Técnico (c/ foco em Automação Industrial) para integrar nosso crescente quadro de colaboradores! Caso esteja interessado na vaga, confira abaixo todas as informações necessárias: Responsabilidades :Fornecer suporte técnico remoto e presencial (quando necessário) para os sistemas de automação industrial instalados .Diagnosticar e solucionar falhas em sistemas automatizados e equipamentos industriais (CLPs, IHM, sensores, entre outros)…",
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5762118436",
+      "title": "Shopify Developer (Remote | PJ)",
+      "company": "Hays",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5762118436?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=0FD0C9698B4A3083DB60115B43C50BCE78E81657",
+      "source": "Adzuna",
+      "description": "100% Remote PJ / Contractor Fluent English Shopify Developer (B2B / B2C) Top Skills / Requirements • Solid experience as a Shopify Developer • Must possess strong experience and proficiency with responsive web design and mobile optimization • Must possess strong experience and proficiency with theme development and customization in the Shopify ecosystem • Must possess strong knowledge of front-end technologies including HTML, CSS, and JavaScript • Must possess strong experience with version con…",
+      "date": "2026-06-13",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5762119085",
       "title": "Dialogflow AI /ML Developer | Mid",
       "company": "Compass UOL",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119085?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=F768B1F3B193B0AFBF2BA559BB19CCFA5F05B7FE",
+      "url": "https://www.adzuna.com.br/land/ad/5762119085?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=F768B1F3B193B0AFBF2BA559BB19CCFA5F05B7FE",
       "source": "Adzuna",
       "description": "Responsibilities : Criar, configurar e manter intents, entities e fluxos conversacionais no Dialogflow (CX ou ES); Desenvolver experiências conversacionais utilizando IA Generativa, incluindo criação de prompts e playbooks; Construir jornadas conversacionais com foco em Processamento de Linguagem Natural (NLP); Integrar chatbots a diferentes canais, como web, aplicativos e WhatsApp; Monitorar e otimizar a performance, assertividade e qualidade das interações do bot; Evoluir continuamente a expe…",
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762984655",
@@ -565,7 +932,20 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5762118510",
+      "title": "Senior Fullstack Developer",
+      "company": "Coforge",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5762118510?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=B1B43F4BE8805830DB152078A71BEDA8CCDDDC21",
+      "source": "Adzuna",
+      "description": "Job Title: Senior Fullstack Developer Key Skills: React, TypeScript, Node.js, SQL, Python, IOS. Location: Brazil Mode: Remote We at Coforge are hiring Senior Fullstack Developer with the following skill set. Key Responsibilities Development of new features across frontend and backend; Maintenance and improvement of existing code; Design and implementation of technical solutions end-to-end; Perform code reviews and ensure quality of team deliverables; Help define and document practices, methodol…",
+      "date": "2026-06-13",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5762307540",
@@ -578,7 +958,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5763001690",
@@ -591,7 +971,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762998258",
@@ -604,7 +984,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5762118516",
@@ -617,7 +997,7 @@
       "date": "2026-06-13",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5761821468",
@@ -630,20 +1010,20 @@
       "date": "2026-06-12",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760047495",
       "title": "Artificial Intelligence Engineer",
       "company": "CI&T",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5760047495?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=BC4D26548240BD175E60A54D0852CEA4FE4F50B5",
+      "url": "https://www.adzuna.com.br/land/ad/5760047495?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=BC4D26548240BD175E60A54D0852CEA4FE4F50B5",
       "source": "Adzuna",
       "description": "We are looking for a Senior Generative AI Engineer to join the Customer Delivery team at CI&T. This person will work embedded within strategic client projects, helping companies across industries such as banking, insurance, and retail successfully adopt and operationalize Generative AI solutions in real production environments. The challenge involves building and scaling AI-powered solutions such as RAG pipelines, AI agents, and intelligent automations while enabling client teams to operate aut…",
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760047777",
@@ -656,7 +1036,7 @@
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5760679294",
@@ -669,46 +1049,46 @@
       "date": "2026-06-11",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758359089",
       "title": "Full Stack Developer",
       "company": "Kaav Inc",
       "location": "Indaiatuba, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758359089?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=83929CE9A51E8EF6EA1C40210CEBEB9725AC0D10",
+      "url": "https://www.adzuna.com.br/land/ad/5758359089?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=83929CE9A51E8EF6EA1C40210CEBEB9725AC0D10",
       "source": "Adzuna",
       "description": "Job Title: Full Stack Developer Location: São Lourenço, Indaiatuba, São Paulo, Brazil Primary Skills: Full Stack Developer Description: Backend development – server?€'side programming (Node.js, Java, Python, or C#) and business logic API design & integration – building and consuming REST APIs Database skills – SQL and basic NoSQL, data modeling, and CRUD operations Authentication & security basics – OAuth/JWT, input validation, secure coding practices Cloud fundamentals – deploying and running …",
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758358738",
       "title": "Product Quality Engineer",
       "company": "Vertiv",
       "location": "Sorocaba, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758358738?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=52249065989DB287A578CC6574D04A645E6F594C",
+      "url": "https://www.adzuna.com.br/land/ad/5758358738?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=52249065989DB287A578CC6574D04A645E6F594C",
       "source": "Adzuna",
       "description": "Product Quality Engineer – LATAM (Sorocaba | 100% presencial) A Vertiv LATAM continua crescendo e estamos buscando um(a) Product Quality Engineer para se juntar ao nosso time em Sorocaba , em um modelo 100% presencial . Buscamos um perfil com experiência em qualidade, manufatura e gestão de fornecedores, que queira impactar diretamente a confiabilidade e o desempenho dos nossos produtos. Principais responsabilidades Garantir que os produtos atendam aos padrões de qualidade, segurança e regulató…",
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5758358850",
       "title": "UX/UI Designer | Frontend Developer (React, Vite.js e Expo)",
       "company": "G30 Inteligência Automotiva",
       "location": "Vinhedo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5758358850?se=bEEAyhBr8RGotaYrHOwyUw&utm_medium=api&utm_source=bd0bee3e&v=877F3AE7AEAD301B51EB91D509BB77F3B6C62B76",
+      "url": "https://www.adzuna.com.br/land/ad/5758358850?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=877F3AE7AEAD301B51EB91D509BB77F3B6C62B76",
       "source": "Adzuna",
       "description": "UX/UI Designer | Frontend Developer (React, Vite.js e Expo) Sobre a vaga: Estamos buscando uma pessoa criativa, proativa e com forte senso de ownership para atuar no desenvolvimento de interfaces modernas, intuitivas e altamente focadas em experiência do usuário, jornada do usuário e conversão. A vaga é voltada para profissionais que tenham forte viés de UX/UI, visão centrada no usuário e experiência no desenvolvimento frontend utilizando React, Vite.js e Expo, participando da criação de aplica…",
       "date": "2026-06-10",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5757772550",
@@ -721,7 +1101,7 @@
       "date": "2026-06-09",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5756535327",
@@ -734,20 +1114,20 @@
       "date": "2026-06-08",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5755289673",
       "title": "Artificial Intelligence Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5755289673?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=E5025819A8E0C1863FD2FFE5A1D83AA6DC8EF228",
+      "url": "https://www.adzuna.com.br/land/ad/5755289673?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=E5025819A8E0C1863FD2FFE5A1D83AA6DC8EF228",
       "source": "Adzuna",
       "description": "Required Skills & Experience 3–5 years of experience building AI/LLM-based agents and deploying workflows in production environments 1–2 years of hands-on experience with LangChain, LangGraph, or similar orchestration frameworks Strong experience integrating APIs and working with real-time data workflows Proficiency in Python (or similar) for backend or AI development Experience working in structured development environments with QA and validation processes Strong problem-solving skills with th…",
       "date": "2026-06-07",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5754859823",
@@ -760,20 +1140,20 @@
       "date": "2026-06-06",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5753411493",
       "title": "Systems Engineer",
       "company": "Clever Devices",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5753411493?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=8A21B8864037337474300B83F62B413103199BD6",
+      "url": "https://www.adzuna.com.br/land/ad/5753411493?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=8A21B8864037337474300B83F62B413103199BD6",
       "source": "Adzuna",
       "description": "As THE leader in transit technology, Clever Devices' vision is to make meaningful contributions to worldwide mobility. Our goal is to be the leading provider of exciting technology that improves the quality of mobility in communities around the world. This role will cover either our open B (4PM - 12PM) and C (12PM-8AM) shift as well as weekends. Job Summary: The Systems Engineer is responsible for leading the deployment of complete systems that include Clever Devices products combined with comp…",
       "date": "2026-06-05",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5753635741",
@@ -786,7 +1166,7 @@
       "date": "2026-06-05",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751650579",
@@ -799,7 +1179,7 @@
       "date": "2026-06-04",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751208891",
@@ -812,7 +1192,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5750867466",
@@ -825,7 +1205,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751177018",
@@ -838,7 +1218,7 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5751208896",
@@ -851,59 +1231,59 @@
       "date": "2026-06-03",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5746536004",
       "title": "Senior React Native Developer",
       "company": "Sigma Software Group",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
+      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
       "source": "Adzuna",
       "description": "Are you a Senior React Native Developer passionate about building high-quality mobile applications with seamless user experiences? This role offers the opportunity to work remotely from anywhere in Brazil while collaborating with a multicultural team on innovative global projects. At Sigma Software, we are looking for a skilled professional to join our team and contribute to the development of engaging iOS and Android applications for international products. You’ll work in a dynamic environment…",
       "date": "2026-05-31",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5745165857",
       "title": "Full Stack Developer (Python)",
       "company": "Sofira",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5745165857?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=0335553782B9C72E5251F4B47573C027143C3E40",
+      "url": "https://www.adzuna.com.br/land/ad/5745165857?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=0335553782B9C72E5251F4B47573C027143C3E40",
       "source": "Adzuna",
       "description": "About Sofira: Sofira is building the future of legal services. We create AI agents that automate repetitive corporate legal work. The Opportunity: Become a Founding Engineer This isn't just another developer role. This is a chance to be a core member of our founding engineering team, reporting directly to our CTO, Pedro Leme (ex-Head of Engineering at Jusbrasil). You will be solving some of the most complex and interesting technical challenges in the Brazilian tech scene today. Your mission w…",
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5745165336",
       "title": "Senior Fullstack Engineer",
       "company": "Stellantis South America",
       "location": "Belo Horizonte, Minas Gerais, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5745165336?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=48EBAC4FC8CFA6EFE31101FB9E12A716B1F69B51",
+      "url": "https://www.adzuna.com.br/land/ad/5745165336?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=48EBAC4FC8CFA6EFE31101FB9E12A716B1F69B51",
       "source": "Adzuna",
       "description": "As a Senior Fullstack Engineer you will play a pivotal role and shaping the future of our mobile and web applications. Your objective is to be a help design, development, and delivery high-quality applications while fostering a culture of excellence for mobile and web apps. We are building the future generation of Apps that will revolutionize the industry of cars. Technical expertise: - Platform and Ecosystem: Defining and evolving the overall technical standards for Mobile and Web applications…",
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5744638931",
       "title": "Deskside Support Engineer",
       "company": "TECEZE",
       "location": "Mogi das Cruzes, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5744638931?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=8064D37FCF9AEE814C0EF6CC0284F9E65C661404",
+      "url": "https://www.adzuna.com.br/land/ad/5744638931?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=8064D37FCF9AEE814C0EF6CC0284F9E65C661404",
       "source": "Adzuna",
       "description": "Job Title: Deskside Support Engineer Location: Mogi das Cruzes, São Paulo (SP), Brazil This position is full time role Job Description: We are seeking a skilled Deskside Support with 3–5 years of experience in IT infrastructure support. The role involves handling basic networking, data center operations, monitoring tools, hardware troubleshooting, and ITSM tools . You will act as the on-site support partner, assisting internal teams, customers, and vendors in troubleshooting and resolving techn…",
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -920,7 +1300,7 @@
       "date": "2026-05-28",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -937,20 +1317,20 @@
       "date": "2026-05-28",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742298475",
       "title": "Senior FSRU Operations Engineer",
       "company": "Karadeniz Holding",
       "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5742298475?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=1436320D5CE71E9843B6AFEC86B37FCEF2EAD661",
+      "url": "https://www.adzuna.com.br/land/ad/5742298475?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=1436320D5CE71E9843B6AFEC86B37FCEF2EAD661",
       "source": "Adzuna",
       "description": "ABOUT THE JOB Founded in 1948, Karadeniz Holding is a visionary industry leader that focuses on innovation while supporting growth with an emphasis on economic and environmental sustainability across a wide range of industries, primarily energy and shipbuilding. Operating in more than 20 countries, with over 3,000 employees from 30 different nationalities and an installed capacity exceeding 8,000 MW, the Group generates reliable and clean electricity across four continents through its fleet of …",
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742317545",
@@ -963,7 +1343,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5742775916",
@@ -976,7 +1356,7 @@
       "date": "2026-05-27",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5740642839",
@@ -989,7 +1369,7 @@
       "date": "2026-05-25",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5740804477",
@@ -1002,20 +1382,33 @@
       "date": "2026-05-25",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5739680665",
       "title": "Client Service Engineer",
       "company": "Sony",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5739680665?se=iAZXyRBr8RGF0oMhL7eT8A&utm_medium=api&utm_source=bd0bee3e&v=C2C11716D51AE90C138951F9E4FC8CBA68ACDF73",
+      "url": "https://www.adzuna.com.br/land/ad/5739680665?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=C2C11716D51AE90C138951F9E4FC8CBA68ACDF73",
       "source": "Adzuna",
       "description": "We’re Hiring a Client Service Engineer Are you passionate about broadcast technology, technical support, and customer service? Join our team and help us deliver high-quality solutions and support for professional broadcast systems! About the Role The Client Service Engineer will be responsible for providing technical support to customers, dealers, representatives, and affiliates in the installation, maintenance, troubleshooting, and operation of professional broadcast systems. Key Responsibilit…",
       "date": "2026-05-24",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5739219312",
+      "title": "Oracle GoldenGate Data Engineer | Senior (Remote)",
+      "company": "Compass UOL",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5739219312?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=3229EAE2A612BF92257FC1AC2EC88C123FF8A135",
+      "source": "Adzuna",
+      "description": "Responsabilidades e atribuições Projetar, desenvolver e sustentar pipelines de dados escaláveis com foco em ingestão via CDC (Change Data Capture) utilizando Oracle GoldenGate; Configurar e administrar replicações de dados em tempo real e quase tempo real entre sistemas origem e ambientes cloud; Garantir consistência, integridade e sincronização dos dados entre origem e destino; Monitorar pipelines de ingestão, atuar em troubleshooting e otimizar performance dos processos CDC; Suportar estratég…",
+      "date": "2026-05-23",
+      "region": "brazil",
+      "first_seen": "2026-06-18",
+      "is_new": false
     },
     {
       "id": "adzuna-5738669139",
@@ -1028,20 +1421,7 @@
       "date": "2026-05-23",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5739219312",
-      "title": "Oracle GoldenGate Data Engineer | Senior (Remote)",
-      "company": "Compass UOL",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5739219312?se=bEEAyhBr8RGotaYrHOwyUw&utm_medium=api&utm_source=bd0bee3e&v=3229EAE2A612BF92257FC1AC2EC88C123FF8A135",
-      "source": "Adzuna",
-      "description": "Responsabilidades e atribuições Projetar, desenvolver e sustentar pipelines de dados escaláveis com foco em ingestão via CDC (Change Data Capture) utilizando Oracle GoldenGate; Configurar e administrar replicações de dados em tempo real e quase tempo real entre sistemas origem e ambientes cloud; Garantir consistência, integridade e sincronização dos dados entre origem e destino; Monitorar pipelines de ingestão, atuar em troubleshooting e otimizar performance dos processos CDC; Suportar estratég…",
-      "date": "2026-05-23",
-      "region": "brazil",
-      "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5739154637",
@@ -1054,7 +1434,7 @@
       "date": "2026-05-23",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5738068373",
@@ -1067,20 +1447,20 @@
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5737510314",
       "title": "Third Engineer (Oficial de Quarto de Máquinas) - III/1",
       "company": "MISC Group",
       "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5737510314?se=bEEAyhBr8RGotaYrHOwyUw&utm_medium=api&utm_source=bd0bee3e&v=AEEC75559B7608C0CDBE2EE145FBCBA74D44C18B",
+      "url": "https://www.adzuna.com.br/land/ad/5737510314?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=AEEC75559B7608C0CDBE2EE145FBCBA74D44C18B",
       "source": "Adzuna",
       "description": "MISC MARINE DO BRAZIL está buscando OFICIAL DE QUARTO DE MÁQUINAS para integrar sua frota no Brasil - Apenas profissionais marítimos portando certificados STCW em dia Nossa frota é composta por navios modernos e altamente tecnológicos, projetados para oferecer o máximo em conforto e segurança. Equipados com academia, sala de cinema, cadeiras de massagem e sistemas de posicionamento dinâmico (DP) Kongsberg, fabricados por gigantes como Samsung e Hyundai, nossos navios representam o que há de mai…",
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5738119860",
@@ -1093,7 +1473,7 @@
       "date": "2026-05-22",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5736319836",
@@ -1106,7 +1486,7 @@
       "date": "2026-05-21",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5736319912",
@@ -1119,7 +1499,7 @@
       "date": "2026-05-21",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5735286290",
@@ -1132,7 +1512,7 @@
       "date": "2026-05-20",
       "region": "brazil",
       "first_seen": "2026-06-18",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -1347,23 +1727,6 @@
       "is_new": false
     },
     {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
-      "title": "Senior AI Engineer / Architect",
-      "company": "Lemon.io",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several AI-related roles; here are some of them. Requirements - AI Engineer: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with large language models (LLMs), RAG, LangChain is mandatory Requirements - AI Agent Architect: 3+ years of experience with Python 3+ years of experience with LLM Experience with Multi-agent systems architecture, AI agent orchestration, AI telemetry is a must. Requirements - AI Automation Architect: 1+ year of experience with Workflow Automation and Webhooks 3+ years with SQL is a must Familiarity with AI API integration and Claude Cowork is a must Knowledge of Make.com/n8n/Zapier Strong technical skills: as a Senior AI Engineer/Architect, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in Site Reliability Engineering, React & Python, React & Golang, React & Java, React & Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Web3/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps with Azure DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, React Native & Node, Data Annotation, React & Node.js, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. P.S. We work with developers from 75+ countries across different regions: Europe, LATAM, the U.S. (if you have a completed W-9 form), Canada, Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, South Africa, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), Morocco, and the UK. However, there are some exceptions due to legal constraints. To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
-      "date": "Tue, 02 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false,
-      "also_on": [
-        "WorkingNomads"
-      ],
-      "dup_count": 1
-    },
-    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/insignia-consultancy-solutions-devops-lead",
       "title": "Devops lead",
       "company": "Insignia Consultancy Solutions",
@@ -1388,6 +1751,23 @@
       "region": "worldwide",
       "first_seen": "2026-06-17",
       "is_new": false
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
+      "title": "Senior AI Engineer / Architect",
+      "company": "Lemon.io",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior AI Engineer/Architect looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several AI-related roles; here are some of them. Requirements - AI Engineer: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with large language models (LLMs), RAG, LangChain is mandatory Requirements - AI Agent Architect: 3+ years of experience with Python 3+ years of experience with LLM Experience with Multi-agent systems architecture, AI agent orchestration, AI telemetry is a must. Requirements - AI Automation Architect: 1+ year of experience with Workflow Automation and Webhooks 3+ years with SQL is a must Familiarity with AI API integration and Claude Cowork is a must Knowledge of Make.com/n8n/Zapier Strong technical skills: as a Senior AI Engineer/Architect, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in Site Reliability Engineering, React & Python, React & Golang, React & Java, React & Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Web3/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps with Azure DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, React Native & Node, Data Annotation, React & Node.js, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. P.S. We work with developers from 75+ countries across different regions: Europe, LATAM, the U.S. (if you have a completed W-9 form), Canada, Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, South Africa, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), Morocco, and the UK. However, there are some exceptions due to legal constraints. To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-ai-engineer-architect",
+      "date": "Tue, 02 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false,
+      "also_on": [
+        "WorkingNomads"
+      ],
+      "dup_count": 1
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/comparis-ch-full-stack-software-developer-80-100-f-m-x",
@@ -1474,7 +1854,7 @@
       "location": "Anywhere in the World",
       "url": "https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
       "source": "WeWorkRemotely",
-      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. But if you're more seasoned — comfortable in identity, MDM, or security work — don't scroll past. We'd be delighted to find someone who can step in higher up the ladder, and we'll happily talk about a more senior scope and comp if that's you. What the actual job??? Unlike many IT shops, we believe that the technology is the tactic. The actual job is making people feel taken care of. One of our core values is “49% tech support, 51% human support.” You'll succeed by configuring devices, resetting access, untangling email, and chasing down the gremlin that's been haunting someone's conference room. But you'll know you succeeded when a client exhales and says, “Thank goodness you're on it!” That Warm Fuzzy Feeling™ is the actual product. The green lights on the dashboard are just how we get there. In a typical week, you might: Onboard a new hire at a fast-growing startup: provision their Mac, set up their Google Workspace or Microsoft 365 accounts, enroll the device in MDM, and make sure day one feels effortless. Offboard a departing employee cleanly — recover the laptop, revoke access, and close the loop so nothing's left dangling. All boxes checked, ticket notated and closed, client followed up with. Field a \"my email stopped working\" ticket that turns out to be a DNS thing, a phishing-filter thing, or a \"they changed their password on their phone three weeks ago\" thing. Help a family office or RIA get a touchy Zoom Room or conference-room AV setup behaving before a meeting — over the phone. Triage the queue so phones get answered fast, emails don't rot, and nobody feels forgotten — even when the honest answer is, “We're on it, but here's the realistic timeline.\" ⠀ You'll be the front line: helping with what you can, researching what you can't, and pinging the rest of the team when you're genuinely stuck. That last part is a skill, not a weakness — knowing when to ask is half the job. About ignitionit.com We're one of the oldest Apple Technical Partners on the planet, and one of the only certified Apple Premier Partners — that’s kinda like getting knighted by the ghost of Steve Jobs. We started where you’d expect to find Macs (creative agencies, non-profits, education) but our primary clients today are cutting-edge, venture-backed AI SaaS startups, VC and private equity firms, registered investment advisors — many of them operating under stringent compliance expectations (SOC 2, SEC). That means we hold ourselves to a higher standard than the scrappy shop we started as. Polished, reliable, security-minded work is the baseline now — but always with a smile! What hasn't changed: relationships are still our most valuable currency — with clients, with vendors, and with each other. We're a tight, supportive team. We teach each other what we know, cover for each other when life throws a punch, and care a little too much about doing things the right way. We're still a bit weird, and our clients seem to like us that way. We move fast, priorities shift, it’s not always documented (whatever it is), our tool set and list of supported platforms is sprawling, and some days the to-do list is longer than you'd like. If you can stay warm under pressure, create order out of chaos, learn new stuff fast because you love it, and speak up when you need help, you'll thrive here. If you need a rigid, fully-documented, never-changes environment where nobody trusts you with admin access, where you will be micro-managed so you never have to wonder whether or not you’re doing the right thing, this isn't it. You’ll have a ton of independence on our team, and freedom to use your best judgment to get the ball over the finish line, but that also means we expect you to be naturally responsible, honest, and highly accountable — to yourself, your teammates, and the clients. As they say, the price of freedom is eternal vigilance. The tech you'll work with (and grow into) Day one, you'll be living in: Apple at the core — macOS, iOS, Apple Business Manager, and MDM (Jamf / Iru / Intune / Workspace ONE / and more) Yes, PCs too — about one-third of our users are driving Windows Google Workspace and Microsoft 365 admin consoles Identity and access — SSO, MFA, and security keys (Okta, Entra ID, Yubikey, and friends) Lots of other security tools — our stack is constantly evolving and may vary from client to client The everyday productivity stack — Slack, Zoom, conference-room AV, networking basics (Meraki), and endpoint tooling ⠀ You don't need to know all of this. You need to be the kind of person who wants to. As you grow, there's a clear path into infrastructure administration, project architecture and implementation, and — for the right person — security and compliance work (phishing simulations, endpoint detection, SOC 2 / CIS / SEC readiness, due diligence questionnaire support, etc.). That's where our most senior people live, and it's wide open. Who we hope you are The hard requirements — we won't move forward unless you: Can work standard business hours in Eastern or Pacific time zones (we currently need both) Have a quiet home workspace and reliable broadband Have proven Apple aptitude — you actually use and like the Apple ecosystem Have at least 2 years of IT support experience on the job. Go-getters who are just getting started and can prove they have a deep, demonstrable history of teaching themselves technology for the sheer joy of it might also make the cut. ⠀ Everything else — and this is the longer list, on purpose. We figure technical skills are teachable; character takes a lot longer. So we're looking for someone who: Genuinely cares — about clients, teammates, and doing right by people Loves to learn, and proves it in how they spend their time Reads, and writes clearly — clear writing is clear thinking, and you'll do a lot of it Stays calm and kind with a frustrated person on the other end of the line Can tell the difference between good customer service and fantastic customer service, and refuses to settle for the former Notices when something's being done inefficiently and fixes it (you may boast about it later, that’s fine) Proofreads their own work (yes, we noticed whether you proofread your application) Has a sense of humor, and doesn't take themselves too seriously Regarding AI Our company founder/CEO is headquartered in the Bay Area. We work with innovative, ambitious companies developing AI products. Our team members hold a range of opinions about whether AI is “good or bad” for humans, but at the end of the day, we embrace the plain fact that it is here, we must embrace it to evolve, and our clients increasingly depend on us to help them embrace it, too, to help them evolve and stay competitive. Our CEO's opinion: AI will not replace human labor any time soon; rather, AI is a new opportunity to either (a) get things done faster, or (b) get a much higher quality of output than before. If you’re an AI tinkerer, great! We want to hear how you’re using it and see your latest vibe project. If you’re allergic to AI or have no interest in learning new habits to work effectively with it, this is not the place for you. Compensation & logistics Base salary: For applicants closer to the junior side who are located in the USA, $50,000–$65,000/yr, depending on experience level and your local geographical price index. With experience, comp goes up from there. Genuinely experienced, more senior candidates can be slotted higher — let's talk. Applicants outside the USA will be compensated according to your local employment market. Type & location: Full-time, work from home, fully remote. Eastern or Pacific time zones. Benefits: Medical / dental / vision for the employee, 401(k) with employer contribution, 2 weeks of PTO annually to start, and a stipend for your home internet. How to apply The first step is really easy and only takes 10 minutes — no resume, no cover letter, no essays. Here's how: Take this online Culture Index assessment (about 10 minutes): We use it to screen for people whose natural wiring fits how our team works. If your profile lines up with what we're looking for, we'll reach out and ask you to complete a 60-minute TestGorilla assessment for critical thinking skills, send us your resume, and maybe a couple of other items. From there, we conduct between 2-4 video interviews. One of these might be a live technical assessment. If the Culture Index step feels like a strange way to start a job application — that's kind of the point. Remember the phrase Think Different? Ignition is an equal opportunity employer. We welcome and will consider all qualified applicants. Good luck in your search — and may the Force be with you! To apply: https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
+      "description": "Headquarters: ignitionit.com URL: https://ignitionit.com APPLY HERE: https://go.cultureindex.com/p/bLvP56CvGHU Fully Remote · Work from home · Full-time (Eastern or Pacific time zones) · Apple-first TL;DR ignitionit.com is a seasoned, Apple-first MSP — in business for almost 30 years — and we're hiring a Help Desk Technician to be the friendly, capable first voice our clients reach when something isn't working. This position is a remote, work-from-home, full-time role. We've written this as a junior-to-mid-level job description because that's where most great people start on our team. But if you're more seasoned — comfortable in identity, MDM, or security work — don't scroll past. We'd be delighted to find someone who can step in higher up the ladder, and we'll happily talk about a more senior scope and comp if that's you. What the actual job??? Unlike many IT shops, we believe that the technology is the tactic. The actual job is making people feel taken care of. One of our core values is “49% tech support, 51% human support.” You'll succeed by configuring devices, resetting access, untangling email, and chasing down the gremlin that's been haunting someone's conference room. But you'll know you succeeded when a client exhales and says, “Thank goodness you're on it!” That Warm Fuzzy Feeling™ is the actual product. The green lights on the dashboard are just how we get there. In a typical week, you might: Onboard a new hire at a fast-growing startup: provision their Mac, set up their Google Workspace or Microsoft 365 accounts, enroll the device in MDM, and make sure day one feels effortless. Offboard a departing employee cleanly — recover the laptop, revoke access, and close the loop so nothing's left dangling. All boxes checked, ticket notated and closed, client followed up with. Field a \"my email stopped working\" ticket that turns out to be a DNS thing, a phishing-filter thing, or a \"they changed their password on their phone three weeks ago\" thing. Help a family office or RIA get a touchy Zoom Room or conference-room AV setup behaving before a meeting — over the phone. Triage the queue so phones get answered fast, emails don't rot, and nobody feels forgotten — even when the honest answer is, “We're on it, but here's the realistic timeline.\" ⠀ You'll be the front line: helping with what you can, researching what you can't, and pinging the rest of the team when you're genuinely stuck. That last part is a skill, not a weakness — knowing when to ask is half the job. About ignitionit.com We're one of the oldest Apple Technical Partners on the planet, and one of the only certified Apple Premier Partners — that’s kinda like getting knighted by the ghost of Steve Jobs. We started where you’d expect to find Macs (creative agencies, non-profits, education) but our primary clients today are cutting-edge, venture-backed AI SaaS startups, VC and private equity firms, registered investment advisors — many of them operating under stringent compliance expectations (SOC 2, SEC). That means we hold ourselves to a higher standard than the scrappy shop we started as. Polished, reliable, security-minded work is the baseline now — but always with a smile! What hasn't changed: relationships are still our most valuable currency — with clients, with vendors, and with each other. We're a tight, supportive team. We teach each other what we know, cover for each other when life throws a punch, and care a little too much about doing things the right way. We're still a bit weird, and our clients seem to like us that way. We move fast, priorities shift, it’s not always documented (whatever it is), our tool set and list of supported platforms is sprawling, and some days the to-do list is longer than you'd like. If you can stay warm under pressure, create order out of chaos, learn new stuff fast because you love it, and speak up when you need help, you'll thrive here. If you need a rigid, fully-documented, never-changes environment where nobody trusts you with admin access, where you will be micro-managed so you never have to wonder whether or not you’re doing the right thing, this isn't it. You’ll have a ton of independence on our team, and freedom to use your best judgment to get the ball over the finish line, but that also means we expect you to be naturally responsible, honest, and highly accountable — to yourself, your teammates, and the clients. As they say, the price of freedom is eternal vigilance. The tech you'll work with (and grow into) Day one, you'll be living in: Apple at the core — macOS, iOS, Apple Business Manager, and MDM (Jamf / Iru / Intune / Workspace ONE / and more) Yes, PCs too — about one-third of our users are driving Windows Google Workspace and Microsoft 365 admin consoles Identity and access — SSO, MFA, and security keys (Okta, Entra ID, Yubikey, and friends) Lots of other security tools — our stack is constantly evolving and may vary from client to client The everyday productivity stack — Slack, Zoom, conference-room AV, networking basics (Meraki), and endpoint tooling ⠀ You don't need to know all of this. You need to be the kind of person who wants to. As you grow, there's a clear path into infrastructure administration, project architecture and implementation, and — for the right person — security and compliance work (phishing simulations, endpoint detection, SOC 2 / CIS / SEC readiness, due diligence questionnaire support, etc.). That's where our most senior people live, and it's wide open. Who we hope you are The hard requirements — we won't move forward unless you: Can work standard business hours in Eastern or Pacific time zones (we currently need both) Have a quiet home workspace and reliable broadband Have proven Apple aptitude — you actually use and like the Apple ecosystem Have at least 2 years of IT support experience on the job. Go-getters who are just getting started and can prove they have a deep, demonstrable history of teaching themselves technology for the sheer joy of it might also make the cut. ⠀ Everything else — and this is the longer list, on purpose. We figure technical skills are teachable; character takes a lot longer. So we're looking for someone who: Genuinely cares — about clients, teammates, and doing right by people Loves to learn, and proves it in how they spend their time Reads, and writes clearly — clear writing is clear thinking, and you'll do a lot of it Stays calm and kind with a frustrated person on the other end of the line Can tell the difference between good customer service and fantastic customer service, and refuses to settle for the former Notices when something's being done inefficiently and fixes it (you may boast about it later, that’s fine) Proofreads their own work (yes, we noticed whether you proofread your application) Has a sense of humor, and doesn't take themselves too seriously Regarding AI Our company founder/CEO is headquartered in the Bay Area. We work with innovative, ambitious companies developing AI products. Our team members hold a range of opinions about whether AI is “good or bad” for humans, but at the end of the day, we embrace the plain fact that it is here, we must embrace it to evolve, and our clients increasingly depend on us to help them embrace it, too, to help them evolve and stay competitive. Our CEO's opinion: AI will not replace human labor any time soon; rather, AI is a new opportunity to either (a) get things done faster, or (b) get a much higher quality of output than before. If you’re an AI tinkerer, great! We want to hear how you’re using it and see your latest vibe project. If you’re allergic to AI or have no interest in learning new habits to work effectively with it, this is not the place for you. Compensation & logistics Base salary: For applicants closer to the junior side who are located in the USA, $50,000–$65,000/yr, depending on experience level and your local geographical price index. With experience, comp goes up from there. Genuinely experienced, more senior candidates can be slotted higher — let's talk. Applicants outside the USA will be compensated according to your local employment market. Type & location: Full-time, work from home, fully remote. Eastern or Pacific time zones. Benefits: Medical / dental / vision for the employee, 401(k) with employer contribution, 2 weeks of PTO annually to start, and a stipend for your home internet. How to apply The first step is really easy and only takes 10 minutes — no resume, no cover letter, no essays. Here's how: Take this online Culture Index assessment (about 10 minutes): We use it to screen for people whose natural wiring fits how our team works. If your profile lines up with what we're looking for, we'll reach out and ask you to complete a 60-minute TestGorilla assessment for critical thinking skills, send us your resume, and maybe a couple of other items. From there, we conduct between 2-4 video interviews. One of these might be a live technical assessment. If the Culture Index step feels like a strange way to start a job application — that's kind of the point. Remember the phrase Think Different? Ignition is an equal opportunity employer. We welcome and will consider all qualified applicants. Good luck in your search — and may the Force be with you! To apply: https://weworkremotely.com/remote-jobs/ignition-inc-mac-msp-help-desk-guru-work-from-home",
       "date": "Thu, 28 Ma",
       "region": "worldwide",
       "first_seen": "2026-06-17",
@@ -2076,7 +2456,7 @@
       "location": "SÃ£o Paulo, SÃ£o Paulo, SÃ£o Paulo, Brasil",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-administrativo-jr-grupo-ri-happy-1133506",
       "source": "RemoteOK",
-      "description": "Responsabilidades e Atividades ResponsÃ¡vel por executar, acompanhar e apoiar os processos relacionados Ã rotinas administrativas, garantindo qualidade, cumprimento de prazos e aderÃªncia Ã s diretrizes da companhia. Atua no monitoramento de indicadores, elaboraÃ§Ã£o de anÃ¡lises e relatÃ³rios, suporte Ã s Ã¡reas parceiras, identificaÃ§Ã£o de oportunidades de melhoria e contribuiÃ§Ã£o para os resultados do negÃ³cio. Escolaridade Ensino Superior completo ou cursando em Ã¡rea correlata. ExperiÃªncia NecessÃ¡ria MÃ­nimo de 1 ano de experiÃªncia na Ã¡rea. CompetÃªncias Comportamentais Na nossa empresa, o resultado Ã© tÃ£o importante quanto a forma como chegamos atÃ© ele. Por isso, buscamos profissionais que se identifiquem e vivenciem diariamente os nossos valores SUPER. SatisfaÃ§Ã£o em Servir: Aqui, o cliente (interno ou externo) estÃ¡ no centro de tudo. Buscamos pessoas proativas, empÃ¡ticas e que sintam prazer em ajudar, resolver problemas e entregar a melhor experiÃªncia com excelÃªncia e agilidade. Unidos pela DiversÃ£o: Acreditamos que o resultado vem mais rÃ¡pido quando trabalhamos em um ambiente leve, colaborativo e descontraÃ­do. Valorizamos o espÃ­rito de equipe, o respeito mÃºtuo, a celebraÃ§Ã£o das conquistas e a construÃ§Ã£o de um clima positivo. PaixÃ£o pelo NegÃ³cio: Procuramos profissionais com \"atitude de dono\" (accountability), que tenham brilho nos olhos, curiosidade para aprender constantemente e foco em entregar o seu melhor para fazer o negÃ³cio crescer de forma inovadora. EssÃªncia da Simplicidade: Valorizamos o que Ã© prÃ¡tico, direto e focado no que gera valor real. Buscamos pessoas que descompliquem processos, que se comuniquem com clareza e transparÃªncia, e que ajam sempre com humildade. Respeito pelo AmanhÃ£: Agir com Ã©tica, responsabilidade e respeito Ã diversidade Ã© inegociÃ¡vel para nÃ³s. Queremos pessoas comprometidas com o desenvolvimento contÃ­nuo (prÃ³prio e do ecossistema) e com o impacto positivo das suas decisÃµes no futuro da sociedade e do negÃ³cio. CompetÃªncias TÃ©cnicas Conhecimento dos processos de rotinas administrativas; anÃ¡lise de indicadores; elaboraÃ§Ã£o de relatÃ³rios; Pacote Office ou Google Workspace; utilizaÃ§Ã£o de sistemas corporativos; gestÃ£o de processos; capacidade de planejamento, organizaÃ§Ã£o e acompanhamento de resultados. Idiomas NecessÃ¡rios PortuguÃªs fluente Please mention the word **HANDILY** and tag RNTIuMTU0LjEzMS45OA== when applying to show you read the job post completely (#RNTIuMTU0LjEzMS45OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Responsabilidades e Atividades ResponsÃ¡vel por executar, acompanhar e apoiar os processos relacionados Ã rotinas administrativas, garantindo qualidade, cumprimento de prazos e aderÃªncia Ã s diretrizes da companhia. Atua no monitoramento de indicadores, elaboraÃ§Ã£o de anÃ¡lises e relatÃ³rios, suporte Ã s Ã¡reas parceiras, identificaÃ§Ã£o de oportunidades de melhoria e contribuiÃ§Ã£o para os resultados do negÃ³cio. Escolaridade Ensino Superior completo ou cursando em Ã¡rea correlata. ExperiÃªncia NecessÃ¡ria MÃ­nimo de 1 ano de experiÃªncia na Ã¡rea. CompetÃªncias Comportamentais Na nossa empresa, o resultado Ã© tÃ£o importante quanto a forma como chegamos atÃ© ele. Por isso, buscamos profissionais que se identifiquem e vivenciem diariamente os nossos valores SUPER. SatisfaÃ§Ã£o em Servir: Aqui, o cliente (interno ou externo) estÃ¡ no centro de tudo. Buscamos pessoas proativas, empÃ¡ticas e que sintam prazer em ajudar, resolver problemas e entregar a melhor experiÃªncia com excelÃªncia e agilidade. Unidos pela DiversÃ£o: Acreditamos que o resultado vem mais rÃ¡pido quando trabalhamos em um ambiente leve, colaborativo e descontraÃ­do. Valorizamos o espÃ­rito de equipe, o respeito mÃºtuo, a celebraÃ§Ã£o das conquistas e a construÃ§Ã£o de um clima positivo. PaixÃ£o pelo NegÃ³cio: Procuramos profissionais com \"atitude de dono\" (accountability), que tenham brilho nos olhos, curiosidade para aprender constantemente e foco em entregar o seu melhor para fazer o negÃ³cio crescer de forma inovadora. EssÃªncia da Simplicidade: Valorizamos o que Ã© prÃ¡tico, direto e focado no que gera valor real. Buscamos pessoas que descompliquem processos, que se comuniquem com clareza e transparÃªncia, e que ajam sempre com humildade. Respeito pelo AmanhÃ£: Agir com Ã©tica, responsabilidade e respeito Ã diversidade Ã© inegociÃ¡vel para nÃ³s. Queremos pessoas comprometidas com o desenvolvimento contÃ­nuo (prÃ³prio e do ecossistema) e com o impacto positivo das suas decisÃµes no futuro da sociedade e do negÃ³cio. CompetÃªncias TÃ©cnicas Conhecimento dos processos de rotinas administrativas; anÃ¡lise de indicadores; elaboraÃ§Ã£o de relatÃ³rios; Pacote Office ou Google Workspace; utilizaÃ§Ã£o de sistemas corporativos; gestÃ£o de processos; capacidade de planejamento, organizaÃ§Ã£o e acompanhamento de resultados. Idiomas NecessÃ¡rios PortuguÃªs fluente Please mention the word **HANDILY** and tag RMTMuODMuMTYxLjg2 when applying to show you read the job post completely (#RMTMuODMuMTYxLjg2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-16",
       "region": "brazil",
       "first_seen": "2026-06-17",
