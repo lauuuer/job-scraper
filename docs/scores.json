@@ -1,5 +1,5 @@
 {
-  "scored_at": "2026-06-18",
+  "scored_at": "2026-06-19",
   "rubric": "fit 0-10 = holistico; stack/seniority/domain 0-10 por fator",
   "scores": {
     "wwr-https://weworkremotely.com/remote-jobs/revvity-principal-devops-engineer-build-release-and-cloud-automation": {
@@ -1401,6 +1401,251 @@
       "seniority": 8,
       "domain": 6,
       "note": "Senior Independent Software Developer (A.Team) - marketplace top-tier de dev senior"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/aura-devops-engineer": {
+      "fit": 1.5,
+      "stack": 2,
+      "seniority": 5,
+      "domain": 1,
+      "note": "DevOps/IaC puro (infra as code) — deal-breaker de infra"
+    },
+    "wwr-https://weworkremotely.com/remote-jobs/assuresoft-devops-engineer": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "DevOps AWS/GCP/K8s/IaC — deal-breaker de infra em escala"
+    },
+    "jobicy-144179": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Go/event-driven que ele faz, mas foco em Kafka/distribuido resiliente em escala"
+    },
+    "adzuna-5769277531": {
+      "fit": 3.5,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 3,
+      "note": "QA/test automation (Java/Appium/Selenium) — fora do core full-stack"
+    },
+    "adzuna-5769277533": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 1,
+      "note": "Sysadmin infra (Windows Server/VMware/RDS/PowerShell) — fora de escopo"
+    },
+    "adzuna-5769277232": {
+      "fit": 2.0,
+      "stack": 2,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Salesforce dev (Apex/LWC) — stack que ele nao faz"
+    },
+    "adzuna-5769276366": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 5,
+      "domain": 2,
+      "note": "Kotlin nativo (mobile) — deal-breaker de native mobile"
+    },
+    "adzuna-5769276363": {
+      "fit": 6.0,
+      "stack": 7,
+      "seniority": 5,
+      "domain": 5,
+      "note": "TS e core dele; vaga e mobile mas RN/TS encaixa"
+    },
+    "adzuna-5769277700": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Laravel/PHP backend (healthcare) — stack que ele faz, senior"
+    },
+    "adzuna-5769276223": {
+      "fit": 5.5,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Python senior que ele faz; descricao generica INDI"
+    },
+    "adzuna-5769276282": {
+      "fit": 3.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 3,
+      "note": "DevOps/IaC com stack PHP/Laravel/MySQL que ele conhece, mas papel e infra"
+    },
+    "adzuna-5769277381": {
+      "fit": 4.0,
+      "stack": 4,
+      "seniority": 6,
+      "domain": 4,
+      "note": "Analytics/data engineer — perto, mas nao e o core full-stack/LLM dele"
+    },
+    "adzuna-5769276365": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 6,
+      "domain": 5,
+      "note": "Angular (small/mid ele faz com cautela em legado grande)"
+    },
+    "adzuna-5769277762": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 2,
+      "note": "Android nativo — deal-breaker de native mobile"
+    },
+    "adzuna-5769277278": {
+      "fit": 1.0,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 1,
+      "note": "SRE OpenShift/Kubernetes — deal-breaker de infra em escala"
+    },
+    "adzuna-5769276290": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 5,
+      "domain": 7,
+      "note": "Agentes IA/integracoes API/pipelines — dominio dele; mas hibrido e stack MS Copilot"
+    },
+    "adzuna-5769277292": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 7,
+      "note": "Front senior em produto de IA (visibilidade em LLMs) — bem alinhado"
+    },
+    "adzuna-5769276269": {
+      "fit": 5.0,
+      "stack": 6,
+      "seniority": 3,
+      "domain": 5,
+      "note": ".NET que ele faz, mas nivel junior (abaixo do alvo senior)"
+    },
+    "adzuna-5769276303": {
+      "fit": 7.0,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 6,
+      "note": "Frontend senior — core dele (React/TS)"
+    },
+    "adzuna-5769277518": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 5,
+      "note": "Backend Java/Node microservices/event-driven — Node e core, Java ok"
+    },
+    "remoteok-1133583": {
+      "fit": 2.5,
+      "stack": 2,
+      "seniority": 4,
+      "domain": 2,
+      "note": "Customer Success (Pleno) — nao e eng/support tecnico"
+    },
+    "adzuna-5768013180": {
+      "fit": 0.5,
+      "stack": 0,
+      "seniority": 5,
+      "domain": 0,
+      "note": "Engenheiro de linhas de transmissao eletrica — totalmente fora de escopo"
+    },
+    "adzuna-5768014047": {
+      "fit": 3.0,
+      "stack": 2,
+      "seniority": 4,
+      "domain": 4,
+      "note": "Desktop/onsite support (hardware) — tem background support mas e presencial e nao-software"
+    },
+    "adzuna-5768014001": {
+      "fit": 6.5,
+      "stack": 6,
+      "seniority": 5,
+      "domain": 6,
+      "note": "Support tecnico em APIs financeiras — alinha background support+fintech"
+    },
+    "adzuna-5768536303": {
+      "fit": 5.0,
+      "stack": 5,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Senior API Developer (industria de energia) — backend ok, dominio distante"
+    },
+    "adzuna-5768398961": {
+      "fit": 5.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 4,
+      "note": "Senior Java — stack ok, mas vaga base na Romenia"
+    },
+    "remoteok-1133550": {
+      "fit": 0.0,
+      "stack": 0,
+      "seniority": 0,
+      "domain": 0,
+      "note": "Paralegal — area juridica, nao e tech"
+    },
+    "adzuna-5753041663": {
+      "fit": 6.5,
+      "stack": 6,
+      "seniority": 5,
+      "domain": 7,
+      "note": "Agentes IA/interfaces conversacionais/integracoes — dominio forte"
+    },
+    "adzuna-5768011959": {
+      "fit": 3.0,
+      "stack": 3,
+      "seniority": 5,
+      "domain": 4,
+      "note": "ServiceNow APM (tem background ServiceNow) mas exige base em Valencia"
+    },
+    "adzuna-5767606028": {
+      "fit": 0.5,
+      "stack": 0,
+      "seniority": 5,
+      "domain": 0,
+      "note": "Proposal engineer eletrica/automacao — fora de escopo"
+    },
+    "adzuna-5768013031": {
+      "fit": 4.5,
+      "stack": 4,
+      "seniority": 5,
+      "domain": 5,
+      "note": "ML em Databricks — IA, mas mais data/ML que o LLM-eng dele"
+    },
+    "adzuna-5768011780": {
+      "fit": 7.5,
+      "stack": 7,
+      "seniority": 6,
+      "domain": 7,
+      "note": "Full-stack + uso intenso de IA em fundo de investimento — bem alinhado"
+    },
+    "adzuna-5768013540": {
+      "fit": 1.5,
+      "stack": 1,
+      "seniority": 6,
+      "domain": 3,
+      "note": "iOS nativo (Swift/ObjC) — deal-breaker de native mobile, ainda que payments/RN"
+    },
+    "adzuna-5767035411": {
+      "fit": 4.5,
+      "stack": 5,
+      "seniority": 6,
+      "domain": 4,
+      "note": "SDE Amazon escala massiva — fora do sweet spot dele"
+    },
+    "adzuna-5735286290": {
+      "fit": 8.0,
+      "stack": 8,
+      "seniority": 7,
+      "domain": 8,
+      "note": "Full-stack TS em pagamentos/fintech/compliance remoto — encaixe muito bom"
     }
   }
 }
