@@ -35,6 +35,10 @@ class JobFilter:
         self.exclude_title = _compile(config.get("exclude_title_keywords", []))
         self.exclude_text = _compile(config.get("exclude_keywords", []))
         self.region_block = _compile(config.get("region_block_keywords", []))
+        # Remoto: fontes não-remote-first (Adzuna) precisam de sinal de remoto.
+        self.remote_required = {s.lower() for s in config.get("remote_required_sources", [])}
+        self.remote_keywords = [t.lower() for t in config.get("remote_keywords", [])]
+        self.onsite_block = _compile(config.get("onsite_block_keywords", []))
         self.regions = {
             label: [t.lower() for t in terms]
             for label, terms in config.get("region_keywords", {}).items()
@@ -71,6 +75,16 @@ class JobFilter:
         geo = title + " " + (job.get("location") or "").lower() + " " + (job.get("description") or "").lower()
         if any(p.search(geo) for p in self.region_block):
             return False, "vaga geo-travada (não worldwide/brazil)"
+
+        # Remoto: fontes gerais por país (Adzuna) trazem vaga presencial. Para
+        # elas, exige sinal de remoto e barra presencial/híbrido (queremos 100%).
+        if (job.get("source") or "").lower() in self.remote_required:
+            hay = title + " " + (job.get("location") or "").lower() + " " + (job.get("description") or "").lower()
+            if not any(t in hay for t in self.remote_keywords):
+                return False, "sem sinal de remoto (fonte não-remote-first)"
+            # presencial/híbrido em qualquer parte desqualifica (queremos 100% remoto)
+            if any(p.search(hay) for p in self.onsite_block):
+                return False, "presencial/híbrido"
 
         region = self.classify_region(job.get("location", ""))
         if region == "other":

@@ -53,6 +53,18 @@
     "canada only", "india only", "australia only", "germany only", "emea only"
   ],
 
+  "_remote": "Fontes remote-first (RemoteOK, WWR...) já são 100% remotas. Fontes gerais por país (Adzuna) trazem presencial — para elas exigimos um sinal de remoto no título/local/descrição e barramos presencial/híbrido.",
+  "remote_required_sources": ["adzuna"],
+  "remote_keywords": [
+    "remote", "remoto", "remota", "remotely", "remote-first", "remote first",
+    "home office", "home-office", "trabalho remoto", "totalmente remoto",
+    "100% remoto", "100% remota", "anywhere", "work from home", "wfh",
+    "teletrabalho", "trabalhe de casa", "fully remote"
+  ],
+  "onsite_block_keywords": [
+    "presencial", "híbrido", "hibrido", "on-site", "on site", "onsite", "hybrid"
+  ],
+
   "keep_unknown_region": true,
 
   "sources": {
