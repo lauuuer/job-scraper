@@ -67,6 +67,23 @@ Edite [`config.json`](config.json):
 - ligue/desligue fontes em `sources`.
 - ajuste o dedup em `dedup` (`title_similarity`, `description_similarity`).
 
+#### Garantir que só entre vaga remota
+
+Fontes remote-first (RemoteOK, WWR, Remotive...) já são 100% remotas. Mas fontes
+gerais por país (Adzuna) trazem vaga **presencial/híbrida**. Para essas, exigimos
+um sinal explícito de remoto e barramos presencial/híbrido:
+
+- `remote_required_sources`: fontes (em minúsculas) que precisam provar que são
+  remotas — ex.: `["adzuna"]`. As demais fontes passam sem essa checagem.
+- `remote_keywords`: termos que valem como "é remoto" (busca em título + local +
+  descrição) — ex.: `remoto`, `home office`, `100% remoto`, `anywhere`, `remote`.
+  Se nenhum aparecer, a vaga é descartada.
+- `onsite_block_keywords`: termos que **derrubam** a vaga (presencial/híbrido) —
+  ex.: `presencial`, `híbrido`, `on-site`, `hybrid`. Vale para 100% remoto.
+
+O filtro prioriza precisão (não mostrar presencial); como o Adzuna às vezes trunca
+a descrição, uma vaga remota que não cite "remoto" em lugar nenhum pode ser perdida.
+
 ### Ligar o Adzuna (vagas por país, incl. Brasil)
 
 1. Crie uma conta grátis em https://developer.adzuna.com/ e pegue `app_id` + `app_key`.

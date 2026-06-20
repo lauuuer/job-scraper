@@ -1,5 +1,5 @@
 {
-  "scored_at": "2026-06-19",
+  "scored_at": "2026-06-20",
   "rubric": "fit 0-10 = holistico; stack/seniority/domain 0-10 por fator",
   "scores": {
     "wwr-https://weworkremotely.com/remote-jobs/revvity-principal-devops-engineer-build-release-and-cloud-automation": {
@@ -1646,6 +1646,41 @@
       "seniority": 7,
       "domain": 8,
       "note": "Full-stack TS em pagamentos/fintech/compliance remoto — encaixe muito bom"
+    },
+    "himalayas-https://himalayas.app/companies/eshop-guide/jobs/midlevel-full-stack-developer-ruby-on-rails-react-m-w-d-2080518212": {
+      "fit": 4.5,
+      "stack": 5,
+      "seniority": 6,
+      "domain": 6,
+      "note": "Ruby on Rails (caution p/ você) + React/Shopify apps; mid-level; descrição em alemão (DACH)"
+    },
+    "remoteok-1133690": {
+      "fit": 3.0,
+      "stack": 2,
+      "seniority": 4,
+      "domain": 4,
+      "note": "Analista de Relacionamento com Cliente Jr (BR) — não é dev; só tangencia seu bg de suporte"
+    },
+    "adzuna-5769277698": {
+      "fit": 6.0,
+      "stack": 6,
+      "seniority": 7,
+      "domain": 5,
+      "note": "PHP Senior remoto (você faz PHP/Laravel); agência de staffing LATAM (INDI), times distribuídos"
+    },
+    "adzuna-5769277375": {
+      "fit": 6.5,
+      "stack": 7,
+      "seniority": 7,
+      "domain": 5,
+      "note": "React Native Senior remoto (você faz RN/Expo); staffing LATAM (INDI)"
+    },
+    "remoteok-1133667": {
+      "fit": 7.5,
+      "stack": 8,
+      "seniority": 8,
+      "domain": 7,
+      "note": "Senior Backend + IA (Studio AI); plataforma de subscription p/ criadores; backend+IA é seu nicho"
     }
   }
 }
