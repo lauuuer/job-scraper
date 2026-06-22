@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T11:45:32+00:00",
-  "count": 145,
-  "new_today": 7,
+  "generated_at": "2026-06-22T14:39:16+00:00",
+  "count": 147,
+  "new_today": 2,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,32 @@
   ],
   "jobs": [
     {
+      "id": "adzuna-5771866426",
+      "title": "AI Curriculum Designer & Developer",
+      "company": "Talent Global LLC",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5771866426?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=8167385FD6E2A9C6D51ADA1DCBB571EBCDEAA76A",
+      "source": "Adzuna",
+      "description": "AI Curriculum Designer & Developer Commitment : Full-Time (40 Hours/Week )Location : Remot eWork Schedule : Overlap with U.S. business hours preferre d About UsTalent Global connects high-performing remote professionals with fast-growing international companies. We focus on long-term partnerships, cultural alignment, and helping exceptional talent thrive in impactful role s. Role Overv iewWe are looking for an AI Curriculum Designer & Developer to join a fast-growing education-focused organizat…",
+      "date": "2026-06-21",
+      "region": "brazil",
+      "first_seen": "2026-06-22",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5771866312",
+      "title": "Full Stack Developer Senior",
+      "company": "My Trusted Source",
+      "location": "Botucatu, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5771866312?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=FC89C32FF39D3D7E86452198A67DC98A535BDBE6",
+      "source": "Adzuna",
+      "description": "Vaga: Full Stack Developer - Senior (100% Remoto) | MyTS Brasil Nós da MyTS estamos em busca de uma pessoa desenvolvedora Full Stack Senior para construir e evoluir produtos digitais usados em processos críticos de negócio. Se você tem autonomia para propor soluções, deseja atuar em um ambiente moderno de engenharia e quer liderar tecnicamente um time focado em excelência, essa vaga é para você! Sobre a MyTS A MyTS (My Trusted Source) conecta consumidores, compradores, fornecedores e prestador…",
+      "date": "2026-06-21",
+      "region": "brazil",
+      "first_seen": "2026-06-22",
+      "is_new": true
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/canonical/jobs/technical-author-multiple-roles-and-seniority-levels",
       "title": "Technical Author (multiple roles and seniority levels)",
       "company": "Canonical",
@@ -24,33 +50,33 @@
       "date": "2026-06-21",
       "region": "unknown",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5770810586",
       "title": "iOS Developer",
       "company": "GeorgiaTEK Systems Inc.",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5770810586?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=B3B724E5079E9B302E270A696CCAA209E9A5BD49",
+      "url": "https://www.adzuna.com.br/land/ad/5770810586?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=B3B724E5079E9B302E270A696CCAA209E9A5BD49",
       "source": "Adzuna",
       "description": "Position: IOS Developer Location: Remote Responsibilities •Develop and enhance iOS application features in collaboration with senior engineers •Implement device communication modules and application logic • Participate in testing, debugging, and code review Requirements • Experience in Swift and iOS S • Working knowledge of BLE communication and sensor-based integration • Familiarity with API integration and asynchronous programming •Exposure to modular architecture / KMP is a plus •Strong debu…",
       "date": "2026-06-20",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5770810277",
       "title": "Remote AI Automation Engineer",
       "company": "Turing",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5770810277?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=481BF2A45266E187729FB740D145F2A73E4BD360",
+      "url": "https://www.adzuna.com.br/land/ad/5770810277?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=481BF2A45266E187729FB740D145F2A73E4BD360",
       "source": "Adzuna",
       "description": "A rapidly growing technology consulting organization is seeking a Senior AI Automation Engineer to design, build, and deploy production-grade AI agents that automate complex business processes. This is a hands-on role for someone who can bridge operational workflow design with applied AI engineering, taking ownership of projects from process discovery through production deployment. The ideal candidate will analyze current-state business operations, redesign workflows for automation, architect m…",
       "date": "2026-06-20",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5771224021",
@@ -63,7 +89,7 @@
       "date": "2026-06-20",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5746050837",
@@ -76,20 +102,20 @@
       "date": "2026-05-30",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5744638695",
       "title": "Deskside Support Engineer",
       "company": "TECEZE",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5744638695?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=BD2BE11BC9451464B1F99D61EBAFDA259A54A063",
+      "url": "https://www.adzuna.com.br/land/ad/5744638695?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=BD2BE11BC9451464B1F99D61EBAFDA259A54A063",
       "source": "Adzuna",
       "description": "Job Description: Basic Knowledge of Network Devices such as Switches, Routers, Wireless Access Points preferably CISCO, Riverbed • Basics knowledge / understanding of assigning switch ports to specific VLANs • Patch phone ports to switch as needed • Basic troubleshooting of Avaya VOIP phones (knowledge on basic configuration) • Troubleshoot issues with fiber links between switches – Able to visualize errors and communicate to remote technical teams • Troubleshoot and replace network switch chas…",
       "date": "2026-05-29",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5741762316",
@@ -102,7 +128,7 @@
       "date": "2026-05-26",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/eshop-guide/jobs/midlevel-full-stack-developer-ruby-on-rails-react-m-w-d-2080518212",
@@ -124,7 +150,7 @@
       "location": "Brasil,",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-de-relacionamento-com-o-cliente-jr-remoto-shopper-com-br-1133690",
       "source": "RemoteOK",
-      "description": "Anunciada 22:38:13. Aqui ninguÃ©m usa terno, gravata ou camisa. NÃ£o seguimos padrÃµes sem sentido!O ambiente Ã© informal eâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **FAULTLESS** and tag RNDAuNzYuMjM4LjE3Ng== when applying to show you read the job post completely (#RNDAuNzYuMjM4LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Anunciada 22:38:13. Aqui ninguÃ©m usa terno, gravata ou camisa. NÃ£o seguimos padrÃµes sem sentido!O ambiente Ã© informal eâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **FAULTLESS** and tag RMTcyLjE4NC4xNzMuMjQz when applying to show you read the job post completely (#RMTcyLjE4NC4xNzMuMjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-19",
       "region": "brazil",
       "first_seen": "2026-06-20",
@@ -135,7 +161,7 @@
       "title": "PHP Developer - Remote Work",
       "company": "INDI Staffing Services",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277698?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=5FA7FA6286408FB0A58AE00D84CFB2406CEE9844",
+      "url": "https://www.adzuna.com.br/land/ad/5769277698?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=5FA7FA6286408FB0A58AE00D84CFB2406CEE9844",
       "source": "Adzuna",
       "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for PHP Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passi…",
       "date": "2026-06-19",
@@ -152,7 +178,7 @@
       "title": "React Native Developer - Remote Work",
       "company": "INDI Staffing Services",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277375?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=C0A78B270F6148FAA7B6210B2534ADE548D6AE4E",
+      "url": "https://www.adzuna.com.br/land/ad/5769277375?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=C0A78B270F6148FAA7B6210B2534ADE548D6AE4E",
       "source": "Adzuna",
       "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for React Native Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team play…",
       "date": "2026-06-19",
@@ -167,7 +193,7 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
       "source": "RemoteOK",
-      "description": "Remote - About Creative FabricaCreative Fabrica is a subscription platform serving millions of creators, designers, and crafters worldwide. We're built on the principle that everyone can be creative. We remove what stands in the way: expensive software, technical expertise, an... Please mention the word **PROLIFIC** and tag RNDAuNzYuMjM4LjE3Ng== when applying to show you read the job post completely (#RNDAuNzYuMjM4LjE3Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Remote - About Creative FabricaCreative Fabrica is a subscription platform serving millions of creators, designers, and crafters worldwide. We're built on the principle that everyone can be creative. We remove what stands in the way: expensive software, technical expertise, an... Please mention the word **PROLIFIC** and tag RMTcyLjE4NC4xNzMuMjQz when applying to show you read the job post completely (#RMTcyLjE4NC4xNzMuMjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-18",
       "region": "unknown",
       "first_seen": "2026-06-20",
@@ -559,7 +585,7 @@
       "title": "Full Stack Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
+      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
       "source": "Adzuna",
       "description": "This is a Mid-Level Full Stack Developer role, can sit fully remote, PJ model and salary range is 19-24/hr USD. Must-Haves: • 3 years of professional experience as a Full-Stack Developer (initially backend-heavy, evolving into 50/50 full-stack) • Front-End: JavaScript, TypeScript, React, Redux, CSS – primarily building new components (70%) and modifying existing ones (30%) • Back-End: Java, Spring Boot, REST APIs, Postman, SQL – building APIs, creating controllers, handling DB integration, and …",
       "date": "2026-06-13",
@@ -572,7 +598,7 @@
       "title": "Shopify Developer (Remote | PJ)",
       "company": "Hays",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762118436?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=0FD0C9698B4A3083DB60115B43C50BCE78E81657",
+      "url": "https://www.adzuna.com.br/land/ad/5762118436?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=0FD0C9698B4A3083DB60115B43C50BCE78E81657",
       "source": "Adzuna",
       "description": "100% Remote PJ / Contractor Fluent English Shopify Developer (B2B / B2C) Top Skills / Requirements • Solid experience as a Shopify Developer • Must possess strong experience and proficiency with responsive web design and mobile optimization • Must possess strong experience and proficiency with theme development and customization in the Shopify ecosystem • Must possess strong knowledge of front-end technologies including HTML, CSS, and JavaScript • Must possess strong experience with version con…",
       "date": "2026-06-13",
@@ -611,7 +637,7 @@
       "title": "Senior React Native Developer",
       "company": "Sigma Software Group",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=CCTHs2Zt8RGl0MKcaJBBpg&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
+      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=GJaTI0hu8RG_Mv9wLoC0nQ&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
       "source": "Adzuna",
       "description": "Are you a Senior React Native Developer passionate about building high-quality mobile applications with seamless user experiences? This role offers the opportunity to work remotely from anywhere in Brazil while collaborating with a multicultural team on innovative global projects. At Sigma Software, we are looking for a skilled professional to join our team and contribute to the development of engaging iOS and Android applications for international products. You’ll work in a dynamic environment…",
       "date": "2026-05-31",
