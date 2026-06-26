@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T11:39:44+00:00",
-  "count": 177,
-  "new_today": 10,
+  "generated_at": "2026-06-26T11:44:12+00:00",
+  "count": 184,
+  "new_today": 7,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,97 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/wonderdog-senior-full-stack-engineer-agentic-first",
+      "title": "Senior Full-Stack Engineer — Agentic-First",
+      "company": "Wonderdog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/wonderdog-senior-full-stack-engineer-agentic-first",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Los Angeles URL: https://www.wonderdoghealth.com/ Wonder Dog is building an AI-powered preventative health platform for dogs. Small team, fast pace, we ship daily. We're looking for a senior full-stack engineer who's all in on an agentic-first workflow. That means you're comfortable letting Claude and Cursor write the bulk of the code while you direct, review, and ship it. You have strong judgment about what good code looks like, you move fast, and you can chug through tickets without hand-holding. Our stack is React / TypeScript, but how you work matters more than the stack. What we're looking for: Strong grasp of web app architecture Comfortable with git and working in a monorepo Good communicator who writes clearly Experience with API design You don't need to be a CTO. You need to be smart, senior, and get a lot done. To apply: email your resume and a link to your GitHub To apply: https://weworkremotely.com/remote-jobs/wonderdog-senior-full-stack-engineer-agentic-first",
+      "date": "Thu, 25 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5777615909",
+      "title": "Frontend Developer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5777615909?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=0C842D2E9EA34A6710DF56D2CC41E7D0A4B8C607",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for Frontend Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team …",
+      "date": "2026-06-26",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5777615319",
+      "title": "Learning Content Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5777615319?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=CA86A014118B176832A03F06D2DCF4F46339C660",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role The Learning Content Developer will be responsible for designing and delivering impactful learning experiences that help our recruiters and Talent Acquisition professionals prepare, develop, and excel in their roles. Working at t…",
+      "date": "2026-06-26",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5777615241",
+      "title": "Junior Python Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5777615241?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=B49C0046EF6441DD1864DBB2566C2E4D1A3FF7B0",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Junior Python Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players pa…",
+      "date": "2026-06-26",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "remoteok-1134061",
+      "title": "Field Reliability Engineer LATAM",
+      "company": "Honeycomb.io",
+      "location": "Brazil",
+      "url": "https://remoteOK.com/remote-jobs/remote-field-reliability-engineer-latam-honeycomb-io-1134061",
+      "source": "RemoteOK",
+      "description": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023! If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases. Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Platform Engineering - Managed Services & Infrastructure Own and operate customer-facing managed infrastructure including Refinery as a Service (RaaS) and Honeycomb Private Cloud (HnyPC) deployments across multiple AWS accounts and regions. Build and maintain Terraform modules, Helm charts, and deployment automation for provisioning and man Please mention the word **EXHILARATINGLY** and tag RMTM1LjIzMi4yMTYuNTA= when applying to show you read the job post completely (#RMTM1LjIzMi4yMTYuNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-06-25",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "workingnomads-https://www.workingnomads.com/job/go/1691057/",
+      "title": "Senior Swift & SwiftUI Developer",
+      "company": "Lemon.io",
+      "location": "Europe, North America, Latin America, APAC",
+      "url": "https://www.workingnomads.com/job/go/1691057/",
+      "source": "WorkingNomads",
+      "description": "Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Requirements: 5+ years of software development experience 5+ years of experience with Swift 3+ years of experience with SwiftUI Experience developing applications for macOS, iOS, and watchOS Experience with AVKit is a must Strong understanding of Apple platforms and frameworks Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "date": "2026-06-25",
+      "region": "latam",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5776668271",
+      "title": "Lead Software Developer",
+      "company": "LawnStarter",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5776668271?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Lead Software Engineer We’re urgently hiring a Lead Software Engineer to join our growing LATAM-based remote team. Interviews this week! Help Us Build the Future of Outdoor Services At LawnStarter, we’re transforming the $100B outdoor home services industry—making it easier for homeowners to book, manage, and enjoy services like lawn care, landscaping, and more. With $30M in venture funding and solid traction, we’re investing in the next generation of our platform—and we’re looking for a Lead S…",
+      "date": "2026-06-25",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/io-global-devops-engineer-midnight-foundation",
       "title": "DevOps Engineer - Midnight Foundation",
       "company": "IO Global",
@@ -24,7 +115,7 @@
       "date": "Wed, 24 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/agilent-technologies-devops-platform-engineer-aws-ci-cd",
@@ -37,7 +128,7 @@
       "date": "Wed, 24 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/mindrift-freelance-full-stack-web-app-developer",
@@ -50,7 +141,7 @@
       "date": "Wed, 24 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-147723",
@@ -63,7 +154,7 @@
       "date": "2026-06-25",
       "region": "worldwide",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5776216315",
@@ -76,7 +167,7 @@
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5776216314",
@@ -89,7 +180,7 @@
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5776215854",
@@ -102,7 +193,20 @@
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5774970798",
+      "title": "StarRocks Database Engineer (DBE) - Remote",
+      "company": "Deep.BI",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=UlntWFRx8RGKY_-n7sY3YA&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
+      "source": "Adzuna",
+      "description": "Database Engineer (DBE) – Enterprise Open-Source Support Location: Remote (South & Central America, US Working Hours) Department: Engineering - Open Source Database support Reports to: CTO / VP Engineering Role Overview As a Senior Database Engineer (DBE), you will be the core L3/L4 technical expert responsible for solving the most complex database problems our customers face in production with an emphasis on supporting StarRocks clusters. You’ll dive deep into query optimization, ingestion pip…",
+      "date": "2026-06-24",
+      "region": "brazil",
+      "first_seen": "2026-06-25",
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/infios/jobs/service-desk-analyst",
@@ -115,7 +219,7 @@
       "date": "2026-06-24",
       "region": "brazil",
       "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/mediastream/jobs/devops-engineer",
@@ -128,20 +232,7 @@
       "date": "2026-06-24",
       "region": "unknown",
       "first_seen": "2026-06-25",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5774970798",
-      "title": "StarRocks Database Engineer (DBE) - Remote",
-      "company": "Deep.BI",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
-      "source": "Adzuna",
-      "description": "Database Engineer (DBE) – Enterprise Open-Source Support Location: Remote (South & Central America, US Working Hours) Department: Engineering - Open Source Database support Reports to: CTO / VP Engineering Role Overview As a Senior Database Engineer (DBE), you will be the core L3/L4 technical expert responsible for solving the most complex database problems our customers face in production with an emphasis on supporting StarRocks clusters. You’ll dive deep into query optimization, ingestion pip…",
-      "date": "2026-06-24",
-      "region": "brazil",
-      "first_seen": "2026-06-25",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1687329/",
@@ -213,19 +304,6 @@
       "dup_count": 1
     },
     {
-      "id": "remoteok-1133902",
-      "title": "Analista de Atendimento Jr Remoto",
-      "company": "nstech",
-      "location": "Brasil,",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-jr-remoto-nstech-1133902",
-      "source": "RemoteOK",
-      "description": "Anunciada 00:00:00. Objetivo do CargoAtuar no atendimento tÃ©cnico especializado aos clientes do sistema TMS, realizandoâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **EXCEPTIONALLY** and tag RNTIuMjM0LjQxLjcx when applying to show you read the job post completely (#RNTIuMjM0LjQxLjcx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "date": "2026-06-23",
-      "region": "brazil",
-      "first_seen": "2026-06-24",
-      "is_new": false
-    },
-    {
       "id": "remotive-2090994",
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -295,9 +373,22 @@
       "title": "Full Stack Engineer (AI)",
       "company": "OttoMate",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5773420142?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=A95E8DF218A8D7A5DE026C766DD4550D7A0D4290",
+      "url": "https://www.adzuna.com.br/land/ad/5773420142?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=A95E8DF218A8D7A5DE026C766DD4550D7A0D4290",
       "source": "Adzuna",
       "description": "AI-Native Full-Stack Developer Go • React • AWS • Cloudflare Edge Full-Time Contractor | Long-Term Opportunity Details: Location: 100% remote — Brazil only Type: Full-time contractor Schedule: 40 hours per week Compensation: ($4000 to $7000 USD) Competitive monthly contractor rate in USD, based on experience Duration: Long-term engagement Language: Strong English communication required Start Date: As soon as possible, depending on availability About the Opportunity OttoMate Global is hiring an …",
+      "date": "2026-06-23",
+      "region": "brazil",
+      "first_seen": "2026-06-24",
+      "is_new": false
+    },
+    {
+      "id": "remoteok-1133902",
+      "title": "Analista de Atendimento Jr Remoto",
+      "company": "nstech",
+      "location": "Brasil,",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-atendimento-jr-remoto-nstech-1133902",
+      "source": "RemoteOK",
+      "description": "Anunciada 00:00:00. Objetivo do CargoAtuar no atendimento tÃ©cnico especializado aos clientes do sistema TMS, realizandoâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **EXCEPTIONALLY** and tag RNTIuMjM0LjQxLjcx when applying to show you read the job post completely (#RNTIuMjM0LjQxLjcx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-23",
       "region": "brazil",
       "first_seen": "2026-06-24",
@@ -451,19 +542,6 @@
       "is_new": false
     },
     {
-      "id": "adzuna-5770810586",
-      "title": "iOS Developer",
-      "company": "GeorgiaTEK Systems Inc.",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5770810586?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=B3B724E5079E9B302E270A696CCAA209E9A5BD49",
-      "source": "Adzuna",
-      "description": "Position: IOS Developer Location: Remote Responsibilities •Develop and enhance iOS application features in collaboration with senior engineers •Implement device communication modules and application logic • Participate in testing, debugging, and code review Requirements • Experience in Swift and iOS S • Working knowledge of BLE communication and sensor-based integration • Familiarity with API integration and asynchronous programming •Exposure to modular architecture / KMP is a plus •Strong debu…",
-      "date": "2026-06-20",
-      "region": "brazil",
-      "first_seen": "2026-06-21",
-      "is_new": false
-    },
-    {
       "id": "adzuna-5771224021",
       "title": "Angular Developer - Remote",
       "company": "YO HR Consultancy",
@@ -471,6 +549,19 @@
       "url": "https://www.adzuna.com.br/details/5771224021?utm_medium=api&utm_source=bd0bee3e",
       "source": "Adzuna",
       "description": "Job Type : Contractor Location : Remote Role Description: As an Angular Engineer, you will work remotely on an hourly paid basis to review AI-generated Angular code, frontend architectures, and technical explanations, as well as produce high-quality reference implementations and step-by-step reasoning for complex engineering problems. You will assess solutions for correctness, clarity, accessibility, security, performance, and adherence to the prompt; identify issues in Angular change detection…",
+      "date": "2026-06-20",
+      "region": "brazil",
+      "first_seen": "2026-06-21",
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5770810586",
+      "title": "iOS Developer",
+      "company": "GeorgiaTEK Systems Inc.",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5770810586?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=B3B724E5079E9B302E270A696CCAA209E9A5BD49",
+      "source": "Adzuna",
+      "description": "Position: IOS Developer Location: Remote Responsibilities •Develop and enhance iOS application features in collaboration with senior engineers •Implement device communication modules and application logic • Participate in testing, debugging, and code review Requirements • Experience in Swift and iOS S • Working knowledge of BLE communication and sensor-based integration • Familiarity with API integration and asynchronous programming •Exposure to modular architecture / KMP is a plus •Strong debu…",
       "date": "2026-06-20",
       "region": "brazil",
       "first_seen": "2026-06-21",
@@ -507,7 +598,7 @@
       "title": "Deskside Support Engineer",
       "company": "TECEZE",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5744638695?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=BD2BE11BC9451464B1F99D61EBAFDA259A54A063",
+      "url": "https://www.adzuna.com.br/land/ad/5744638695?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=BD2BE11BC9451464B1F99D61EBAFDA259A54A063",
       "source": "Adzuna",
       "description": "Job Description: Basic Knowledge of Network Devices such as Switches, Routers, Wireless Access Points preferably CISCO, Riverbed • Basics knowledge / understanding of assigning switch ports to specific VLANs • Patch phone ports to switch as needed • Basic troubleshooting of Avaya VOIP phones (knowledge on basic configuration) • Troubleshoot issues with fiber links between switches – Able to visualize errors and communicate to remote technical teams • Troubleshoot and replace network switch chas…",
       "date": "2026-05-29",
@@ -624,6 +715,125 @@
       "is_new": false
     },
     {
+      "id": "adzuna-5769276366",
+      "title": "Kotlin Developer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276366?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4E56AD6C02D67277CD8F174F38F9DC40A5F9BCFE",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for Kotlin developers to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about pr…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 2
+    },
+    {
+      "id": "adzuna-5769276363",
+      "title": "TypeScript Developer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "Manaus, Amazonas, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276363?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=D274378BF94F60B4040E2986AC1BDEFFA43F6311",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Typescript Developer to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about program…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "adzuna-5769276365",
+      "title": "Angular Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Manaus, Amazonas, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276365?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4462523FF252A0060FEE31C9632EDEDBB0CA65DC",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passiona…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 2
+    },
+    {
+      "id": "adzuna-5769277762",
+      "title": "Android Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277762?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=1B127095A44EED4909DA1EAB7FAE9831D0D51BCD",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Android Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players p…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 3
+    },
+    {
+      "id": "adzuna-5769277381",
+      "title": "Senior Analytics Engineer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Campinas, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277381?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=98147013AD0B3C1E5C0BCBC51E4E736F76965E8B",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for a Senior Analytics Engineer to join our Analyst team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "adzuna-5769276269",
+      "title": "Junior .NET Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769276269?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=73E1ADA7E3B702BCD0144CEDAA29E0AED80E5024",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We seek a proficient Junior .NET Developer capable of maintaining high standards of technical quality and innovation, dedicated to continuous improvement, and committed to assisting clients worldwide. Success in this role requir…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
+      "id": "adzuna-5769277278",
+      "title": "Site Reliability Engineer - Remote",
+      "company": "INDI Staffing Services",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277278?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=EB94B92C4E70F816D43CC2CB6E6E76A03A7FC253",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for a Site Reliability Engineer to build and maintain highly reliable, scalable, and secure OpenShift/Kubernetes clusters. We will need you to approach the problem of building and maintaining production systems fr…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
       "id": "jobicy-144179",
       "title": "Golang Engineer",
       "company": "Plain Concepts",
@@ -676,36 +886,6 @@
       "is_new": false
     },
     {
-      "id": "adzuna-5769276366",
-      "title": "Kotlin Developer - Remote",
-      "company": "INDI Staffing Services",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769276366?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4E56AD6C02D67277CD8F174F38F9DC40A5F9BCFE",
-      "source": "Adzuna",
-      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for Kotlin developers to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about pr…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769276363",
-      "title": "TypeScript Developer - Remote",
-      "company": "INDI Staffing Services",
-      "location": "Manaus, Amazonas, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769276363?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=D274378BF94F60B4040E2986AC1BDEFFA43F6311",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Typescript Developer to join our company, and collaborate with team members to build flexible, scalable, and maintainable mobile apps. We are looking for proactive people, team players passionate about program…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 1
-    },
-    {
       "id": "adzuna-5769276282",
       "title": "Senior DevOps / Infrastructure Engineer",
       "company": "Sphise",
@@ -713,71 +893,6 @@
       "url": "https://www.adzuna.com.br/land/ad/5769276282?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=5464FA21EC56DB03431FFF53AD1850F1EEDE2CAF",
       "source": "Adzuna",
       "description": "Senior DevOps / Infrastructure Engineer Location: Brazil (Remote) Role Overview: Sphise is looking for an experienced DevOps Engineer with extensive AWS and IaaC experience. This is the first role in our new DevOps group, and this person will be responsible for transitioning all of the current processes from Development to DevOps. The ideal candidate will have strong knowledge of supporting production PHP/JS/MySQL environments, ideally environments that utilize Laravel. You will establish, main…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769277381",
-      "title": "Senior Analytics Engineer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "Campinas, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277381?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=98147013AD0B3C1E5C0BCBC51E4E736F76965E8B",
-      "source": "Adzuna",
-      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for a Senior Analytics Engineer to join our Analyst team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769276365",
-      "title": "Angular Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "Manaus, Amazonas, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769276365?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=4462523FF252A0060FEE31C9632EDEDBB0CA65DC",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Angular Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passiona…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769277762",
-      "title": "Android Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277762?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=1B127095A44EED4909DA1EAB7FAE9831D0D51BCD",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for Android Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players p…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769277278",
-      "title": "Site Reliability Engineer - Remote",
-      "company": "INDI Staffing Services",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277278?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=EB94B92C4E70F816D43CC2CB6E6E76A03A7FC253",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for a Site Reliability Engineer to build and maintain highly reliable, scalable, and secure OpenShift/Kubernetes clusters. We will need you to approach the problem of building and maintaining production systems fr…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769276269",
-      "title": "Junior .NET Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769276269?se=_nrWutxr8RG5w7Wkd94x6w&utm_medium=api&utm_source=bd0bee3e&v=73E1ADA7E3B702BCD0144CEDAA29E0AED80E5024",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We seek a proficient Junior .NET Developer capable of maintaining high standards of technical quality and innovation, dedicated to continuous improvement, and committed to assisting clients worldwide. Success in this role requir…",
       "date": "2026-06-19",
       "region": "brazil",
       "first_seen": "2026-06-19",
@@ -983,7 +1098,7 @@
       "title": "Full Stack Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
+      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
       "source": "Adzuna",
       "description": "This is a Mid-Level Full Stack Developer role, can sit fully remote, PJ model and salary range is 19-24/hr USD. Must-Haves: • 3 years of professional experience as a Full-Stack Developer (initially backend-heavy, evolving into 50/50 full-stack) • Front-End: JavaScript, TypeScript, React, Redux, CSS – primarily building new components (70%) and modifying existing ones (30%) • Back-End: Java, Spring Boot, REST APIs, Postman, SQL – building APIs, creating controllers, handling DB integration, and …",
       "date": "2026-06-13",
@@ -1035,7 +1150,7 @@
       "title": "Senior React Native Developer",
       "company": "Sigma Software Group",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
+      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
       "source": "Adzuna",
       "description": "Are you a Senior React Native Developer passionate about building high-quality mobile applications with seamless user experiences? This role offers the opportunity to work remotely from anywhere in Brazil while collaborating with a multicultural team on innovative global projects. At Sigma Software, we are looking for a skilled professional to join our team and contribute to the development of engaging iOS and Android applications for international products. You’ll work in a dynamic environment…",
       "date": "2026-05-31",
@@ -2008,9 +2123,10 @@
       "first_seen": "2026-06-17",
       "is_new": false,
       "also_on": [
-        "RemoteOK"
+        "RemoteOK",
+        "Remotive"
       ],
-      "dup_count": 1
+      "dup_count": 2
     },
     {
       "id": "jobicy-146992",
@@ -2157,7 +2273,11 @@
       "date": "2026-06-12",
       "region": "latam",
       "first_seen": "2026-06-17",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "WeWorkRemotely"
+      ],
+      "dup_count": 1
     },
     {
       "id": "remotive-2090982",
