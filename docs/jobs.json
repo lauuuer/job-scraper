@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T11:44:12+00:00",
-  "count": 184,
-  "new_today": 7,
+  "generated_at": "2026-06-27T10:57:02+00:00",
+  "count": 187,
+  "new_today": 3,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,49 @@
   ],
   "jobs": [
     {
+      "id": "adzuna-5778388126",
+      "title": "Senior Full-Stack Engineer - TypeScript/Node.js  React Native (LATAM Remote, Contract)",
+      "company": "Braintrust",
+      "location": "Porto Alegre, Rio Grande do Sul, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5778388126?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=78C4063902C4FD107EBE69ACEDDA76010C5E54D1",
+      "source": "Adzuna",
+      "description": "Job description About LiveLineIQ LiveLineIQ is an early-stage startup building a real-time sports betting intelligence product. The app is currently in closed testing, with a public launch targeted for late summer. The platform ingests live odds and game-state data, applies statistical analysis to identify potential betting edges, and surfaces timely opportunities to users through a mobile-first experience. We are looking for a senior engineer who can help the team move faster across backend/AP…",
+      "date": "2026-06-26",
+      "region": "brazil",
+      "first_seen": "2026-06-27",
+      "is_new": true,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 4
+    },
+    {
+      "id": "adzuna-5756773243",
+      "title": "Business Applications Developer",
+      "company": "Pavago",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/details/5756773243?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "⚡ Business Applications Developer (Power BI, Power Automate & Microsoft 365) – Remote | EST Hours Position Type: Full-Time, Remote Working Hours: EST-Aligned Business Hours About the Role At Pavago, one of our clients is hiring a Business Applications Developer to design and build scalable automation systems, dashboards, integrations, and internal business applications using the Microsoft 365 and Power Platform ecosystem. This is a highly technical, hands-on role focused on: Power BI developme…",
+      "date": "2026-06-08",
+      "region": "brazil",
+      "first_seen": "2026-06-27",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5746825692",
+      "title": "Data Engineer",
+      "company": "Pavago",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/details/5746825692?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Job Title: Data Engineer Position Type: Full-Time, Remote Working Hours: U.S. client business hours (with flexibility for pipeline monitoring, deployments, and data refresh cycles) About the Role Our client is seeking a Data Engineer to design, build, and maintain scalable data infrastructure and reliable data pipelines that power analytics, reporting, and operational decision-making across the business. This role requires strong software engineering fundamentals, deep experience with modern da…",
+      "date": "2026-05-31",
+      "region": "brazil",
+      "first_seen": "2026-06-27",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/wonderdog-senior-full-stack-engineer-agentic-first",
       "title": "Senior Full-Stack Engineer — Agentic-First",
       "company": "Wonderdog",
@@ -24,7 +67,20 @@
       "date": "Thu, 25 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5777615319",
+      "title": "Learning Content Developer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5777615319?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=CA86A014118B176832A03F06D2DCF4F46339C660",
+      "source": "Adzuna",
+      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role The Learning Content Developer will be responsible for designing and delivering impactful learning experiences that help our recruiters and Talent Acquisition professionals prepare, develop, and excel in their roles. Working at t…",
+      "date": "2026-06-26",
+      "region": "brazil",
+      "first_seen": "2026-06-26",
+      "is_new": false
     },
     {
       "id": "adzuna-5777615909",
@@ -37,20 +93,7 @@
       "date": "2026-06-26",
       "region": "brazil",
       "first_seen": "2026-06-26",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5777615319",
-      "title": "Learning Content Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5777615319?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=CA86A014118B176832A03F06D2DCF4F46339C660",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role The Learning Content Developer will be responsible for designing and delivering impactful learning experiences that help our recruiters and Talent Acquisition professionals prepare, develop, and excel in their roles. Working at t…",
-      "date": "2026-06-26",
-      "region": "brazil",
-      "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5777615241",
@@ -63,7 +106,7 @@
       "date": "2026-06-26",
       "region": "brazil",
       "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remoteok-1134061",
@@ -72,11 +115,11 @@
       "location": "Brazil",
       "url": "https://remoteOK.com/remote-jobs/remote-field-reliability-engineer-latam-honeycomb-io-1134061",
       "source": "RemoteOK",
-      "description": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023! If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases. Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Platform Engineering - Managed Services & Infrastructure Own and operate customer-facing managed infrastructure including Refinery as a Service (RaaS) and Honeycomb Private Cloud (HnyPC) deployments across multiple AWS accounts and regions. Build and maintain Terraform modules, Helm charts, and deployment automation for provisioning and man Please mention the word **EXHILARATINGLY** and tag RMTM1LjIzMi4yMTYuNTA= when applying to show you read the job post completely (#RMTM1LjIzMi4yMTYuNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023! If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases. Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Platform Engineering - Managed Services & Infrastructure Own and operate customer-facing managed infrastructure including Refinery as a Service (RaaS) and Honeycomb Private Cloud (HnyPC) deployments across multiple AWS accounts and regions. Build and maintain Terraform modules, Helm charts, and deployment automation for provisioning and man Please mention the word **EXHILARATINGLY** and tag RNDguMjE0LjU1LjUw when applying to show you read the job post completely (#RNDguMjE0LjU1LjUw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1691057/",
@@ -89,7 +132,7 @@
       "date": "2026-06-25",
       "region": "latam",
       "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5776668271",
@@ -102,7 +145,7 @@
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-26",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/io-global-devops-engineer-midnight-foundation",
@@ -200,7 +243,7 @@
       "title": "StarRocks Database Engineer (DBE) - Remote",
       "company": "Deep.BI",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=UlntWFRx8RGKY_-n7sY3YA&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
+      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
       "source": "Adzuna",
       "description": "Database Engineer (DBE) – Enterprise Open-Source Support Location: Remote (South & Central America, US Working Hours) Department: Engineering - Open Source Database support Reports to: CTO / VP Engineering Role Overview As a Senior Database Engineer (DBE), you will be the core L3/L4 technical expert responsible for solving the most complex database problems our customers face in production with an emphasis on supporting StarRocks clusters. You’ll dive deep into query optimization, ingestion pip…",
       "date": "2026-06-24",
@@ -373,7 +416,7 @@
       "title": "Full Stack Engineer (AI)",
       "company": "OttoMate",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5773420142?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=A95E8DF218A8D7A5DE026C766DD4550D7A0D4290",
+      "url": "https://www.adzuna.com.br/land/ad/5773420142?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=A95E8DF218A8D7A5DE026C766DD4550D7A0D4290",
       "source": "Adzuna",
       "description": "AI-Native Full-Stack Developer Go • React • AWS • Cloudflare Edge Full-Time Contractor | Long-Term Opportunity Details: Location: 100% remote — Brazil only Type: Full-time contractor Schedule: 40 hours per week Compensation: ($4000 to $7000 USD) Competitive monthly contractor rate in USD, based on experience Duration: Long-term engagement Language: Strong English communication required Start Date: As soon as possible, depending on availability About the Opportunity OttoMate Global is hiring an …",
       "date": "2026-06-23",
@@ -542,6 +585,23 @@
       "is_new": false
     },
     {
+      "id": "adzuna-5770810277",
+      "title": "Remote AI Automation Engineer",
+      "company": "Turing",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5770810277?se=2JDtAcJv8RGIWorTphsLOQ&utm_medium=api&utm_source=bd0bee3e&v=481BF2A45266E187729FB740D145F2A73E4BD360",
+      "source": "Adzuna",
+      "description": "A rapidly growing technology consulting organization is seeking a Senior AI Automation Engineer to design, build, and deploy production-grade AI agents that automate complex business processes. This is a hands-on role for someone who can bridge operational workflow design with applied AI engineering, taking ownership of projects from process discovery through production deployment. The ideal candidate will analyze current-state business operations, redesign workflows for automation, architect m…",
+      "date": "2026-06-20",
+      "region": "brazil",
+      "first_seen": "2026-06-21",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
+    },
+    {
       "id": "adzuna-5771224021",
       "title": "Angular Developer - Remote",
       "company": "YO HR Consultancy",
@@ -562,19 +622,6 @@
       "url": "https://www.adzuna.com.br/land/ad/5770810586?se=lmB9jopw8RGCZa1JrHVjmg&utm_medium=api&utm_source=bd0bee3e&v=B3B724E5079E9B302E270A696CCAA209E9A5BD49",
       "source": "Adzuna",
       "description": "Position: IOS Developer Location: Remote Responsibilities •Develop and enhance iOS application features in collaboration with senior engineers •Implement device communication modules and application logic • Participate in testing, debugging, and code review Requirements • Experience in Swift and iOS S • Working knowledge of BLE communication and sensor-based integration • Familiarity with API integration and asynchronous programming •Exposure to modular architecture / KMP is a plus •Strong debu…",
-      "date": "2026-06-20",
-      "region": "brazil",
-      "first_seen": "2026-06-21",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5770810277",
-      "title": "Remote AI Automation Engineer",
-      "company": "Turing",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5770810277?se=2JDtAcJv8RGIWorTphsLOQ&utm_medium=api&utm_source=bd0bee3e&v=481BF2A45266E187729FB740D145F2A73E4BD360",
-      "source": "Adzuna",
-      "description": "A rapidly growing technology consulting organization is seeking a Senior AI Automation Engineer to design, build, and deploy production-grade AI agents that automate complex business processes. This is a hands-on role for someone who can bridge operational workflow design with applied AI engineering, taking ownership of projects from process discovery through production deployment. The ideal candidate will analyze current-state business operations, redesign workflows for automation, architect m…",
       "date": "2026-06-20",
       "region": "brazil",
       "first_seen": "2026-06-21",
@@ -647,7 +694,7 @@
       "also_on": [
         "Adzuna"
       ],
-      "dup_count": 1
+      "dup_count": 2
     },
     {
       "id": "adzuna-5769277375",
@@ -660,7 +707,11 @@
       "date": "2026-06-19",
       "region": "brazil",
       "first_seen": "2026-06-20",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
     },
     {
       "id": "remoteok-1133690",
@@ -713,6 +764,23 @@
       "region": "worldwide",
       "first_seen": "2026-06-19",
       "is_new": false
+    },
+    {
+      "id": "adzuna-5769277381",
+      "title": "Senior Analytics Engineer - Remote Work",
+      "company": "INDI Staffing Services",
+      "location": "Campinas, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5769277381?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=98147013AD0B3C1E5C0BCBC51E4E736F76965E8B",
+      "source": "Adzuna",
+      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for a Senior Analytics Engineer to join our Analyst team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team…",
+      "date": "2026-06-19",
+      "region": "brazil",
+      "first_seen": "2026-06-19",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
     },
     {
       "id": "adzuna-5769276366",
@@ -781,23 +849,6 @@
         "Adzuna"
       ],
       "dup_count": 3
-    },
-    {
-      "id": "adzuna-5769277381",
-      "title": "Senior Analytics Engineer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "Campinas, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277381?se=9CBoutxr8RG9HomNHrDm1w&utm_medium=api&utm_source=bd0bee3e&v=98147013AD0B3C1E5C0BCBC51E4E736F76965E8B",
-      "source": "Adzuna",
-      "description": "Recognized as the leading software development company in the Americas, our client offers 100% remote modality and an excellent work environment in which employees can thrive, and work in multicultural teams, with flexible schedules and endless growth opportunities. About the Role: We are looking for a Senior Analytics Engineer to join our Analyst team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-19",
-      "is_new": false,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 1
     },
     {
       "id": "adzuna-5769276269",
@@ -1098,7 +1149,7 @@
       "title": "Full Stack Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
+      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
       "source": "Adzuna",
       "description": "This is a Mid-Level Full Stack Developer role, can sit fully remote, PJ model and salary range is 19-24/hr USD. Must-Haves: • 3 years of professional experience as a Full-Stack Developer (initially backend-heavy, evolving into 50/50 full-stack) • Front-End: JavaScript, TypeScript, React, Redux, CSS – primarily building new components (70%) and modifying existing ones (30%) • Back-End: Java, Spring Boot, REST APIs, Postman, SQL – building APIs, creating controllers, handling DB integration, and …",
       "date": "2026-06-13",
@@ -1150,7 +1201,7 @@
       "title": "Senior React Native Developer",
       "company": "Sigma Software Group",
       "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=bP9aWFRx8RGL4arb2hDtcg&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
+      "url": "https://www.adzuna.com.br/land/ad/5746536004?se=pip86xZy8RGe4ZwL0wNS6w&utm_medium=api&utm_source=bd0bee3e&v=BC8640626079ADAC0F2397AEDCE8FB97403EC5DD",
       "source": "Adzuna",
       "description": "Are you a Senior React Native Developer passionate about building high-quality mobile applications with seamless user experiences? This role offers the opportunity to work remotely from anywhere in Brazil while collaborating with a multicultural team on innovative global projects. At Sigma Software, we are looking for a skilled professional to join our team and contribute to the development of engaging iOS and Android applications for international products. You’ll work in a dynamic environment…",
       "date": "2026-05-31",
@@ -2033,6 +2084,19 @@
       "is_new": false
     },
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
+      "title": "Senior Shopify Web Developer",
+      "company": "Activate Talent",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Colombia URL: http://activatetalent.com Description Your work will directly impact conversion rate, site performance, new product launches, and the brand’s ability to scale. This is a senior role for someone with deep Shopify experience, strong execution intensity, and the ability to move quickly without sacrificing quality. KEY RESPONSIBILITIES ● Build custom Shopify 2.0 sections, blocks, templates, and advanced features ● Optimize site speed, Core Web Vitals, and performance architecture ● Troubleshoot and resolve Liquid, JS, CSS, and theme/app conflicts ● Build launch-ready landing pages and conversion-focused templates ● Implement CRO tests (PDP variations, bundles, cart logic, ATC improvements) ● Manage tracking integrations for GA4, Meta Pixel, TikTok Events, Klaviyo ● QA and deploy stable, production-ready code ● Collaborate with marketing, creative, and eCommerce teams on new features Requirements ● 4+ years Shopify development experience ● Expert in Liquid, HTML, CSS, JavaScript ● Deep understanding of Shopify 2.0 architecture & dynamic content ● Experience optimizing speed, performance, and mobile UX ● Ability to independently identify and solve complex technical issues ● Fast executor with strong attention to detail NICE TO HAVE ● Shopify Functions experience ● Hydrogen / React / Next.js familiarity ● Experience running CRO tests or experiments ● Experience at a high-volume DTC brand ● API integration experience (REST or GraphQL) SOFT SKILLS ● Ownership-first mindset (“I will figure it out”) ● Strong communicator ● Thrives in fast-moving, launch-heavy environments ● Organized, consistent, high personal standards ● Calm under pressure and adaptable To apply: https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
+      "date": "Fri, 05 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/level-support-engineer",
       "title": "Support Engineer",
       "company": "Level",
@@ -2092,19 +2156,6 @@
       "url": "https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Remote Über fonio In den letzten 12 Monaten haben wir Fonio zum führenden KI-Telefonanbieter im DACH-Raum aufgebaut. Jetzt skalieren wir nach ganz Europa und revolutionieren, wie KMUs miteinander kommunizieren. Als Founding Product Engineer übernimmst du End-to-End Ownership: von der Idee über den Prototyp bis hin zum fertigen Feature, das von tausenden Unternehmen europaweit genutzt wird. Dein Profil: Product Engineer durch und durch Product Engineers bei fonio haben volle Onwership über den value, den sie für unsere Kunden stiften. Es gibt bei uns niemanden, der dir sagt was Du bauen sollst - das definierst Du selbst. Bei fonio bist Du “Product Engineer”, nicht nur “Software Developer”. Product Mindset: Du übernimmst Verantwortung, die über das bloße Schreiben von Code hinausgeht. Du denkst mit und misst Deinen Erfolg an dem Mehrwert, den Deine Software für unsere Kunden stiftet. Customer Focus: Du suchst den engen Austausch mit Kunden und bist in der Lage, daraus aussagekräftige Eindrücke zu gewinnen. Tech Stack: Du bist Full Stack Software Developer mit relevanter Erfahrung in der Arbeit mit Node.js, Typescript, NestJS und React. Die Arbeit mit der Integration von LLMs ist von großem Vorteil. Experimentierfreudigkeit: Du suchst zu allererst immer nach handfester Validierung bei geringstem Aufwand bevor Du skalierbare Software baust und wirst dabei sehr kreativ. Pragmatismus: Du siehst Software als ein Tool, nicht als Selbstzweck. Deine Erfahrung erlaubt es Dir, fundiert Entscheidungen dazu zu treffen, wie viel Aufwand dein Code an welcher Stelle verdient. Deutsch auf Muttersprache Niveau: Wir bauen einen KI Telefonassistenten und haben aktuell einen starken Fokus auf den deutsch-sprachigen Markt - ein gutes Verständnis für die Nuancen der Deutschen Sprache ist dabei unerlässlich. Deine Aufgaben Konstanter Research: Du stehst im engen Austausch mit Kunden, Partnern und unserem Sales Team um ein tiefes Verständnis davon zu haben, welche Pain Points unsere Kunden haben und wie wir Mehrwert für sie schaffen können. Product Discovery: Du entwickelst Hypothesen und testest diese schnell und effizient durch Experimente um fundierte Produktentscheidungen treffen zu können. Tracking & Daten: Du findest oder erhebst alle Zahlen, die für Deinen Verantwortungsbereich relevant sind, selbst um stets in der Lage zu sein, datengetrieben zu argumentieren und fundierte Entscheidungen zu treffen. Software Development: Du baust Software end-to-end von ersten Architekturentscheidungen bis zum Release und zwar so, dass die den Zweck erfüllt, für den sie gebaut ist mit der richtigen Balance von Pragmatismus und Skalierbarkeit. Was wir dir bieten Wir haben bei fonio eine klare Philosophie, mit der wir die Firma und vor allem das Product Team aufbauen. Hier die wichtigsten Elemente: Focus on Shipping: Bei uns verbringst Du keine Zeit in unnötigen “Alignment Meetings”, “Update Check Ins” oder sonstwas - wir schaffen ein Umfeld, in dem Du dich voll und ganz darauf konzentrieren kannst, durch Software Mehrwert für unsere Kunden zu stiften. Meetings reduzieren wir auf ein Minimum und priorisieren in der Regel asychrone Kommunikation per Slack, Voice Messages oder Loom. Radical Ownership: Wenn Du glaubst, dass uns ein Feature oder eine Initiative vorwärts bringt, musst Du nicht auf Freigaben warten oder um Erlaubnis bitten - wenn wir Dich an Bord holen dann tun wir das weil wir glauben, dass Du gute Entscheidungen treffen wirst und Dein Handwerk verstehst Remote First: Arbeite von wo immer Du willst solange Du einen relevanten Overlap mit dem Team in CET hast. Gleichzeitig haben wir aber auch ein schönes Office in Wien, das Dir immer offen steht. High Growth Environment: Wir haben Product Market Fit und wachsen extrem schnell - das bedeutet auch, dass Stagnation bei uns nicht existiert. Wenn Du schnell an Deinen Herausforderungen wachsen willst um das meiste aus Dir herauszuholen bist Du genau richtig bei uns! Kompetitive Vergütung: Wir bauen ganz bewusst ein kleines Team mit viel Verantwortung und Erwartungen an jeden einzelnen. im Gegenzug zahlen wir ein durchaus wettbewerbsfähiges Gehalt und großzügige Equity Packages. Unser Bewerbungsprozess Screening Call – 20 Minuten Kennenlernen Hiring Manager Interview - 30 Minuten Kennenlernen mit unseren Co-Founder und CTO Matthias Technical Interview – 60–90 Minuten inkl. Coding Challenge Culture Fit Interview – 60 Minuten zu Arbeitsweise & Erwartungen To apply: https://weworkremotely.com/remote-jobs/fonio-founding-product-engineer-m-w-d",
-      "date": "Fri, 05 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
-      "title": "Senior Shopify Web Developer",
-      "company": "Activate Talent",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Colombia URL: http://activatetalent.com Description Your work will directly impact conversion rate, site performance, new product launches, and the brand’s ability to scale. This is a senior role for someone with deep Shopify experience, strong execution intensity, and the ability to move quickly without sacrificing quality. KEY RESPONSIBILITIES ● Build custom Shopify 2.0 sections, blocks, templates, and advanced features ● Optimize site speed, Core Web Vitals, and performance architecture ● Troubleshoot and resolve Liquid, JS, CSS, and theme/app conflicts ● Build launch-ready landing pages and conversion-focused templates ● Implement CRO tests (PDP variations, bundles, cart logic, ATC improvements) ● Manage tracking integrations for GA4, Meta Pixel, TikTok Events, Klaviyo ● QA and deploy stable, production-ready code ● Collaborate with marketing, creative, and eCommerce teams on new features Requirements ● 4+ years Shopify development experience ● Expert in Liquid, HTML, CSS, JavaScript ● Deep understanding of Shopify 2.0 architecture & dynamic content ● Experience optimizing speed, performance, and mobile UX ● Ability to independently identify and solve complex technical issues ● Fast executor with strong attention to detail NICE TO HAVE ● Shopify Functions experience ● Hydrogen / React / Next.js familiarity ● Experience running CRO tests or experiments ● Experience at a high-volume DTC brand ● API integration experience (REST or GraphQL) SOFT SKILLS ● Ownership-first mindset (“I will figure it out”) ● Strong communicator ● Thrives in fast-moving, launch-heavy environments ● Organized, consistent, high personal standards ● Calm under pressure and adaptable To apply: https://weworkremotely.com/remote-jobs/activate-talent-senior-shopify-web-developer",
       "date": "Fri, 05 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
