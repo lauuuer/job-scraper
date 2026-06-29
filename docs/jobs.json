@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T11:06:22+00:00",
-  "count": 191,
-  "new_today": 4,
+  "generated_at": "2026-06-29T13:06:09+00:00",
+  "count": 196,
+  "new_today": 5,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,71 @@
   ],
   "jobs": [
     {
+      "id": "himalayas-https://himalayas.app/companies/msx-international/jobs/data-engineer-ii",
+      "title": "Data Engineer II",
+      "company": "MSX International",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/msx-international/jobs/data-engineer-ii",
+      "source": "Himalayas",
+      "description": "Esta posição é responsável por projetar, desenvolver e manter plataformas de dados corporativos que possibilitam insights sobre dados de clientes. O(a) Engenheiro(a) de Dados utilizará conhecimentos em SQL e Python para executar projetos e tarefas de alta qualidade, com elevado nível de precisão e dentro dos prazos estabelecidos. PRINCIPAIS ATRIBUIÇÕES E RESPONSABILIDADES Projetar, codificar, testar, corrigir e documentar programas e scripts utilizando padrões e ferramentas acordados, garantindo resultados bem estruturados. Assegurar a qualidade dos dados e implementar ferramentas e frameworks para automatizar a identificação de problemas de qualidade de dados. Realizar perfilhamento de fontes de dados e desenvolver processos ETL, com conhecimento dos fundamentos de modelagem de dados, utilizando SQL, Python e ferramentas de suporte a ETL/ELT. Auxiliar a gestão na criação de estimativas e propostas para clientes. Planejar soluções eficazes para armazenamento, segurança, compartilhamento e publicação de dados dentro da organização. Criar e atualizar documentações de fluxos de processos e regras de negócio. Manter fluxos existentes atualizados e processar grandes volumes de dados conforme necessário. Graduação em Ciência da Computação, Estatística, Matemática ou área relacionada. 3 a 5 anos de experiência em Engenharia de Dados e/ou Data Warehousing. Experiência em projetar e desenvolver pipelines de dados ETL/ELT . Proficiência na escrita de consultas SQL avançadas . Proficiência em Python e em diferentes bibliotecas Python. Forte capacidade analítica, com habilidade para compreender e comunicar o significado dos dados apresentados. Excelentes habilidades matemáticas, estatísticas e de lógica . Excelente capacidade de raciocínio . Perfil entusiasta, altamente motivado , com habilidade para aprender rapidamente. Experiência na criação de workflows ETL no Databricks . Compreensão de Apache Spark . QUALIFICAÇÕES DESEJÁVEIS 3 a 5 anos de experiência em operações automotivas ou em negócios similares (ambiente dinâmico). Experiência na construção de soluções de dados em nuvem Azure ou AWS e em migração de ambientes on‑premise para a nuvem . Experiência prévia em atendimento a clientes externos . Familiaridade com administração de MS SQL Server . Experiência com repositórios GIT . Experiência com FTP e APIs . Forte capacidade de comunicação e conhecimento prático de metodologias ágeis , incluindo conceitos de DevOps . Experiência com ferramentas de visualização de dados (Tableau, Power BI, etc.). OUTRAS COMPETÊNCIAS E CARACTERÍSTICAS Retenção de Conhecimento – Para entregar trabalho da mais alta qualidade, os(as) analistas precisam aprender e memorizar uma grande quantidade de informações. Atenção aos Detalhes – Os(as) analistas devem ser capazes de focar nos detalhes para identificar e isolar problemas. Habilidades Organizacionais – É essencial que os(as) analistas sejam organizados(as) e capazes de acompanhar múltiplos projetos simultaneamente. Flexibilidade – Devem ser capazes de lidar com diversas tarefas ao mesmo tempo e se adaptar a mudanças de prioridade. Agilidade – Devem trabalhar de forma rápida e eficiente, sem comprometer a qualidade das entregas. Orientação para Soluções – Devem ser capazes de encontrar soluções viáveis para qualquer problema que possam enfrentar. HABILIDADES LINGUÍSTICAS Proficiência profissional completa em inglês é obrigatória. EXIGÊNCIAS FÍSICAS Durante a execução das atividades deste cargo, o(a) colaborador(a) é regularmente solicitado(a) a: Realizar chamadas, videoconferências, enviar e-mails, mensagens e se comunicar com concessionárias e colegas de trabalho. As exigências físicas descritas aqui representam aquelas necessárias para que um(a) colaborador(a) desempenhe com sucesso as funções essenciais deste cargo. Acomodações razoáveis poderão ser fornecidas para permitir que pessoas com deficiência possam exercer as funções essenciais. AMBIENTE DE TRABALHO Ambiente remoto e/ou escritório . O nível de ruído no ambiente de trabalho geralmente é moderado . As características do ambiente de trabalho descritas aqui representam aquelas encontradas por um(a) colaborador(a) durante a execução das funções essenciais deste cargo. Acomodações razoáveis podem ser fornecidas para permitir que pessoas com deficiência possam desempenhar adequadamente essas funções. Essa vaga está disponível para a inscrição de pessoas com deficiência ou reabilitados do INSS. A MSX é uma empresa de igualdade de oportunidades e incentiva a candidatura de pessoas qualificadas, independentemente de sexo, raça, deficiência, idade, orientação sexual, gênero, religião ou crença, estado civil ou maternidade. Sobre a MSX Com aproximadamente 5.000 colaboradores e presentes em mais de 80 países em todo o mundo, nossos times proporcionam liderança e expertise na indústria automotiva e suas redes de concessionários provendo ao cliente valor gerado através de oito soluções: Actionable Insights Consumer Engagement Distribution and Sales Performance Parts, Acessories and Service Performance Technical Information Warranty and Repair Efficiency Learning Solutions Diagnostic and Repair Enhancement Construindo confiança desde 1996, nossa reputação comprova que somos o parceiro de aproximadamente todas as marcas de veículos do mercado. Nossos talentosos colaboradores nos ajudam a superar nossas ambiciosas metas ano após ano. Se você se identifica com nosso negócio, dê uma olhada em nossas oportunidades de carreira Originally posted on Himalayas",
+      "date": "2026-06-29",
+      "region": "brazil",
+      "first_seen": "2026-06-29",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/infios/jobs/system-developer",
+      "title": "System Developer",
+      "company": "Infios",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/infios/jobs/system-developer",
+      "source": "Himalayas",
+      "description": "If you are looking for a meaningful career where people work and act with passion, rethink the existing and always strive to find the best solution - you have come to the right place. We develop future technologies to relentlessly make supply chains better. We are a leader in supply chain software solutions, helping organizations streamline operations, reduce costs, and improve efficiency. As a Systems Developer on our implementation team, you will work daily to solve problems and create customized solutions for our clients. You are expected to work both independently and collaboratively to deliver high-quality solutions tailored to Supply Chain needs. What a day in the life looks like: Develop and implement systems focused on the Supply Chain domain, supporting program specification, requirements sizing, and architecture definition. Support the mapping of business processes and rules with clients, translate them into technical documentation, and configure/parameterize the system according to the mapped business rules. Provide consulting services to clients following the company’s software implementation methodology. What you bring to the team: Bachelor’s degree in information technology or related fields. Experience in T-SQL(SQL Server) or PL/SQL(Oracle) programming queries and stored procedures (minimum of 2 years of experience). Experience in relational database modeling (SQL Server/Oracle). Experience with mainstream programming languages such as C#, Python, Java, Typescript. Experience with REST/SOAP WebServices using XML and JSON. Minimum of 4 years of experience in the role. Strong teamwork skills, initiative, versatility, and discipline to meet deadlines and goals. Availability to travel. Advanced level of English. Eligible for hiring under the CLT employment model. Nice to Have Qualifications Intermediate Spanish. Experience in technical leadership in software development. Experience with reporting tools (e.g., SSRS) and label generation tools (e.g., Bartender). Knowledge and experience in Supply Chain and distribution sector. Experience in WMS (Warehouse Management System) implementation projects. LI-SK1 LI-REMOTE Why join us? At Infios , we're not just looking for employees; we're looking for partners in innovation, growth, and purpose. Meeting you where you are to create the future you need is at the core of who we are and what we do. Whether you're at the beginning of your career or a seasoned expert, we meet you on your journey, equipping you with the tools and opportunities to build the future you envision. Together, we will relentlessly work toward one common goal - making supply chains better. We believe the future is better when supply chains work better. We are an equal-opportunity employer and committed to inclusion in the workplace. At Infios , we believe that inclusion is a fundamental cornerstone of our success. We are committed to creating a safe and welcoming environment where every individual’s unique experiences and perspectives are valued—whether they look, think, move, believe, or love differently. All qualified applicants will receive consideration for employment without regard to race, color, ethnicity, national origin, sex, sexual orientation, gender identity, marital status, pregnancy, religion, age, disability, veteran status, genetic information, or any other characteristic protected by law. Reasonable accommodations may be made to enable individuals with disabilities to perform the essential functions of this role. If you requireassistance or accommodation due to a disability during the recruiting process, please let us know at jobs@infios.com Disclaimer: This job advertisement is not designed to cover a comprehensive listing of all duties or responsibilities that are required for this job. Please note that any salary information is a general guideline only. Individual compensation will be determined by various factors such as the scope and responsibilities of the position, experience, education, skills, location, and market and business considerations. Applications must be submitted via our career site. Originally posted on Himalayas",
+      "date": "2026-06-29",
+      "region": "brazil",
+      "first_seen": "2026-06-29",
+      "is_new": true
+    },
+    {
+      "id": "jobicy-144856",
+      "title": "Senior Data Scientist",
+      "company": "Customer.io",
+      "location": "LATAM,  Canada,  USA",
+      "url": "https://jobicy.com/jobs/144856-senior-data-scientist-4",
+      "source": "Jobicy",
+      "description": "About Customer.io Over 8,000 companies — from scrappy startups to global brands — use our platform to send billions of emails, push notifications, in-app messages, and SMS every day. Customer.io powers automated communication that people actually want to receive. We help teams send smarter, more relevant messages using real-time behavioral data. About the role Hi, my name is Maria Culkin, Analytics Manager at Customer.io , and I'm looking for a Senior Data Scientist to help our teams make better decisions using customer and product data. You'll partner closely with Product, Marketing, and Customer Experience to evaluate product changes, design and analyze experiments, identify opportunities to improve the customer experience, and influence roadmap and business priorities. This is a hands-on role focused on analyzing behavior, building models, and turning data into clear, actionable direction. This role is ideal for someone who enjoys solving ambiguous problems, working closely with stakeholders, and applying data science pragmatically to support product and business decisions. We're looking for someone with an ownership mindset and a bias for action who balances technical rigor with practical decision-making. What we value Ownership: You take initiative and drive analytical work from concept to implementation. You don't wait for perfect requirements — you help define the problem and move the work forward. Curiosity: You naturally question assumptions and dig deeper into the \"why\" behind user behavior. You enjoy uncovering patterns in complex data and have the persistence to work through ambiguity and messy datasets. Analytical Rigor: You bring a thoughtful, structured approach to analytics and decision-making. You know how to define meaningful measures of success, evaluate changes with rigor, and distinguish signal from noise in complex behavioral data so teams can act with confidence. Communication: You can translate complex analytical concepts into clear recommendations for Product Managers, executives, and non-technical stakeholders. Collaboration: You work as a true cross-functional partner, balancing analytical rigor with practical business needs. You build trust by making data approachable, actionable, and reliable. What you'll do Analyze behavioral patterns across the customer lifecycle to identify trends, usage archetypes, and opportunities to improve adoption, engagement, and retention. Design experiments and measurement approaches to evaluate the impact of product and marketing changes - and help teams make decisions based on evidence rather than intuition. Build models and datasets that improve how teams segment customers, forecast outcomes, and identify trends. Apply machine learning and AI techniques where they solve practical problems, for both internal decision-making and customer-facing scenarios. Partner with Data Engineering to improve the quality, reliability, and accessibility of core data and metrics. Communicate findings clearly and directly so teams can make informed decisions without needing a statistics background. What we're looking for 5+ years of experience in a Data Science role within B2B SaaS or a similar product- or growth-focused environment. Strong foundation in statistics, experimentation, and behavioral analytics - with the ability to apply them pragmatically to real product and business problems. Proficiency in SQL and Python for large-scale analysis, modeling, and exploration. Experience with modern cloud data platforms (Snowflake, BigQuery, or similar); familiarity with dbt is a plus. Strong communication and stakeholder skills - you can explain complex analysis clearly to PMs, marketers, executives, and non-technical partners. An ownership mindset - you help define the problem and move work forward; you don't wait for perfect requirements. Why This Role This role offers the opportunity to work on high-impact problems across the business while helping shape how data science and analytics evolve within the organization. You'll have the autonomy to explore meaningful questions, influence strategy, and help build a stronger data-informed culture. Compensation & Benefits We believe in transparency. Starting salary for this role is $140,000-$150,000 USD (or equivalent in local currency) depending on experience and subject to market rate adjustment. We know our people are what make us great, and we’re committed to taking great care of them. Our inclusive benefits package supports your well-being and growth, including 100% coverage of medical, dental, vision, mental health, and supplemental insurance premiums for you and your family . We also offer 16 weeks paid parental leave, unlimited PTO , stipends for remote work and wellness, a professional development budget, and more. See full benefits here → Our Process No gotchas, no trick questions - just a clear, human process designed to help both of us make an informed decision. 30-minute video call with Recruiter 45-minute video call with Hiring Manager 45-minute Technical Interview with Team Member Take-Home Behavioral Analytics Assignment 60-minute Case Review with Team All final candidates will be asked to complete a background check and employment verifications as part of our pre-employment process. Customer.io recognizes the stifling impact of systemic injustice on diverse communities. We commit to using our influence to increase inclusion and equity within the tech industry. We strive to build an inclusive team culture, implement bias-free hiring practices, and develop community partnerships to expand our global impact. Zoom is the only video conference platform that we use, virtual interviews will be conducted using the video capability (i.e., not via the chat), and offers will be extended in writing on official Customer.io letterhead. Please be vigilant in all of your job search activity, and if you have any questions please contact jobs@customer.io . Join us! Check out our careers page for more information about why you should come work with us! We believe in empathy, transparency, responsibility, and, yes, a little awkwardness. If you’re excited by what you read — apply now.",
+      "date": "2026-06-28",
+      "region": "latam",
+      "first_seen": "2026-06-29",
+      "is_new": true
+    },
+    {
+      "id": "jobicy-147975",
+      "title": "Laravel & React Engineer (Remote, Latam)",
+      "company": "Kubikware",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/147975-laravel-react-engineer-remote-latam",
+      "source": "Jobicy",
+      "description": "We are Kubikware™, a digital agency with 20 years of experience designing and developing web and mobile platforms, as well as video games, AR/VR apps, and AI/ML. We are headquartered in Miami, FL with a strong South American team, and have clients and partners in the US market of all sizes and verticals. Among other accolades, we are a 5-time Inc. 5000 Fastest Growing Companies in America honoree. We are looking to expand our amazing roster with a Full-Stack Engineer that is well-versed in Laravel and React, and is located in Latin America. As we are currently working with multiple companies on many different products, we have quite a few projects where someone like you could make a difference. We are looking for: 6+ years of experience developing web applications. 5+ years of experience with Laravel (PHP 8+) (APIs, middleware, Nova admin, testing) and React (TypeScript, Vite, MUI) . Experience with PostgreSQL , including schema design and query optimization. Experience with AWS (ECS Fargate, RDS, S3, SES, CloudWatch) deployments and security. Experience integrating AWS Cognito authentication (front-end/back-end integration, cookies). Strong agile/scrum development experience. Excellent written and verbal communication skills. We offer: Fully remote Long-term Full-time No timezone shifting Compensation in US Dollars If you are as excited to learn more as we are about working with you, please submit your resume and let’s be in touch! Please no agencies or C2C.",
+      "date": "2026-06-28",
+      "region": "latam",
+      "first_seen": "2026-06-29",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5780589873",
+      "title": ".Net Software Engineer",
+      "company": "",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5780589873?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": ".Net Software Engineer - This person will primarily be utilizing . NET Core, C#, SQL. We hire innovative software development professionals who can work well within a highly collaborative, agile team to develop high quality, testable software. The ideal developer for this position will have a wide breadth of experience performing development in a . NET environment and developing integrations to third-party systems. English Language skills are required. This position is CLT and fully remote in B…",
+      "date": "2026-06-28",
+      "region": "brazil",
+      "first_seen": "2026-06-29",
+      "is_new": true
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/econdos/jobs/desenvolvedor-full-stack-pleno-ou-senior-remoto",
       "title": "Desenvolvedor Full Stack Pleno ou Sênior (REMOTO)",
       "company": "eCondos",
@@ -24,7 +89,7 @@
       "date": "2026-06-28",
       "region": "brazil",
       "first_seen": "2026-06-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ioactive/jobs/android-app-malware-reverse-engineer",
@@ -37,20 +102,20 @@
       "date": "2026-06-28",
       "region": "brazil",
       "first_seen": "2026-06-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5779213168",
       "title": "Artificial Intelligence Engineer",
       "company": "Smart IT Frame LLC",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5779213168?se=9nDPY-Fy8RG03p_b2NRIZw&utm_medium=api&utm_source=bd0bee3e&v=265BCE9DFDF4D229365D14D03E735B845B626F84",
+      "url": "https://www.adzuna.com.br/land/ad/5779213168?se=KhunRrtz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bd0bee3e&v=265BCE9DFDF4D229365D14D03E735B845B626F84",
       "source": "Adzuna",
       "description": "Job Title: Senior AI/Backend Engineer Remote – Brazil - Remote Full-Time Builds the AI co-pilot backends (two chat services). Skills: Python on AWS Fargate, LLM integration via Amazon Bedrock (Claude, currently Haiku), RAG with Qdrant Bedrock Titan, prompt engineering, AWS basics (Lambda, DynamoDB, Secrets Manager, EventBridge). Bonus: prior copilot/agent work",
       "date": "2026-06-27",
       "region": "brazil",
       "first_seen": "2026-06-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5775440801",
@@ -63,7 +128,7 @@
       "date": "2026-06-24",
       "region": "brazil",
       "first_seen": "2026-06-28",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5778388126",
@@ -126,7 +191,7 @@
       "title": "Learning Content Developer - Remote Work",
       "company": "INDI Staffing Services",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5777615319?se=9nDPY-Fy8RG03p_b2NRIZw&utm_medium=api&utm_source=bd0bee3e&v=CA86A014118B176832A03F06D2DCF4F46339C660",
+      "url": "https://www.adzuna.com.br/land/ad/5777615319?se=KhunRrtz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bd0bee3e&v=CA86A014118B176832A03F06D2DCF4F46339C660",
       "source": "Adzuna",
       "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role The Learning Content Developer will be responsible for designing and delivering impactful learning experiences that help our recruiters and Talent Acquisition professionals prepare, develop, and excel in their roles. Working at t…",
       "date": "2026-06-26",
@@ -167,7 +232,7 @@
       "location": "Brazil",
       "url": "https://remoteOK.com/remote-jobs/remote-field-reliability-engineer-latam-honeycomb-io-1134061",
       "source": "RemoteOK",
-      "description": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023! If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases. Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Platform Engineering - Managed Services & Infrastructure Own and operate customer-facing managed infrastructure including Refinery as a Service (RaaS) and Honeycomb Private Cloud (HnyPC) deployments across multiple AWS accounts and regions. Build and maintain Terraform modules, Helm charts, and deployment automation for provisioning and man Please mention the word **EXHILARATINGLY** and tag RMjAuMTA2LjE5OC4xNjQ= when applying to show you read the job post completely (#RMjAuMTA2LjE5OC4xNjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "What Weâre Building Honeycomb is a service for the near and present future, defining observability and raising expectations of what developer tools can do! Weâre working with well known companies like HelloFresh, Slack, LaunchDarkly, and Vanguard and more across a range of industries. This is an exciting time in our trajectory, weâve closed Series D funding, scaled past the 200-person mark, and were named to Forbesâ Americaâs Best Startups of 2022 and 2023! If you want to see what weâve been up to, please check out these blog posts and Honeycomb.io press releases. Who We Are We come for the impact, and stay for the culture! Weâre a talented, opinionated, passionate, fiercely inclusive, and responsible group of bees. We have conviction and we strive to live our values every day. We want our people to do what they truly love amongst a team of highly talented (but humble) peers. How We Work We are a fully distributed company, which means we believe it is not where you sit, but how you deliver that matters most. We invest in our people and care about how you orient to our culture and processes. At the same time we imbue a lot of trust, autonomy, and accountability from Day 1. #LI-Remote Platform Engineering - Managed Services & Infrastructure Own and operate customer-facing managed infrastructure including Refinery as a Service (RaaS) and Honeycomb Private Cloud (HnyPC) deployments across multiple AWS accounts and regions. Build and maintain Terraform modules, Helm charts, and deployment automation for provisioning and man Please mention the word **EXHILARATINGLY** and tag RNTIuMTYxLjE3Ny43MA== when applying to show you read the job post completely (#RNTIuMTYxLjE3Ny43MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-06-25",
       "region": "brazil",
       "first_seen": "2026-06-26",
@@ -295,7 +360,7 @@
       "title": "StarRocks Database Engineer (DBE) - Remote",
       "company": "Deep.BI",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=9nDPY-Fy8RG03p_b2NRIZw&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
+      "url": "https://www.adzuna.com.br/land/ad/5774970798?se=KhunRrtz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bd0bee3e&v=22BFA4489876A6E629DAE472F2636E01BB4C79EB",
       "source": "Adzuna",
       "description": "Database Engineer (DBE) – Enterprise Open-Source Support Location: Remote (South & Central America, US Working Hours) Department: Engineering - Open Source Database support Reports to: CTO / VP Engineering Role Overview As a Senior Database Engineer (DBE), you will be the core L3/L4 technical expert responsible for solving the most complex database problems our customers face in production with an emphasis on supporting StarRocks clusters. You’ll dive deep into query optimization, ingestion pip…",
       "date": "2026-06-24",
@@ -1197,7 +1262,7 @@
       "title": "Full Stack Engineer",
       "company": "Insight Global",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=9nDPY-Fy8RG03p_b2NRIZw&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
+      "url": "https://www.adzuna.com.br/land/ad/5762119984?se=KhunRrtz8RGRO5SDpM7Q1Q&utm_medium=api&utm_source=bd0bee3e&v=122892374338528B8401031CF9C1BB72CD557172",
       "source": "Adzuna",
       "description": "This is a Mid-Level Full Stack Developer role, can sit fully remote, PJ model and salary range is 19-24/hr USD. Must-Haves: • 3 years of professional experience as a Full-Stack Developer (initially backend-heavy, evolving into 50/50 full-stack) • Front-End: JavaScript, TypeScript, React, Redux, CSS – primarily building new components (70%) and modifying existing ones (30%) • Back-End: Java, Spring Boot, REST APIs, Postman, SQL – building APIs, creating controllers, handling DB integration, and …",
       "date": "2026-06-13",
