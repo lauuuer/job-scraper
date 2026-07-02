@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T12:06:38+00:00",
-  "count": 215,
-  "new_today": 14,
+  "generated_at": "2026-07-02T11:32:52+00:00",
+  "count": 216,
+  "new_today": 1,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,19 @@
   ],
   "jobs": [
     {
+      "id": "himalayas-https://himalayas.app/companies/gigabrands/jobs/full-stack-automation-engineer",
+      "title": "Full Stack Automation Engineer",
+      "company": "GigaBrands",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/gigabrands/jobs/full-stack-automation-engineer",
+      "source": "Himalayas",
+      "description": "WHO WE ARE We've built an AI-native internal platform that powers every aspect of our Amazon brand management business. AI isn't a feature — it's the backbone. LLMs classify and respond to inbound communications AI generates pre-call intelligence briefs from raw enrichment data A RAG system feeds context into every generation pipeline An AI checkpoint system audits all generated content against quality gates The platform is already live and scaling fast: • 17+ background services • 130+ frontend pages • 214 backend services • 184 database tables • Dozens of autonomous AI pipelines OUR CORE VALUES Be A Moral Human Serve a higher purpose. Everything we build and every decision we make is grounded in doing the right thing. Improve 1% Daily Strive for 1% better every day. Consistent, compounding improvement is how we build world-class systems and teams. Extreme Ownership Own your actions. No excuses, no hand-offs as a crutch. If it's in your world, it's your responsibility. Solve Problems, Don't Create Them Every challenge has a solution. Don't slow down the team by creating new problems — come with answers, not blockers. Make an Impact Focus on meaningful results. We measure success by the difference we make, not the hours we log. Fail Fast & Fail Forward Don't be afraid to fail. Take that failure, learn from it, and move forward stronger. Every failure is a lesson. WHAT YOU'LL BUILD & SCALE AI Communication Pipelines Classify inbound messages by category, intent, urgency, and tone Generate contextual responses using enrichment data Implement and tune human approval gates AI-Powered Sales Intelligence Transform raw enrichment data into structured pre-call briefs Generate backgrounds, pain hypotheses, talking points, and rapport hooks RAG System Maintain and improve the vector database with embeddings Implement markdown-aware chunking strategies Build async ingestion workers and semantic search APIs Trend Intelligence Engine Process RSS feeds, social media, video platforms, and search trends Generate reports, forecasts, and content drafts • Run autonomously on scheduled jobs Content Quality Pipeline Extend the multi-agent system (outline → audit → generate) Maintain binary quality gates (PASS/FAIL with citations) Support multiple content formats across the pipeline Automated Lead Qualification Enrich leads with product data and market insights Build AI scoring and qualification grading systems • Generate automated audit reports AI Executive Assistant Build and maintain Slack-integrated operations • Automate scheduling workflows Triage and respond to email autonomously Requirements DAY-TO-DAY RESPONSIBILITIES Build and improve AI pipelines for client performance insights Improve RAG retrieval quality (re-ranking, chunking, hybrid search) Add tool use / function calling for real-time data in LLM pipelines Debug classification errors and improve model accuracy Optimize LLM costs, latency, and performance Build dashboards for AI metrics and usage monitoring Add observability and tracing to AI pipelines Expand content quality systems to new formats and use cases TECH STACK Core: TypeScript · Node.js · React / Next.js · n8n · PostgreSQL · CI/CD · Claude Code Nice to have: AWS Lambda · Terraform · Docker · Amazon SP-API · Slack Bots · Playwright QUALIFICATIONS Required: Production LLM experience — Claude or OpenAI deployed in real, live systems RAG system experience — embeddings, retrieval, chunking, and context handling • 3+ years TypeScript / Node.js Strong React skills (component architecture, state management, performance) PostgreSQL — queries, migrations, indexing, query optimisation API integrations — REST, OAuth, webhooks Linux server experience — SSH, log analysis, debugging, deployments Strong Pluses: Multi-agent LLM systems and orchestration Anthropic Claude expertise (prompt engineering, tool use, system prompts) Vector search and embeddings (pgvector, Pinecone, or similar) • Slack API and bot development Ad platform APIs (Meta, Google, LinkedIn) LLM observability — cost tracking, tracing, monitoring • Amazon / eCommerce experience AI-assisted dev tools (Cursor, Claude Code, etc.) WHAT WE OFFER • Competitive salary based on experience High-impact role with genuine ownership over systems that matter • Full time remote role Work directly on one of the most advanced AI-native business platforms in the Amazon space A team that moves fast, thinks big, and holds a high bar PTO after successfully completed probationary period Benefits WHAT WE OFFER • Competitive salary based on experience High-impact role with genuine ownership over systems that matter • Full time remote role Work directly on one of the most advanced AI-native business platforms in the Amazon space A team that moves fast, thinks big, and holds a high bar PTO after successfully completed probationary period Originally posted on Himalayas",
+      "date": "2026-07-02",
+      "region": "brazil",
+      "first_seen": "2026-07-02",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
       "title": "(fluent German & English) L1 Customer Support Consultant (EU Remote)",
       "company": "Supportyourapp",
@@ -24,7 +37,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true,
+      "is_new": false,
       "also_on": [
         "WeWorkRemotely"
       ],
@@ -41,7 +54,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/base-com-full-stack-developer-react-aws",
@@ -54,7 +67,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/arize-ai-open-source-design-engineer",
@@ -67,7 +80,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/win-home-inspection-devops-engineer",
@@ -80,7 +93,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app",
@@ -93,7 +106,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
@@ -106,7 +119,7 @@
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/darkroom/jobs/shopify-full-stack-developer",
@@ -119,7 +132,7 @@
       "date": "2026-07-01",
       "region": "brazil",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/chainlink-labs/jobs/senior-site-reliability-engineer-ccip",
@@ -132,7 +145,7 @@
       "date": "2026-07-01",
       "region": "brazil",
       "first_seen": "2026-07-01",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/the-global-talent-co/jobs/customer-support-specialist-b2b",
@@ -145,50 +158,7 @@
       "date": "2026-07-01",
       "region": "brazil",
       "first_seen": "2026-07-01",
-      "is_new": true
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/med-metrix/jobs/senior-software-engineer-remote-1075478450",
-      "title": "Senior Software Engineer - Remote",
-      "company": "Med-Metrix",
-      "location": "",
-      "url": "https://himalayas.app/companies/med-metrix/jobs/senior-software-engineer-remote-1075478450",
-      "source": "Himalayas",
-      "description": "Job Purpose The Senior Software Engineer – Full Stack will collaborate to define, design, and ship new features in a production application while simultaneously improving existing functionality. The Senior Software Engineer – Full Stack will also be responsible for fixing bugs and enhancing application performance. Full Remote, Required Hours: 9AM-5PM EST Duties & Responsibilities Implement all aspects of application design, from initial concepts, spikes, coding, performance, security, scalability, code reviews, testing, and deployment. Write TypeScript, HTML, and SCSS utilizing Angular and rxjs that powers our front-end client applications Write more TypeScript utilizing Node.js which powers our serverless architecture, hosted on AWS utilizing Lambdas and Docker containers Design and implement APIs utilizing serverless REST APIs and WebSocket services Design databases utilizing DynamoDB, our application’s primary database Manage our infrastructure through cdk and CloudFormation Manage and improve continuous integration and delivery Perform functional testing for your work in a local development environment Write unit tests and integration tests Monitor new features post deployment using monitoring tools like Sentry Work closely with the product management team to understand and build out requirements for new work Work closely with the software engineering team to collaborate on new features, resolve issues, and knowledge share Other duties as assigned Use, protect and disclose patients’ protected health information (PHI) only in accordance with Health Insurance Portability and Accountability Act (HIPAA) standards Understand and comply with Information Security and HIPAA policies and procedures at all times Limit viewing of PHI to the absolute minimum as necessary to perform assigned duties Qualifications High school diploma or equivalent required At least 5 years of experience in software development, with a focus on full-stack web application development Minimum of 2 years of experience with Angular, rxjs, and TypeScript Proven track record of designing and implementing features on web applications as a full-stack engineer Familiarity with working in a cloud-based environment, either directly with AWS, Serverless, Lambda, S3 or comparable technologies from Azure, Google Cloud, etc. Some database experience with DynamoDB or a comparable database experience Familiarity with cloud computing security and scalability best practices Ability to work independently and with a team Proficiency in Microsoft Office Suite Strong interpersonal skills, ability to communicate well at all levels of the organization Strong problem solving and creative skills and the ability to exercise sound judgment and make decisions based on accurate and timely analyses High level of integrity and dependability with a strong sense of urgency and results oriented Excellent written and verbal communication skills required Gracious and welcoming personality for customer service interaction Working Conditions Must possess a smart-phone or electronic device capable of downloading applications, for multifactor authentication and security purposes. Physical Demands: While performing the duties of this job, the employee is occasionally required to move around the work area; Sit; perform manual tasks; operate tools and other office equipment such as computer, computer peripherals and telephones; extend arms; kneel; talk and hear. Mental Demands: The employee must be able to follow directions, collaborate with others, and handle stress. Work Environment: The noise level in the work environment is usually minimal. Med-Metrix will not discriminate against any employee or applicant for employment because of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, veteran status, other non-merit based factors, or any other characteristic protected by federal, state or local law. Originally posted on Himalayas",
-      "date": "2026-06-30",
-      "region": "unknown",
-      "first_seen": "2026-07-01",
-      "is_new": true
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/experian/jobs/analista-de-desenvolvimento-de-software-senior",
-      "title": "Analista de Desenvolvimento de Software Sênior",
-      "company": "Experian",
-      "location": "Brazil",
-      "url": "https://himalayas.app/companies/experian/jobs/analista-de-desenvolvimento-de-software-senior",
-      "source": "Himalayas",
-      "description": "Neste momento de transformação digital procuramos talentos que desejam ensinar, aprender e transformar junto com nosso time. Se você é um profissional apaixonado por tecnologia, dados, inovação, com alta capacidade de comunicação, dinamismo e quer proporcionar constantes melhorias junto ao time, aqui é o seu lugar. O que estamos buscando em você! Domínio em linguagem de programação Java 17+, usando Spring Framework (Spring Boot, Spring Data, Spring Batch) e arquitetura em microserviços API REST Conhecimento de desenvolvimento front-end (Angular) Domínio em controle de versionamento com Git Domínio em banco de dados relacional (podendo ser SQL Server, Oracle, PostgresSQL, MySQL) e não relacional (mongoDB) Experiência em metodologias ágeis Experiência em arquitetura cloud e seus recursos (preferencialmente Cloud AWS), com práticas no uso de filas e storage Experiência em containerização (Docker, Kubernets) Experiência em testes unitários usando JUnit e Mockito Experiência em pipeline CI/CD (Jenkins) Experiência com monitoramento em microserviços (Grafana, Kibana, Dynatrace) Diferenciais: Desejavel conhecimento em Python Desejavel conhecimento Scala Desejavel conhecimento em Airflow Quais serão suas principais entregas? Desenvolver e manter aplicações web utilizando tecnologias modernas. Colaborar com equipes de design e produto para criar interfaces de usuário intuitivas. Implementar e integrar APIs RESTful. Garantir a qualidade do código através de revisões e testes automatizados. Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção até a implantação. Irá atuar em uma equipe, participando efetivamente das cerimonias, discussões e apoiando nas tomadas de decisões e resolução de conflitos; Será responsável por assegurar a qualidade, conformidade e segurança da solução entregue; Deverá trafegar pelas áreas que apoiamos dando insumos e trazendo as necessidades. Desenvolvimento de software de forma a garantir a qualidade, segurança e manutenibilidade. Qualifications Java Full Stack Angular A Serasa Experian é muito mais do que você imagina. Com o propósito de criar um futuro melhor, ampliando oportunidades para pessoas e empresas, no Brasil somos mais de 4 mil pessoas que atuam em diversos times e especialidades. Aqui, cada conhecimento e diversidade se complementa e você pode trabalhar no que mais ama, estamos comprometidos a construir uma cultura inclusiva e um ambiente no qual pessoas possam equilibrar a carreira com seus compromissos e interesses pessoais, prezando pelo bem-estar. A gente se dedica muito em ser uma das melhores e mais inovadoras empresas para se trabalhar do país, possibilitando experiências e carreiras incríveis para nossas pessoas. Nossa forte abordagem de pessoas em primeiro lugar é reconhecida externamente por meio de diversas certificações de mercado: fomos premiados pelo Great Place To Work™ em 24 países e pela certificação internacional Top Employers, além de sermos reconhecidos como uma das melhores empresas para jovens profissionais e contarmos com uma avaliação de 4,6 no Glassdoor. Cada reconhecimento nos indica que estamos no caminho certo, proporcionando um ambiente de trabalho cada vez melhor para nossos talentos. Experian Careers - Creating a better tomorrow together Find out what its like to work for Experian by clicking here A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem. Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100. Originally posted on Himalayas",
-      "date": "2026-06-30",
-      "region": "brazil",
-      "first_seen": "2026-07-01",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5782533882",
-      "title": "Nodejs Developer - Remote, Full-time",
-      "company": "Bluelight Consulting",
-      "location": "Curitiba, Paraná, Brasil",
-      "url": "https://www.adzuna.com.br/details/5782533882?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "Are you an experienced software engineer with deep experience building and delivering amazing products? Do you have high standards when it comes to code quality and user experiences? Are you the best developer on your team? Are you ready to work alongside the best engineers in the world for name-brand, industry-leading companies? What We Are Looking For: - Working experience with Node Js (3 years). - Meaningful experience working on large, complex systems. - Ability to take extreme ownership ov…",
-      "date": "2026-06-30",
-      "region": "brazil",
-      "first_seen": "2026-07-01",
-      "is_new": true,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 2
+      "is_new": false
     },
     {
       "id": "adzuna-5782505160",
@@ -201,7 +171,50 @@
       "date": "2026-06-30",
       "region": "brazil",
       "first_seen": "2026-07-01",
-      "is_new": true,
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 6
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/med-metrix/jobs/senior-software-engineer-remote-1075478450",
+      "title": "Senior Software Engineer - Remote",
+      "company": "Med-Metrix",
+      "location": "",
+      "url": "https://himalayas.app/companies/med-metrix/jobs/senior-software-engineer-remote-1075478450",
+      "source": "Himalayas",
+      "description": "Job Purpose The Senior Software Engineer – Full Stack will collaborate to define, design, and ship new features in a production application while simultaneously improving existing functionality. The Senior Software Engineer – Full Stack will also be responsible for fixing bugs and enhancing application performance. Full Remote, Required Hours: 9AM-5PM EST Duties & Responsibilities Implement all aspects of application design, from initial concepts, spikes, coding, performance, security, scalability, code reviews, testing, and deployment. Write TypeScript, HTML, and SCSS utilizing Angular and rxjs that powers our front-end client applications Write more TypeScript utilizing Node.js which powers our serverless architecture, hosted on AWS utilizing Lambdas and Docker containers Design and implement APIs utilizing serverless REST APIs and WebSocket services Design databases utilizing DynamoDB, our application’s primary database Manage our infrastructure through cdk and CloudFormation Manage and improve continuous integration and delivery Perform functional testing for your work in a local development environment Write unit tests and integration tests Monitor new features post deployment using monitoring tools like Sentry Work closely with the product management team to understand and build out requirements for new work Work closely with the software engineering team to collaborate on new features, resolve issues, and knowledge share Other duties as assigned Use, protect and disclose patients’ protected health information (PHI) only in accordance with Health Insurance Portability and Accountability Act (HIPAA) standards Understand and comply with Information Security and HIPAA policies and procedures at all times Limit viewing of PHI to the absolute minimum as necessary to perform assigned duties Qualifications High school diploma or equivalent required At least 5 years of experience in software development, with a focus on full-stack web application development Minimum of 2 years of experience with Angular, rxjs, and TypeScript Proven track record of designing and implementing features on web applications as a full-stack engineer Familiarity with working in a cloud-based environment, either directly with AWS, Serverless, Lambda, S3 or comparable technologies from Azure, Google Cloud, etc. Some database experience with DynamoDB or a comparable database experience Familiarity with cloud computing security and scalability best practices Ability to work independently and with a team Proficiency in Microsoft Office Suite Strong interpersonal skills, ability to communicate well at all levels of the organization Strong problem solving and creative skills and the ability to exercise sound judgment and make decisions based on accurate and timely analyses High level of integrity and dependability with a strong sense of urgency and results oriented Excellent written and verbal communication skills required Gracious and welcoming personality for customer service interaction Working Conditions Must possess a smart-phone or electronic device capable of downloading applications, for multifactor authentication and security purposes. Physical Demands: While performing the duties of this job, the employee is occasionally required to move around the work area; Sit; perform manual tasks; operate tools and other office equipment such as computer, computer peripherals and telephones; extend arms; kneel; talk and hear. Mental Demands: The employee must be able to follow directions, collaborate with others, and handle stress. Work Environment: The noise level in the work environment is usually minimal. Med-Metrix will not discriminate against any employee or applicant for employment because of race, color, religion, sex (including pregnancy, gender identity, and sexual orientation), parental status, national origin, age, disability, genetic information (including family medical history), political affiliation, military service, veteran status, other non-merit based factors, or any other characteristic protected by federal, state or local law. Originally posted on Himalayas",
+      "date": "2026-06-30",
+      "region": "unknown",
+      "first_seen": "2026-07-01",
+      "is_new": false
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/experian/jobs/analista-de-desenvolvimento-de-software-senior",
+      "title": "Analista de Desenvolvimento de Software Sênior",
+      "company": "Experian",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/experian/jobs/analista-de-desenvolvimento-de-software-senior",
+      "source": "Himalayas",
+      "description": "Neste momento de transformação digital procuramos talentos que desejam ensinar, aprender e transformar junto com nosso time. Se você é um profissional apaixonado por tecnologia, dados, inovação, com alta capacidade de comunicação, dinamismo e quer proporcionar constantes melhorias junto ao time, aqui é o seu lugar. O que estamos buscando em você! Domínio em linguagem de programação Java 17+, usando Spring Framework (Spring Boot, Spring Data, Spring Batch) e arquitetura em microserviços API REST Conhecimento de desenvolvimento front-end (Angular) Domínio em controle de versionamento com Git Domínio em banco de dados relacional (podendo ser SQL Server, Oracle, PostgresSQL, MySQL) e não relacional (mongoDB) Experiência em metodologias ágeis Experiência em arquitetura cloud e seus recursos (preferencialmente Cloud AWS), com práticas no uso de filas e storage Experiência em containerização (Docker, Kubernets) Experiência em testes unitários usando JUnit e Mockito Experiência em pipeline CI/CD (Jenkins) Experiência com monitoramento em microserviços (Grafana, Kibana, Dynatrace) Diferenciais: Desejavel conhecimento em Python Desejavel conhecimento Scala Desejavel conhecimento em Airflow Quais serão suas principais entregas? Desenvolver e manter aplicações web utilizando tecnologias modernas. Colaborar com equipes de design e produto para criar interfaces de usuário intuitivas. Implementar e integrar APIs RESTful. Garantir a qualidade do código através de revisões e testes automatizados. Participar de todas as fases do ciclo de desenvolvimento de software, desde a concepção até a implantação. Irá atuar em uma equipe, participando efetivamente das cerimonias, discussões e apoiando nas tomadas de decisões e resolução de conflitos; Será responsável por assegurar a qualidade, conformidade e segurança da solução entregue; Deverá trafegar pelas áreas que apoiamos dando insumos e trazendo as necessidades. Desenvolvimento de software de forma a garantir a qualidade, segurança e manutenibilidade. Qualifications Java Full Stack Angular A Serasa Experian é muito mais do que você imagina. Com o propósito de criar um futuro melhor, ampliando oportunidades para pessoas e empresas, no Brasil somos mais de 4 mil pessoas que atuam em diversos times e especialidades. Aqui, cada conhecimento e diversidade se complementa e você pode trabalhar no que mais ama, estamos comprometidos a construir uma cultura inclusiva e um ambiente no qual pessoas possam equilibrar a carreira com seus compromissos e interesses pessoais, prezando pelo bem-estar. A gente se dedica muito em ser uma das melhores e mais inovadoras empresas para se trabalhar do país, possibilitando experiências e carreiras incríveis para nossas pessoas. Nossa forte abordagem de pessoas em primeiro lugar é reconhecida externamente por meio de diversas certificações de mercado: fomos premiados pelo Great Place To Work™ em 24 países e pela certificação internacional Top Employers, além de sermos reconhecidos como uma das melhores empresas para jovens profissionais e contarmos com uma avaliação de 4,6 no Glassdoor. Cada reconhecimento nos indica que estamos no caminho certo, proporcionando um ambiente de trabalho cada vez melhor para nossos talentos. Experian Careers - Creating a better tomorrow together Find out what its like to work for Experian by clicking here A Serasa Experian é a primeira e a maior Datatech do Brasil. Líder em soluções de inteligência para análise de riscos e oportunidades, com foco nas jornadas de crédito, autenticação e prevenção à fraude. Com tecnologia de ponta, inovação e os melhores talentos, transforma a incerteza do risco na melhor decisão, ajudando pessoas a realizarem seus sonhos e empresas de todos os portes e segmentos a prosperarem. Temos 22.000 pessoas operando em 32 países e a cada dia estamos investindo em novas tecnologias, profissionais talentosos e inovação para ajudar todos os clientes a maximizarem cada oportunidade. Com sede corporativa em Dublin, Irlanda, a Experian está listada na Bolsa de Valores de Londres (EXPN) e compõe o índice FTSE 100. Originally posted on Himalayas",
+      "date": "2026-06-30",
+      "region": "brazil",
+      "first_seen": "2026-07-01",
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5782533882",
+      "title": "Nodejs Developer - Remote, Full-time",
+      "company": "Bluelight Consulting",
+      "location": "Curitiba, Paraná, Brasil",
+      "url": "https://www.adzuna.com.br/details/5782533882?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Are you an experienced software engineer with deep experience building and delivering amazing products? Do you have high standards when it comes to code quality and user experiences? Are you the best developer on your team? Are you ready to work alongside the best engineers in the world for name-brand, industry-leading companies? What We Are Looking For: - Working experience with Node Js (3 years). - Meaningful experience working on large, complex systems. - Ability to take extreme ownership ov…",
+      "date": "2026-06-30",
+      "region": "brazil",
+      "first_seen": "2026-07-01",
+      "is_new": false,
       "also_on": [
         "Adzuna"
       ],
@@ -1638,6 +1651,19 @@
       "dup_count": 1
     },
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
+      "title": "Senior Web Developer (WordPress & Shopify)",
+      "company": "Rehire",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Colombia URL: http://rehiresolutions.com Role Overview From Rehire, we are supporting a digital agency in the search for a Senior Web Developer, a key role responsible for leading website projects from planning and architecture through launch and ongoing maintenance. We are looking for a hands-on developer with strong technical expertise, excellent communication skills, and the ability to take full ownership of projects while collaborating closely with project managers, designers, and creative teams. Responsibilities ● Lead website development projects end-to-end, including architecture, development, QA, and launch. ● Build and maintain custom WordPress themes and functionality. ● Build and maintain custom Shopify themes. ● Integrate third-party APIs and external services. ● Optimize websites for accessibility, performance, Core Web Vitals, and page speed. ● Maintain and improve existing client websites through bug fixes, updates, and enhancements. ● Collaborate closely with project managers, designers, creative teams, and other stakeholders throughout project lifecycles. ● Manage multiple projects simultaneously while ensuring high-quality delivery. Requirements ● Advanced English proficiency (written and spoken). ● 5+ years of professional web development experience. ● Strong experience developing custom WordPress themes and plugins from scratch. ● Solid experience with ACF (Advanced Custom Fields) and ACF-driven architecture. ● Strong knowledge of Tailwind CSS. ● Experience with modern JavaScript. ● Familiarity with Git, GitHub, pull requests, and branch-based workflows. ● Shopify theme development experience is highly desirable. Nice to Have ● Previous experience working in a digital agency environment. ● Shopify Plus experience. ● Headless commerce experience. ● WordPress Multisite experience. ● Drupal development experience. ● Experience with WordPress-focused hosting platforms such as WP Engine or Pressable. ● Experience leveraging AI tools to improve development workflows and productivity. About the Position ● Work Schedule: Monday to Friday, 9:30 AM to 7:00 PM EST. ● Location: 100% Remote. ● Contract Type: Contractor model. ● Compensation: Salary in USD. ● Career Growth: Opportunities for professional development and long-term growth. To apply: https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
+      "date": "Wed, 10 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/revvity-principal-devops-engineer-build-release-and-cloud-automation",
       "title": "Principal DevOps Engineer – Build, Release and Cloud Automation",
       "company": "Revvity",
@@ -1697,19 +1723,6 @@
       "url": "https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Brazil (Remote) URL: http://startwillow.com About Willow: Willow is a telehealth company focused on personalized, responsible cosmetic weight loss care. We combine medical expertise with a supportive, patient-centered approach to help people feel more confident and comfortable in their bodies. Our goal is to make high-quality care accessible, thoughtful, and designed to fit real lives. About the role: We’re looking for a Senior Web Designer to join our team and create high-impact, performance-driven digital experiences. In this role, you’ll lead the design of fully responsive, conversion-focused web experiences from concept through launch, with a strong emphasis on marketing landing pages, paid ad creatives, and brand-led executions. You’ll also play a key role in the redesign and evolution of the Willow website, helping shape how the brand shows up across core web experiences. You’ll collaborate closely with cross-functional teams to ensure every design decision supports business goals, elevates user experience, and maintains strong, consistent brand expression across all digital touchpoints. Responsibilities: Marketing & Visual Design — Designing high-converting landing pages tied to campaign goals, maintaining brand consistency across digital channels, and producing creative assets (banners, promo visuals, launch materials) that translate marketing strategy into visual narratives. UX, Research & Strategy — Conducting user research, analyzing competitors and performance data, and partnering with marketing/product teams to hypothesize and design A/B tests aligned with growth goals. UI Design & Prototyping — Creating wireframes and interactive prototypes in Figma, designing polished interfaces that follow brand guidelines, and iterating based on data and feedback. Usability, Accessibility & Inclusivity — Planning and running usability tests, ensuring designs meet accessibility standards, and staying current on inclusive design practices. Design Systems & Documentation — Building and maintaining scalable design systems, producing style guides and UI specs, and delivering clean design handoffs to engineering. Collaboration & Ownership — Working closely with developers, PMs, marketers, and stakeholders, leading design discussions, and owning decisions end-to-end. They're also expected to stay current on design and web trends to keep output quality high. Requirements: 5+ years of professional web/digital design experience, ideally in DTC, ecommerce, or high-growth startup environments Demonstrated experience designing for marketing and growth (landing pages, paid ad creative, campaign launches) with measurable conversion outcomes Hands-on experience designing ecommerce flows — product pages, checkout, purchase funnels, and post-purchase experiences Experience running or designing for A/B tests and experimentation programs A strong portfolio showcasing shipped marketing websites, landing pages, and digital campaigns Expert-level Figma (components, auto-layout, variables, prototyping, design system management) Advanced proficiency in Adobe Creative Suite (Photoshop, Illustrator, and ideally After Effects for motion) Strong graphic design fundamentals — typography, color theory, layout, visual hierarchy, and composition Deep understanding of responsive/adaptive design and mobile-first principles Working knowledge of HTML/CSS fundamentals Familiarity with WCAG accessibility standards and inclusive design practices Experience building and maintaining scalable design systems Strong written and verbal communication, with the ability to articulate design rationale to non-designers (marketers, execs, engineers) Comfortable receiving and incorporating feedback from multiple stakeholders without losing the thread of the original intent Self-directed and proactive — able to take an ambiguous brief and drive it to a shipped outcome Commercially minded — understands that design in this role serves business outcomes, not just aesthetics Detail-oriented, with high standards for craft and polish Comfortable working in a fast-paced environment where priorities shift and timelines compress Collaborative, low-ego, and able to disagree constructively Nice to Have Experience in health, wellness, telehealth, or regulated industries (familiarity with compliance-aware design) Hands-on Webflow experience Motion design skills (Lottie, After Effects, or Figma's prototyping for micro-interactions) Experience designing for paid social ad formats (Meta, TikTok, YouTube) at scale Familiarity with analytics tools (GA4, Amplitude, Hotjar, Fullstory) and how to read funnel data Understanding of SEO principles as they relate to page design and structure Experience partnering with copywriters on messaging-driven landing pages Previous agency background combined with in-house experience What’s in it for you? As full-time member of our team, you’ll enjoy: Flexible hours Work wherever you choose Fun and casual work environment Employee engagement activities and virtual gatherings We are a diverse, global team! 🌍 To apply: https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
-      "date": "Wed, 10 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
-      "title": "Senior Web Developer (WordPress & Shopify)",
-      "company": "Rehire",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Colombia URL: http://rehiresolutions.com Role Overview From Rehire, we are supporting a digital agency in the search for a Senior Web Developer, a key role responsible for leading website projects from planning and architecture through launch and ongoing maintenance. We are looking for a hands-on developer with strong technical expertise, excellent communication skills, and the ability to take full ownership of projects while collaborating closely with project managers, designers, and creative teams. Responsibilities ● Lead website development projects end-to-end, including architecture, development, QA, and launch. ● Build and maintain custom WordPress themes and functionality. ● Build and maintain custom Shopify themes. ● Integrate third-party APIs and external services. ● Optimize websites for accessibility, performance, Core Web Vitals, and page speed. ● Maintain and improve existing client websites through bug fixes, updates, and enhancements. ● Collaborate closely with project managers, designers, creative teams, and other stakeholders throughout project lifecycles. ● Manage multiple projects simultaneously while ensuring high-quality delivery. Requirements ● Advanced English proficiency (written and spoken). ● 5+ years of professional web development experience. ● Strong experience developing custom WordPress themes and plugins from scratch. ● Solid experience with ACF (Advanced Custom Fields) and ACF-driven architecture. ● Strong knowledge of Tailwind CSS. ● Experience with modern JavaScript. ● Familiarity with Git, GitHub, pull requests, and branch-based workflows. ● Shopify theme development experience is highly desirable. Nice to Have ● Previous experience working in a digital agency environment. ● Shopify Plus experience. ● Headless commerce experience. ● WordPress Multisite experience. ● Drupal development experience. ● Experience with WordPress-focused hosting platforms such as WP Engine or Pressable. ● Experience leveraging AI tools to improve development workflows and productivity. About the Position ● Work Schedule: Monday to Friday, 9:30 AM to 7:00 PM EST. ● Location: 100% Remote. ● Contract Type: Contractor model. ● Compensation: Salary in USD. ● Career Growth: Opportunities for professional development and long-term growth. To apply: https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
