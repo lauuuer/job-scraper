@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T11:32:52+00:00",
-  "count": 216,
-  "new_today": 1,
+  "generated_at": "2026-07-03T11:31:17+00:00",
+  "count": 219,
+  "new_today": 3,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,45 @@
   ],
   "jobs": [
     {
+      "id": "himalayas-https://himalayas.app/companies/parqet-fintech-gmbh/jobs/working-student-customer-success-engineer-2313988494",
+      "title": "Working Student — Customer Success Engineer",
+      "company": "Parqet Fintech GmbH",
+      "location": "Argentina, Australia, Austria, Belgium, Brazil, Bulgaria, Canada, Chile, China, Colombia, Croatia, Czechia, Denmark, Egypt, Finland, France, Germany, Greece, Hong Kong, Hungary, India, Indonesia, Ireland, Israel, Italy, Japan, Kenya, Luxembourg, Malaysia, Morocco, Netherlands, New Zealand, Nigeria, Norway, Peru, Philippines, Poland, Portugal, Romania, Russian Federation, Saudi Arabia, Serbia, Singapore, South Africa, South Korea, Spain, Sweden, Switzerland, Taiwan, Thailand, Ukraine, United Arab Emirates, United Kingdom, United States, Venezuela, Vietnam",
+      "url": "https://himalayas.app/companies/parqet-fintech-gmbh/jobs/working-student-customer-success-engineer-2313988494",
+      "source": "Himalayas",
+      "description": "das wichtigste zuerst Gehalt — 16 EUR pro Stunde Standort — Remote, Arbeitserlaubnis in Deutschland ist nötig Arbeitszeit — Arbeite wann es in deinen Tag passt, 20h/Woche Möglicher Start — Frühstmöglich deine aufgaben Als Customer Support Engineer (Working Student) unterstützt du uns dabei, die Import-Funktionalitäten von Parqet weiterzuentwickeln und zu verbessern. Du wirst insbesondere daran arbeiten, PDF- und CSV-Dokumente von Brokern zu analysieren und zu unterstützen, welche Nutzer bei uns einreichen, damit diese ihre Transaktionen reibungslos in Parqet importieren können. Zudem hilfst du Nutzern bei ihren Problemen im Support. Aktive Kommunikation mit der Community per Email um Supportanfragen effektiv zu bearbeiten und mögliche Fehler oder Verbesserungen intern zu dokumentieren und zu beheben Entwicklung und Pflege von Parsern für PDF- und CSV-Dokumente von Brokern Strukturierung und Standardisierung von Transaktionsdaten für den Import in Parqet Enge Zusammenarbeit mit anderen Developern, dem Support & Product Management um Anforderungen und Feedback schnell umzusetzen dein profil Du passt zu uns, wenn du... mindestens noch 6 Monate eingeschriebener Student bist eine starke Affinität für einfach zu nutzende Software hast und dich die Idee, an der Verbesserung von Parqet mitzuarbeiten, begeistert solide Kenntnisse in Node.js & TypeScript mitbringst und idealerweise schon mit Dateiformaten wie CSV und PDF gearbeitet hast Freude daran hast, technische Probleme eigenständig zu analyisieren und pragmatische Lösungen zu entwickeln strukturiert arbeiten kannst und ein Auge fürs Detail hast, besonders bei der Datenverarbeitung optimalerweise Parqet bereits selbst nutzt und gut kennst dich für Fintechs, Investments und benutzerfreundliche Software begeisterst Lust hast in einem dynamischen Team direkten Impact auf potenziell tausende Nutzer zu haben Wir erwarten nicht, dass eine einzige Person alle Punkte erfüllt. Originally posted on Himalayas",
+      "date": "2026-07-03",
+      "region": "brazil",
+      "first_seen": "2026-07-03",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/matrix-global/jobs/senior-data-scientist",
+      "title": "Senior Data Scientist",
+      "company": "Matrix Global",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/matrix-global/jobs/senior-data-scientist",
+      "source": "Himalayas",
+      "description": "Description Matrix IFS is looking for a Data Scientist, the job involves working with client data to develop and implement fraud detection models, which includes data cleaning, feature engineering, and model tuning. Responsibilities also include collaborating with clients and internal teams, communicating findings, and contributing to product development by creating scalable data pipelines and improving processes. Key skills required are proficiency in Python (including libraries like NumPy, Pandas, and scikit-learn), machine learning, distributed computing (like PySpark), and strong communication abilities. Core responsibilities Data analysis and modeling: Understand client data, perform data cleaning and preprocessing, and develop and tune machine learning models. Collaboration: Work with internal teams (Product, Research) and external stakeholders (clients) to understand business objectives and ensure client success. Technical leadership: Provide technical guidance, drive project execution, and contribute to building scalable data pipelines and prototypes. Product development: Help improve the product by contributing to solution development, keeping up with fraud prevention trends, and creating generalized product enhancements. Communication: Clearly communicate complex findings and strategies to both technical and non-technical audiences. Key skills and qualifications Programming: Strong proficiency in Python, including scientific stack libraries (NumPy, Pandas, SciPy, scikit-learn) and experience with distributed computing tools like PySpark. Machine Learning: Expertise in machine learning concepts and algorithms. Data Manipulation: Experience with data cleaning, feature engineering, and building scalable data pipelines (e.g., with Airflow and Trino). Communication: Excellent verbal and written communication skills to explain complex ideas to various stakeholders. Analytical: Strong analytical and problem-solving skills to tackle complex financial crime challenges. Education: A degree in a quantitative field like Computer Science, Statistics, Applied Mathematics, or a related area is often required. Why Matrix Matrix is a global, dynamic, fast-growing technical consultancy leading technology services company with 13000 employees worldwide. Since its foundation in 2001, Matrix has made more travelers and acquisitions and has executed some of the largest, most significant. The company specializes in implementing and developing leading technologies, software solutions, and products. It provides its customers with infrastructure and consulting services, IT outsourcing, offshore, training and assimilation, and Ves as representatives for the world's leading software vendors. With vast experience in private and public sectors, ranging from Finance, Telecom, Health, Hi-Tech, Education, Defense, and Secu city, Matrix's customer base includes guest organizations in Israel and a steadily growing client base worldwide. We are comprised of talented, creative, and dedicated individuals passionate about delivering innovative solutions to the market. We source and foster the best talent and recognize that all employee's contributions are integral to our company's future. Matrix- success is based on a challenging work environment, competitive compensation and benefits, and rewarding career opportunities. We encourage a diverse work environment of sharing, learning, and ceding together. Come and join the winning team! You'll be challenged and have fun in a highly respected organization. To Learn More, Visit Matrix -ifs. Com, Originally posted on Himalayas",
+      "date": "2026-07-03",
+      "region": "brazil",
+      "first_seen": "2026-07-03",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5786700872",
+      "title": "Full Stack Developer",
+      "company": "Tata Consultancy Services",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5786700872?se=Kpc2stJ28RGMmszQJLOorA&utm_medium=api&utm_source=bd0bee3e&v=E965D160631D05B275DB72BA902BC98201C71AF3",
+      "source": "Adzuna",
+      "description": "Come to one of the biggest IT Services companies in the world Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We are looking for Full Stack Developer @Remote -Brazil, who wants to learn and transform his c…",
+      "date": "2026-07-03",
+      "region": "brazil",
+      "first_seen": "2026-07-03",
+      "is_new": true
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/gigabrands/jobs/full-stack-automation-engineer",
       "title": "Full Stack Automation Engineer",
       "company": "GigaBrands",
@@ -24,7 +63,7 @@
       "date": "2026-07-02",
       "region": "brazil",
       "first_seen": "2026-07-02",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
@@ -175,7 +214,7 @@
       "also_on": [
         "Adzuna"
       ],
-      "dup_count": 6
+      "dup_count": 4
     },
     {
       "id": "himalayas-https://himalayas.app/companies/med-metrix/jobs/senior-software-engineer-remote-1075478450",
@@ -322,7 +361,11 @@
       "date": "2026-06-28",
       "region": "brazil",
       "first_seen": "2026-06-29",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
     },
     {
       "id": "jobicy-144856",
@@ -1651,6 +1694,19 @@
       "dup_count": 1
     },
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
+      "title": "Senior Web Designer",
+      "company": "Willow Health",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Brazil (Remote) URL: http://startwillow.com About Willow: Willow is a telehealth company focused on personalized, responsible cosmetic weight loss care. We combine medical expertise with a supportive, patient-centered approach to help people feel more confident and comfortable in their bodies. Our goal is to make high-quality care accessible, thoughtful, and designed to fit real lives. About the role: We’re looking for a Senior Web Designer to join our team and create high-impact, performance-driven digital experiences. In this role, you’ll lead the design of fully responsive, conversion-focused web experiences from concept through launch, with a strong emphasis on marketing landing pages, paid ad creatives, and brand-led executions. You’ll also play a key role in the redesign and evolution of the Willow website, helping shape how the brand shows up across core web experiences. You’ll collaborate closely with cross-functional teams to ensure every design decision supports business goals, elevates user experience, and maintains strong, consistent brand expression across all digital touchpoints. Responsibilities: Marketing & Visual Design — Designing high-converting landing pages tied to campaign goals, maintaining brand consistency across digital channels, and producing creative assets (banners, promo visuals, launch materials) that translate marketing strategy into visual narratives. UX, Research & Strategy — Conducting user research, analyzing competitors and performance data, and partnering with marketing/product teams to hypothesize and design A/B tests aligned with growth goals. UI Design & Prototyping — Creating wireframes and interactive prototypes in Figma, designing polished interfaces that follow brand guidelines, and iterating based on data and feedback. Usability, Accessibility & Inclusivity — Planning and running usability tests, ensuring designs meet accessibility standards, and staying current on inclusive design practices. Design Systems & Documentation — Building and maintaining scalable design systems, producing style guides and UI specs, and delivering clean design handoffs to engineering. Collaboration & Ownership — Working closely with developers, PMs, marketers, and stakeholders, leading design discussions, and owning decisions end-to-end. They're also expected to stay current on design and web trends to keep output quality high. Requirements: 5+ years of professional web/digital design experience, ideally in DTC, ecommerce, or high-growth startup environments Demonstrated experience designing for marketing and growth (landing pages, paid ad creative, campaign launches) with measurable conversion outcomes Hands-on experience designing ecommerce flows — product pages, checkout, purchase funnels, and post-purchase experiences Experience running or designing for A/B tests and experimentation programs A strong portfolio showcasing shipped marketing websites, landing pages, and digital campaigns Expert-level Figma (components, auto-layout, variables, prototyping, design system management) Advanced proficiency in Adobe Creative Suite (Photoshop, Illustrator, and ideally After Effects for motion) Strong graphic design fundamentals — typography, color theory, layout, visual hierarchy, and composition Deep understanding of responsive/adaptive design and mobile-first principles Working knowledge of HTML/CSS fundamentals Familiarity with WCAG accessibility standards and inclusive design practices Experience building and maintaining scalable design systems Strong written and verbal communication, with the ability to articulate design rationale to non-designers (marketers, execs, engineers) Comfortable receiving and incorporating feedback from multiple stakeholders without losing the thread of the original intent Self-directed and proactive — able to take an ambiguous brief and drive it to a shipped outcome Commercially minded — understands that design in this role serves business outcomes, not just aesthetics Detail-oriented, with high standards for craft and polish Comfortable working in a fast-paced environment where priorities shift and timelines compress Collaborative, low-ego, and able to disagree constructively Nice to Have Experience in health, wellness, telehealth, or regulated industries (familiarity with compliance-aware design) Hands-on Webflow experience Motion design skills (Lottie, After Effects, or Figma's prototyping for micro-interactions) Experience designing for paid social ad formats (Meta, TikTok, YouTube) at scale Familiarity with analytics tools (GA4, Amplitude, Hotjar, Fullstory) and how to read funnel data Understanding of SEO principles as they relate to page design and structure Experience partnering with copywriters on messaging-driven landing pages Previous agency background combined with in-house experience What’s in it for you? As full-time member of our team, you’ll enjoy: Flexible hours Work wherever you choose Fun and casual work environment Employee engagement activities and virtual gatherings We are a diverse, global team! 🌍 To apply: https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
+      "date": "Wed, 10 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/rehire-senior-web-developer-wordpress-shopify",
       "title": "Senior Web Developer (WordPress & Shopify)",
       "company": "Rehire",
@@ -1710,19 +1766,6 @@
       "url": "https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt",
       "source": "WeWorkRemotely",
       "description": "Headquarters: URL: http://intelmatix.ai Mid/Senior DevOps Cloud Engineer Position Type: Remote (Egypt) About Intelmatix Intelmatix is a pioneering deep-tech AI company founded by MIT technologists, with a global presence in Riyadh, London, and Boston. We are on a mission to transform businesses into cognitive enterprises through Decision Intelligence. Our technology blends cutting-edge AI with real-world applications, delivering scalable, secure, and data-driven solutions to global clients. Role Overview We are looking for a highly motivated Mid/Senior DevOps Cloud Engineer with a specialized focus on Google Cloud Platform (GCP) to join our Platform Engineering team. You will play a critical part in architecting, shaping, and supporting the infrastructure that powers our AI-driven platforms. This role is ideal for a GCP expert who thrives on infrastructure automation, cloud-native solutions, and enabling the seamless deployment of complex applications, including AI/ML models. While GCP is our primary focus for this role, exposure to AWS and Azure is a significant plus as we navigate multi-cloud environments. Key Responsibilities GCP Infrastructure Managemen t: Architect, maintain, and optimize cloud infrastructure on GCP with a focus on reliability, scalability, and cost-efficiency. Infrastructure as Code (IaC) : Automate global infrastructure provisioning using Terraform to ensure consistent environments across the lifecycle. CI/CD Orchestration : Build and maintain robust CI/CD pipelines for application, data, and model deployment workflows (GitHub Actions). AI/ML Collaboration : Work closely with Data Science teams to deploy and monitor machine learning models and analytical services. Security & Networking : Implement and enforce security best practices, including IAM, VPC service controls, and Zero Trust architectures. Observability : Set up and maintain modern observability stacks (Prometheus, Grafana, Loki) for proactive monitoring and alerting. Hybrid/Multi-Cloud Strategy : Assist in managing cross-cloud integrations, leveraging your knowledge of AWS and Azure where applicable. Required Qualifications Education: Bachelor’s degree in Computer Science, Engineering, or a related field. Experience: 3–5 years of dedicated experience in DevOps, Site Reliability Engineering (SRE), or Cloud Engineering roles. GCP Expertise (Must-Have): Deep hands-on experience with Google Cloud services (e.g., GCE, GKE, GCS, Cloud SQL, IAM, and VPC). Containerization: Strong proficiency with Docker and orchestration via Google Kubernetes Engine (GKE) or similar services in other cloud prroviders. IaC Mastery: Proven experience managing infrastructure through Terraform. CI/CD: Experience building automation pipelines using GitHub Actions or similar tools. Scripting: Proficiency in Python and Bash for task automation and tooling. Linux Systems: Solid understanding of Linux system administration and performance tuning. Preferred Qualifications Certifications: Google Professional Cloud DevOps Engineer or Professional Cloud Architect or any cloud certifications for other cloud providers. Multi-Cloud: Familiarity with AWS (EC2, S3, EKS) or Azure (AKS, App Service) is highly desirable. Data/MLOps: Familiarity with GCP-specific data tools (BigQuery, Vertex AI, Dataflow) or MLOps tools (MLflow, Airflow). Edge Security: Understanding of Zero Trust Network (ZTN) concepts and Cloudflare. Database Admin: Basic experience with PostgreSQL administration. Startup Mindset: Experience working in fast-paced, agile, deep-tech environments. Tech Stack Primary Cloud: GCP (GKE, GCE, BigQuery). Secondary Clouds: AWS, Azure, OCI. IaC: Terraform, Terragrunt. CI/CD: GitHub Actions. Security: Cloudflare (ZTN). Monitoring: Prometheus Stack (Prometheus, Grafana, Loki). Application: Kong (API Gateway), Java Spring Boot, Python, Go. Data: GCP Dataflow, BigQuery, PostgreSQL. Why Join Us? At Intelmatix, you’ll work on impactful technology alongside a global team of top-tier professionals. We offer the autonomy to innovate, the resources to grow, and the opportunity to shape the future of AI-enabled decision-making across industries. To apply: https://weworkremotely.com/remote-jobs/intelmatix-mid-senior-devops-engineer-egypt",
-      "date": "Wed, 10 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
-      "title": "Senior Web Designer",
-      "company": "Willow Health",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Brazil (Remote) URL: http://startwillow.com About Willow: Willow is a telehealth company focused on personalized, responsible cosmetic weight loss care. We combine medical expertise with a supportive, patient-centered approach to help people feel more confident and comfortable in their bodies. Our goal is to make high-quality care accessible, thoughtful, and designed to fit real lives. About the role: We’re looking for a Senior Web Designer to join our team and create high-impact, performance-driven digital experiences. In this role, you’ll lead the design of fully responsive, conversion-focused web experiences from concept through launch, with a strong emphasis on marketing landing pages, paid ad creatives, and brand-led executions. You’ll also play a key role in the redesign and evolution of the Willow website, helping shape how the brand shows up across core web experiences. You’ll collaborate closely with cross-functional teams to ensure every design decision supports business goals, elevates user experience, and maintains strong, consistent brand expression across all digital touchpoints. Responsibilities: Marketing & Visual Design — Designing high-converting landing pages tied to campaign goals, maintaining brand consistency across digital channels, and producing creative assets (banners, promo visuals, launch materials) that translate marketing strategy into visual narratives. UX, Research & Strategy — Conducting user research, analyzing competitors and performance data, and partnering with marketing/product teams to hypothesize and design A/B tests aligned with growth goals. UI Design & Prototyping — Creating wireframes and interactive prototypes in Figma, designing polished interfaces that follow brand guidelines, and iterating based on data and feedback. Usability, Accessibility & Inclusivity — Planning and running usability tests, ensuring designs meet accessibility standards, and staying current on inclusive design practices. Design Systems & Documentation — Building and maintaining scalable design systems, producing style guides and UI specs, and delivering clean design handoffs to engineering. Collaboration & Ownership — Working closely with developers, PMs, marketers, and stakeholders, leading design discussions, and owning decisions end-to-end. They're also expected to stay current on design and web trends to keep output quality high. Requirements: 5+ years of professional web/digital design experience, ideally in DTC, ecommerce, or high-growth startup environments Demonstrated experience designing for marketing and growth (landing pages, paid ad creative, campaign launches) with measurable conversion outcomes Hands-on experience designing ecommerce flows — product pages, checkout, purchase funnels, and post-purchase experiences Experience running or designing for A/B tests and experimentation programs A strong portfolio showcasing shipped marketing websites, landing pages, and digital campaigns Expert-level Figma (components, auto-layout, variables, prototyping, design system management) Advanced proficiency in Adobe Creative Suite (Photoshop, Illustrator, and ideally After Effects for motion) Strong graphic design fundamentals — typography, color theory, layout, visual hierarchy, and composition Deep understanding of responsive/adaptive design and mobile-first principles Working knowledge of HTML/CSS fundamentals Familiarity with WCAG accessibility standards and inclusive design practices Experience building and maintaining scalable design systems Strong written and verbal communication, with the ability to articulate design rationale to non-designers (marketers, execs, engineers) Comfortable receiving and incorporating feedback from multiple stakeholders without losing the thread of the original intent Self-directed and proactive — able to take an ambiguous brief and drive it to a shipped outcome Commercially minded — understands that design in this role serves business outcomes, not just aesthetics Detail-oriented, with high standards for craft and polish Comfortable working in a fast-paced environment where priorities shift and timelines compress Collaborative, low-ego, and able to disagree constructively Nice to Have Experience in health, wellness, telehealth, or regulated industries (familiarity with compliance-aware design) Hands-on Webflow experience Motion design skills (Lottie, After Effects, or Figma's prototyping for micro-interactions) Experience designing for paid social ad formats (Meta, TikTok, YouTube) at scale Familiarity with analytics tools (GA4, Amplitude, Hotjar, Fullstory) and how to read funnel data Understanding of SEO principles as they relate to page design and structure Experience partnering with copywriters on messaging-driven landing pages Previous agency background combined with in-house experience What’s in it for you? As full-time member of our team, you’ll enjoy: Flexible hours Work wherever you choose Fun and casual work environment Employee engagement activities and virtual gatherings We are a diverse, global team! 🌍 To apply: https://weworkremotely.com/remote-jobs/willow-health-senior-web-designer",
       "date": "Wed, 10 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
