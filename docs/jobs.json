@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T11:31:17+00:00",
-  "count": 219,
-  "new_today": 3,
+  "generated_at": "2026-07-04T10:53:31+00:00",
+  "count": 227,
+  "new_today": 8,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,110 @@
   ],
   "jobs": [
     {
+      "id": "himalayas-https://himalayas.app/companies/it-labs/jobs/senior-full-stack-engineer-1493940723",
+      "title": "Senior Full Stack Engineer",
+      "company": "IT Labs",
+      "location": "Argentina, Brazil, Chile, Costa Rica, Mexico, Panama, Peru, Uruguay",
+      "url": "https://himalayas.app/companies/it-labs/jobs/senior-full-stack-engineer-1493940723",
+      "source": "Himalayas",
+      "description": "At IT Labs , we are looking for a hands-on Senior Full Stack Engineer to join one of our long-term projects in the automotive eCommerce space. Our client is a leading online retailer in the automotive aftermarket industry, operating one of the largest digital platforms for car parts and accessories. Their mission is to make vehicle repair and maintenance simpler and more affordable by giving millions of drivers direct online access to a massive catalog of parts, backed by a modern, data-driven technology platform. You will be joining a product-focused team where engineers own features end to end — from development and testing through deployment support. This role is best suited for someone who is equally comfortable on the frontend and backend, cares about code quality, and enjoys working in a fast-moving, collaborative Agile environment. What You'll Do Design, develop, and maintain full-stack features using React, TypeScript, and TailwindCSS on the frontend and Node.js with MongoDB on the backend Build and consume REST APIs that power customer-facing eCommerce experiences Write and maintain automated tests with Jest to ensure high product quality Support deployments and contribute to the reliability of CI/CD pipelines Leverage AI-driven development tools and practices to accelerate delivery and improve code quality Collaborate closely with product owners, designers, and fellow engineers to translate business requirements into technical solutions Required Skills 7+ years of working experience as a Software Engineer Frontend: TypeScript, React, TailwindCSS Backend: Node.js and MongoDB Solid experience designing and building REST APIs Hands-on experience writing tests with Jest Experience working with CI/CD pipelines and supporting deployments Proficiency with Git and Jira in an Agile environment Familiarity with AI-driven development tools and workflows Strong and fluent English skills, both spoken and written Strong communication skills and the ability to work directly with distributed teams Self-starter mindset with a sense of ownership over features from development to production Nice to Have Experience in eCommerce or high-traffic consumer web platforms Experience in the automotive or retail industry Performance optimization for large-scale web applications Experience with cloud infrastructure and deployment tooling Working Conditions Long-term engagement with possibility for extension Full-time, 40h/week Contract or B2B arrangement Salary paid monthly in gross USD PTO provided Our values We are a company that seeks the best for both our employees and clients, reaching beyond expectations in turning dreams into reality. Our way of working is rooted in our core values (Integrity, Excellence, Proactivity, Innovation, and People), with an expectation that our future colleagues will make these their second nature in their everyday work and life. We don’t ask for perfection, but we do appreciate people motivated to better themselves in every conceivable aspect. About IT Labs Founded in 2005, IT Labs is an international software tech company, specializing in purpose and process-driven teams for high-performance, innovation, transformation, and efficiency. Our HQ is in Palm Beach Gardens, Florida, and we have teams around the world - the UK, the Netherlands, Brazil, Argentina, Serbia, Croatia, BIH, Montenegro, North Macedonia, and the Middle East. We are constantly growing, and we would love for you to become part of our team! Originally posted on Himalayas",
+      "date": "2026-07-04",
+      "region": "brazil",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "workingnomads-https://www.workingnomads.com/job/go/1705878/",
+      "title": "Senior Ruby on Rails Developer",
+      "company": "Proxify",
+      "location": "Global",
+      "url": "https://www.workingnomads.com/job/go/1705878/",
+      "source": "WorkingNomads",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Ruby on Rails developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products and growth features. What we are looking for: Minimum of 5 years of experience in Ruby on Rails development with a strong portfolio of completed projects. Proficiency in Ruby, Ruby on Rails, and related technologies such as HTML, CSS, JavaScript, and SQL. Strong experience with relational databases such as PostgreSQL or MySQL. Proficiency with testing frameworks such as RSpec and Capybara. Strong knowledge of version control systems, particularly Git. Excellent analytical and problem-solving skills with a proactive approach to identifying and resolving issues. Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Responsibilities: Design, develop, and maintain high-quality web applications using Ruby on Rails. Write clean, maintainable, and efficient code following best practices and coding standards. Implement comprehensive testing strategies to ensure application stability and robustness, including unit tests, integration tests, and end-to-end tests. Identify and resolve performance bottlenecks to ensure applications run smoothly and efficiently. Maintain thorough documentation of development processes, code, and system configurations to ensure knowledge sharing and project continuity. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify.",
+      "date": "2026-07-03",
+      "region": "worldwide",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "workingnomads-https://www.workingnomads.com/job/go/1705867/",
+      "title": "Senior Sharepoint Developer",
+      "company": "Proxify",
+      "location": "Global",
+      "url": "https://www.workingnomads.com/job/go/1705867/",
+      "source": "WorkingNomads",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior SharePoint Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: 5+ years of professional experience in SharePoint development, including SharePoint Online and/or On-Premises. Proven expertise in SharePoint Framework (SPFx), Microsoft Power Platform, and SharePoint Designer. Proficiency in .NET, JavaScript, TypeScript, HTML5, and CSS. Strong experience with REST APIs, Graph API, and client-side scripting. Deep understanding of SharePoint architecture, content management, and permissions. Familiarity with SQL Server, Azure services, and Office 365 integrations. Experience with version control systems like Git. Nice-to-have skills: Certifications such as Microsoft Certified: SharePoint Developer or Power Platform Developer. Experience with migration tools (e.g., ShareGate, Metalogix). Knowledge of Agile/Scrum methodologies. Proficiency in C#. Responsibilities: Design, develop, and implement SharePoint solutions, including custom web parts, workflows, and applications. Customize SharePoint sites using client-side development tools like JavaScript, React, SPFx (SharePoint Framework), and Power Automate. Build and deploy custom solutions using modern development best practices. Work closely with business stakeholders to gather requirements and translate them into technical solutions. Integrate SharePoint with external systems and third-party tools using APIs and Microsoft Power Platform. Automate business processes through Power Automate, Power Apps, and custom workflows. Perform system maintenance, including upgrades, patches, and performance optimization. Troubleshoot and resolve issues in SharePoint environments, ensuring high availability and reliability. Monitor system performance and address scalability challenges proactively. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities, just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify.",
+      "date": "2026-07-03",
+      "region": "worldwide",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "workingnomads-https://www.workingnomads.com/job/go/1705863/",
+      "title": "Senior Laravel Developer",
+      "company": "Proxify",
+      "location": "Global",
+      "url": "https://www.workingnomads.com/job/go/1705863/",
+      "source": "WorkingNomads",
+      "description": "About us: Talent has no borders. Proxify's mission is to connect top developers around the world with the opportunities they deserve. So, it doesn't matter where you are; we are here to help you fast-track your independent career in the right direction. 🙂 Since our launch, Proxify's developers have successfully worked with 1200+ happy clients to build their products and growth features. 5000+ talented developers trust Proxify and its network to fulfill their dreams and objectives. Proxify is shaped by a global network of supportive, talented developers interested in remote full-time jobs. Our Glassdoor (4.5/5) and Trustpilot (4.8/5) ratings reflect the trust developers place in us and our commitment to our members' success. The Role: We are looking for a Senior Laravel developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products and growth features. What we are looking for: 5+ years of extensive experience with the PHP programming language 3+ years of hands-on experience with the Laravel framework The ability to problem-solve and think critically Understanding of the MVC pattern Understanding of SQL databases Good interpersonal skills Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Responsibilities: Liaise with fellow backend and frontend developers Design and implement web applications that use the Laravel framework Implement server-side logic to process front inputs Identify and fix bugs that are found within the code Interact with SQL databases Ensure all inputs going to a database have been parameterized Ensure the appropriate security standards have been implemented Ensure you've written unit test cases to verify code is performing as expected and to prevent possible security breaches Create written documentation for the different components What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities, just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify.",
+      "date": "2026-07-03",
+      "region": "worldwide",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5787144040",
+      "title": "Zendesk Developer",
+      "company": "G-P",
+      "location": "Rio de Janeiro, Estado do Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/details/5787144040?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "About Us Our leading SaaS-based Global Growth Platform enables clients to expand into over 180 countries quickly and efficiently, without the complexities of establishing local entities. At G-P, we're dedicated to breaking down barriers to global business and creating opportunities for everyone, everywhere. Our diverse, remote-first teams are essential to our success. We empower our Dream Team members with flexibility and resources, fostering an environment where innovation thrives and every co…",
+      "date": "2026-07-03",
+      "region": "brazil",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "remoteok-1134395",
+      "title": "Full Stack Developer first UK",
+      "company": "Better Futures Multi Academy Trust",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
+      "source": "RemoteOK",
+      "description": "Â£25,200âÂ£30,000 (3 days per week, pro-rata from Â£42,000âÂ£50,000 FTE) Remote with UK Midlands in-person days | Better Futures Multi-Academy TrustÂ Most developer roles give you a stack to maintain. This one gives you a product to shape.Â We are Better Futures Multi-Academy Trust, a group of sixth form colleges based in the UK Midlands. Inside the Trust, we are building two products that we believe can change how leadership development and student feedback work in education â and beyond.Â ARC is a 360-degree leadership platform that turns feedback into genuine behavioural change. Swaya is a student feedback app for iOS and Android. Both are live, both have paying clients, and both are at the point where the right developer can help take them from promising to powerful.Â We are not a startup in a co-working space. We are a startup inside a well-resourced, stable organisation â which means you get the creative freedom and product ownership of early-stage work, alongside the security, benefits, and backing of a public sector employer. It is an unusual combination, and we think it is a genuinely good one.Â What you will be doing Â Taking ownership of ARC and Swaya â their development, their quality, their roadmap. Working directly with the founders on product direction. Inheriting a solid Rails and React codebase and making it better. Managing iOS and Android app updates. Solving real UX problems. Shipping things that real users notice.Â What we are looking for Â Strong Ruby on Rails experience â production, not just tutorialsÂ React frontend skills and genuine care for UI/UX qualityÂ Mobile app experience: iOS and Android (React Native, Flutter, or native)Â Someone who thinks in products, not just ticketsÂ Comfortable with ambiguity, honest about what they do not know, and quick to learnÂ UK-based, with the right to work without sponsorshipÂ What we offer Â 0.6 FTE to start, with a clear path to full-time as the products growÂ Flexible, remote-first working with occasional in-person days in the MidlandsÂ Public sector pension and holiday entitlementÂ CPD budget and genuine encouragement to develop your skillsÂ A front-row seat on two products that are going somewhere â and a role in deciding whereÂ Please mention the word **GRACIOUS** and tag RMTM1LjIzMi4xNzcuMjQx when applying to show you read the job post completely (#RMTM1LjIzMi4xNzcuMjQx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-07-02",
+      "region": "unknown",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "remotive-2090986",
+      "title": "Senior AI Engineer",
+      "company": "Lemon.io",
+      "location": "Northern America, LATAM, Europe, APAC",
+      "url": "https://remotive.com/remote-jobs/software-development/senior-ai-engineer-2090986",
+      "source": "Remotive",
+      "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with LangChain is mandatory 2+ years of experience with large language models (LLMs) or vLLMs is mandatory 2+ years of experience with RAG or OpenAI is required Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "date": "2026-07-02",
+      "region": "latam",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5775911043",
+      "title": "Senior Data Engineer",
+      "company": "Data Meaning",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5775911043?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Senior Data Engineer Location: BR, Remote Position type: TBD Job Summary Data Meaning is a front-runner in Business Intelligence and Data Analytics consulting, renowned for our high-quality consulting services throughout the US and beyond. Our expertise lies in delivering tailored solutions in Business Intelligence, Data Warehousing, and Project Management. We have a diverse, global team of consultants, all working remotely, embodying a collaborative, inclusive, and innovation-driven work cultu…",
+      "date": "2026-06-25",
+      "region": "brazil",
+      "first_seen": "2026-07-04",
+      "is_new": true
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/parqet-fintech-gmbh/jobs/working-student-customer-success-engineer-2313988494",
       "title": "Working Student — Customer Success Engineer",
       "company": "Parqet Fintech GmbH",
@@ -24,7 +128,7 @@
       "date": "2026-07-03",
       "region": "brazil",
       "first_seen": "2026-07-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/matrix-global/jobs/senior-data-scientist",
@@ -37,7 +141,7 @@
       "date": "2026-07-03",
       "region": "brazil",
       "first_seen": "2026-07-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5786700872",
@@ -50,7 +154,7 @@
       "date": "2026-07-03",
       "region": "brazil",
       "first_seen": "2026-07-03",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/gigabrands/jobs/full-stack-automation-engineer",
@@ -1785,6 +1889,23 @@
       "is_new": false
     },
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
+      "title": "Senior React Full-stack Developer",
+      "company": "Lemon.io",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Requirements for the Senior React & Python Position: 4+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Requirements for the Senior Node & React Position: 5+ years of software development experience Commercial experience: React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years OR React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years Expertise in TypeScript, Supabase and AI-assisted coding is a must. Requirements for the Senior Ruby & React Position: 5+ years of software development experience Commercial experience: React.js: 2+ years, Ruby: 5+ years OR React.js: 5+ years, Ruby: 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, ****Site Reliability Engineering, React & Golang, React & Java, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Web3/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps with Azure DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, React Native & Node, Data Annotation, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa). To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
+      "date": "Wed, 03 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false,
+      "also_on": [
+        "WorkingNomads"
+      ],
+      "dup_count": 1
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-engineer-ii",
       "title": "Senior Lead Software Engineer II",
       "company": "Akamai",
@@ -1809,23 +1930,6 @@
       "region": "worldwide",
       "first_seen": "2026-06-17",
       "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
-      "title": "Senior React Full-stack Developer",
-      "company": "Lemon.io",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: New York, NY URL: https://lemon.io Are you a talented Senior Developer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. Requirements for the Senior React & Python Position: 4+ years of software development experience. Commercial experience: React.js 3+ years & Python 3+ years OR React.js 2+ years & Python 5+ years OR React.js 5+ years & Python 2+ years Experience with AWS, GCP, or Azure is required. Requirements for the Senior Node & React Position: 5+ years of software development experience Commercial experience: React.js: 3+ years, Node.js: 5+ years, and Next.js: 2+ years OR React.js: 5+ years, Node.js: 3+ years, and Next.js: 2+ years Expertise in TypeScript, Supabase and AI-assisted coding is a must. Requirements for the Senior Ruby & React Position: 5+ years of software development experience Commercial experience: React.js: 2+ years, Ruby: 5+ years OR React.js: 5+ years, Ruby: 2+ years Experience with AWS, GCP, or Azure is required. Other requirements: Strong technical skills: as a Senior Developer, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, ****Site Reliability Engineering, React & Golang, React & Java, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Web3/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps with Azure DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, React Native & Node, Data Annotation, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa). To apply: https://weworkremotely.com/remote-jobs/lemon-io-senior-react-full-stack-developer-4",
-      "date": "Wed, 03 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false,
-      "also_on": [
-        "WorkingNomads"
-      ],
-      "dup_count": 1
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/qive-analista-de-crm-pleno-afirmativa-para-pessoas-negras",
@@ -1918,9 +2022,10 @@
       "first_seen": "2026-06-17",
       "is_new": false,
       "also_on": [
+        "RemoteOK",
         "WorkingNomads"
       ],
-      "dup_count": 1
+      "dup_count": 2
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/insignia-consultancy-solutions-devops-lead",
