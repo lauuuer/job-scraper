@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-07T11:49:40+00:00",
-  "count": 247,
-  "new_today": 8,
+  "generated_at": "2026-07-08T11:03:20+00:00",
+  "count": 254,
+  "new_today": 7,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,114 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "title": "AI Automation Engineer, In-House MarTech Video SaaS",
+      "company": "Vidalytics",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Austin, TX URL: https://vidalytics.com If you love building AI agents, wiring systems together, and watching whole teams stop doing by hand what a machine can do better, faster, and cheaper, and you want to make a whole company AI native rather than ship a slick demo, keep reading. You'll be the person who makes Vidalytics AI native from top to bottom. You'll build the agents, the chains, the prompts, the reusable skills, and the cross system automations that let every team punch way above its weight. You'll report to the CEO. LFG! You'll start where the money is, on the revenue teams (sales, marketing and customer success), then take it across the whole org. You’ll work with the stakeholders who will use your workflow automations on a daily basis, to achieve the best solutions. Most importantly work w/ each team member to help them become AI Native themselves. Which tools they should be using, how they can build upon your ideas, or even spearheading projects of their own that you ensure the success of from a technical perspective. What You'll Be Doing (Job Tasks) Build AI agents and chains that do real work end to end, not chatbots that just talk. Write, version, and test prompts like code. Build reusable skills the whole org can run. Stand up cross system automations (n8n, Zapier, and custom code) that wire our tools together so work flows without a human babysitting it. Make each team at Vidalytics AI native,. Not just automating work, but helping each team member become AI Native - knowing which tools to use and how to use them. Where they’re self sufficient to continue automating their jobs. Ship internal tools and automations that make the company more efficient and effective. You stay hungry for more, always improving what we build and use. Build evals and observability so every AI system is measured, monitored, traced, and cost controlled. If you can't measure it, you can't ship it. Ground AI outputs in our own company data (retrieval / RAG) so they're accurate, not confidently wrong. Diagnose failures, kill hallucinations, and build the guardrails that keep systems reliable in production. Help with AEO / GEO where it moves the needle. Requirements (The must haves) You’re able to choose the right tool for the job. Which AI tool, LLM, agent is the best answer you can figure out wihtout endless tinkering. You care whether the work gets faster, cheaper, or better, not whether it uses the trendy thing. You've already shipped this kind of work in production. This is not a learn on the job role nor is it for the hobbiest. We expect real results, right away. We’re already doing all of this ourselves but need an expert level person to take ownership. AI is a young field, so we expect only a few years of hands on AI experience, but it has to sit on top of strong, relevant broader engineering experience, and you must have built and run real AI systems that other people depend on. You can actually code, and not just with Claude lol. You're comfortable with databases, APIs, and MCP, wiring systems together for real, not just clicking boxes. You build evals and observability by default. You measure, monitor, trace, and control cost as a matter of habit. You hold a production grade reliability bar. You ship systems that keep working for months, not demos that impress once and break the next day. A ready to show portfolio, or concrete examples of what you've built and the results it delivered. Your working hours overlap strongly with US Eastern time. We can discuss further. You’re not token-wise, prompt foolish. You're fluent across the frontier models, (Claude is our primary, ideally it is yours), and you know which model to reach for and why (cost, latency, context, reliability, specific use cases, etc.). You use tools like Claude Code and Claude Cowork daily, and not just a prompt You're comfortable with AI native hosting and deployment, for example Vercel. You're hands on with automation tools like n8n and Zapier, and you know when to drop them and write custom orchestration instead. You ground AI outputs in real data with retrieval / RAG so they're accurate and don't hallucinate. Most of your availabe working hours overlaps (or can) w/ the Eastern US time zone. Nice to Have (Not required, but a plus) Basic security and data protection know how. When you automate things, you don't want a free for all where anything can touch whatever data. Not a deal breaker. AEO / GEO experience. Deeper software engineering chops. Exposure to our stack: HubSpot, Fathom, Slack, Google Workspace, PostHog, Intercom, BigQuery, GCP, Vercel, v0, Lovable, Github. Who You Are (Personality Type) You’re a passionate tinker who loves this field and playing with new tech, but you can also shut down your internal shiny ball syndrome and GSD (get shit done). You translate between business problems and AI systems. You ask the right questions, fill the gaps, and turn messy business needs into working automations. You’re organized. You speak ROI. You’re familiar with marketing, sales and customer success workflows in particular as well as other functions of a modern tech company. You're biased toward shipping fast. You deliver in small, valuable chunks that compound. You're loyal to outcomes, not hype. You don't care how cool the tech is. You care whether it saved time, made money, or removed a human bottleneck. You measure everything. Evals, cost, latency, reliability. If it isn't measured, it isn't real. You thrive on vague specs and can coordinate the rapid ideas of a choatic visionary. You can talk out ideas, bring structure to projects and don’t need everything spoon fed to you or spec’ed out in pretty user stories. What You'll Love About Us (Benefits and Perks) High performance company culture. You won't be a cog in a machine. You'll be a key member of a high performance team that gets shit done. This is a place to grow and realize your potential, no matter where you are in your career. No office politics. We're small and flat. No dancing around sensitive topics or diverting resources from other teams. We're direct, we're honest, and we're here to accomplish big audacious goals. We value your ideas. At Vidalytics, my door is always open. Need help? Let's talk. Have a vision for the future of the company? I want to hear it. Think I suck at my job? Help me grow. Rest and relaxation. Employees get 20 days of PTO. Professional development. Want to keep learning? Vidalytics pays for classes, conferences, and more. You're more than an employee, you're a person. Every coworker you meet is committed to treating you with respect and kindness. You won't hear stuff like “It's just business.” This is a resume making position, where you'll learn a lot and carry real responsibility. You don't have to wait for someone to die or retire to move up, like in a megacorp. Entrepreneurial to our core. Not only are we a startup, but we need intrapreneurs who will help us scale, and we plan to start sister corps over time to form a portfolio of companies you could help found. Vidalytics' Values (Yes, We're Actually Serious About These) Play to Win. We're competitors. We do what it takes to win. That means we will fail and we will lose, but we want to do those things fast so we can win, because winning is on the other side of mistakes. Scrappy. We're a startup and it's chaotic. This isn't the government. You need to learn fast, move fast, and handle it. If you want an easy job, go work at the government. Meritocracy. The best idea wins, not the person it came from. You can be direct and transparent with anyone. Start with analysis, form hypotheses, test small, measure results, iterate, and scale big with data. We can't have perfect data, so once a decision is made, get on board. Own Yourself. We do what we say, and we own what we've done. Mistakes happen. The worst thing is when someone doesn't own and learn from them. You trust us. We trust you. Self Actualization. This is a place for hyper learning. We want to scale, and you need to scale with us. That doesn't always mean climbing a ladder. It means upleveling skill, closing gaps, growing, and being self actualized. Conscious Teamwork. No politics. No bullshit. Instead, integrity, emotional intelligence, transparency, and curiosity. Attack ideas, not people. Cheers, Patrick Stiles Founder / CEO @ Vidalytics To apply: https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
+      "date": "Tue, 07 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/orbia/jobs/senior-cybersecurity-specialist-sp-br",
+      "title": "Senior Cybersecurity Specialist (SP, BR)",
+      "company": "Orbia",
+      "location": "Brazil, Spain",
+      "url": "https://himalayas.app/companies/orbia/jobs/senior-cybersecurity-specialist-sp-br",
+      "source": "Himalayas",
+      "description": "Senior Cyber Security Specialist Orbia Brazil (Remote) SaveApply Join us at Orbia Building & Infrastructure. Where purpose comes to life. You’re purpose driven. Growth minded. Ready to stretch your potential. Welcome to Orbia ’s Building & Infrastructure business, Wavin, where our purpose ‘to advance life around the world’ drives our entire global team. Every day, we are thinking big and working smart to solve some of the toughest challenges impacting the world. Whether it’s facilitating clean drinking water for communities, creating climate resilient cities, or designing more comfortable living spaces, we never settle for “good enough” when there’s an opportunity to make life better. We are currently looking for a Senior Cyber Security Specialist to join us at Sao Paulo, Brazil . If you want to make a difference and work for a purpose-led company, please read on. The role: The objective of Senior Cyber Security Specialist is to be responsible for supporting the secure execution of business initiatives, projects, and operations across Orbia ’s business groups, with a focus on risk identification, control validation, audit readiness, remediation activities and security service adoption. Main responsabililties: Conduct Secure IT reviews of applications and provide security input for new deployments or system changes. Support third-party risk management efforts by coordinating security assessments, engaging with internal stakeholders and vendors, and contributing to risk analysis and mitigation planning in alignment with the TPRM framework. Lead and coordinate remediation of pen testing findings and support vulnerability exception tracking and governance. Coordinate audit and assurance activities, including control documentation and evidence preparation. You will be sucessfiull if you have: 5-6 years of experience in cybersecurity, IT risk, or assurance roles within mid-to-large organizations. Hands-on experience conducting project security reviews, risk assessments, or supporting application security assessments. (SLDC, Threat Modeling, CI/CD) Exposure to Secure IT or cloud solution security evaluation: Azure , GCP (el de google) AWS. Nice to have cyber certifications: CISSP, CISA, CompTIA, etc. English speaking and writing on a professional level. It's a must Academic qualification: Bachelor degree. Desirable: Master’s degree in Computer science, Engineering or Business preferred, . Strategic thinking, detail-oriented, able to handle large amounts of data, results-driven, self-motivated, strong communication skills at different levels. What Orbia Building & Infrastructure offers Do you want to make a difference by working with a purpose? Count on a warm welcome at Orbia Building & Infrastructure (Wavin)! Here we take responsibility for each other and our company. We stay brave in pursuing calculated risks that fuel innovation. And we embrace diversity in perspectives, skills and talents to transform the way we work and the impact we have on the world. Above all we encourage all our employees to develop their talents and to become the best version of themselves. Together, as a strong team, we grow and deliver on our purpose every day. Orbia B&I is the place to be if you truly wish to make an impact. In addition to working with an enthusiastic, professional team in an international environment, we offer a competitive compensation and benefit package. Organization Orbia ’s Building & Infrastructure business, Wavin, is an innovative solutions provider for the global building and infrastructure industry. Backed by more than 60 years of product development experience, we advance life around the world by building healthy, sustainable environments for global citizens. Whether it’s to improve the distribution of clean drinking water, to make sanitation accessible for everyone, to create climate resilient cities, or to design comfortable living spaces, Orbia B&I collaborates with municipal leaders, engineers, contractors, and installers to help future-proof communities, buildings and homes. Orbia B&I has 11,000+ employees and 65 production sites worldwide, serving over 80 countries through a global sales and distribution network. Our key commercial brands are: Wavin, Amanco Wavin, Pavco Wavin, Plastigama Wavin, and Bow Wavin. Orbia Building & Infrastructure is part of Orbia – a company driven by a shared purpose: to advance life around the world. Orbia operates in several sectors including: Polymer Solutions (Vestolit and Alphagary), Building and Infrastructure (Wavin), Precision Agriculture (Netafim), Connectivity Solutions (Dura-Line) and Fluor and Energy Materials (Koura). These five Orbia business groups have a collective focus on expanding access to health and wellness, reinventing the future of cities and homes, ensuring food and water security, connecting communities to information and accelerating a circular economy with basic and advanced materials, specialty products and innovative solutions. Orbia has a global team of over 24,000 employees, commercial activities in more than 100 countries and operations in over 50, with headquarters in Boston, Mexico City, Amsterdam and Tel Aviv. The company generated $8.2 billion in revenue in 2023. Originally posted on Himalayas",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/sezzle/jobs/senior-mobile-engineer-brazil",
+      "title": "Senior Mobile Engineer (Brazil)",
+      "company": "Sezzle",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/sezzle/jobs/senior-mobile-engineer-brazil",
+      "source": "Himalayas",
+      "description": "The salary range for this role is $4,600 - $9,500 per month (Gross in USD) About Sezzle : With a mission to financially empower the next generation, Sezzle is revolutionizing the shopping experience beyond payments, blending cutting-edge tech with seamless, interest-free installment plans that make shopping smarter and more accessible. We’re not just transforming payments; we’re redefining how people discover, interact with, and purchase the things they love while driving real impact on merchant sales through increased conversions and higher order values. As we continue to shape the future of fintech and retail, we’re building an innovative, dynamic team passionate about creating more than just a transaction but a truly unique shopping journey. If you’re excited about pushing boundaries in tech and delivering a game-changing experience for consumers and merchants alike, come join us at Sezzle and help create the future of shopping! About the Role: We are seeking a talented and motivated Senior Mobile Engineer who is best in class with a high IQ plus a high EQ. This role presents an exciting opportunity to thrive in a dynamic, fast-paced environment within a rapidly growing team, with abundant prospects for career advancement. Compensation The compensation range for the role is as follows: 4,600 - 9,500 USD Monthly Interview Process We believe transparency is important at Sezzle . Regularly providing feedback while setting expectations is part of our culture starting with the interview process. Advancement through each step is not guaranteed. Application submitted (you are here) Wonderlic test (30-40 min) Coding assessment (~1.5 hours) Interview with recruiters (30 min) Interview with engineers (1 hour) Interview with engineering leadership (30-45 min) Offer! What You'll Do: Help own and build out new features within our cross-platform TypeScript React Native app, and Golang backend APIs. Manage our releases, using tools like cohorting, feature flags, and app-store infrastructure to ensure a safe rollout to our millions of active users. Maintain a strong working relationship with product, design, and the business to ensure stakeholder needs are being evaluated and met. Work with the team to continuously build clean, scalable, robust, and testable code. Develop a deep working knowledge of your application, data domain, and KPIs. What We Look For: 6+ years experience solving technical problems as part of a team. Experience developing and delivering a mobile application to Apple and Google’s mobile app stores. Experience with Swift. Strong familiarity with modern Frontend Development, Javascript or Typescript, and building applications with React Native, or similar cross-platform framework. Understanding of relational databases like MySQL. Bachelor's degree in computer science Demonstrated experience working with Claude or equivalent large language model tools is required; candidates must be comfortable leveraging AI to enhance productivity, research, and communication. Preferred Knowledge and Skills: Knowledgeable in writing automated tests for applications (unit, integration, end-to-end), and implementing them in a CI environment. Ability to solve problems with backend-focused languages like Go, Python, Java or similar. Familiarity with typical microservice architecture composed of HTTP APIs. Experience working with native code on iOS, Android. About You: You have relentlessly high standards - many people may think your standards are unreasonably high. You are continually raising the bar and driving those around you to deliver great results. You make sure that defects do not get sent down the line and that problems are fixed so they stay fixed. You’re not bound by convention - your success—and much of the fun—lies in developing new ways to do things You need action - speed matters in business. Many decisions and actions are reversible and do not need extensive study. We value calculated risk-taking. You earn trust - you listen attentively, speak candidly, and treat others respectfully. You have backbone; disagree, then commit - you can respectfully challenge decisions when you disagree, even when doing so is uncomfortable or exhausting. You have conviction and are tenacious. You do not compromise for the sake of social cohesion. Once a decision is determined, you commit wholly. Sezzle ’s Technology Stack: Languages: Golang, Typescript, Python Frontend: Typescript - React and React Native Backend: Golang Database: MySQL, Postgres, Elasticsearch DevOps & Cloud: AWS, Kubernetes Version Control: Git CI/CD: Gitlab Testing: Developer-driven, focus on automated unit, integration, and end-to-end tests Sezzle is focused on using open source, and we build what we can before buying! What Makes Working at Sezzle Awesome? At Sezzle , we are more than just brilliant engineers, passionate data enthusiasts, out-of-the-box thinkers, and determined innovators; we are skilled musicians, yogis, cyclists, chefs, golfers, dog-lovers, and rock-climbers. We believe in surrounding ourselves with not only the best and the brightest individuals, but those that are unique and purpose-driven in all that they do. Our culture is not defined by a certain set of perks designed to give the illusion of the traditional startup culture, but rather, it is the visible example living in every employee that we hire. #Li-remote #Full-time Originally posted on Himalayas",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5791636653",
+      "title": "QA & Test Automation Engineer (Brazil or Canada - Remote)",
+      "company": "Braintrust",
+      "location": "Flamengo, Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5791636653?se=2mQFm7x68RGQ3ei2eSKTnQ&utm_medium=api&utm_source=bd0bee3e&v=D320DE459C7A93172505773F5969E54B47E848F7",
+      "source": "Adzuna",
+      "description": "Job description We're looking for a part-time QA engineer to build and maintain automated test suites for our app and website, and help manually test new features before release. What you'll do: Build and maintain automated end-to-end tests for web and mobile that run before every release Manually test new features, document bugs, and verify fixes Set up and maintain CI/CD test pipelines so automated tests run automatically on new builds Write invariant/property-based tests for our workout and …",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 4
+    },
+    {
+      "id": "adzuna-5791320930",
+      "title": "DevOps Engineer (Remote)",
+      "company": "Outlier Ai",
+      "location": "Manaus, Amazonas, Brasil",
+      "url": "https://www.adzuna.com.br/details/5791320930?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5791321160",
+      "title": "Data Engineer (Remote)",
+      "company": "Outlier Ai",
+      "location": "Salvador, Bahia, Brasil",
+      "url": "https://www.adzuna.com.br/details/5791321160?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5791320846",
+      "title": "Llm Engineer (Remote)",
+      "company": "Outlier Ai",
+      "location": "Curitiba, Paraná, Brasil",
+      "url": "https://www.adzuna.com.br/details/5791320846?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Overview Outlier is committed to improving the intelligence & safety of AI models. Owned and operated by Scale AI, we’ve recently been featured in Forbes for partnering experts with top AI labs to provide the high quality data for LLMs. We believe AI can only perform as well as the data it’s trained on. That’s why we work with contributors from all over the world, who help improve AI models by providing expert human feedback. This data has led to AI advancements for the world's leading AI labs …",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5790571775",
+      "title": "Data Engineer IA",
+      "company": "Conquest one",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5790571775?se=4urOnbx68RGeHY1Elccfvg&utm_medium=api&utm_source=bd0bee3e&v=81B1A47D14913B0BAB2F66A12CC83EF9DABB5F73",
+      "source": "Adzuna",
+      "description": "Na Conquest One, somos mais do que uma consultoria tecnológica: somos uma equipe movida pela paixão por inovação e pelo impacto positivo que geramos nos nossos clientes e colaboradores. 28 anos de história e 17x eleita uma das melhores empresas para se trabalhar em tecnologia no Brasil (GPTW). Projeto global Modelo remoto Inglês avançado/fluente obrigatório Estamos em busca de um(a) Senior MarTech Data Engineer (AI, Marketing Automation & Integrations) para atuar na evolução do ecossistema de M…",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-07",
+      "is_new": false
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/remote/jobs/senior-forward-deployed-engineer-remote-build",
       "title": "Senior Forward Deployed Engineer (Remote Build)",
       "company": "Remote",
@@ -24,7 +132,7 @@
       "date": "2026-07-07",
       "region": "unknown",
       "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ci-t/jobs/job-30283-senior-product-lead-brazil",
@@ -37,33 +145,7 @@
       "date": "2026-07-07",
       "region": "brazil",
       "first_seen": "2026-07-07",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5790571775",
-      "title": "Data Engineer IA",
-      "company": "Conquest one",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5790571775?se=VId-7vl58RGQ3ei2eSKTnQ&utm_medium=api&utm_source=bd0bee3e&v=81B1A47D14913B0BAB2F66A12CC83EF9DABB5F73",
-      "source": "Adzuna",
-      "description": "Na Conquest One, somos mais do que uma consultoria tecnológica: somos uma equipe movida pela paixão por inovação e pelo impacto positivo que geramos nos nossos clientes e colaboradores. 28 anos de história e 17x eleita uma das melhores empresas para se trabalhar em tecnologia no Brasil (GPTW). Projeto global Modelo remoto Inglês avançado/fluente obrigatório Estamos em busca de um(a) Senior MarTech Data Engineer (AI, Marketing Automation & Integrations) para atuar na evolução do ecossistema de M…",
-      "date": "2026-07-07",
-      "region": "brazil",
-      "first_seen": "2026-07-07",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5790218317",
-      "title": "AI Integration Engineer, MCP, GenAI",
-      "company": "Tata Consultancy Services",
-      "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5790218317?se=eMD07fl58RGAuYJA5HfeDg&utm_medium=api&utm_source=bd0bee3e&v=139CD33746B6AD290870CDF6353BBE67CF206F9F",
-      "source": "Adzuna",
-      "description": "Come to one of the biggest IT Services companies in the world Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We are looking for AI Integration Engineer, MCP, GenAI @Brazil - Remote, who wants to learn and…",
-      "date": "2026-07-06",
-      "region": "brazil",
-      "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5790234380",
@@ -76,7 +158,7 @@
       "date": "2026-07-06",
       "region": "brazil",
       "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5790249352",
@@ -89,7 +171,20 @@
       "date": "2026-07-06",
       "region": "brazil",
       "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5790218317",
+      "title": "AI Integration Engineer, MCP, GenAI",
+      "company": "Tata Consultancy Services",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5790218317?se=eMD07fl58RGAuYJA5HfeDg&utm_medium=api&utm_source=bd0bee3e&v=139CD33746B6AD290870CDF6353BBE67CF206F9F",
+      "source": "Adzuna",
+      "description": "Come to one of the biggest IT Services companies in the world Here you can transform your career! Why to join TCS? Here at TCS we believe that people make the difference, that's why we live a culture of unlimited learning full of opportunities for improvement and mutual development. The ideal scenario to expand ideas through the right tools, contributing to our success in a collaborative environment. We are looking for AI Integration Engineer, MCP, GenAI @Brazil - Remote, who wants to learn and…",
+      "date": "2026-07-06",
+      "region": "brazil",
+      "first_seen": "2026-07-07",
+      "is_new": false
     },
     {
       "id": "adzuna-5790293310",
@@ -102,7 +197,7 @@
       "date": "2026-07-06",
       "region": "brazil",
       "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5790249425",
@@ -115,7 +210,7 @@
       "date": "2026-07-06",
       "region": "brazil",
       "first_seen": "2026-07-07",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/creative-force-saas-product-support-jedi-remote-emea",
@@ -258,7 +353,7 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
       "source": "RemoteOK",
-      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a hands-on collaborative role with genuine ownership, direct impact on product development and the experience of our customers. Your 12-Month Journey During your first 3 months: You'll get to know Tellent HR, our engineering practices, and our quality standards. You'll learn our testing framework and development workflow while gradually contributing to automated and exploratory testing. Within 6 months: You'll take ownership of quality for parts of the product, expand our Playwright test coverage and work closely with engineers to build quality into every stage of development. After 1 year: You'll be a trusted quality partner within the team, driving improvements to our testing strategy, raising the bar for automation, and helping shape how we approach quality as Tellent HR continues to grow. What Youâll Be Doing Work closely with our other QEâs to help bring our test automation strategy to life across Tellent HR, taking joint ownership and maintaining a significant part of it as it grows. Partner with developers and fellow QEâs to embed quality early, sharing domain knowledge in both directions and shaping testing practices collaboratively. Design and execute comprehensive test plans, test cases, and test scripts to ensure software accuracy and functionality Develop into a product domain expert using that understanding to test, spot risks earlier and guide quality decisions across Tellent HR What You Bring Strong QA experience: Several years of hands-on quality engineering, with senior-level ownership of testing for complex web applications. E2E automation: Experience building and maintaining end-to-end test suites in Playwright API & backend testing skills: Proficiency testing GraphQL APIs and backend services Balance of product and technical thinking: Equally at home discussing product behaviour and digging into technical detail. Communication: Fluent English and Polish for daily collaboration. What We Offer Primarily remote working with flexibility and opportunities to connect with the team Diverse and international team environment Annual compensation range: 200000-225000 PLN/year (+ VAT where applicable) Time off based on contract type: B2B: 30 paid break days Employment contract: 26 paid holiday days + 2 wellbeing days â¬1500 annual learning budget Wellness perks including Multisport and private healthcare (LuxMed) Work from anywhere for up to 4 weeks per year Apple MacBook, displays, and all the tools you need to succeed â¬200 home office budget + work-from-home allowance About Tellent Tellent is a leading Talent Management Suite designed to empower HR & People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System ( Tellent Recruitee ), an intuitive HRIS ( Tellent HR ), and powerful Performance Management software ( Tellent Grow ). With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent â and weâre just getting started. AI in our recruitment process We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read ourÂ AI Statement , check ourÂ Privacy Policy , or chat with us atÂ hr@tellent.com . If you require accommodations or support during the recruitment process, please let us know â weâre happy to help. Please mention the word **LUCID** and tag RMTM1LjExOS43Ny4xNTE= when applying to show you read the job post completely (#RMTM1LjExOS43Ny4xNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a hands-on collaborative role with genuine ownership, direct impact on product development and the experience of our customers. Your 12-Month Journey During your first 3 months: You'll get to know Tellent HR, our engineering practices, and our quality standards. You'll learn our testing framework and development workflow while gradually contributing to automated and exploratory testing. Within 6 months: You'll take ownership of quality for parts of the product, expand our Playwright test coverage and work closely with engineers to build quality into every stage of development. After 1 year: You'll be a trusted quality partner within the team, driving improvements to our testing strategy, raising the bar for automation, and helping shape how we approach quality as Tellent HR continues to grow. What Youâll Be Doing Work closely with our other QEâs to help bring our test automation strategy to life across Tellent HR, taking joint ownership and maintaining a significant part of it as it grows. Partner with developers and fellow QEâs to embed quality early, sharing domain knowledge in both directions and shaping testing practices collaboratively. Design and execute comprehensive test plans, test cases, and test scripts to ensure software accuracy and functionality Develop into a product domain expert using that understanding to test, spot risks earlier and guide quality decisions across Tellent HR What You Bring Strong QA experience: Several years of hands-on quality engineering, with senior-level ownership of testing for complex web applications. E2E automation: Experience building and maintaining end-to-end test suites in Playwright API & backend testing skills: Proficiency testing GraphQL APIs and backend services Balance of product and technical thinking: Equally at home discussing product behaviour and digging into technical detail. Communication: Fluent English and Polish for daily collaboration. What We Offer Primarily remote working with flexibility and opportunities to connect with the team Diverse and international team environment Annual compensation range: 200000-225000 PLN/year (+ VAT where applicable) Time off based on contract type: B2B: 30 paid break days Employment contract: 26 paid holiday days + 2 wellbeing days â¬1500 annual learning budget Wellness perks including Multisport and private healthcare (LuxMed) Work from anywhere for up to 4 weeks per year Apple MacBook, displays, and all the tools you need to succeed â¬200 home office budget + work-from-home allowance About Tellent Tellent is a leading Talent Management Suite designed to empower HR & People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System ( Tellent Recruitee ), an intuitive HRIS ( Tellent HR ), and powerful Performance Management software ( Tellent Grow ). With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent â and weâre just getting started. AI in our recruitment process We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read ourÂ AI Statement , check ourÂ Privacy Policy , or chat with us atÂ hr@tellent.com . If you require accommodations or support during the recruitment process, please let us know â weâre happy to help. Please mention the word **LUCID** and tag RMTMuODMuMTYwLjEzMw== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-03",
       "region": "unknown",
       "first_seen": "2026-07-05",
@@ -343,19 +438,6 @@
       "is_new": false
     },
     {
-      "id": "remoteok-1134395",
-      "title": "Full Stack Developer first UK",
-      "company": "Better Futures Multi Academy Trust",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
-      "source": "RemoteOK",
-      "description": "Â£25,200âÂ£30,000 (3 days per week, pro-rata from Â£42,000âÂ£50,000 FTE) Remote with UK Midlands in-person days | Better Futures Multi-Academy TrustÂ Most developer roles give you a stack to maintain. This one gives you a product to shape.Â We are Better Futures Multi-Academy Trust, a group of sixth form colleges based in the UK Midlands. Inside the Trust, we are building two products that we believe can change how leadership development and student feedback work in education â and beyond.Â ARC is a 360-degree leadership platform that turns feedback into genuine behavioural change. Swaya is a student feedback app for iOS and Android. Both are live, both have paying clients, and both are at the point where the right developer can help take them from promising to powerful.Â We are not a startup in a co-working space. We are a startup inside a well-resourced, stable organisation â which means you get the creative freedom and product ownership of early-stage work, alongside the security, benefits, and backing of a public sector employer. It is an unusual combination, and we think it is a genuinely good one.Â What you will be doing Â Taking ownership of ARC and Swaya â their development, their quality, their roadmap. Working directly with the founders on product direction. Inheriting a solid Rails and React codebase and making it better. Managing iOS and Android app updates. Solving real UX problems. Shipping things that real users notice.Â What we are looking for Â Strong Ruby on Rails experience â production, not just tutorialsÂ React frontend skills and genuine care for UI/UX qualityÂ Mobile app experience: iOS and Android (React Native, Flutter, or native)Â Someone who thinks in products, not just ticketsÂ Comfortable with ambiguity, honest about what they do not know, and quick to learnÂ UK-based, with the right to work without sponsorshipÂ What we offer Â 0.6 FTE to start, with a clear path to full-time as the products growÂ Flexible, remote-first working with occasional in-person days in the MidlandsÂ Public sector pension and holiday entitlementÂ CPD budget and genuine encouragement to develop your skillsÂ A front-row seat on two products that are going somewhere â and a role in deciding whereÂ Please mention the word **GRACIOUS** and tag RMTM1LjExOS43Ny4xNTE= when applying to show you read the job post completely (#RMTM1LjExOS43Ny4xNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "date": "2026-07-02",
-      "region": "unknown",
-      "first_seen": "2026-07-04",
-      "is_new": false
-    },
-    {
       "id": "remotive-2090986",
       "title": "Senior AI Engineer",
       "company": "Lemon.io",
@@ -365,6 +447,19 @@
       "description": "Are you a talented Senior AI Engineer looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Requirements: 3+ years of commercial experience applying AI to practical technology solutions A solid understanding of Python is a must; experience with other programming languages commonly used in AI is a plus Experience with Vector Databases, Pinecone or Weaviate is required 2+ years of experience with LangChain is mandatory 2+ years of experience with large language models (LLMs) or vLLMs is mandatory 2+ years of experience with RAG or OpenAI is required Strong technical skills: as a Senior Data Scientist, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, Golang, React & Java, React & Ruby, Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, iOS & Swift, Flutter, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, DevOps, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Python, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, Embedded Software Engineering, React Native & Node, React Native & React, React Native & Ruby, React Native & Python, WordPress, Android, Data Annotation, Angular, Python & Node, React & Node.js, Java & Spring, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Electron, Scala, C++, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
       "date": "2026-07-02",
       "region": "latam",
+      "first_seen": "2026-07-04",
+      "is_new": false
+    },
+    {
+      "id": "remoteok-1134395",
+      "title": "Full Stack Developer first UK",
+      "company": "Better Futures Multi Academy Trust",
+      "location": "",
+      "url": "https://remoteOK.com/remote-jobs/remote-full-stack-developer-first-uk-better-futures-multi-academy-trust-1134395",
+      "source": "RemoteOK",
+      "description": "Â£25,200âÂ£30,000 (3 days per week, pro-rata from Â£42,000âÂ£50,000 FTE) Remote with UK Midlands in-person days | Better Futures Multi-Academy TrustÂ Most developer roles give you a stack to maintain. This one gives you a product to shape.Â We are Better Futures Multi-Academy Trust, a group of sixth form colleges based in the UK Midlands. Inside the Trust, we are building two products that we believe can change how leadership development and student feedback work in education â and beyond.Â ARC is a 360-degree leadership platform that turns feedback into genuine behavioural change. Swaya is a student feedback app for iOS and Android. Both are live, both have paying clients, and both are at the point where the right developer can help take them from promising to powerful.Â We are not a startup in a co-working space. We are a startup inside a well-resourced, stable organisation â which means you get the creative freedom and product ownership of early-stage work, alongside the security, benefits, and backing of a public sector employer. It is an unusual combination, and we think it is a genuinely good one.Â What you will be doing Â Taking ownership of ARC and Swaya â their development, their quality, their roadmap. Working directly with the founders on product direction. Inheriting a solid Rails and React codebase and making it better. Managing iOS and Android app updates. Solving real UX problems. Shipping things that real users notice.Â What we are looking for Â Strong Ruby on Rails experience â production, not just tutorialsÂ React frontend skills and genuine care for UI/UX qualityÂ Mobile app experience: iOS and Android (React Native, Flutter, or native)Â Someone who thinks in products, not just ticketsÂ Comfortable with ambiguity, honest about what they do not know, and quick to learnÂ UK-based, with the right to work without sponsorshipÂ What we offer Â 0.6 FTE to start, with a clear path to full-time as the products growÂ Flexible, remote-first working with occasional in-person days in the MidlandsÂ Public sector pension and holiday entitlementÂ CPD budget and genuine encouragement to develop your skillsÂ A front-row seat on two products that are going somewhere â and a role in deciding whereÂ Please mention the word **GRACIOUS** and tag RMTM1LjExOS43Ny4xNTE= when applying to show you read the job post completely (#RMTM1LjExOS43Ny4xNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-07-02",
+      "region": "unknown",
       "first_seen": "2026-07-04",
       "is_new": false
     },
