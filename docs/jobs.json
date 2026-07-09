@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-08T11:03:20+00:00",
-  "count": 254,
-  "new_today": 7,
+  "generated_at": "2026-07-09T12:01:33+00:00",
+  "count": 257,
+  "new_today": 3,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,45 @@
   ],
   "jobs": [
     {
+      "id": "adzuna-5793488932",
+      "title": "Senior Data Engineer & BI Developer",
+      "company": "Data Meaning",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5793488932?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Senior Data Engineer & BI Developer Location: Brazil & LATAM (Remote) Position type: Temporary Contract Job Summary Data Meaning is a business intelligence and data analytics consulting firm dedicated to helping organizations make better decisions through data. We partner with clients across multiple industries to deliver modern data platforms, cloud solutions, AI applications, and analytics expertise. We are looking for a Senior Data Engineer & BI Developer to join our team. In this role, you'…",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-09",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5793108705",
+      "title": "Support Engineer (L2) Developer Track Saas Startup",
+      "company": "Offshore Launch",
+      "location": "Amazonas, Norte, Brasil",
+      "url": "https://www.adzuna.com.br/details/5793108705?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "About Offshore Launch: Offshore Launch is a staffing agency that specializes in helping small business owners scale their operations with the top 1% of global remote talent. We are a people-centered agency with a passion for leaving every person and business in a better position than we found them. Why Join Offshore Launch? - Impact the growth and success of small and medium-sized businesses. - Work in a people-first, remote environment that values growth and ongoing development. - Access compr…",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-09",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5793192441",
+      "title": "Remote C++ Developer",
+      "company": "Turing",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5793192441?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "About Turing: Turing is a Palo Alto-based leader in AGI infrastructure and generative AI solutions for Fortune 500 companies. With $140M in funding and a $4B valuation, we are shaping the future of AI. Our team includes top technologists from Meta, Google, Stanford, and beyond, driving innovation at the forefront of artificial intelligence. Role Overview: Responsibilities: - Review, improve, and validate AI-generated C++ code for quality and efficiency. - Troubleshoot complex coding issues and …",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-09",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
       "title": "AI Automation Engineer, In-House MarTech Video SaaS",
       "company": "Vidalytics",
@@ -24,7 +63,7 @@
       "date": "Tue, 07 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/orbia/jobs/senior-cybersecurity-specialist-sp-br",
@@ -37,7 +76,7 @@
       "date": "2026-07-08",
       "region": "brazil",
       "first_seen": "2026-07-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/sezzle/jobs/senior-mobile-engineer-brazil",
@@ -50,24 +89,7 @@
       "date": "2026-07-08",
       "region": "brazil",
       "first_seen": "2026-07-08",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5791636653",
-      "title": "QA & Test Automation Engineer (Brazil or Canada - Remote)",
-      "company": "Braintrust",
-      "location": "Flamengo, Rio de Janeiro, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5791636653?se=2mQFm7x68RGQ3ei2eSKTnQ&utm_medium=api&utm_source=bd0bee3e&v=D320DE459C7A93172505773F5969E54B47E848F7",
-      "source": "Adzuna",
-      "description": "Job description We're looking for a part-time QA engineer to build and maintain automated test suites for our app and website, and help manually test new features before release. What you'll do: Build and maintain automated end-to-end tests for web and mobile that run before every release Manually test new features, document bugs, and verify fixes Set up and maintain CI/CD test pipelines so automated tests run automatically on new builds Write invariant/property-based tests for our workout and …",
-      "date": "2026-07-07",
-      "region": "brazil",
-      "first_seen": "2026-07-08",
-      "is_new": true,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 4
+      "is_new": false
     },
     {
       "id": "adzuna-5791320930",
@@ -80,7 +102,7 @@
       "date": "2026-07-07",
       "region": "brazil",
       "first_seen": "2026-07-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5791321160",
@@ -93,7 +115,7 @@
       "date": "2026-07-07",
       "region": "brazil",
       "first_seen": "2026-07-08",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5791320846",
@@ -106,7 +128,24 @@
       "date": "2026-07-07",
       "region": "brazil",
       "first_seen": "2026-07-08",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5791636653",
+      "title": "QA & Test Automation Engineer (Brazil or Canada - Remote)",
+      "company": "Braintrust",
+      "location": "Flamengo, Rio de Janeiro, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5791636653?se=2mQFm7x68RGQ3ei2eSKTnQ&utm_medium=api&utm_source=bd0bee3e&v=D320DE459C7A93172505773F5969E54B47E848F7",
+      "source": "Adzuna",
+      "description": "Job description We're looking for a part-time QA engineer to build and maintain automated test suites for our app and website, and help manually test new features before release. What you'll do: Build and maintain automated end-to-end tests for web and mobile that run before every release Manually test new features, document bugs, and verify fixes Set up and maintain CI/CD test pipelines so automated tests run automatically on new builds Write invariant/property-based tests for our workout and …",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-08",
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 4
     },
     {
       "id": "adzuna-5790571775",
@@ -353,7 +392,7 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-senior-quality-engineer-tellent-1134436",
       "source": "RemoteOK",
-      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a hands-on collaborative role with genuine ownership, direct impact on product development and the experience of our customers. Your 12-Month Journey During your first 3 months: You'll get to know Tellent HR, our engineering practices, and our quality standards. You'll learn our testing framework and development workflow while gradually contributing to automated and exploratory testing. Within 6 months: You'll take ownership of quality for parts of the product, expand our Playwright test coverage and work closely with engineers to build quality into every stage of development. After 1 year: You'll be a trusted quality partner within the team, driving improvements to our testing strategy, raising the bar for automation, and helping shape how we approach quality as Tellent HR continues to grow. What Youâll Be Doing Work closely with our other QEâs to help bring our test automation strategy to life across Tellent HR, taking joint ownership and maintaining a significant part of it as it grows. Partner with developers and fellow QEâs to embed quality early, sharing domain knowledge in both directions and shaping testing practices collaboratively. Design and execute comprehensive test plans, test cases, and test scripts to ensure software accuracy and functionality Develop into a product domain expert using that understanding to test, spot risks earlier and guide quality decisions across Tellent HR What You Bring Strong QA experience: Several years of hands-on quality engineering, with senior-level ownership of testing for complex web applications. E2E automation: Experience building and maintaining end-to-end test suites in Playwright API & backend testing skills: Proficiency testing GraphQL APIs and backend services Balance of product and technical thinking: Equally at home discussing product behaviour and digging into technical detail. Communication: Fluent English and Polish for daily collaboration. What We Offer Primarily remote working with flexibility and opportunities to connect with the team Diverse and international team environment Annual compensation range: 200000-225000 PLN/year (+ VAT where applicable) Time off based on contract type: B2B: 30 paid break days Employment contract: 26 paid holiday days + 2 wellbeing days â¬1500 annual learning budget Wellness perks including Multisport and private healthcare (LuxMed) Work from anywhere for up to 4 weeks per year Apple MacBook, displays, and all the tools you need to succeed â¬200 home office budget + work-from-home allowance About Tellent Tellent is a leading Talent Management Suite designed to empower HR & People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System ( Tellent Recruitee ), an intuitive HRIS ( Tellent HR ), and powerful Performance Management software ( Tellent Grow ). With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent â and weâre just getting started. AI in our recruitment process We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read ourÂ AI Statement , check ourÂ Privacy Policy , or chat with us atÂ hr@tellent.com . If you require accommodations or support during the recruitment process, please let us know â weâre happy to help. Please mention the word **LUCID** and tag RMTMuODMuMTYwLjEzMw== when applying to show you read the job post completely (#RMTMuODMuMTYwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "About the Role As a Senior Quality Engineer you'll own and grow the quality of Tellent HR alongside our existing QE team. You'll drive our test automation strategy, expand end-to-end coverage in Playwright, and raise the bar for backend testing. This is a hands-on collaborative role with genuine ownership, direct impact on product development and the experience of our customers. Your 12-Month Journey During your first 3 months: You'll get to know Tellent HR, our engineering practices, and our quality standards. You'll learn our testing framework and development workflow while gradually contributing to automated and exploratory testing. Within 6 months: You'll take ownership of quality for parts of the product, expand our Playwright test coverage and work closely with engineers to build quality into every stage of development. After 1 year: You'll be a trusted quality partner within the team, driving improvements to our testing strategy, raising the bar for automation, and helping shape how we approach quality as Tellent HR continues to grow. What Youâll Be Doing Work closely with our other QEâs to help bring our test automation strategy to life across Tellent HR, taking joint ownership and maintaining a significant part of it as it grows. Partner with developers and fellow QEâs to embed quality early, sharing domain knowledge in both directions and shaping testing practices collaboratively. Design and execute comprehensive test plans, test cases, and test scripts to ensure software accuracy and functionality Develop into a product domain expert using that understanding to test, spot risks earlier and guide quality decisions across Tellent HR What You Bring Strong QA experience: Several years of hands-on quality engineering, with senior-level ownership of testing for complex web applications. E2E automation: Experience building and maintaining end-to-end test suites in Playwright API & backend testing skills: Proficiency testing GraphQL APIs and backend services Balance of product and technical thinking: Equally at home discussing product behaviour and digging into technical detail. Communication: Fluent English and Polish for daily collaboration. What We Offer Primarily remote working with flexibility and opportunities to connect with the team Diverse and international team environment Annual compensation range: 200000-225000 PLN/year (+ VAT where applicable) Time off based on contract type: B2B: 30 paid break days Employment contract: 26 paid holiday days + 2 wellbeing days â¬1500 annual learning budget Wellness perks including Multisport and private healthcare (LuxMed) Work from anywhere for up to 4 weeks per year Apple MacBook, displays, and all the tools you need to succeed â¬200 home office budget + work-from-home allowance About Tellent Tellent is a leading Talent Management Suite designed to empower HR & People teams across the entire employee journey. Our all-in-one platform combines an Applicant Tracking System ( Tellent Recruitee ), an intuitive HRIS ( Tellent HR ), and powerful Performance Management software ( Tellent Grow ). With 250+ team members globally, 7,000+ customers in 100+ countries, and a growing ecosystem of 500+ partners, we help organizations attract, grow, and retain top talent â and weâre just getting started. AI in our recruitment process We use our internally developed AI tools to help streamline our recruitment process. However, technology never makes a decision. Every candidate is personally reviewed by our team. Your journey with us is guided by people, supported by tech. Curious about how it works? Read ourÂ AI Statement , check ourÂ Privacy Policy , or chat with us atÂ hr@tellent.com . If you require accommodations or support during the recruitment process, please let us know â weâre happy to help. Please mention the word **LUCID** and tag RMjAuODEuMTU5Ljk= when applying to show you read the job post completely (#RMjAuODEuMTU5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-03",
       "region": "unknown",
       "first_seen": "2026-07-05",
@@ -2264,9 +2303,10 @@
       "first_seen": "2026-06-17",
       "is_new": false,
       "also_on": [
+        "WeWorkRemotely",
         "WorkingNomads"
       ],
-      "dup_count": 1
+      "dup_count": 2
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/akamai-senior-lead-software-engineer-ii",
@@ -2547,19 +2587,6 @@
       "is_new": false
     },
     {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
-      "title": "Web Developer (BigCommerce Experience Required)",
-      "company": "Remote VA",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Philippines URL: http://remoteva.ph Description Are you a detail-oriented web developer with experience in BigCommerce? We're looking for a talented and motivated individual to update and maintain our company website. You’ll work closely with our remote team to ensure a smooth, visually appealing, and high-converting online presence. Job Responsibilities: -Maintain and update the existing website on BigCommerce -Implement design and content updates as needed -Troubleshoot bugs and ensure website performance and security -Optimize site for speed, mobile responsiveness, and SEO -Collaborate with other remote team members as needed Requirements Requirements: -Proven experience working with BigCommerce -Strong understanding of HTML, CSS, JavaScript, and responsive web design -Ability to work independently and manage time efficiently -Portfolio showcasing previous work on web development projects, especially BigCommerce-based sites -Excellent communication skills Tools You'll Use: -BigCommerce -Any relevant front-end web development tools Benefits Benefits: -Work from the comfort of your home -Consistent weekday schedule (9 AM – 5 PM EST) -Opportunity to grow within a remote team environment Salary: $700 USD / month Send your CV and portfolio to: 📧 mondilla.jay03@gmail.com To apply: https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
-      "date": "Thu, 18 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
       "title": "SDET / Automated QA Engineer- Seattle WA",
       "company": "AHU Technologies",
@@ -2567,6 +2594,19 @@
       "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description The SDET's responsibilities include writing automated tests and focuses on the testability, robustness, and performance of software. As such, an SDET is a test professional with programming skills who can create automation testing tools and frameworks, and add to the ever- growing suite of regression tests, and tests required for promoting from lower to higher environments. To be successful as an SDET, you should have excellent time management and organizational skills as well as effective communication skills. You should have a passion for designing, development, and testing and the ability to upgrade your technical skills within the constantly changing technology sector. Principal Duties and Responsibilities: ? Understanding the flow of code and how it interacts with different components. ? Understanding project documents, customer demands, and product objectives to create and execute test cases. ? Setting up, maintaining, and performing test automation frameworks on multiple application platforms, such as Web, cloud, front-end, and back-end (integration), and building test scenarios and acceptance tests. ? Investigating customer problems referred to you by the technical support team, testing bugs, and creating and managing bug reports. ? Handling technical communications and understanding the customers' systems. ? Working with deployments teams, resolving level issues for systems, coordinating on product design, and offering inputs on the testability of functional elements and product designs. ? Noting all testing actions, you have performed in daily and weekly reports. ? Analysing and disintegrating software systems and coordinating with other teams to enhance the overall design. ? Researching test tools, methodologies, and trends and upgrading existing practices and processes. ? Managing the final quality on production release. This is a remote position. About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "title": "Web Developer (BigCommerce Experience Required)",
+      "company": "Remote VA",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Philippines URL: http://remoteva.ph Description Are you a detail-oriented web developer with experience in BigCommerce? We're looking for a talented and motivated individual to update and maintain our company website. You’ll work closely with our remote team to ensure a smooth, visually appealing, and high-converting online presence. Job Responsibilities: -Maintain and update the existing website on BigCommerce -Implement design and content updates as needed -Troubleshoot bugs and ensure website performance and security -Optimize site for speed, mobile responsiveness, and SEO -Collaborate with other remote team members as needed Requirements Requirements: -Proven experience working with BigCommerce -Strong understanding of HTML, CSS, JavaScript, and responsive web design -Ability to work independently and manage time efficiently -Portfolio showcasing previous work on web development projects, especially BigCommerce-based sites -Excellent communication skills Tools You'll Use: -BigCommerce -Any relevant front-end web development tools Benefits Benefits: -Work from the comfort of your home -Consistent weekday schedule (9 AM – 5 PM EST) -Opportunity to grow within a remote team environment Salary: $700 USD / month Send your CV and portfolio to: 📧 mondilla.jay03@gmail.com To apply: https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
       "date": "Thu, 18 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
@@ -2824,19 +2864,6 @@
       "is_new": false
     },
     {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
-      "title": "Senior QA Automation",
-      "company": "Valorx",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Remote URL: http://valorx.com Valorx is hiring a Senior QA Automation . We are a new startup run by successful entrepreneurs that have built products on top-up fields of Salesforce. We are ready to build another great business and need your help. Our company is looking to hire a person who is passionate about their craft and hungry to learn. This individual will join us at the beginning to help us build something incredible and join the fun of creating a best-in-class cloud product. We offer full benefits, salary, and great development tools. The role of the Senior QA Automation will be the first of its kind and the successful candidate will have the opportunity to come in, own and build out the automation framework. They will have the choice of testing tools to use and will work closely with an established software engineering team in Ahmedabad. You will be expected to work autonomously at times and will be the subject matter expert when it comes to automation testing. Roles & Responsibilities Design, create and implement an automation framework from scratch. Evaluate and recommend the starting automation toolset (Selenium With Java). Execute functional, integration and regression testing plans and scripts. Work closely with engineers and product owners locally. Log, track and document bugs discovered during testing as well as gather all necessary information. Perform regression, installation, and upgrade testing in every release cycle. Experience in Salesforce technology (Optional) Should be familiar with Test Management and Defect tracking tools like Jira, Zephyre Scale. Good knowledge of Software QA methodologies and processes. Experience working in an Agile/Scrum methodology. Document, analyze and communicate results of functional testing. Must have handled a team of QA Engineers. Requirements & Qualifications BS/MS in Computer Science, Engineering, or equivalent. 8+ years of experience in QA, with strong exposure to automation. Hands-on experience designing or maintaining automation frameworks (UI, API preferred). Strong experience with Java + Selenium/Selenide/TestNG (or equivalent). Strong exposure to Jenkins (Pipeline as Code, shared libraries, webhook triggers). Experience configuring/executing tests on Selenium Grid (local, Dockerized, or cloud like BrowserStack/Sauce Labs). Good understanding of JavaScript/Node.js/React applications from a testing perspective. Solid understanding of SDLC , Agile methodology, CI/CD pipelines. Experience working with API testing tools like Postman or RestAssured. Familiarity with Jira, Zephyr Scale, or similar test management systems. Experience in both frontend and backend testing . Strong analytical, communication, and problem-solving skills. Perks & Benefits: Competitive salary Medical Insurance Opportunities for professional development and career growth Flexible work arrangements Generous paid time off policy Vibrant company culture with fun team events To apply: https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
-      "date": "Mon, 15 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
       "title": "Data Analyst/ Curam",
       "company": "AHU Technologies",
@@ -2844,6 +2871,19 @@
       "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description: Short Description: The Client is looking for Data analyst with 11 years of experience managing data pertaining to the different medical, nutrition, and financial subsidies managed by the Client system. Complete Description: The Data Analyst will play a critical role to support the work of the Client Program Administration, Executive Steering Committee and Client Stakeholders. Under the aegis of the Client Chief Data Officer, the Client Data Analyst is responsible for: Operational Oversight One of the key duties of the Data Analyst s is overseeing the life cycle of a Client data. Specifically, the Data Analyst is responsible for defining and implementing policies and procedures for the day-to-day operational and administrative management of systems and data —including the intake, storage, processing, and transmission of data to internal and external systems. As a part of the oversight for institutional data, the Data Analyst must be accountable to define and document data and terminology in a relevant glossary. This includes ensuring that each critical data element has a clear definition and is still in use. · Responsible for developing and implementing strategies to assess and develop rules to maintain the quality, integrity and reliability of data. · Coordinate cross-agency efforts and decisions that ensure official agency records requirements, privacy, security and other related requirements are met. · Provide oversight to ensure the data issues, needs and requirements are documented. Data Quality This ultimately responsible for establishing data-quality metrics and requirements, including defining the values, ranges, and parameters that are acceptable for each data element. They also work with the Client Data Research, Analytics, and Management team to establish procedures for detection and correction of data-quality issues and collaborate to establish policies, procedures, and internal controls affecting the quality of data. In addition, the Data Analyst engages in the ongoing and detailed evaluation of data quality, the identification of anomalies and discrepancies, and the contribution of expertise to understand the root cause and implement corrective measures. · Coordinate with Client program teams and Client Stakeholder Agencies to ensure the quality and integrity of the Client data elements (both content and metadata) to support the implementation of Client. · Facilitate the creation of data standards based on business rules, data access security requirements, and retention of legacy data. Privacy, Security, and Risk Management One of the most critical aspects for the Data Analyst s is the protection of data. The incumbent must establish guidelines and protocols that govern the proliferation of data to ensure that privacy controls are enforced in all processes. To be effective, the Data Analyst must compile retention, archival, and disposal requirements and ensure compliance with institutional policy and regulations. Accordingly, the Data Analyst will establish and implement data curation practices to ensure that the life span of data is commensurate with requirements. However, the Data Analyst must protect data while striking a balance between transparency and privacy. · Review agency and interagency data-related work products. · Coordinate cross-agency efforts and decisions that ensure official agency records requirements, privacy, security and other related requirements are met for data. Policies and Procedures The Data Analyst defines policies and procedures for access to Client data, including the criteria for authorization based on role and/or the individual. Working closely with Client IT, Privacy and PMO to establish controls, the Data Analyst evaluates any suspected or actual breaches or vulnerabilities in confidentiality, integrity, or availability and report them to management or information security personnel. · Monitor and analyze the application of federal, state and local data requirements, standards and rules (internal and external). · Coordinate efforts with stakeholder agencies to interpret business needs into applications and derive data requirements that represent the business entities' needs regarding accessibility, completeness, timeliness, desired attributes and relationship to other data entities when appropriate · Present findings and recommendations to Client leadership, Executive Steering Committee and other stakeholders regarding recommended changes to improve operating practices, accountability, or transparency. · Other duties as assigned. Other Significant Facts Preferred Skills include: · Knowledge of good data management principles, concepts and practices; · Knowledge of how to determine business data requirements, create data standards and business rules; · Knowledge of human services and health care programs; · Ability to work with multiple agency stakeholders that may have common and unique agency or program-specific data requirements; · Familiarity with public policy issues related to human services data requirements; · Ability to analyze complex, abstract issues in a logical, structured way; · Excellent written and oral communication skills · Proficient in the use of Microsoft Office (Word, Excel, Power Point and Outlook); · Knowledge of statistics and/or research methodology. · Analytical skills: outstanding analytical and problem-solving abilities. · Familiarity with business information generation and analysis methods. · Ability to effectively drive business, culture and technology change in a dynamic and complex operating environment. · Gravitas to develop a framework for information and data governance, as well as to sell and embed it in all levels of the business. · Excellent oral and written communication skills, including the ability to explain digital concepts and technologies to business leaders, as well as business concepts to technologists; the ability to sell ideas and process internally at all levels, including the board and investors. · Demonstrated knowledge of data structure desired, but not essential; information systems/tools, and related software and data management; enterprise content management, and record-keeping policies and practices in a complex organizational environment. · Broad experience desired, but not essential, in multiple domain areas, such as data warehousing, business intelligence (BI), data governance, data architecture, data integration, data classification, data strategy, data quality management, data security and privacy, MDM, data standards, regulatory compliance, and enterprise architecture frameworks. · Preference for candidates with knowledge and experience with government. Skills: · 11+ yrs planning, coordinating, and monitoring project activities. Required 11 Years · 11+ yrs leading projects, ensuring they are in compliance with established standards/procedures. Required 11 Years · Bachelor’s degree in IT or related field or equivalent experience. Required · Experience with ETL tools - Design, Develop, Analyze. Required 8 Years · Exp. with Curam software - V6 or higher (Database centric work highly desired) Required 3 Years · Proven work experience working as a senior/lead data analyst for large data sets and multiple interfaces. Required 8 Years · Hands-on experience in different file transfer methodologies and different file types and layouts. Required 8 Years · Experience with Tableau, dashboard design and develop. Required 5 Years · Strong experience in Healthcare Data. Required 4 Years · Proven experience delivering Business Intelligence solutions. Required 8 Years · Working knowledge of writing functional, technical and performance requirements in software development environment. Required 8 Years · Working knowledge of Microsoft Visio to develop flow diagrams/ process diagrams as well as knowledge of the full MS Office Suite. Required 5 Years · Possess hands on Systems/Software Development Life Cycle (SDLC) experience. Highly desired 11 Years This is a remote position. Compensation: $73.00 - $81.00 per hour About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-data-analyst-curam",
+      "date": "Mon, 15 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
+      "title": "Senior QA Automation",
+      "company": "Valorx",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote URL: http://valorx.com Valorx is hiring a Senior QA Automation . We are a new startup run by successful entrepreneurs that have built products on top-up fields of Salesforce. We are ready to build another great business and need your help. Our company is looking to hire a person who is passionate about their craft and hungry to learn. This individual will join us at the beginning to help us build something incredible and join the fun of creating a best-in-class cloud product. We offer full benefits, salary, and great development tools. The role of the Senior QA Automation will be the first of its kind and the successful candidate will have the opportunity to come in, own and build out the automation framework. They will have the choice of testing tools to use and will work closely with an established software engineering team in Ahmedabad. You will be expected to work autonomously at times and will be the subject matter expert when it comes to automation testing. Roles & Responsibilities Design, create and implement an automation framework from scratch. Evaluate and recommend the starting automation toolset (Selenium With Java). Execute functional, integration and regression testing plans and scripts. Work closely with engineers and product owners locally. Log, track and document bugs discovered during testing as well as gather all necessary information. Perform regression, installation, and upgrade testing in every release cycle. Experience in Salesforce technology (Optional) Should be familiar with Test Management and Defect tracking tools like Jira, Zephyre Scale. Good knowledge of Software QA methodologies and processes. Experience working in an Agile/Scrum methodology. Document, analyze and communicate results of functional testing. Must have handled a team of QA Engineers. Requirements & Qualifications BS/MS in Computer Science, Engineering, or equivalent. 8+ years of experience in QA, with strong exposure to automation. Hands-on experience designing or maintaining automation frameworks (UI, API preferred). Strong experience with Java + Selenium/Selenide/TestNG (or equivalent). Strong exposure to Jenkins (Pipeline as Code, shared libraries, webhook triggers). Experience configuring/executing tests on Selenium Grid (local, Dockerized, or cloud like BrowserStack/Sauce Labs). Good understanding of JavaScript/Node.js/React applications from a testing perspective. Solid understanding of SDLC , Agile methodology, CI/CD pipelines. Experience working with API testing tools like Postman or RestAssured. Familiarity with Jira, Zephyr Scale, or similar test management systems. Experience in both frontend and backend testing . Strong analytical, communication, and problem-solving skills. Perks & Benefits: Competitive salary Medical Insurance Opportunities for professional development and career growth Flexible work arrangements Generous paid time off policy Vibrant company culture with fun team events To apply: https://weworkremotely.com/remote-jobs/valorx-senior-qa-automation",
       "date": "Mon, 15 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
