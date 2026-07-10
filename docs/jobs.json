@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-09T12:01:33+00:00",
-  "count": 257,
+  "generated_at": "2026-07-10T11:50:46+00:00",
+  "count": 260,
   "new_today": 3,
   "sources": [
     "remoteok",
@@ -14,6 +14,45 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+      "title": "Full-Stack Product Engineer - Agentic First",
+      "company": "Wonderdog",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Los Angeles URL: https://wonderdoghealth.com/ Wonder Dog is a preventative health platform for dogs. We send licensed vet techs to your home for a blood draw, run a 40+ biomarker panel through a national lab, and turn the results into something owners can actually act on. We're a small team with paying customers, and you'd be working directly with the founder and our lead engineer. How we work AI coding agents do most of the typing here. Your job is to direct them, review the output, and make sure what ships is right. You pick up a ticket, ship it, verify it, and move on. Few meetings, no ceremony. What you'll do Ship customer-facing features end to end: UI, API, database Work a prioritized backlog across checkout, booking, onboarding, and mobile Own quality. If it's not tested and working, it's not done Tell us when we're wrong. We'd rather hear it early You're probably a fit if You've shipped full-stack TypeScript products that people paid for AI agents are already how you work, not something you're curious about You like autonomy and hate process for its own sake To apply Send us something you shipped recently, resume & github link To apply: https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
+      "date": "Thu, 09 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-10",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/ai-digital/jobs/senior-backend-engineer",
+      "title": "Senior Backend Engineer",
+      "company": "AI Digital",
+      "location": "",
+      "url": "https://himalayas.app/companies/ai-digital/jobs/senior-backend-engineer",
+      "source": "Himalayas",
+      "description": "We are looking for a Senior Backend Engineer with a strong focus on backend architecture, data integrations, and production-ready application development. In this role, you will play a key part in transforming AI-generated prototypes and business workflows into reliable, production-ready applications using our engineering stack. While this is primarily a backend role, you should be comfortable making basic changes to the React/TypeScript frontend when needed to support end-to-end product development. Responsibilities: Build and maintain backend applications using Java 21 and Spring Boot, making basic changes to the React/TypeScript frontend when needed. Convert existing AI-generated and vibe-coded MVPs into reliable, production-ready applications. Refactor prototype logic into clean backend services, typed APIs, database schemas, and maintainable end-to-end workflows. Design PostgreSQL schemas and manage database migrations with Liquibase. Integrate BigQuery as a read source and maintain adjusted/published data views with clear source-of-truth boundaries. Follow OpenAPI-first development practices to build well-defined APIs and generate typed frontend API clients. Implement backend observability using Spring Boot Actuator, Prometheus metrics, and structured logging. Ensure applications are deployable, maintainable, and ready for engineering handoff. Work with business stakeholders to preserve product intent while improving technical quality. Requirements 5+ years of backend development experience. Strong proficiency in Java 21 and Spring Boot 3.x. Strong experience with Maven. Experience designing and building REST APIs using OpenAPI contract-first development. Experience with Spring Security. Strong experience with PostgreSQL schema design and Liquibase. Experience with BigQuery or similar data warehouse technologies. Experience with production readiness practices: observability, error handling, configuration, and deployment support. Solid understanding of versioned data, source-of-truth boundaries, data freshness, cache rebuilds, and fallback behavior. Experience with AI-assisted development tools (OpenAI, Claude, Cursor, Replit AI, or similar). Experience evaluating and refactoring AI-generated or vibe-coded solutions into production-ready applications. Familiarity with React and TypeScript, with the ability to make basic frontend changes when needed. Nice to Have Experience with multi-module Maven projects. Experience integrating legacy systems without rewriting them. Experience with Google APIs (Sheets, Drive, BigQuery). Experience with n8n or other workflow automation tools. Familiarity with Vite. Familiarity with TanStack Query. Originally posted on Himalayas",
+      "date": "2026-07-10",
+      "region": "unknown",
+      "first_seen": "2026-07-10",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5794673902",
+      "title": "Software Engineer",
+      "company": "Sapsol Technologies Inc",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5794673902?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "The RealReal - Technology - LATAM Worksite: Brazil - Remote Worksite Location: SP Worksite State: Sao Paulo Worksite Address Override: No Time Schedule: Default 5/40 Start/End Date: 07/01/2026 to Open Total Duation: 0 Days / 0 Weeks Hours per Day: 8.0 Days per Week: 5 Job Status: Full Time Senior Software Engineer - 15007 Job Description: The RealReal Customer Experience team is seeking a kind, curious, and highly collaborative Senior Software Engineer (Full Stack) who enjoys solving complex te…",
+      "date": "2026-07-09",
+      "region": "brazil",
+      "first_seen": "2026-07-10",
+      "is_new": true
+    },
+    {
       "id": "adzuna-5793488932",
       "title": "Senior Data Engineer & BI Developer",
       "company": "Data Meaning",
@@ -24,20 +63,7 @@
       "date": "2026-07-08",
       "region": "brazil",
       "first_seen": "2026-07-09",
-      "is_new": true
-    },
-    {
-      "id": "adzuna-5793108705",
-      "title": "Support Engineer (L2) Developer Track Saas Startup",
-      "company": "Offshore Launch",
-      "location": "Amazonas, Norte, Brasil",
-      "url": "https://www.adzuna.com.br/details/5793108705?utm_medium=api&utm_source=bd0bee3e",
-      "source": "Adzuna",
-      "description": "About Offshore Launch: Offshore Launch is a staffing agency that specializes in helping small business owners scale their operations with the top 1% of global remote talent. We are a people-centered agency with a passion for leaving every person and business in a better position than we found them. Why Join Offshore Launch? - Impact the growth and success of small and medium-sized businesses. - Work in a people-first, remote environment that values growth and ongoing development. - Access compr…",
-      "date": "2026-07-08",
-      "region": "brazil",
-      "first_seen": "2026-07-09",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5793192441",
@@ -50,7 +76,20 @@
       "date": "2026-07-08",
       "region": "brazil",
       "first_seen": "2026-07-09",
-      "is_new": true
+      "is_new": false
+    },
+    {
+      "id": "adzuna-5793108705",
+      "title": "Support Engineer (L2) Developer Track Saas Startup",
+      "company": "Offshore Launch",
+      "location": "Amazonas, Norte, Brasil",
+      "url": "https://www.adzuna.com.br/details/5793108705?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "About Offshore Launch: Offshore Launch is a staffing agency that specializes in helping small business owners scale their operations with the top 1% of global remote talent. We are a people-centered agency with a passion for leaving every person and business in a better position than we found them. Why Join Offshore Launch? - Impact the growth and success of small and medium-sized businesses. - Work in a people-first, remote environment that values growth and ongoing development. - Access compr…",
+      "date": "2026-07-08",
+      "region": "brazil",
+      "first_seen": "2026-07-09",
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/vidalytics-ai-automation-engineer-in-house-martech-video-saas",
@@ -979,7 +1018,11 @@
       "date": "2026-06-08",
       "region": "brazil",
       "first_seen": "2026-06-27",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
     },
     {
       "id": "adzuna-5746825692",
