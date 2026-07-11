@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T11:50:46+00:00",
-  "count": 260,
+  "generated_at": "2026-07-11T10:13:23+00:00",
+  "count": 263,
   "new_today": 3,
   "sources": [
     "remoteok",
@@ -14,6 +14,45 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+      "title": "Technical Customer Support Specialist",
+      "company": "Qase",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Delaware, USA URL: https://qase.io/ Hey there! Qase is a modern, all-in-one test-management platform used by QA engineers to ship better software, faster. Customers love us for two things: our clean product and a support experience that consistently scores 95% CSAT and 4.7/5 on G2 (https://www.g2.com/products/qase/reviews). To keep that bar high and be ready for any increase in volumes, we’re adding a Technical Customer Support Specialist to the team. You’ll own frontline conversations, spot patterns, and have the freedom to fix what’s broken without a five-layer approval chain. (For example, one of our reps produced a library of FAQ articles, cutting average chat handle time by 15%.) WHAT YOU’LL ACTUALLY BE DOING HANDLE INBOUND Resolve about 20-30 chats per day in Intercom; escalate bugs to the Engineering team and capture improvement or feature requests from customers. When required, hop on Zoom/Meet calls (approx. 3–5 a week) when “show-and-tell” beats back-and-forth typing. Keep our enterprise customers smiling with quick, thorough, empathetic responses. CONTENT & COMMUNITY Expand our public knowledge base (https://help.qase.io) and occasionally contribute to our blog (https://qase.io/blog) Occasionally, engage on our public roadmap (https://qase.canny.io/), G2, and other communication channels as the friendly face of Qase. BE AN INTERNAL LIAISON Distill customer feedback into clear Jira tickets and Canny posts so Product knows what to tackle next; focusing on what matters amid the noise is something we value. Be a product expert and work with Sales to answer questions and assist their efforts. Handle tricky escalations with grace; de-escalate tense conversations before they turn into fire drills :) QUALIFICATIONS MUST-HAVES 2+ years in B2B SaaS customer support (L1/L2). C1-level written and spoken English. Pro at root-cause discovery — separate what users say from what’s actually wrong. Good judgment when the playbook runs out. Curiosity for how things work; you enjoy digging into a customer’s setup. Able to operate autonomously; no one will constantly watch over your shoulder. Quickly learn a new tool/software. Calm, diplomatic communicator, especially when conversations get heated. You value detail and are not sloppy. Hands-on with tools like: Canny, Jira, Notion, Intercom (or equivalents). NICE-TO-HAVES Basic comfort with REST APIs, browser dev-tools. Hands-on background in technical troubleshooting is a strong advantage — you’ll regularly dive into unfamiliar tools and customer environments, separate knowns from unknowns, and build a testable hypothesis to pinpoint the root cause. AI AT QASE We lean on AI to improve replies, classify tickets, and automate repetitive chores so we can focus on interesting work. If you’ve used ChatGPT, custom prompts, or other tools to speed up support, tell us! Recording a quick 1–2-minute Loom video about how you applied AI ideas is a plus — but is not mandatory to apply. SUCCESS METRICS Maintain ≥95% CSAT score. Increase self-serve deflection by adding at least two high-value help articles per month. Initiate and drive a process improvement that directly impacts the team’s efficiency. WORKING HOURS We run a rotating shift schedule that covers 24 hours, so you’ll occasionally work a night shift (12 a.m. to 9 a.m IST) roughly once every three months. Shifts rotate monthly. Weekends are normally off (Saturday and Sunday), but you may need to swap a day or two if someone is unavailable. LEAVE POLICY You will be entitled to 28 calendar days of vacation per year (equivalent to 20 business days). Thanks for reading this far – looking forward to your application! To apply: https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
+      "date": "Fri, 10 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-11",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/auditdata/jobs/software-engineer-c-desktop-app",
+      "title": "Software Engineer - C# (Desktop app)",
+      "company": "Auditdata",
+      "location": "",
+      "url": "https://himalayas.app/companies/auditdata/jobs/software-engineer-c-desktop-app",
+      "source": "Himalayas",
+      "description": "About the Role: We are seeking an experienced Software Developer to join our team working on medical device software for audiometry testing and hearing assessment. You will work with a product designed to streamline clinical workflows by guiding users through testing procedures, organizing patient sessions, and reducing manual data entry. Its configurable settings enable clinics to adapt the software to their preferred protocols and workflows while maintaining consistent testing standards. This healthcare software directly impacts patient care and clinical decision-making, requiring adherence to compliance standards and high-quality engineering practices in a regulated environment. What Makes This Role Unique Impact Directly affect patient care and clinical outcomes Contribute to software used by audiologists worldwide Help people with hearing loss receive accurate diagnoses and treatment Challenges Work across legacy desktop applications and modern cloud services Integrate specialized medical hardware with cloud APIs Solve complex technical problems in a safety-critical regulated domain Note: Due to the medical device nature of this software, candidates must be comfortable with strict adherence to development standards, comprehensive testing requirements, and regulatory compliance considerations. About the Project: The project consists of two major parts: Audiometry Software (Windows Desktop) Comprehensive audiometry solution for hearing threshold measurements, speech recognition testing, and hearing aid fitting verification Integrates with specialized audiometry hardware and patient management systems Technologies used: C#/.NET Framework 4.8, WPF Management System (Web & Cloud) Cloud-hosted Blazor web applications and ASP.NET Core API services used by administrative team for products management Azure-hosted infrastructure supporting multiple products Technologies used: C#/.NET 10, Azure What you’ll do: Design, develop, and maintain features for audiometry testing modules and web services Build WPF-based user interfaces (MVVM) and Blazor Server components Develop and enhance REST APIs Work closely with Product Owners to analyze requirements and provide technical solutions Collaborate with hardware and firmware teams to ensure software-hardware alignment Write comprehensive unit tests with high coverage (≥80% for new code) and documentation Ensure product architecture and code quality meet high standards Perform code reviews focusing on safety, correctness, and compliance Solve complex, technically challenging problems within the products Your profile: Must haves: 5+ years of professional C#/.NET development experience Strong expertise with .NET Framework or .NET Core/.NET 5+ Experience with WPF and MVVM architecture Proficient knowledge of Software Development best practices, OOP, SOLID, design patterns Upper-intermediate English Nice-to-haves: Experience with ASP.NET Core, Entity Framework Core, MudBlazor Experience with Azure Services (App Services, App Configuration, Application Insights) Database experience with Entity Framework Core Experience in developing HW-SW products Experience with RDLC reports Team values: Think first: Well-founded analytical approach to finding simple solutions for complex problems Proactivity: We encourage working on requirements together Quality Focus: We prioritize correctness and commitment to quality over speed Attention to detail: Critical for medical software Teamwork: Emotional intellect, proactive communication and collaboration skills Knowledge Sharing: Able and willing to participate in code reviews and collaborative learning Continuous Improvement: We refactor proactively and embrace new ideas What's in it for you: Long-term engagement in a stable, growing SaaS company Remote-first and async-friendly with flat organizational structure High bar for engineering and product quality A team that values depth over hype: production quality over flashy prototypes A culture that values personal growth as much as business outcomes A global team that spans Denmark, Ukraine, UK, Poland, Canada, Australia, USA, and more. Feels like it’s a perfect match to you? We look forward to your application! (please submit your English CV) Auditdata is an equal opportunity employer that is committed to create diverse work environment free of discrimination and harassment. We make recruiting decisions based on your experience and skills. Originally posted on Himalayas",
+      "date": "2026-07-11",
+      "region": "unknown",
+      "first_seen": "2026-07-11",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/dualentry/jobs/senior-brand-designer-2632141113",
+      "title": "Senior Brand Designer",
+      "company": "DualEntry",
+      "location": "",
+      "url": "https://himalayas.app/companies/dualentry/jobs/senior-brand-designer-2632141113",
+      "source": "Himalayas",
+      "description": "📍 Location: Remote - this role is available across all EU and LATAM countries with overlap for US ET timezone (NYC HQ) Why This Role Matters Now Since launching 18 months ago, we’ve raised $100M with backing from Lightspeed, Khosla, and Google Ventures. We got there by moving incredibly fast and hiring the best and brightest talent. To accelerate that momentum, we’re growing our team. Come and join us at one of NYC’s fastest-growing startups and have an impact on our product from day one. As our Senior Brand Designer, you’ll own our visual identity end-to-end and set the standard for craft, beauty, and speed across every touchpoint. This is an intense, hands-on role with full ownership. You’ll be joining at an early and defining moment. Your work will directly shape our product, customers, and trajectory. About DualEntry Founded in 2024, DualEntry is one of NYC’s fastest-growing AI startups. DualEntry is changing the future of finance. Our AI-native ERP lets teams achieve more in less time. $5M-ARR businesses and NYSE-listed companies trust DualEntry to automate away busywork and fuel their growth with powerful reporting and insights. We’re making the one-person finance team a reality and putting the pain of legacy ERPs from the 1990s in the past. We operate with urgency and ownership. We move fast. Where you'll create impact You’ll own end-to-end design output across brand, marketing, digital, and product visuals You’ll build and deliver high-speed, high-quality creative assets across ads, landing pages, website, campaigns, motion graphics, and product-facing visuals You’ll collaborate with founders, product, engineering, and GTM to drive clarity, differentiation, and beauty at speed You’ll define, evolve, and scale DualEntry ’s design system and visual identity You’ll solve complex visual and brand challenges with systems thinking and fast iteration You’ll deliver creative that directly influences customer perception, revenue, and product adoption What sets you up for success 6+ years of professional design experience across digital, brand, and motion Proven track record in high-growth environments Deep expertise in Figma, Adobe Suite, After Effects, and 3D tools like Blender/Cinema4D Strong visual taste, craft, and attention to detail Ability to produce at high speed without sacrificing quality Hardcore work ethic and high agency Experience guiding and managing freelancers Bonus: SaaS or FinTech experience Why you’ll thrive here Significant equity ownership in one of the top AI companies in the world You’re joining early and will grow with DualEntry Your work defines the brand and creative direction High-speed culture High-trust environment with high expectations Ambitious mission - ERP is one of the largest B2B software markets in the world ($220bn per year), this is a once in a lifetime opportunity to build the next generation ERP in an industry that has not seen new entrants in 30+ years Benefits Base Salary: $70K–$120K Equity: ~$40K Contract type: B2B Remote-first team — the fastest team you will have ever worked with Visa sponsorship provided plus relocation assistance to New York after 2 years Time Off: 15 PTO days + 12 public holidays Early-stage role with high autonomy and real long-term upside We hire the best, expect the best, and give you the masterclass of your career - an archaic and huge industry like ERP only goes through a restructure like this once in a lifetime. It’s hard, it’s intense, and it’s the most rewarding work you’ll ever do. If you’re hungry, driven, and ready to build something massive, climb aboard! At DualEntry , we believe great products come from diverse teams. We’re an equal opportunity employer, and we’re committed to a culture where everyone feels included, supported, and able to do their best work. Originally posted on Himalayas",
+      "date": "2026-07-11",
+      "region": "unknown",
+      "first_seen": "2026-07-11",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/wonderdog-full-stack-product-engineer-agentic-first",
       "title": "Full-Stack Product Engineer - Agentic First",
       "company": "Wonderdog",
@@ -24,7 +63,7 @@
       "date": "Thu, 09 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/ai-digital/jobs/senior-backend-engineer",
@@ -37,7 +76,7 @@
       "date": "2026-07-10",
       "region": "unknown",
       "first_seen": "2026-07-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5794673902",
@@ -50,7 +89,7 @@
       "date": "2026-07-09",
       "region": "brazil",
       "first_seen": "2026-07-10",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "adzuna-5793488932",
@@ -2630,19 +2669,6 @@
       "is_new": false
     },
     {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
-      "title": "SDET / Automated QA Engineer- Seattle WA",
-      "company": "AHU Technologies",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description The SDET's responsibilities include writing automated tests and focuses on the testability, robustness, and performance of software. As such, an SDET is a test professional with programming skills who can create automation testing tools and frameworks, and add to the ever- growing suite of regression tests, and tests required for promoting from lower to higher environments. To be successful as an SDET, you should have excellent time management and organizational skills as well as effective communication skills. You should have a passion for designing, development, and testing and the ability to upgrade your technical skills within the constantly changing technology sector. Principal Duties and Responsibilities: ? Understanding the flow of code and how it interacts with different components. ? Understanding project documents, customer demands, and product objectives to create and execute test cases. ? Setting up, maintaining, and performing test automation frameworks on multiple application platforms, such as Web, cloud, front-end, and back-end (integration), and building test scenarios and acceptance tests. ? Investigating customer problems referred to you by the technical support team, testing bugs, and creating and managing bug reports. ? Handling technical communications and understanding the customers' systems. ? Working with deployments teams, resolving level issues for systems, coordinating on product design, and offering inputs on the testability of functional elements and product designs. ? Noting all testing actions, you have performed in daily and weekly reports. ? Analysing and disintegrating software systems and coordinating with other teams to enhance the overall design. ? Researching test tools, methodologies, and trends and upgrading existing practices and processes. ? Managing the final quality on production release. This is a remote position. About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
-      "date": "Thu, 18 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-06-17",
-      "is_new": false
-    },
-    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
       "title": "Web Developer (BigCommerce Experience Required)",
       "company": "Remote VA",
@@ -2650,6 +2676,19 @@
       "url": "https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Philippines URL: http://remoteva.ph Description Are you a detail-oriented web developer with experience in BigCommerce? We're looking for a talented and motivated individual to update and maintain our company website. You’ll work closely with our remote team to ensure a smooth, visually appealing, and high-converting online presence. Job Responsibilities: -Maintain and update the existing website on BigCommerce -Implement design and content updates as needed -Troubleshoot bugs and ensure website performance and security -Optimize site for speed, mobile responsiveness, and SEO -Collaborate with other remote team members as needed Requirements Requirements: -Proven experience working with BigCommerce -Strong understanding of HTML, CSS, JavaScript, and responsive web design -Ability to work independently and manage time efficiently -Portfolio showcasing previous work on web development projects, especially BigCommerce-based sites -Excellent communication skills Tools You'll Use: -BigCommerce -Any relevant front-end web development tools Benefits Benefits: -Work from the comfort of your home -Consistent weekday schedule (9 AM – 5 PM EST) -Opportunity to grow within a remote team environment Salary: $700 USD / month Send your CV and portfolio to: 📧 mondilla.jay03@gmail.com To apply: https://weworkremotely.com/remote-jobs/remote-va-web-developer-bigcommerce-experience-required",
+      "date": "Thu, 18 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-06-17",
+      "is_new": false
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "title": "SDET / Automated QA Engineer- Seattle WA",
+      "company": "AHU Technologies",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Fully Remote - US URL: http://ahutech.com Job Description The SDET's responsibilities include writing automated tests and focuses on the testability, robustness, and performance of software. As such, an SDET is a test professional with programming skills who can create automation testing tools and frameworks, and add to the ever- growing suite of regression tests, and tests required for promoting from lower to higher environments. To be successful as an SDET, you should have excellent time management and organizational skills as well as effective communication skills. You should have a passion for designing, development, and testing and the ability to upgrade your technical skills within the constantly changing technology sector. Principal Duties and Responsibilities: ? Understanding the flow of code and how it interacts with different components. ? Understanding project documents, customer demands, and product objectives to create and execute test cases. ? Setting up, maintaining, and performing test automation frameworks on multiple application platforms, such as Web, cloud, front-end, and back-end (integration), and building test scenarios and acceptance tests. ? Investigating customer problems referred to you by the technical support team, testing bugs, and creating and managing bug reports. ? Handling technical communications and understanding the customers' systems. ? Working with deployments teams, resolving level issues for systems, coordinating on product design, and offering inputs on the testability of functional elements and product designs. ? Noting all testing actions, you have performed in daily and weekly reports. ? Analysing and disintegrating software systems and coordinating with other teams to enhance the overall design. ? Researching test tools, methodologies, and trends and upgrading existing practices and processes. ? Managing the final quality on production release. This is a remote position. About Us AHU Technologies INC. is an IT consulting and permanent staffing firm that meets and exceeds the evolving IT service needs of leading corporations within the United States. We have been providing IT solutions to customers from different industry sectors, helping them control costs and release internal resources to focus on strategic issues. AHU Technologies INC. was co-founded by visionary young techno-commercial entrepreneurs who remain as our principal consultants. Maintaining working relationships with a cadre of other highly skilled independent consultants, we have a growing number of resources available for development projects. We are currently working on Various projects such as media entertainment, ERP Solutions, data warehousing, Web Applications, Telecommunications and medical to our clients all over the world. To apply: https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa",
       "date": "Thu, 18 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
