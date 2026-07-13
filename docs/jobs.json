@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-12T10:26:40+00:00",
-  "count": 274,
-  "new_today": 11,
+  "generated_at": "2026-07-13T12:01:40+00:00",
+  "count": 275,
+  "new_today": 1,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,19 @@
   ],
   "jobs": [
     {
+      "id": "jobicy-145861",
+      "title": "Senior Full Stack Engineer",
+      "company": "infisical",
+      "location": "Brazil,  Canada,  France,  UK,  USA",
+      "url": "https://jobicy.com/jobs/145861-senior-full-stack-engineer-5",
+      "source": "Jobicy",
+      "description": "Infisical is looking to hire exceptional talent to join our teams in building the open source security infrastructure stack for the AI era. We're building a generational company with a world-class team. This isn’t a place to coast — but if you want to grow fast, take ownership, and solve tough problems, you’ll be challenged like nowhere else. What We’re Looking For We’re looking for an exceptional Senior Full Stack Engineer to help us build, optimize, and expand the foundation of the platform. We’ve kept our hiring standards exceptionally high since we expect engineers to tackle a broad range of challenges on a day-to-day basis. Examples of past engineering initiatives include developing strategies for secret rotation and dynamic secrets, a gateway to provide secure access to private resources, protocols like EST and KMIP , integrations for syncing secrets across cloud providers, and entire new product lines such as Infisical PKI and Infisical SSH. You’ll be working closely with our CTO and the rest of the engineering team to: Develop and maintain features whilst communicating directly with enterprise customers. Expand our newer Infisical PKI , Infisical SSH , and Infisical KMS product lines. Experiment with novel approaches for applying AI to secrets management and more broadly security infrastructure. Requirements Deep technical mastery of the JavaScript ecosystem, particularly React.js, Node.js, and TypeScript (3+). Exceptional attention to detail and eager to learn. A bias toward action—able to make decisions with incomplete information, iterate quickly, and take calculated risks. Based in North or South America. Bonus Expertise in Go. Has some understanding of devops/developer tools. Previous founder or startup experience. Previous experience building in open source or developer tools in either a professional or personal setting. Excellent written and oral communication skills to interact with customers directly. How You’ll Grow In this role, you’ll play a pivotal part in shaping Infisical’s future—making key technical decisions, establishing foundational processes, and tackling complex scalability challenges. As you gain experience and the team expands, you'll have the opportunity to take full ownership of specific areas of our platform, driving them end-to-end with autonomy and impact. Overall, you’ll be one of the defining pieces of our team as we scale to thousands of customers over the next 18 months. Team, Values & Benefits Our team brings experience from companies like Figma, AWS, and Red Hat. We operate primarily as a remote team but maintain a strong presence in San Francisco, where we have an office. We also get together in person throughout the year for off-sites, conferences, and team gatherings. At Infisical, we offer competitive compensation, including both salary and equity options. Additional benefits, such as a lunch stipend and a work setup budget, are available with more details to be found on our careers page . About Us Infisical is the open source security infrastructure platform that engineers use for secrets, certificates, and privileged access management. We help developers and organizations securely manage over 1.5 billion secrets each month including application configuration, database credentials, certificates, and more. We’ve raised $19M from Y Combinator, Google, and Elad Gil, and our customers include Hugging Face, Lucid, and LG. Join us on a mission to make security easier for all developers — starting with secrets management.",
+      "date": "2026-07-12",
+      "region": "brazil",
+      "first_seen": "2026-07-13",
+      "is_new": true
+    },
+    {
       "id": "jobicy-149183",
       "title": "Forward Deployed Engineer (AI & Business Transformation) – Technology & Creative Network",
       "company": "Truelogic",
@@ -24,7 +37,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149172",
@@ -37,7 +50,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149168",
@@ -50,7 +63,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149161",
@@ -63,7 +76,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149158",
@@ -76,7 +89,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149156",
@@ -89,7 +102,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149151",
@@ -102,7 +115,7 @@
       "date": "2026-07-12",
       "region": "latam",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/chainstack/jobs/web3-technical-support-engineer-latam",
@@ -115,7 +128,7 @@
       "date": "2026-07-12",
       "region": "brazil",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/armada/jobs/senior-customer-engineer-edge-latam",
@@ -128,7 +141,7 @@
       "date": "2026-07-12",
       "region": "brazil",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/the-global-talent-co/jobs/customer-success-support-specialist-b2b-brazil",
@@ -141,7 +154,7 @@
       "date": "2026-07-12",
       "region": "brazil",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remoteok-1134704",
@@ -150,11 +163,11 @@
       "location": "Bela Vista, Bela Vista, SÃ£o Paulo, Brasil",
       "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
       "source": "RemoteOK",
-      "description": "Transformar vidas com saÃºde Ã© o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negÃ³cios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede prÃ³pria de hospitais, clÃ­nicas, centros de tratamento, home care e transporte mÃ©dico. Com uma missÃ£o clara e valores sÃ³lidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na populaÃ§Ã£o que atendemos. Promovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas sÃ£o bem-vindas, sem distinÃ§Ã£o de etnia, raÃ§a, deficiÃªncia, orientaÃ§Ã£o sexual, identidade ou expressÃ£o de gÃªnero, idade, nacionalidade, religiÃ£o ou qualquer outro marcador social. ReforÃ§amos Que NÃ£o Solicitamos Pagamentos, Taxas Ou CÃ³digos SMS Em Nossos Processos Seletivos. Todas As Oportunidades EstÃ£o DisponÃ­veis Em Nossos Canais Oficiais e No Nosso Site De Carreira. Qualquer SituaÃ§Ã£o Diferente Deve Ser Denunciada. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. QualificaÃ§Ãµes NecessÃ¡rias Ensino mÃ©dio completo; ExperiÃªncia com atendimento ao pÃºblico; VivÃªncia com atendimento hospitalar e/ou ambulatorial (DesejÃ¡vel); Conhecimento bÃ¡sico do Pacote Office. Palavras-Chave: Amil, Recepcionista, Atendimento, Diversidade, InclusÃ£o, Equidade, PcD, Pessoa com DeficiÃªncia, Bela Vista, SÃ£o Paulo, SP. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. Please mention the word **SNAPPY** and tag RNTIuMTU3LjMzLjE2Mw== when applying to show you read the job post completely (#RNTIuMTU3LjMzLjE2Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Transformar vidas com saÃºde Ã© o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negÃ³cios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede prÃ³pria de hospitais, clÃ­nicas, centros de tratamento, home care e transporte mÃ©dico. Com uma missÃ£o clara e valores sÃ³lidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na populaÃ§Ã£o que atendemos. Promovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas sÃ£o bem-vindas, sem distinÃ§Ã£o de etnia, raÃ§a, deficiÃªncia, orientaÃ§Ã£o sexual, identidade ou expressÃ£o de gÃªnero, idade, nacionalidade, religiÃ£o ou qualquer outro marcador social. ReforÃ§amos Que NÃ£o Solicitamos Pagamentos, Taxas Ou CÃ³digos SMS Em Nossos Processos Seletivos. Todas As Oportunidades EstÃ£o DisponÃ­veis Em Nossos Canais Oficiais e No Nosso Site De Carreira. Qualquer SituaÃ§Ã£o Diferente Deve Ser Denunciada. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. QualificaÃ§Ãµes NecessÃ¡rias Ensino mÃ©dio completo; ExperiÃªncia com atendimento ao pÃºblico; VivÃªncia com atendimento hospitalar e/ou ambulatorial (DesejÃ¡vel); Conhecimento bÃ¡sico do Pacote Office. Palavras-Chave: Amil, Recepcionista, Atendimento, Diversidade, InclusÃ£o, Equidade, PcD, Pessoa com DeficiÃªncia, Bela Vista, SÃ£o Paulo, SP. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. Please mention the word **SNAPPY** and tag RMTcyLjE4NS4xNjcuMTEy when applying to show you read the job post completely (#RMTcyLjE4NS4xNjcuMTEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-11",
       "region": "brazil",
       "first_seen": "2026-07-12",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/qase-technical-customer-support-specialist",
@@ -789,6 +802,19 @@
       "is_new": false
     },
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
+      "title": "Product Solutions Engineer - Creator Platform",
+      "company": "Highlevel",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Delhi About Us HighLevel is an AI powered, all-in-one white-label sales & marketing platform that empowers agencies, entrepreneurs, and businesses to elevate their digital presence and drive growth. We are proud to support a global and growing community of over 2 million businesses, comprised of agencies, consultants, and businesses of all sizes and industries. HighLevel empowers users with all the tools needed to capture, nurture, and close new leads into repeat customers. As of mid 2025, HighLevel processes over 4 billion API hits and handles more than 2.5 billion message events every day. Our platform manages over 470 terabytes of data distributed across five databases, operates with a network of over 250 microservices, and supports over 1 million hostnames. Our People With over 1,500 team members across 15+ countries, we operate in a global, remote-first environment. We are building more than software; we are building a global community rooted in creativity, collaboration, and impact. We take pride in cultivating a culture where innovation thrives, ideas are celebrated, and people come first, no matter where they call home. Our Impact As of mid 2025, our platform powers over 1.5 billion messages, helps generate over 200 million leads, and facilitates over 20 million conversations for the more than 2 million businesses we serve each month. Behind those numbers are real people growing their companies, connecting with customers, and making their mark - and we get to help make that happen. About the Role Our dynamic team is committed to delivering top-notch customer experiences and innovative solutions. We are seeking a dedicated Product Solution Engineer to join our team and bridge the gap between our development and support teams, ensuring seamless resolution of customer issues. Key Responsibilities - Act as the primary point of contact for customer issues related to courses, communities, client Portal, credentials and collab on our Creator Platform - Handle customer tickets promptly, ensuring timely and effective resolution. - Collaborate closely with development and support teams to diagnose, troubleshoot, and resolve issues. - Provide clear and concise communication to customers regarding the status and resolution of their issues. - Maintain detailed records of customer interactions and resolutions in our ticketing system. - Participate in agile development processes, contributing to sprint planning, stand-ups, and retrospectives. - Utilize your knowledge of APIs, databases, and UI technologies to analyze and resolve technical problems. - Develop and maintain documentation for troubleshooting processes and solutions. Requirements - Proven experience in a technical support or product solution role, preferably within a SaaS environment. - Proficiency in agile methodology and experience working in agile teams. - Basic knowledge of APIs, databases, and UI technologies such as Vue.js , MongoDB, and RESTful APIs. - Strong problem-solving skills and the ability to think analytically. - Excellent communication and interpersonal skills.- Ability to work independently and manage multiple priorities in a fast-paced environment. Preferred Qualifications - Experience with additional programming languages or frameworks. - Familiarity with other customer support tools and ticketing systems. - Previous experience in a customer-facing role. Why Should You Join Us? At HighLevel, we foster an exciting and dynamic work environment driven by a passionate team. We believe in a collective responsibility where no task is considered someone else's job. Our unwavering focus is on providing value to our users, and we achieve this by delivering solutions swiftly through lean principles, allowing us to bring products to market in a matter of weeks rather than quarters. Every good idea is put to the test, ensuring that we maintain a high standard of innovation. We prioritise the well-being of our team, recognizing that by taking care of them, they can better serve our users. We embrace the concept of continuous and iterative improvement, understanding that progress is an ongoing journey. We are also a well funded & profitable company. Join us at High Level, and you will have the opportunity to learn the intricacies of scaling a B2B SaaS startup and develop impactful products that cater to the needs of our customers. EEO Statement: At HighLevel, we value diversity. In fact, we understand it makes our organisation stronger. We are committed to inclusive hiring/promotion practices that evaluate skill sets, abilities, and qualifications without regard to any characteristic unrelated to performing the job at the highest level. Our objective is to foster an environment where really talented employees from all walks of life can be their true and whole selves, cherished and welcomed for their differences while providing excellent service to our clients and learning from one another along the way! Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. To apply: https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
+      "date": "Tue, 30 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-01",
+      "is_new": false
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/supportyourapp-fluent-german-english-l1-customer-support-consultant-eu-remote-1",
       "title": "(fluent German & English) L1 Customer Support Consultant (EU Remote)",
       "company": "Supportyourapp",
@@ -865,19 +891,6 @@
       "url": "https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app",
       "source": "WeWorkRemotely",
       "description": "Headquarters: Delhi About Us HighLevel is an AI powered, all-in-one white-label sales & marketing platform that empowers agencies, entrepreneurs, and businesses to elevate their digital presence and drive growth. We are proud to support a global and growing community of over 2 million businesses, comprised of agencies, consultants, and businesses of all sizes and industries. HighLevel empowers users with all the tools needed to capture, nurture, and close new leads into repeat customers. As of mid 2025, HighLevel processes over 4 billion API hits and handles more than 2.5 billion message events every day. Our platform manages over 470 terabytes of data distributed across five databases, operates with a network of over 250 microservices, and supports over 1 million hostnames. Our People With over 1,500 team members across 15+ countries, we operate in a global, remote-first environment. We are building more than software; we are building a global community rooted in creativity, collaboration, and impact. We take pride in cultivating a culture where innovation thrives, ideas are celebrated, and people come first, no matter where they call home. Our Impact As of mid 2025, our platform powers over 1.5 billion messages, helps generate over 200 million leads, and facilitates over 20 million conversations for the more than 2 million businesses we serve each month. Behind those numbers are real people growing their companies, connecting with customers, and making their mark - and we get to help make that happen. About the Role Our dynamic team is committed to delivering top-notch customer experiences and innovative solutions. We are seeking a dedicated Product Solution Engineer to join our team and bridge the gap between our development and support teams, ensuring seamless resolution of customer issues. Key Responsibilities - Act as the primary point of contact for customer issues related to Mobile Apps and White-lable Mobile Apps. - Handle customer tickets promptly, ensuring timely and effective resolution. - Collaborate closely with development and support teams to diagnose, troubleshoot, and resolve issues. - Provide clear and concise communication to customers regarding the status and resolution of their issues. - Maintain detailed records of customer interactions and resolutions in our ticketing system. - Participate in agile development processes, contributing to sprint planning, stand-ups, and retrospectives. - Utilize your working and trouble shooting mobile applications. - Develop and maintain documentation for troubleshooting processes and solutions. Requirements - Proven experience in a technical support or product solution role, preferably within a Mobile Environment - Solid understanding of mobile fundamentals. - Proficiency in agile methodology and experience working in agile teams. - Strong problem-solving skills and the ability to think analytically.- Excellent communication and interpersonal skills. - Ability to work independently and manage multiple priorities in a fast-paced environment. Preferred Qualifications - Experience with additional programming languages or frameworks. - Familiarity with other customer support tools and ticketing systems. - Previous experience in a customer-facing role. EEO Statement: At HighLevel, we value diversity. In fact, we understand it makes our organisation stronger. We are committed to inclusive hiring/promotion practices that evaluate skill sets, abilities, and qualifications without regard to any characteristic unrelated to performing the job at the highest level. Our objective is to foster an environment where really talented employees from all walks of life can be their true and whole selves, cherished and welcomed for their differences while providing excellent service to our clients and learning from one another along the way! Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. To apply: https://weworkremotely.com/remote-jobs/highlevel-product-solution-engineer-mobile-app",
-      "date": "Tue, 30 Ju",
-      "region": "worldwide",
-      "first_seen": "2026-07-01",
-      "is_new": false
-    },
-    {
-      "id": "wwr-https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
-      "title": "Product Solutions Engineer - Creator Platform",
-      "company": "Highlevel",
-      "location": "Anywhere in the World",
-      "url": "https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
-      "source": "WeWorkRemotely",
-      "description": "Headquarters: Delhi About Us HighLevel is an AI powered, all-in-one white-label sales & marketing platform that empowers agencies, entrepreneurs, and businesses to elevate their digital presence and drive growth. We are proud to support a global and growing community of over 2 million businesses, comprised of agencies, consultants, and businesses of all sizes and industries. HighLevel empowers users with all the tools needed to capture, nurture, and close new leads into repeat customers. As of mid 2025, HighLevel processes over 4 billion API hits and handles more than 2.5 billion message events every day. Our platform manages over 470 terabytes of data distributed across five databases, operates with a network of over 250 microservices, and supports over 1 million hostnames. Our People With over 1,500 team members across 15+ countries, we operate in a global, remote-first environment. We are building more than software; we are building a global community rooted in creativity, collaboration, and impact. We take pride in cultivating a culture where innovation thrives, ideas are celebrated, and people come first, no matter where they call home. Our Impact As of mid 2025, our platform powers over 1.5 billion messages, helps generate over 200 million leads, and facilitates over 20 million conversations for the more than 2 million businesses we serve each month. Behind those numbers are real people growing their companies, connecting with customers, and making their mark - and we get to help make that happen. About the Role Our dynamic team is committed to delivering top-notch customer experiences and innovative solutions. We are seeking a dedicated Product Solution Engineer to join our team and bridge the gap between our development and support teams, ensuring seamless resolution of customer issues. Key Responsibilities - Act as the primary point of contact for customer issues related to courses, communities, client Portal, credentials and collab on our Creator Platform - Handle customer tickets promptly, ensuring timely and effective resolution. - Collaborate closely with development and support teams to diagnose, troubleshoot, and resolve issues. - Provide clear and concise communication to customers regarding the status and resolution of their issues. - Maintain detailed records of customer interactions and resolutions in our ticketing system. - Participate in agile development processes, contributing to sprint planning, stand-ups, and retrospectives. - Utilize your knowledge of APIs, databases, and UI technologies to analyze and resolve technical problems. - Develop and maintain documentation for troubleshooting processes and solutions. Requirements - Proven experience in a technical support or product solution role, preferably within a SaaS environment. - Proficiency in agile methodology and experience working in agile teams. - Basic knowledge of APIs, databases, and UI technologies such as Vue.js , MongoDB, and RESTful APIs. - Strong problem-solving skills and the ability to think analytically. - Excellent communication and interpersonal skills.- Ability to work independently and manage multiple priorities in a fast-paced environment. Preferred Qualifications - Experience with additional programming languages or frameworks. - Familiarity with other customer support tools and ticketing systems. - Previous experience in a customer-facing role. Why Should You Join Us? At HighLevel, we foster an exciting and dynamic work environment driven by a passionate team. We believe in a collective responsibility where no task is considered someone else's job. Our unwavering focus is on providing value to our users, and we achieve this by delivering solutions swiftly through lean principles, allowing us to bring products to market in a matter of weeks rather than quarters. Every good idea is put to the test, ensuring that we maintain a high standard of innovation. We prioritise the well-being of our team, recognizing that by taking care of them, they can better serve our users. We embrace the concept of continuous and iterative improvement, understanding that progress is an ongoing journey. We are also a well funded & profitable company. Join us at High Level, and you will have the opportunity to learn the intricacies of scaling a B2B SaaS startup and develop impactful products that cater to the needs of our customers. EEO Statement: At HighLevel, we value diversity. In fact, we understand it makes our organisation stronger. We are committed to inclusive hiring/promotion practices that evaluate skill sets, abilities, and qualifications without regard to any characteristic unrelated to performing the job at the highest level. Our objective is to foster an environment where really talented employees from all walks of life can be their true and whole selves, cherished and welcomed for their differences while providing excellent service to our clients and learning from one another along the way! Reasonable accommodations may be made to enable individuals with disabilities to perform essential functions. We may use artificial intelligence (AI) tools to support parts of the hiring process, such as reviewing applications, analyzing resumes, or assessing responses. These tools assist our recruitment team but do not replace human judgment. Final hiring decisions are ultimately made by humans. If you would like more information about how your data is processed, please contact us. To apply: https://weworkremotely.com/remote-jobs/highlevel-product-solutions-engineer-creator-platform",
       "date": "Tue, 30 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-01",
