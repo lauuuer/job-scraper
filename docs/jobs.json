@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T12:01:40+00:00",
-  "count": 275,
-  "new_today": 1,
+  "generated_at": "2026-07-14T10:43:55+00:00",
+  "count": 284,
+  "new_today": 9,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,123 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "title": "Senior Fullstack Developer (React.js / Node.js)",
+      "company": "Proxify AB",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Fullstack Developer skilled in React.js and Node.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years experience as a Fullstack Developer. Backend experience with: Node.js Microservices architecture Database experience with: SQL MongoDB Intermediate-advanced English Nice-to-have: Located in CET timezone (+/- 3 hours). Database Architecture knowledge. Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-fullstack-developer-react-js-node-js-2",
+      "date": "Mon, 13 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+      "title": "Senior Java Backend Developer",
+      "company": "Proxify AB",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Java Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of professional experience in backend software development. Expert-level proficiency with Java and core features. Deep expertise with the Spring Framework Proven track record in designing and implementing Microservices Architecture and RESTful APIs. Experience with SQL and NoSQL databases Strong understanding of Cloud Computing principles Solid grasp of testing methodologies, including unit, integration, and end-to-end testing. Ability to work with minimal supervision. Intermediate-advanced English level. You can communicate well with both technical and non-technical clients. Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Nice-to-Have: Hands-on experience with Kubernetes Knowledge of event-driven architectures (EDA) and Domain-Driven Design (DDD) Familiarity with functional programming paradigms. Responsibilities Lead the design and implementation of robust, scalable backend services using Java and the Spring Ecosystem (Spring Boot, Spring Cloud). Drive best practices in coding, testing, security, and performance optimization Build and maintain RESTful APIs and event-driven architectures to support business logic and front-end applications. Work extensively with cloud environments, leveraging containerization technologies (Docker/Kubernetes). Diagnose and resolve complex production issues, ensuring high availability and system reliability. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-java-backend-developer",
+      "date": "Mon, 13 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "title": "Senior Backend Developer (Python)",
+      "company": "Proxify AB",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Python Developer for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we are looking for: 5+ years of experience building products with Python and Django. High proficiency in SQL with experience using databases like PostgreSQL. Experience scaling cloud infrastructures with Docker or Kubernetes is a plus. Experience managing cloud infrastructures, specifically AWS or GCP. You follow the best practices and conventions. Relevant experience in CI/CD and related tools. Ability to work with minimal supervision. Intermediate-advanced English level. You can communicate well with both technical and non-technical clients. Time zone: CET (+/- 3 hours). We are unable to consider applications from candidates in other time zones. Responsibilities: Ability to build libraries and frameworks of reusable efficient code. Competence in designing and implementing low-latency, stable and performing applications. Capacity to effectively collaborate with other team members and stakeholders remotely. Ability to implement data protection systems. Competence in data storage solutions. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-backend-developer-python-8",
+      "date": "Mon, 13 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+      "title": "Senior Frontend Developer (React.js / Next.js)",
+      "company": "Proxify AB",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Sweden URL: http://career.proxify.io The Role: We are looking for a Senior Frontend Developer with strong proficiency with React.js and Next.js for one of our clients. You are a perfect candidate if you are growth-oriented, you love what you do, and you enjoy working on new ideas to develop exciting products. What we’re looking for: Minimum of 5 years of experience in frontend development with a strong portfolio of projects demonstrating expertise in React.js and Next.js. Proficiency in HTML, CSS, JavaScript, TypeScript, and modern frontend development tools and frameworks. Experience with state management libraries such as Redux, MobX, or similar. Proficiency with testing frameworks and tools like Jest, Cypress, or Testing Library. Strong knowledge of version control systems, particularly Git. Located in CET timezone (+/- 3 hours), we are unable to consider applications from candidates in other time zones. Responsibilities: Design, develop, and maintain high-performance, scalable web applications using React.js and Next.js. Create reusable and maintainable UI components with a focus on performance and accessibility. Work closely with designers, backend developers, and product managers to translate user needs and business goals into functional and engaging web applications. Write clean, efficient, and well-documented code following best practices in software development. Identify and address performance bottlenecks to ensure smooth and responsive user experiences. Conduct unit testing, integration testing, and end-to-end testing to ensure the reliability and robustness of the applications. What we offer: Get paid, not played No more unreliable clients. Enjoy on-time monthly payments with flexible withdrawal options. Predictable project hours Enjoy a harmonious work-life balance with consistent 8-hour working days with clients. Flex days, so you can recharge Enjoy up to 24 flex days off per year without losing pay, for full-time positions found through Proxify. Career-accelerating positions at cutting-edge companies Discover exclusive long-term remote positions at the world's most exciting companies. Hand-picked opportunities, just for you Skip the typical recruitment roadblocks and biases with personally matched positions. One seamless process, multiple opportunities A one-time contracting process for endless opportunities, with no extra assessments. Compensation Enjoy the same pay, every month with positions landed through Proxify. To apply: https://weworkremotely.com/remote-jobs/proxify-ab-senior-frontend-developer-react-js-next-js-1",
+      "date": "Mon, 13 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/roofr/jobs/senior-frontend-engineer-contract-6115367896",
+      "title": "Senior Frontend Engineer - Contract",
+      "company": "Roofr",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/roofr/jobs/senior-frontend-engineer-contract-6115367896",
+      "source": "Himalayas",
+      "description": "At Roofr , we’re obsessed with our customers. We constantly gather feedback to shape, prioritize, and launch the products they truly need. That’s what makes Roofr ’s CRM special. We started by building essential sales tools like aerial roof measurements and digital sales proposals. But when our customers asked for a simple, affordable way to manage and scale their entire businesses, we listened. So, we created a CRM that connects these solutions—along with payments, material ordering, and more—into a seamless, powerful platform. With a clear roadmap ahead, we’re excited to continue expanding and leading the market with innovative products. We have an amazing culture, strong financials, and best-in-class company metrics. It’s an exciting time to be part of an extraordinary startup that is already successful, yet still early enough to offer its team significant growth, equity, and the opportunity to make a real impact. This position is for an existing vacancy. Building a powerful user experience is what sets Roofr apart from all other roofing platforms. As an Engineer in an early-stage and high-growth company, you will have a large impact on both technical implementation and help steer our technology roadmap. What You'll Get to Do: Help drive frontend architecture to the next stage of Roof’s systems Work in a fast-paced cross-functional team that values doing things ‘the right way’ Contribute to an early-stage company with engineering first culture Contributing to all aspects of the Software Development Lifecycle, from planning to delivery Collaborating with cross-functional team members to develop technical requirements Writing clean code to develop functional web applications and reusable libraries Writing unit, functional, and acceptance tests Troubleshooting and supporting production applications What You'll Bring to the Role: 3+ years of experience holding a Senior Engineering title Has 5+ years of software development experience Is a champion of agile methodologies, and enjoys shipping code often and confidently Has a track record of breaking down complex problems as incremental solutions Proactively recommends initiatives to improve our engineering technologies and culture Enjoys working in a collaborative environment where everyone helps each other grow Takes ownership of the product and is proud of the quality of their work Has excellent communication skills, and appreciates the value of good documentation Understands the challenges of early-stage company priorities Strong experience with Javascript language & React + Redux framework Experience with SCSS Experience with interacting with RESTful APIs Experience building frontend testing and automation systems for unit tests, integration tests, regression tests, and user acceptance tests Our compensation ranges are built using multiple market benchmarks and reflect both the scope of the role and current market data. While many hires fall within the beginning to midpoint of the band to allow for growth over time, we tailor offers based on each candidate’s experience, seniority, and demonstrated impact. 🏠 What we offer (US + Canada) When you join our team, you’re not just accepting a job. You’re making a career move. Here’s how we’ll support you in doing some of the most impactful work of your career: 🏝️ Vacation/Paid Time Off: 1st week of employment is mandatory PTO! Start your journey with Roofr by decompressing and recharging - we will see you in week 2! 1 Friday off per month (we call those our laundry days!) Company wide paid shutdown for the week between Christmas and New Years Flexible time off 80% employer-paid benefits in the U.S. and 100% employer-paid premiums for Extended Healthcare and Dental in Canada RRSP/401k match Generous Parental Leave policy 🤝 Perks: We host an annual company retreat with great team building activities Ample learning and development opportunities to continue growing your career Home office setup stipend Internet and phone allowance Remote first culture Weekly Friday paydays! 🤖 AI Notice At Roofr , we’re big fans of AI. It helps us write job descriptions that don’t put you to sleep, takes notes during interviews so we can actually listen, and even helps us track down awesome humans like you. Feel free to use AI to prep, research, or get pumped up for your interview (we see you, ChatGPT power users 👀). But when it’s time to chat, we’d love to meet you, not your AI alter ego. Bring your real, unfiltered self, we promise we will too. And don’t worry, a real, live human is behind every part of our process. Every application is reviewed by a real person, and you’ll always speak with real humans throughout the interview process. No bots, just good people ☺️ ⚠️ Important Notice We’ve been made aware of an individual impersonating Roofr using a fraudulent domain: roofrr.com (note the extra “r”). Our company takes the security and privacy of job applicants very seriously. We will never ask for payment, bank details, or personal financial information as part of the application process. All our legitimate job postings can be found on our official career site. Please be cautious of job offers that come from non-company email addresses, instant messaging platforms, or unsolicited calls. To ensure your application is legitimate, please apply directly through our official careers page: https://roofr.com/careers . If you receive any suspicious messages or have questions, reach out to us at talent@roofr.com . Your safety and security are important to us — thank you for your vigilance! Roofr is proud to be an equal opportunity employer. We are committed to equal employment opportunity in the workplace regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or veteran status. Originally posted on Himalayas",
+      "date": "2026-07-14",
+      "region": "brazil",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "jobicy-149242",
+      "title": "Freelance Agent Evaluation Engineer",
+      "company": "Mindrift",
+      "location": "LATAM",
+      "url": "https://jobicy.com/jobs/149242-freelance-agent-evaluation-engineer-2",
+      "source": "Jobicy",
+      "description": "Please submit your CV in English and indicate your level of English proficiency. Mindrift connects specialists with project-based AI opportunities for leading tech companies, focused on testing, evaluating, and improving AI systems. Participation is project-based, not permanent employment. What this opportunity involves We're building a dataset to evaluate AI coding agents - how well a model handles real-world developer tasks. You'll create challenging tasks and evaluation criteria within realistic simulated environments: Build realistic developer environments - a virtual company with codebase, infrastructure, and context (tickets, docs, conversations) that forms a believable development history Design tasks from intermediate states of these environments - craft the prompt, define what \"solved\" means, and ensure the task is solvable by an AI agent Write tests that verify agent solutions - accept all valid approaches and reject incorrect ones, neither too strict nor too lenient Iterate on tasks and tests based on QA feedback - review agent solutions, analyze failures, and refine until the evaluation is fair and robust What this is NOT Not data labeling Not prompt engineering Not writing code from scratch - the agent writes most of the code; you guide and evaluate What we look for 5+ years in software development Core stack: Python (FastAPI), JavaScript/TypeScript (React), Docker, Postgres, Kafka, Redis Experience writing tests (functional, integration) English proficiency - B2+ Why this is hard Frontier models are already good at coding. Creating a task that genuinely challenges the best models is non-trivial. You need to deeply understand where models fail and what scenarios reveal the difference between a good and a bad solution. Tasks have many valid solutions - writing tests that accept all correct solutions and reject incorrect ones is harder than it sounds. How it works Apply → Pass qualification(s) → Join a project → Complete tasks → Get paid Effort estimate Tasks for this project are estimated to take 20 hours to complete, depending on complexity. This is an estimate and not a schedule requirement; you choose when and how to work. Tasks must be submitted by the deadline and meet the listed acceptance criteria to be accepted. Compensation Up to $40/hr equivalent , depending on level and pace. Tasks are estimated at ~20 hours each; you set your own schedule.",
+      "date": "2026-07-13",
+      "region": "latam",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5798810765",
+      "title": "AI Technical Lead Engineer",
+      "company": "Emma of Torre.ai",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5798810765?se=GB1p53B_8RG25KFe9QKmPA&utm_medium=api&utm_source=bd0bee3e&v=6A6B3ED2143C2A74A19937692367276B94109FB5",
+      "source": "Adzuna",
+      "description": "I’m helping FreightPOP find a top candidate to join their team full-time for the role of AI Technical Lead Engineer . You'll architect and lead AI product innovation, transforming logistics with intelligent automation. Compensation: USD 7K - 16K/month Location: Remote: Brazil Mission of FreightPOP: \"We simplify and streamline the transportation management experience for manufacturers, distributors, retailers, and 3PL’s by reducing friction and connecting systems for a seamless and optimal suppl…",
+      "date": "2026-07-13",
+      "region": "brazil",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5799150683",
+      "title": "Wordpress Developer",
+      "company": "Granite Digital",
+      "location": "São Paulo, Estado de São Paulo, Brasil",
+      "url": "https://www.adzuna.com.br/details/5799150683?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "We are looking for an experienced and passionate WordPress Developer to join Ireland's biggest independent agency! As a WordPress Developer at Granite, you will be responsible for both back-end and front-end development, including creating and editing WordPress themes and plugins. We are expecting you to have a strong understanding of latest industry trends and content management systems. Outras Informações Remote Job. Working in the Irish Timezone.",
+      "date": "2026-07-13",
+      "region": "brazil",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5791392348",
+      "title": "Backend Developer",
+      "company": "Jobgether",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/details/5791392348?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "This position is listed on behalf of a partner company, who manages all applications and next steps. Our partner is looking for a Backend Developer based in Brazil. This is a remote, project-based backend engineering role focused on building and evaluating high-quality software engineering tasks for advanced AI systems. You will work on realistic, production-level scenarios involving backend development, debugging, refactoring, and test creation across complex codebases. The role requires stron…",
+      "date": "2026-07-07",
+      "region": "brazil",
+      "first_seen": "2026-07-14",
+      "is_new": true
+    },
+    {
       "id": "jobicy-145861",
       "title": "Senior Full Stack Engineer",
       "company": "infisical",
@@ -24,7 +141,7 @@
       "date": "2026-07-12",
       "region": "brazil",
       "first_seen": "2026-07-13",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-149183",
@@ -163,7 +280,7 @@
       "location": "Bela Vista, Bela Vista, SÃ£o Paulo, Brasil",
       "url": "https://remoteOK.com/remote-jobs/remote-recepcionista-jr-bela-vista-sp-grupo-amil-1134704",
       "source": "RemoteOK",
-      "description": "Transformar vidas com saÃºde Ã© o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negÃ³cios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede prÃ³pria de hospitais, clÃ­nicas, centros de tratamento, home care e transporte mÃ©dico. Com uma missÃ£o clara e valores sÃ³lidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na populaÃ§Ã£o que atendemos. Promovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas sÃ£o bem-vindas, sem distinÃ§Ã£o de etnia, raÃ§a, deficiÃªncia, orientaÃ§Ã£o sexual, identidade ou expressÃ£o de gÃªnero, idade, nacionalidade, religiÃ£o ou qualquer outro marcador social. ReforÃ§amos Que NÃ£o Solicitamos Pagamentos, Taxas Ou CÃ³digos SMS Em Nossos Processos Seletivos. Todas As Oportunidades EstÃ£o DisponÃ­veis Em Nossos Canais Oficiais e No Nosso Site De Carreira. Qualquer SituaÃ§Ã£o Diferente Deve Ser Denunciada. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. QualificaÃ§Ãµes NecessÃ¡rias Ensino mÃ©dio completo; ExperiÃªncia com atendimento ao pÃºblico; VivÃªncia com atendimento hospitalar e/ou ambulatorial (DesejÃ¡vel); Conhecimento bÃ¡sico do Pacote Office. Palavras-Chave: Amil, Recepcionista, Atendimento, Diversidade, InclusÃ£o, Equidade, PcD, Pessoa com DeficiÃªncia, Bela Vista, SÃ£o Paulo, SP. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. Please mention the word **SNAPPY** and tag RMTcyLjE4NS4xNjcuMTEy when applying to show you read the job post completely (#RMTcyLjE4NS4xNjcuMTEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Transformar vidas com saÃºde Ã© o que nos move! Atuamos em todo o Brasil por meio de duas unidades de negÃ³cios, Amil e Rede Total Care, com mais de 1.500 hospitais credenciados e uma rede prÃ³pria de hospitais, clÃ­nicas, centros de tratamento, home care e transporte mÃ©dico. Com uma missÃ£o clara e valores sÃ³lidos, fortalecemos nossa cultura com compromisso de servir sempre melhor. Cuidamos das nossas pessoas colaboradoras para que esse cuidado se reflita na populaÃ§Ã£o que atendemos. Promovemos uma cultura inovadora, diversa, equitativa e inclusiva. Todas as candidaturas qualificadas sÃ£o bem-vindas, sem distinÃ§Ã£o de etnia, raÃ§a, deficiÃªncia, orientaÃ§Ã£o sexual, identidade ou expressÃ£o de gÃªnero, idade, nacionalidade, religiÃ£o ou qualquer outro marcador social. ReforÃ§amos Que NÃ£o Solicitamos Pagamentos, Taxas Ou CÃ³digos SMS Em Nossos Processos Seletivos. Todas As Oportunidades EstÃ£o DisponÃ­veis Em Nossos Canais Oficiais e No Nosso Site De Carreira. Qualquer SituaÃ§Ã£o Diferente Deve Ser Denunciada. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. QualificaÃ§Ãµes NecessÃ¡rias Ensino mÃ©dio completo; ExperiÃªncia com atendimento ao pÃºblico; VivÃªncia com atendimento hospitalar e/ou ambulatorial (DesejÃ¡vel); Conhecimento bÃ¡sico do Pacote Office. Palavras-Chave: Amil, Recepcionista, Atendimento, Diversidade, InclusÃ£o, Equidade, PcD, Pessoa com DeficiÃªncia, Bela Vista, SÃ£o Paulo, SP. Principais Responsabilidades Recepcionar pacientes/clientes, visitantes e colaboradores; Atendimentos telefÃ´nicos; Registro de entrada e saÃ­da de visitantes e/ou pacientes; Abertura de ficha de atendimento e cadastro em sistema; PrÃ©-faturamento das fichas de atendimento; Interface com os demais setores e suporte administrativo; Agendamento de exames, consultas e entrega de resultados. Please mention the word **SNAPPY** and tag RMTM1LjExOS4yMzkuNTQ= when applying to show you read the job post completely (#RMTM1LjExOS4yMzkuNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-11",
       "region": "brazil",
       "first_seen": "2026-07-12",
@@ -669,7 +786,11 @@
       "date": "2026-07-03",
       "region": "worldwide",
       "first_seen": "2026-07-04",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "WeWorkRemotely"
+      ],
+      "dup_count": 1
     },
     {
       "id": "workingnomads-https://www.workingnomads.com/job/go/1705867/",
@@ -1036,7 +1157,11 @@
       "date": "2026-06-27",
       "region": "brazil",
       "first_seen": "2026-06-30",
-      "is_new": false
+      "is_new": false,
+      "also_on": [
+        "Adzuna"
+      ],
+      "dup_count": 1
     },
     {
       "id": "adzuna-5775210274",
