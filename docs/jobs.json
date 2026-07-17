@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-16T10:58:22+00:00",
-  "count": 300,
-  "new_today": 5,
+  "generated_at": "2026-07-17T10:46:08+00:00",
+  "count": 308,
+  "new_today": 8,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,110 @@
   ],
   "jobs": [
     {
+      "id": "wwr-https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+      "title": "Senior DevOps Engineer, Applications",
+      "company": "WME",
+      "location": "Anywhere in the World",
+      "url": "https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+      "source": "WeWorkRemotely",
+      "description": "Headquarters: Remote-CA URL: http://wmeagency.com WME is building the next generation of internal platforms that power one of the world's leading entertainment companies. We're looking for a Senior Dev Ops Engineer who is equally comfortable designing cloud infrastructure and improving system reliability. The software we build helps agents and teams manage relationships, deals, and opportunities across the global entertainment industry — and keeping it fast, available, and observable is critical work. You'll own the infrastructure and reliability story end-to-end: provisioning cloud resources, maintaining Kubernetes deployments, improving CI/CD pipelines, and building the observability that lets engineers move fast with confidence. We're in an active migration from a legacy system, so you'll be operating both the new platform and supporting the transition as we move module by module. We're building this engineering organization largely from the ground up. If you like greenfield infrastructure work, have opinions about how platforms should be built, and want to shape how a team ships software, this is the role. Example Problems You Might Work On: Designing and maintaining the Azure infrastructure that runs our gRPC microservices and Next.js web app Building observability that gives engineers visibility into service health, latency, and failure modes across a distributed system Improving CI/CD pipelines so deployments are fast, safe, and fully automated Managing PostgreSQL at scale — backups, failover, migrations, and performance Supporting a multi-service migration from a legacy .NET/MSSQL platform to a modern cloud-native stack Building developer tooling that reduces friction and keeps the team shipping What You'll Do: Own and evolve Azure infrastructure using Terraform — networking, compute, managed services, and secrets Manage Kubernetes clusters and Helm-based deployments for a distributed microservices platform Build and maintain CI/CD pipelines (GitHub Actions / Azure DevOps) that keep deployments fast and safe Define and improve observability: metrics, logging, alerting, and tracing across services Lead incident response — drive resolution, write postmortems, and follow through on reliability improvements Manage PostgreSQL infrastructure: backups, replication, failover, and query performance Collaborate closely with engineers to improve local development environments and deployment workflows Enforce security best practices: secrets management, network policies, access controls, and vulnerability scanning What We're Looking For Solid DevOps or platform engineering experience, typically 5+ years Strong hands-on experience with Azure (AKS, Azure AD, managed databases, blob storage, networking) Terraform experience — writing, organizing, and maintaining infrastructure as code at scale Kubernetes and Helm experience managing production workloads Experience building and operating CI/CD pipelines (GitHub Actions, Azure DevOps, or similar) PostgreSQL experience — operational management, migrations, and performance tuning Solid understanding of observability tooling (Datadog, Grafana, OpenTelemetry, or equivalent) Experience with incident response and driving reliability improvements from postmortems Docker and container image management experience Familiarity with secrets management tools (Azure Key Vault, Vault, or equivalent) Comfortable working in environments where systems and processes are still evolving How We Build Ship practical software that solves real problems Favor simple, maintainable architectures Work closely across engineering, product, and design Use modern cloud infrastructure (AWS / Azure), Terraform, and containerized deployments Maintain automated CI/CD pipelines to keep shipping fast and safe Leverage AI-assisted development across the engineering workflow Per local requirements and in the interest of transparency, the rate shown below reflects the prevalent current hiring range for this position. Hiring pay rates are based on a number of factors, including location and may vary depending on job-related qualifications, knowledge, skills and experience. The company strives to provide locally competitive rewards packages, which include base rate along with, as applicable, short- and long-term incentives, growth and developmental opportunities, and robust benefits, such as health care, retirement, vacation and other paid time off, and additional offerings. Hiring Rate Minimum: $131,250 annually (minimum will not fall below the applicable state/local minimum salary thresholds) Hiring Rate Maximum: $175,000 annually WME is an equal opportunity employer and encourages applications from qualified and eligible candidates regardless of sex, race, disability, age, sexual orientation, or religion or belief. To apply: https://weworkremotely.com/remote-jobs/wme-senior-devops-engineer-applications",
+      "date": "Thu, 16 Ju",
+      "region": "worldwide",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5804793725",
+      "title": "CQV Engineer",
+      "company": "EFOR",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5804793725?se=JnYMtsyB8RGHa87MHlFGpA&utm_medium=api&utm_source=bd0bee3e&v=C85F376FA26B89324CABCAEABB8C60EE5E4F54A9",
+      "source": "Adzuna",
+      "description": "Vaga: Engenheiro(a) CQV – 100% Remoto | Brasil Estamos em busca de um(a) Engenheiro(a) de Commissioning, Qualification & Validation (CQV) para atuar em um projeto internacional no setor farmacêutico. A posição é 100% remota no Brasil , com interação diária com equipes globais e participação em projetos de alta complexidade para um cliente em forte expansão. Principais responsabilidades : Elaborar e executar protocolos de IQ, OQ e PQ para equipamentos, utilidades e sistemas. Desenvolver document…",
+      "date": "2026-07-17",
+      "region": "brazil",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5804793781",
+      "title": "Site Reliability Engineer",
+      "company": "Velozient",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5804793781?se=JnYMtsyB8RGHa87MHlFGpA&utm_medium=api&utm_source=bd0bee3e&v=2B5D868A19FD95E9D1DA4262DB1BF39909F270C0",
+      "source": "Adzuna",
+      "description": "We are looking for a full-time, remote Senior Site Reliability Engineer with 3 years of experience in high-availability cloud environments using AWS to join our U.S. client. This role is heavily focused on AWS infrastructure, CloudFormation, and CI/CD pipeline ownership, with an emphasis on improving reliability, performance, and cost efficiency. This position is ideal for someone who operates with an engineering mindset, takes strong ownership, and is comfortable recommending and implementing …",
+      "date": "2026-07-17",
+      "region": "brazil",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5804793670",
+      "title": "Watson Assistant AI Engineer Sênior | Remote",
+      "company": "Compass UOL",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/land/ad/5804793670?se=JnYMtsyB8RGHa87MHlFGpA&utm_medium=api&utm_source=bd0bee3e&v=E63E998AEF7B4F82D40BFE33B4E83D09860BC28F",
+      "source": "Adzuna",
+      "description": "Responsabilidades e atribuições Definir arquitetura e padrões para soluções conversacionais ;Liderar a evolução dos assistentes virtuais da empresa ;Apoiar tecnicamente times multidisciplinares ;Conduzir análises de desempenho e propor melhorias contínuas ;Atuar como referência em NLU, NLP, GenAI e automação conversacional ;Participar da implantação e da estratégia de adoção do IBM watsonx Orchestrate ;Avaliar novas funcionalidades da plataforma IBM watsonx e definir roadmap de evolução ;Garant…",
+      "date": "2026-07-17",
+      "region": "brazil",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/indg/jobs/senior-ai-engineer",
+      "title": "Senior AI Engineer",
+      "company": "INDG",
+      "location": "",
+      "url": "https://himalayas.app/companies/indg/jobs/senior-ai-engineer",
+      "source": "Himalayas",
+      "description": "Grip is shifting enterprise content production from manual, tool-driven workflows to programmable systems that generate high-quality visual output at scale. As a Senior AI Engineer, you build the control layer behind that shift: AI Controllers, reusable templates, and workflow primitives that translate brand intent into deterministic, production-ready outputs. This is not prompt engineering. This is designing systems that constrain, guide, and scale generative models into reliable creative production pipelines used by global brands. Requirements What You Will Do Build AI-Controlled Content Systems Architect and ship AI Controllers that encode visual logic (composition, layout, constraints) into reusable systems Translate creative direction into structured pipelines (e.g., turning logo safe zones into enforceable spatial constraints) Design templates that produce consistent outputs across thousands of variations Develop and Scale AI Workflows Build and optimize ComfyUI pipelines integrating multiple models, refiners, and control mechanisms Combine segmentation, depth maps, and latent constraints to guide generation toward production-grade outputs Iterate on workflows based on output quality, failure modes, and client requirements Own Model Behavior and Output Quality Work hands-on with diffusion models, encoders, and latent space manipulation Define how prompts, conditioning, and control signals interact across the pipeline Ensure outputs meet brand and visual standards—not just “good images,” but usable assets Extend Platform Capabilities Contribute to new node definitions and AI capabilities within Grip’s platform Specify technical requirements for new features across Python/PyTorch systems Collaborate with engineers and creative teams to push what’s possible in automated content generation Who You Are You build systems that make AI predictable, controllable, and production-ready—especially in visual domains. You Have: Strong experience with generative AI systems (diffusion models, conditioning, latent space control) Hands-on work in ComfyUI or similar node-based pipelines Solid programming skills (Python, PyTorch) with experience shipping working systems Experience training or fine-tuning models and managing their lifecycle Exposure to visual tools like Photoshop, Blender, or similar (not optional thinking—actual usage) You Think: In systems, not prompts—how components interact, fail, and scale In constraints—how to guide models toward predictable outputs In outputs—what makes something production-ready vs. visually interesting Pragmatically—you ship working solutions and refine based on results Your Skills Are: Translating abstract creative direction into structured AI workflows Debugging generation pipelines across multiple control layers Balancing flexibility with control in template systems Communicating across engineering and creative teams Why Join Grip? The Platform Position. Grip is infrastructure for enterprise creative production—powering global brands to generate content at scale with control and consistency. The Market Timing. AI-generated content is moving from experimentation to production. The challenge is no longer generation—it’s control, reliability, and scale. The Technical Moat. You’ll work with ComfyUI-based workflows, multi-tenant architecture, and a stack spanning TypeScript, Python, Elixir, and C#—built for production, not demos. The Work. You will define how AI is actually used in real-world creative systems—turning unpredictable models into dependable pipelines. The procedure If you’re ready to bring your powers to a role where you can make a difference, we want to hear from you. Send your resume and portfolio in English via the link provided. If you have questions, contact our Recruitment Department at jobs@indg.com . INDG Grip handles and uses personal data of job applicants in line with its Recruitment Privacy Policy . Originally posted on Himalayas",
+      "date": "2026-07-16",
+      "region": "unknown",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/curotec/jobs/senior-full-stack-engineer-laravel-reactjs",
+      "title": "Senior Full-Stack Engineer (Laravel/ReactJS)",
+      "company": "Curotec",
+      "location": "",
+      "url": "https://himalayas.app/companies/curotec/jobs/senior-full-stack-engineer-laravel-reactjs",
+      "source": "Himalayas",
+      "description": "About Curotec We are a globally leading software services company specializing in developing enterprise-level projects for clients worldwide. Our team is a unique blend of diverse skill sets, cultures, and backgrounds—a true melting pot of talent. One of the most rewarding aspects of working at Curotec is the opportunity to learn something new every day, not just about technology but also about our amazing team members. Visit our website to discover more about who we are and what we do. We are looking for highly skilled remote developers with experience building complex business applications using the Laravel and React frameworks. This is a remote position. Requirements Experience Experience with Laravel/ReactJS. Experience with custom application development. Must be able to speak and write fluent English. Must be dedicated, passionate, and hard-working. Attitude is everything. Must be able to work with a team and collaborate remotely. Hard workers and self-starters, please apply. We are looking for a creative and efficient problem solver. Technical Skills Experience with PHP, Laravel, and ReactJS Experience with OAuth and JWT Tokens is a plus. Advanced Laravel Experience (Middleware, Collections, Policies, Request, Resources, and Service Containers). Experience with software testing, TDD, and unit testing (PHPUnit, PHPSpec, Behat). Experience with MySQL profiling and query optimization. Solid working experience building RESTful APIs. Active experience integrating custom code with 3rd party web services. Have performed complicated data migrations. Hands-on experience with tools such as Git and Jira. Experience working within Agile development environments. Benefits Competitive salary Ability to grow and advance your career Work on cutting-edge and exciting projects Originally posted on Himalayas",
+      "date": "2026-07-16",
+      "region": "unknown",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/nebius/jobs/customer-support-engineer",
+      "title": "Customer Support Engineer",
+      "company": "Nebius",
+      "location": "",
+      "url": "https://himalayas.app/companies/nebius/jobs/customer-support-engineer",
+      "source": "Himalayas",
+      "description": "About Nebius : Nebius is leading a new era in cloud infrastructure for the global AI economy. We are building a full-stack AI cloud platform that supports developers and enterprises from data and model training through to production deployment, without the cost and complexity of building large in-house AI/ML infrastructure. Built by engineers, for engineers. From large-scale GPU orchestration to inference optimization, we own the hard problems across compute, storage, networking and applied AI. Listed on Nasdaq (NBIS) and headquartered in Amsterdam, we have a global footprint with R&D hubs across Europe, the UK, North America and Israel. Our team of 1,500+ includes hundreds of engineers with deep expertise across hardware, software and AI R&D. The role We're looking for a senior support engineer who can handle difficult technical issues in modern cloud environments. This is not a traditional support role. The work is hands-on and technical: debugging Linux and Kubernetes issues, investigating problems in cloud infrastructure, and helping customers running AI workloads, distributed systems, and GPU-based environments. You'll work closely with engineering on production issues, help improve internal tools and troubleshooting workflows, and act as an escalation point when problems are unclear or high impact. The role includes weekend rotation and incident response. What you'll do - Investigate and resolve complex technical issues in customer environments - Troubleshoot across Linux, Kubernetes, cloud infrastructure, networking, storage, and GPU-related workloads - Support customers running containerized systems, inference workloads, training jobs, or other distributed platforms - Act as a senior escalation point for production incidents - Reproduce issues, narrow down root causes, and work with engineering on long-term fixes - Build or improve internal scripts, troubleshooting tools, and operational documentation - Help make support more scalable through better automation, observability, and process improvements - Communicate clearly with customers during active investigations and incidents - Take part in weekend coverage and urgent issue response What we're looking for - Strong Linux troubleshooting skills - Strong Kubernetes and container experience - Solid understanding of cloud infrastructure in AWS, GCP, Azure, OpenStack, or similar environments - Good networking fundamentals - Ability to write scripts or small tools in Python, Bash, Go, or similar - Experience working on production issues that require structured debugging and cross-team collaboration - Ability to work independently and stay effective when the path to resolution is not obvious - Clear written communication, especially when explaining technical issues to customers and internal teams Especially valuable - Experience with GPU-based infrastructure - Familiarity with AI/ML or LLM-related workloads - Understanding of inference and training pipelines - Experience improving observability, tooling, or operational workflows - History of building useful internal tools or automating repetitive work - Personal or open-source projects that show real technical depth A strong candidate for this role usually - enjoys debugging messy infrastructure problems - takes ownership without waiting to be told exactly what to do - thinks beyond the immediate ticket - works well with engineering - looks for ways to reduce repeated operational pain, not just close cases Benefits & Perks: Competitive compensation Career growth and learning opportunities Flexibility and work-life balance Collaborative and innovative culture Opportunity to work on impactful AI projects International environment and talented teams What's it like to work at Nebius : Fast moving - Bold thinking - Constant growth - Meaningful impact - Trust and real ownership - Opportunity to shape the future of AI Equal Opportunity Statement: Nebius is an equal opportunity employer. We are committed to fostering an inclusive and diverse workplace and to providing equal employment opportunities in all aspects of employment. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, ancestry, age, disability, genetic information, marital status, veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by applicable law. Applicants must be authorized to work in the country in which they apply and will be required to provide proof of employment eligibility as a condition of hire. If you need accommodations during the application process, please let us know. Originally posted on Himalayas",
+      "date": "2026-07-16",
+      "region": "unknown",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
+      "id": "adzuna-5803908308",
+      "title": "Data Engineer",
+      "company": "OnHires",
+      "location": "Brasil, Brasil",
+      "url": "https://www.adzuna.com.br/details/5803908308?utm_medium=api&utm_source=bd0bee3e",
+      "source": "Adzuna",
+      "description": "Data Engineer (Remote, LatAm) About the Company Our client is a Berlin-based, remote-first technology company building advanced market intelligence and software solutions for the automotive industry. With an established product and a strong engineering team, the company is continuously evolving its modern data platform to deliver reliable, high-quality insights to customers across Europe. This isn't just another ETL maintenance role. You'll work on a large-scale data platform powering millions …",
+      "date": "2026-07-16",
+      "region": "brazil",
+      "first_seen": "2026-07-17",
+      "is_new": true
+    },
+    {
       "id": "wwr-https://weworkremotely.com/remote-jobs/hubspot-senior-account-executive-mid-market-uki",
       "title": "Senior Account Executive, Mid-Market UKI",
       "company": "HubSpot",
@@ -24,7 +128,7 @@
       "date": "Wed, 15 Ju",
       "region": "worldwide",
       "first_seen": "2026-07-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/darkroom/jobs/senior-paid-social-specialist",
@@ -37,7 +141,7 @@
       "date": "2026-07-16",
       "region": "brazil",
       "first_seen": "2026-07-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/flying-bisons/jobs/senior-ux-designer",
@@ -50,7 +154,7 @@
       "date": "2026-07-15",
       "region": "unknown",
       "first_seen": "2026-07-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/360dialog/jobs/technical-support-specialist-brazil-remote",
@@ -63,7 +167,7 @@
       "date": "2026-07-15",
       "region": "brazil",
       "first_seen": "2026-07-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "himalayas-https://himalayas.app/companies/wikimedia-foundation/jobs/software-engineer-iii-core-experiences",
@@ -76,7 +180,7 @@
       "date": "2026-07-15",
       "region": "brazil",
       "first_seen": "2026-07-16",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/creative-force-saas-product-support-jedi-remote-europe",
@@ -124,7 +228,7 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-junior-content-writer-supportyourapp-1134790",
       "source": "RemoteOK",
-      "description": "Publicado: 14:37:03. Who are we?SupportYourApp is an international Intelligent Support-as-a-Service company that hasâ¦Ve este y otros empleos similares en LinkedIn. Please mention the word **TRUMP** and tag RMjAuMTY5Ljc1LjI0MA== when applying to show you read the job post completely (#RMjAuMTY5Ljc1LjI0MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Publicado: 14:37:03. Who are we?SupportYourApp is an international Intelligent Support-as-a-Service company that hasâ¦Ve este y otros empleos similares en LinkedIn. Please mention the word **TRUMP** and tag RMTcyLjE4NC4yMTEuMTYx when applying to show you read the job post completely (#RMTcyLjE4NC4yMTEuMTYx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-14",
       "region": "unknown",
       "first_seen": "2026-07-15",
@@ -1839,6 +1943,23 @@
       "is_new": false
     },
     {
+      "id": "workingnomads-https://www.workingnomads.com/job/go/1685353/",
+      "title": "Senior DevOps Engineer",
+      "company": "Lemon.io",
+      "location": "Europe, North America, Latin America, APAC",
+      "url": "https://www.workingnomads.com/job/go/1685353/",
+      "source": "WorkingNomads",
+      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several openings for Senior DevOps Engineers, with two types of requirements. Requirements – DevOps with Azure DevOps: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Azure DevOps Experience in at least 2 commercial projects using Microsoft Azure or Kubernetes is required Requirements – DevOps with AWS/GCP/SQL: 4+ years of experience as a DevOps Engineer At least 3 years of experience with AWS/GCP At least 3 years of commercial experience with Python/Bash Experience in at least 2 commercial projects using Terraform, Kubernetes or SQL is required Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, React & Java, React & Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, WordPress, Electron, Python, Golang, Ruby, Java & Spring, Python & Node, React Native & Ruby, React Native & Python, Scala, Flutter, C++, Android, Embedded Software Engineering, React Native & Node, React Native & React, Data Annotation, React & Node.js, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
+      "date": "2026-06-23",
+      "region": "latam",
+      "first_seen": "2026-06-24",
+      "is_new": false,
+      "also_on": [
+        "Remotive"
+      ],
+      "dup_count": 1
+    },
+    {
       "id": "remotive-2090994",
       "title": "Senior Quality Engineer (Florianópolis)",
       "company": "LawnStarter",
@@ -1900,19 +2021,6 @@
       "description": "This is a remote role for candidates located in Porto Alegre, Brazil About LawnStarter LawnStarter is the nation's leading on-demand marketplace for lawn care and outdoor services, with over $100M in annual bookings. We're expanding beyond lawn care to become the one-stop shop for all home services, operating across three brands (LawnStarter, Lawn Love, Home Gnome) on a single shared platform. About Engineering at LawnStarter We've spent the last two years rebuilding the platform from the ground up: new customer app, new Pro onboarding, job distribution engine, and data infrastructure. The foundation is solid. Now we're moving into expanded service verticals, dynamic pricing, and AI-powered features at scale. Quality needs to keep up. Our stack is PHP (Laravel) and React/React Native, with Cypress as our primary test framework. We actively use Claude Code as part of our engineering workflow, not as an experiment, but as a core part of how we work. The Role As we scale into new service verticals and grow the engineering team, quality can't be reactive. This role exists to make quality proactive: owning the automation coverage, shaping the bug process, and partnering closely with Product, Design, and the Data team to catch problems before they reach customers. You'll report to the Engineering Manager and be embedded across the engineering organization. This is hands-on and strategic, helping raise the quality ceiling for the whole team. What makes this role different: Cross-functional influence : You work directly with engineers, PMs, Designers, and the Data team to surface risks early, understand requirements deeply, and propose better solutions. You may be embedded in one or two delivery teams. Automation ownership : You own the strategy for building and expanding our automated test coverage, not just executing test cases someone else wrote. Process shaper : You'll identify gaps in our quality process and have the authority to fix them, not just flag them. What You'll Own Automated test coverage : Design and grow our E2E and integration test suite using Cypress. Set the strategy, prioritize coverage gaps, and raise the floor across the platform. Bug process : Own the full lifecycle from triage to production fix. Keep it moving, keep stakeholders informed, and make sure nothing falls through the cracks. Cross-functional quality partnership : Collaborate with PMs, Designers, and the Data team to review requirements, raise risks early, and define what \"done\" actually means. Process improvement : Identify weaknesses in how we deliver software and propose solutions. Not just document them. Exploratory testing : Test new features and existing flows on web and mobile across devices, catching what automation misses. Problems to Solve Keeping automation coverage sharp as the product evolves Our E2E coverage is solid. The challenge is staying ahead: bringing new ideas, exploring different types of coverage, and finding smarter ways to automate different aspects of the application as the product grows and new service verticals come online. Exploring new tools and leveraging AI to improve quality operations AI is changing how we build software, and it's changing how we can test it too. There's real opportunity here to use AI tools to increase output quality, cut repetitive work, and discover coverage gaps we'd otherwise miss. We want someone who actively explores that space, not someone who waits to be told what to use. What Success Looks Like (Year 1) Automation coverage stays strong : New features ship with automated tests as a baseline, and coverage strategies evolve with the product. Bug process runs smoothly : Triage to fix cycle is predictable and stakeholders know where things stand without having to ask. Deep business knowledge : You understand how the marketplace works well enough to anticipate edge cases on your own. Quality process improvement shipped : At least one meaningful improvement to how we deliver quality is in place and being used by the team. Requirements Who You Are AI-native. You use AI tools like Claude Code to write, maintain, and extend test code, not as a novelty, but as a standard part of how you work. You're comfortable with browser MCPs, agent workflows, and building scripts that automate the boring parts of QA. This is unlikely to be a good fit if you're skeptical of AI in the engineering workflow. Automation-first. Your default when you find a problem is to ask how to prevent it automatically. You build test infrastructure that outlasts any individual test case. This is unlikely to be a good fit if your strength is manual testing and automation is something you tolerate rather than drive. Customer-obsessed. You think like a user. When you're testing a flow, you're asking whether it actually works for a real customer, not just whether it matches the spec. This is unlikely to be a good fit if you treat quality as a checkbox rather than a standard. Adaptable. You don't get attached to a single tool, stack, or process. We're in a period of rapid evolution in how software gets built and tested, especially with AI, and you lean into that rather than resist it. This is unlikely to be a good fit if you thrive only in stable, well-defined tooling environments. Collaborative and direct. You work across Product, Design, Engineering, and Operations. You surface risks early, speak plainly about what you find, and push back when something isn't ready to ship. This is unlikely to be a good fit if you prefer to work in isolation or soften feedback to avoid friction. Technically solid. You're comfortable reading and writing code. You understand front and backend web services well enough to test them properly, write meaningful SQL queries, and debug issues across the stack. This is unlikely to be a good fit if your technical depth is limited to a single layer or framework. This Role Is NOT A manual-testing role : Most of your testing work should be building automation, not executing test scripts by hand. A ticket-executor role : You're expected to shape what gets worked on and how, not just process a backlog. A single-tool role : We use Cypress today, but we adapt. If you're only comfortable in one framework or one part of the stack, this will be limiting. A role for someone who avoids ambiguity : The business is changing fast. New verticals, new flows, new edge cases. You need to be comfortable moving before everything is defined. A back-of-the-line role : Quality is a first-class concern here. You're expected to have opinions and influence the process upstream, not just verify what's already been built. Benefits Compensation & Benefits Base salary: $45-$65k Equity: We want you invested in the quality and long-term health of the platform you're helping build. Fully remote: Work from anywhere in the Americas. Deep focus and async collaboration are the norm here. Unlimited PTO: We focus on results. Take what you need. LawnStarter provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability, or genetics. We comply with applicable state and local laws governing nondiscrimination in employment.",
       "date": "2026-06-23",
       "region": "brazil",
-      "first_seen": "2026-06-24",
-      "is_new": false
-    },
-    {
-      "id": "workingnomads-https://www.workingnomads.com/job/go/1685353/",
-      "title": "Senior DevOps Engineer",
-      "company": "Lemon.io",
-      "location": "Europe, North America, Latin America, APAC",
-      "url": "https://www.workingnomads.com/job/go/1685353/",
-      "source": "WorkingNomads",
-      "description": "Are you a talented Senior DevOps looking for a remote job that lets you show your skills and get decent compensation? Look no further than Lemon.io — the marketplace that connects you with hand-picked startups in the US and Europe. What we offer: The rate depends on your seniority level, skills and experience. We've already paid out over $11M to our engineers. No more hunting for clients or negotiating rates — let us handle the business side of things so you can focus on what you do best. We'll manually find the best project for you according to your skills and preferences. Choose a schedule that works best for you. It’s possible to communicate async or minimally overlap within team working hours. We respect your seniority so you can expect no micromanagement or screen trackers. Communicate directly with the clients. Most of them have technical backgrounds. Sounds good, yeah? We will support you from the time you submit the application throughout all cooperation stages. Most of our projects involve working in a fast-paced startup environment. We hope you like it as much as we do. Through our community, we will connect you with the best developers from more than 75 countries. We have several openings for Senior DevOps Engineers, with two types of requirements. Requirements – DevOps with Azure DevOps: 4+ years of experience as a DevOps Engineer At least 3 years of experience with Azure DevOps Experience in at least 2 commercial projects using Microsoft Azure or Kubernetes is required Requirements – DevOps with AWS/GCP/SQL: 4+ years of experience as a DevOps Engineer At least 3 years of experience with AWS/GCP At least 3 years of commercial experience with Python/Bash Experience in at least 2 commercial projects using Terraform, Kubernetes or SQL is required Strong technical skills: as a Senior DevOps, you are expected to be able to create projects from scratch and have a deep understanding of application architecture. Clear and effective communication in English — advanced ability to discuss business tasks, justify decisions, and communicate issues. Good self-presentation is also essential for upcoming client calls. Strong self-organizational skills — ability to work full-time remotely with no supervision. Reliability — we want to trust you and expect that you won’t let us and the client down. Adaptability and Flexibility — the ability to onboard the project promptly after accepting it and start delivering results quickly. Sounds good for you? Apply now and join the Lemon.io community! NOT YOUR TECH STACK? We have a variety of projects, so if you have 4+ years of commercial software development experience and are proficient in AI Agent Architecture, AI Automation Architecture, AI Engineering, Site Reliability Engineering, Platform Engineering, React & Python, React & Golang, React & Java, React & Ruby, PHP & Vue, Vue & Node.js, React & .NET, Android & iOS, Blockchain (Ethereum/Ethers.js/Wagmi/Viem/Solana), Angular & Node.js, Vue & .NET, Python & Vue, MLOps, Data Science, Angular & PHP, Angular & .NET, Symfony & React, Symfony & Vue, Symfony & Angular, Symfony & JavaScript & Next.js & TypeScript, Data Analysis, React & PHP, Data Engineering, Project Management, Product Management, QA Automation, QA Manual, WordPress, Electron, Python, Golang, Ruby, Java & Spring, Python & Node, React Native & Ruby, React Native & Python, Scala, Flutter, C++, Android, Embedded Software Engineering, React Native & Node, React Native & React, Data Annotation, React & Node.js, Svelte & Python, Svelte & Node.js, Svelte & TypeScript, Rust, Shopify & JavaScript, Vue & Nuxt, PHP & Laravel, UI/UX Design, Animation, Graphic Design, React & Node & React Native, .NET & C#, Unreal Engine & C++, Python & LLM, Unity, or Machine Learning Engineering, we would be happy to connect with you and match you with a project that fits your experience. We do not provide visa assistance, and our cooperation model does not include the benefits typically offered with direct hire. We work with developers from 75+ countries across Europe, Latin America, North America (the U.S. and Canada), selected countries in Asia (Japan, Singapore, South Korea, the Philippines, Indonesia, Malaysia, Vietnam, Thailand, and Israel), Oceania (Australia, New Zealand, and Papua New Guinea), and Africa (including Morocco and South Africa).",
-      "date": "2026-06-23",
-      "region": "latam",
       "first_seen": "2026-06-24",
       "is_new": false
     },
@@ -3350,11 +3458,7 @@
       "date": "Sun, 16 Ju",
       "region": "worldwide",
       "first_seen": "2026-06-17",
-      "is_new": false,
-      "also_on": [
-        "Remotive"
-      ],
-      "dup_count": 1
+      "is_new": false
     },
     {
       "id": "wwr-https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-90-170-hr",
