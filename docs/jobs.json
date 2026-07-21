@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-20T11:43:50+00:00",
+  "generated_at": "2026-07-21T11:06:22+00:00",
   "count": 210,
-  "new_today": 2,
+  "new_today": 5,
   "sources": [
     "remoteok",
     "remotive",
@@ -14,6 +14,71 @@
   ],
   "jobs": [
     {
+      "id": "remoteok-1135077",
+      "title": "Analista CobranÃ§a Jr Remoto",
+      "company": "SuperlÃ³gica Tecnologias",
+      "location": "Brasil,",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-cobranca-jr-remoto-superlogica-tecnologias-1135077",
+      "source": "RemoteOK",
+      "description": "Analista de CobranÃ§a JuniorOs profissionais da Ã¡rea de cobranÃ§a sÃ£o responsÃ¡veis por transformarâ¦ Please mention the word **CHEAPER** and tag RMTcyLjE4NC4yMTkuOTA= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTkuOTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-07-20",
+      "region": "brazil",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "id": "jobicy-149448",
+      "title": "Data Analyst (Product & Customer Analytics)",
+      "company": "Oowlish Technology",
+      "location": "Brazil",
+      "url": "https://jobicy.com/jobs/149448-data-analyst-product-customer-analytics",
+      "source": "Jobicy",
+      "description": "Join Our Team Oowlish, one of Latin America's rapidly expanding software development companies, is seeking experienced technology professionals to enhance our diverse and vibrant team. As a valued member of Oowlish, you will collaborate with premier clients from the United States and Europe, contributing to pioneering digital solutions. Our commitment to creating a nurturing work environment is recognized by our certification as a Great Place to Work, where you will have opportunities for professional development, growth, and a chance to make a significant international impact. We offer the convenience of remote work, allowing you to craft a work-life balance that suits your personal and professional needs. We're looking for candidates who are passionate about technology, proficient in English, and excited to engage in remote collaboration for a worldwide presence. About the Role: We are looking for a curious and analytical Data Analyst to help transform complex data into actionable insights that drive product, customer, and business decisions. In this role, you will work closely with cross-functional teams to analyze customer behavior, product performance, and business trends while developing dashboards, reports, and data-driven recommendations. You will leverage modern analytics tools and statistical techniques to uncover opportunities, improve decision-making, and support strategic initiatives. The ideal candidate combines strong SQL and statistical analysis skills with the ability to communicate complex findings clearly to both technical and non-technical stakeholders. Key Responsibilities: Analyze customer behavior, product performance, and business trends using large datasets. Build dashboards, reports, and visualizations that support business decision-making. Develop data models and queries to extract meaningful insights from multiple data sources. Identify patterns, trends, and opportunities using statistical analysis and exploratory data techniques. Collaborate with Product, Marketing, Engineering, and Business teams to support strategic initiatives. Translate complex analyses into clear, actionable recommendations for stakeholders. Support forecasting, segmentation, and customer behavior analysis. Contribute to long-term analytics projects from planning through execution. Continuously improve reporting processes, data quality, and analytics methodologies. Requirements: 3+ years of professional experience in Data Analytics, Business Analytics, or similar roles. Strong SQL skills and experience working with large datasets. Experience with Python, R, or another statistical programming language. Experience building dashboards and data visualizations. Strong analytical and problem-solving skills. Excellent communication and presentation skills. Experience collaborating with cross-functional teams. Strong written and verbal English communication skills. Must have: Strong SQL experience. Experience querying large datasets from multiple sources. Professional experience with Python or R. Experience building dashboards and reports. Experience performing statistical analysis. Strong understanding of customer or product analytics. Experience presenting insights to stakeholders. Strong data visualization skills. Experience cleaning, transforming, and validating data. Strong analytical thinking and business acumen. Nice to have: Experience with Google Analytics (GA4). Experience with BigQuery. Experience with Tableau, Looker, or Power BI. Experience with predictive analytics or customer segmentation. Experience with A/B testing. Experience working alongside Data Science teams. Retail or eCommerce analytics experience. Experience with Hadoop or Hive. Master's degree in a quantitative field. Benefits & Perks: Home office; Competitive compensation based on experience; Career plans to allow for extensive growth in the company; International Projects; Oowlish English Program (Technical and Conversational); Oowlish Fitness with Total Pass; Games and Competitions; You can also apply here: Website: https://www.oowlish.com/work-with-us/ LinkedIn: https://www.linkedin.com/company/oowlish/jobs/ Instagram: https://www.instagram.com/oowlishtechnology/",
+      "date": "2026-07-20",
+      "region": "brazil",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/latitude-sh/jobs/senior-site-reliability-engineer",
+      "title": "Senior Site Reliability Engineer",
+      "company": "Latitude.sh",
+      "location": "",
+      "url": "https://himalayas.app/companies/latitude-sh/jobs/senior-site-reliability-engineer",
+      "source": "Himalayas",
+      "description": "About Latitude.sh Latitude.sh 's global computing platform was launched in 2019, enabling businesses to programmatically deploy single-tenant Bare Metal instances in different parts of the world. We are a team of passionate individuals about hardware, software, and network infrastructure looking to build the fastest, easiest-to-use, developer-centric single-tenant Cloud infrastructure. If you share this passion, join our growing team of talented people and help build the future of the Internet. Summary At Latitude.sh , the Reliability team is responsible for the health and resilience of the infrastructure that powers our global bare metal cloud. As a Senior Site Reliability Engineer (SRE), you’ll focus on building reliable, observable, and self-healing systems at scale. SREs at Latitude.sh work at the intersection of software engineering and infrastructure. You’ll design and implement tools that automate operations, improve incident response, and enhance system observability—ensuring our platform is always ready for the workloads of our customers. This might be a good opportunity if you’re passionate about reliability, automation, and creating cloud-like experiences for bare metal infrastructure. Key Responsabilities Continuously improve Latitude.sh ’s platform reliability and performance Design, build, and maintain tools to automate operational tasks and incident response Implement and improve observability solutions, including monitoring, alerting, and tracing Collaborate with engineering and platform teams to design scalable and resilient systems Participate in on-call rotations and lead post-incident reviews with a focus on learning Develop and document processes and runbooks that ensure operational excellence Contribute to SLOs/SLIs definition and reliability metrics adoption across teams Skills and Qualifications Strong verbal and written English communication skills Advanced knowledge of Linux/Unix systems in production environments Experience with Kubernetes and container orchestration Proficiency with infrastructure automation tools (e.g., Terraform, Ansible) Experience with observability stacks (e.g., Prometheus, Grafana, Loki, ELK) Familiarity with scripting and programming languages such as Bash, Python, Go, or Ruby Working knowledge of Git and CI/CD pipelines Solid understanding of incident management and root cause analysis processes Knowledge of cloud-native reliability and security best practices What do we offer? Contractor (PJ) Paid Time Off Competitive Compensation Wellhub (former Gympass) Annual Bonus based on company and team performance Flexible work hours Opportunities for professional growth and development Why Latitude.sh ? We're a lean, agile team of passionate professionals who believe in the power of innovation and creative problem-solving. As part of our team, you won't be lost in the crowd – you'll be an essential contributor, making a real impact from day one. Our values at Latitude.sh guide us in all our work and partnerships. We're proud to be an inclusive company, and we welcome all applicants for our open positions, regardless of their background, religion, sexual orientation, gender identity, age, nationality, or disability. If these values speak to you, we'd love for you to become a part of our team. Originally posted on Himalayas",
+      "date": "2026-07-20",
+      "region": "unknown",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "id": "himalayas-https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-8158232096",
+      "title": "WordPress Website Developer",
+      "company": "Wisevu",
+      "location": "Brazil",
+      "url": "https://himalayas.app/companies/wisevu/jobs/wordpress-website-developer-8158232096",
+      "source": "Himalayas",
+      "description": "Who We Are At Wisevu ™ and our sister brands Homevu™ and CharityMarketing.com, we’ve been driving digital marketing success for over 17 years, specializing in SEO, digital PR, AI, content marketing, and web development for healthcare, home services, and charity clients in Canada, USA, and Europe. Wisevu ™ is a fully remote team of 20+ specialists. You'll work on exciting client accounts in major markets like NYC, Toronto, and Spain—implementing cutting-edge strategies that drive real impact. Learn more at wisevu.com. We are looking for: As a Full-Stack WordPress Website Developer at Wisevu , you will play a key role in building and maintaining high-performance, secure, and user-friendly WordPress websites for our clients. You will work closely with other developers, designers, project managers, and clients to understand their needs and translate them into innovative and effective solutions. Responsibilities: Design, develop, and maintain WordPress websites and plugins using best practices. Optimize website performance and ensure responsiveness across all devices. Write efficient, maintainable, and reusable front-end and back-end code (HTML, CSS, JavaScript, PHP, MySQL). Collaborate with designers to convert designs into responsive web pages. Optimize website performance and ensure adherence to SEO best practices. Implement APIs and integrate third-party solutions. Troubleshoot and debug both front-end and back-end issues that arise with client websites. Stay up-to-date on the latest WordPress core updates, full-stack technologies, and security best practices. Requirements Must-haves: 3+ years of experience in WordPress development, including work on both front-end and back-end functionality. English at an intermediate level, both written and verbal. Bachelor's degree in Computer Science, Web Development, or a related field. Strong full-stack WordPress expertise, including custom theme and plugin development, front-end UI implementation, and back-end logic using WordPress APIs and PHP. In-depth knowledge of PHP, JavaScript, HTML, CSS, and SQL. Experience with version control systems like Git. Nice-to-haves: Solid understanding of SEO best practices in web development. Detail-oriented with a focus on quality. Work Timings: 9 AM-5 PM EST workday (Monday - Friday). Fully remote. Benefits Fully remote work. Competitive salary, which will be negotiated during the interview based on competencies, skills, and experience. Annual salary review. Premium training programs and access to an internal knowledge base built across 17 years of hands-on experience. Professional equipment budget. Access to cutting-edge tools (SEO platforms, Analytics tools, and more). Long-term and stable working relationship. We kindly ask that you provide us with your resume in English. Apply now and help us achieve exceptional digital marketing results—together! Wisevu Inc. 2026 © All the content in this job ad is the sole private property of Wisevu Inc. and shall not be used without written consent from Wisevu Inc. The content therein is protected by the Copyright Act of Canada and the Copyright Act of United States of America. All Rights Reserved. Originally posted on Himalayas",
+      "date": "2026-07-20",
+      "region": "brazil",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
+      "id": "remoteok-1135059",
+      "title": "Analista Comercial Jr I Vendas & Relacionamento",
+      "company": "Bling",
+      "location": "Brasil,",
+      "url": "https://remoteOK.com/remote-jobs/remote-analista-comercial-jr-i-vendas-relacionamento-bling-1135059",
+      "source": "RemoteOK",
+      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **FRUGAL** and tag RMTcyLjE4NC4yMTkuOTA= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTkuOTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "date": "2026-07-19",
+      "region": "brazil",
+      "first_seen": "2026-07-21",
+      "is_new": true
+    },
+    {
       "id": "himalayas-https://himalayas.app/companies/darkroom/jobs/senior-designer",
       "title": "Senior Designer",
       "company": "Darkroom",
@@ -24,7 +89,7 @@
       "date": "2026-07-20",
       "region": "brazil",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "jobicy-146992",
@@ -37,7 +102,7 @@
       "date": "2026-07-19",
       "region": "latam",
       "first_seen": "2026-07-20",
-      "is_new": true
+      "is_new": false
     },
     {
       "id": "remoteok-1135014",
@@ -46,7 +111,7 @@
       "location": "",
       "url": "https://remoteOK.com/remote-jobs/remote-react-native-engineer-helpbnk-1135014",
       "source": "RemoteOK",
-      "description": "About us At HelpBnk, we donât just build software; we build infrastructure for a future where everyone has the agency to follow their dreams. Co-founded by Simon Squibb, we are on a mission to Free Humanity from the trap of unfulfilling work and the looming challenges of AI-driven automation. We are a high-growth startup under the Dream Inc umbrella, creating a social platform and business-starting tools that empower people to take control of their lives. If you are tired of \"just a job\" and want to fight for something that matters, read on. Our Culture Ownership. We're small, so there's a lot of open ground. If you spot something broken, you're the one who gets to fix it. That's the good part and the hard part. Openness. Problems get named early, including our own. We'd rather have an uncomfortable conversation on Monday than a bad quarter. AI as a tool . We build with agentic AI (Claude Code, Cursor, and whatever comes next). We're not looking for people who let it write the code unsupervised, or for people who won't touch it. We're looking for people who've worked out where it helps and where it lies to you. Interesting problems . The work here is genuinely unsolved in places. If you like that, you'll like it here. If you'd rather have a well-defined roadmap and a clear spec, we're probably not the right fit for eachother. The Challenge We are in a pivotal phase of our journey. HelpBnk is transitioning its mobile experience from a web to a full native React Native application. Simultaneously, we are revamping our UX. As a Senior Engineer, you will have a massive impact on the future of our mobile development as we expand into new countries and verticals. What Youâll Do Lead the Transition: Architect and build high-performance, scalable mobile applications from the ground up using React Native (TypeScript). Master the Machines : Using agentic AI (Claude Code, Cursor, etc.) in your day-to-day workflow is a strict requirement. We expect you to leverage these tools to ship \"buttery smooth\" UIs and clean code Research & Innovate : Continuously discover and implement new technologies to stay up to date on the latest best practices Own the Lifecycle: Take full responsibility for the mobile app lifecycle, from technical design and prototyping to App Store and Google Play deployment. Before You Start 5+ years of professional experience in mobile development with a deep understanding of the iOS and Android ecosystems. Senior-level expertise in React Native and TypeScript. Strong knowledge of state management (Zustand, Redux) and integrating with RESTful APIs. Experience with native build tools (Xcode, Android Studio, Gradle) and mobile CI/CD pipelines (Fastlane, GitHub Actions). Core Requirement: Proven ability to use AI coding agents to enhance productivity and maintain meticulous code quality. Why You Should Apply Freedom: Work from where you want, when you want, we focus on output, not hours. Impact: Your work directly helps people discover their dreams and solve world-scale problems. Tools: We provide the software you need to perform optimally. Ready to help us? Please mention the word **GLIMMERING** and tag RMjAuNTcuNDcuMjI0 when applying to show you read the job post completely (#RMjAuNTcuNDcuMjI0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "About us At HelpBnk, we donât just build software; we build infrastructure for a future where everyone has the agency to follow their dreams. Co-founded by Simon Squibb, we are on a mission to Free Humanity from the trap of unfulfilling work and the looming challenges of AI-driven automation. We are a high-growth startup under the Dream Inc umbrella, creating a social platform and business-starting tools that empower people to take control of their lives. If you are tired of \"just a job\" and want to fight for something that matters, read on. Our Culture Ownership. We're small, so there's a lot of open ground. If you spot something broken, you're the one who gets to fix it. That's the good part and the hard part. Openness. Problems get named early, including our own. We'd rather have an uncomfortable conversation on Monday than a bad quarter. AI as a tool . We build with agentic AI (Claude Code, Cursor, and whatever comes next). We're not looking for people who let it write the code unsupervised, or for people who won't touch it. We're looking for people who've worked out where it helps and where it lies to you. Interesting problems . The work here is genuinely unsolved in places. If you like that, you'll like it here. If you'd rather have a well-defined roadmap and a clear spec, we're probably not the right fit for eachother. The Challenge We are in a pivotal phase of our journey. HelpBnk is transitioning its mobile experience from a web to a full native React Native application. Simultaneously, we are revamping our UX. As a Senior Engineer, you will have a massive impact on the future of our mobile development as we expand into new countries and verticals. What Youâll Do Lead the Transition: Architect and build high-performance, scalable mobile applications from the ground up using React Native (TypeScript). Master the Machines : Using agentic AI (Claude Code, Cursor, etc.) in your day-to-day workflow is a strict requirement. We expect you to leverage these tools to ship \"buttery smooth\" UIs and clean code Research & Innovate : Continuously discover and implement new technologies to stay up to date on the latest best practices Own the Lifecycle: Take full responsibility for the mobile app lifecycle, from technical design and prototyping to App Store and Google Play deployment. Before You Start 5+ years of professional experience in mobile development with a deep understanding of the iOS and Android ecosystems. Senior-level expertise in React Native and TypeScript. Strong knowledge of state management (Zustand, Redux) and integrating with RESTful APIs. Experience with native build tools (Xcode, Android Studio, Gradle) and mobile CI/CD pipelines (Fastlane, GitHub Actions). Core Requirement: Proven ability to use AI coding agents to enhance productivity and maintain meticulous code quality. Why You Should Apply Freedom: Work from where you want, when you want, we focus on output, not hours. Impact: Your work directly helps people discover their dreams and solve world-scale problems. Tools: We provide the software you need to perform optimally. Ready to help us? Please mention the word **GLIMMERING** and tag RMTcyLjE4NC4yMTkuOTA= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTkuOTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-18",
       "region": "unknown",
       "first_seen": "2026-07-19",
@@ -102,7 +167,7 @@
       "location": "Brasil,",
       "url": "https://remoteOK.com/remote-jobs/remote-analista-de-testes-pleno-melhor-envio-1134941",
       "source": "RemoteOK",
-      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **WORTHY** and tag RMjAuNTcuNDcuMjI0 when applying to show you read the job post completely (#RMjAuNTcuNDcuMjI0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
+      "description": "Anunciada 00:00:00. Com senso de dono e colaboraÃ§Ã£o, unimos forÃ§as para remover barreiras e impulsionarnegÃ³cios. NÃ£oâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **WORTHY** and tag RMTcyLjE4NC4yMTkuOTA= when applying to show you read the job post completely (#RMTcyLjE4NC4yMTkuOTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
       "date": "2026-07-17",
       "region": "brazil",
       "first_seen": "2026-07-18",
@@ -299,7 +364,7 @@
       "title": "CQV Engineer",
       "company": "EFOR",
       "location": "Brasil, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5804793725?se=-rztRDCE8RGH_bFF0V4EPA&utm_medium=api&utm_source=bd0bee3e&v=C85F376FA26B89324CABCAEABB8C60EE5E4F54A9",
+      "url": "https://www.adzuna.com.br/land/ad/5804793725?se=ZIaEM_SE8RGYrqXeVyjSPw&utm_medium=api&utm_source=bd0bee3e&v=C85F376FA26B89324CABCAEABB8C60EE5E4F54A9",
       "source": "Adzuna",
       "description": "Vaga: Engenheiro(a) CQV – 100% Remoto | Brasil Estamos em busca de um(a) Engenheiro(a) de Commissioning, Qualification & Validation (CQV) para atuar em um projeto internacional no setor farmacêutico. A posição é 100% remota no Brasil , com interação diária com equipes globais e participação em projetos de alta complexidade para um cliente em forte expansão. Principais responsabilidades : Elaborar e executar protocolos de IQ, OQ e PQ para equipamentos, utilidades e sistemas. Desenvolver document…",
       "date": "2026-07-17",
@@ -2553,79 +2618,6 @@
       "date": "2026-05-26",
       "region": "brazil",
       "first_seen": "2026-06-21",
-      "is_new": false
-    },
-    {
-      "id": "himalayas-https://himalayas.app/companies/eshop-guide/jobs/midlevel-full-stack-developer-ruby-on-rails-react-m-w-d-2080518212",
-      "title": "Midlevel Full Stack Developer - Ruby on Rails & React (m/w/d)",
-      "company": "Eshop Guide",
-      "location": "Algeria, Argentina, Australia, Austria, Bangladesh, Belgium, Bhutan, Brazil, Bulgaria, Canada, Chile, China, Colombia, Czechia, Denmark, Egypt, Ethiopia, Finland, France, Germany, Ghana, Greece, Hungary, India, Indonesia, Ireland, Israel, Italy, Japan, Kenya, Kuwait, Luxembourg, Malaysia, Mexico, Morocco, Myanmar, Nepal, Netherlands, New Zealand, Nigeria, Norway, Oman, Pakistan, Peru, Philippines, Poland, Portugal, Qatar, Romania, Rwanda, Saudi Arabia, Singapore, South Africa, South Korea, Spain, Sri Lanka, Sweden, Switzerland, Taiwan, Tanzania, Thailand, Tunisia, Turkey, Uganda, United Arab Emirates, United Kingdom, United States, Vietnam",
-      "url": "https://himalayas.app/companies/eshop-guide/jobs/midlevel-full-stack-developer-ruby-on-rails-react-m-w-d-2080518212",
-      "source": "Himalayas",
-      "description": "hey du :) Du hast Lust, echten Impact im Shopify-Ökosystem zu machen - mit sauberem Code, durchdachter Umsetzung und Apps, die Händler:innen wirklich weiterbringen? Dann bist du bei uns genau richtig. Wir suchen eine:n Fullstack Developer:in (Mid-Level) - Ruby on Rails & React für unser Apps-Team . Bei uns arbeitest du an bestehenden Shopify Apps, entwickelst neue Features und bringst gemeinsam mit dem Team neue Apps an den Start - mit genug Raum, um dich fachlich weiterzuentwickeln und Verantwortung zu übernehmen. deine mission Weiterentwicklung & Instandhaltung Du entwickelst unsere bestehenden Shopify Apps weiter und sorgst dafür, dass sie stabil, performant und gut wartbar bleiben Du behebst Bugs, verbesserst bestehende Features und unterstützt beim technischen “Aufräumen” (Refactoring, Codequalität) Technische Konzeption neuer Features Du denkst neue Features gemeinsam mit dem Team technisch durch: pragmatisch, sauber, skalierbar Du unterstützt bei der Aufteilung in sinnvolle Tasks/Epics und behältst dabei Aufwand und Risiken im Blick Neuentwicklung & Zusammenarbeit mit Product Neben der Entwicklung unserer Partner-Apps entwickelst du auch neue Shopify Apps - von der Idee über die Umsetzung bis zum Launch Du arbeitest eng mit unserem Product-Team zusammen: Sie definieren das Was , du gestaltest (gemeinsam mit dem Team) das Wie das bringst du mit: Unsere Must-haves Mind. 2 Jahre Vollzeit-Erfahrung als Entwickler:in im Full Stack-Umfeld Mind. 2 Jahre Praxiserfahrung mit Ruby on Rails und React Sicherer Umgang mit Git Erfahrung mit relationalen Datenbanken, idealerweise PostgreSQL Du schreibst automatisierte Tests (idealerweise RSpec ) und hast Lust, Qualität mitzudenken Du arbeitest strukturiert, kommunizierst proaktiv und bringst Themen zuverlässig ins Ziel Sehr gutes Deutsch (mind. B2) Nice-to-haves Erfahrung in der Shopify App-Entwicklung Erfahrung mit GraphQL APIs was bieten wir dir? Hard facts first : Einen unbefristeten Arbeitsvertrag, flexible Arbeitszeitgestaltung mit Remote-Option, regelmäßiges Feedback, frei verfügbare Weiterbildungszeit von 10% der Arbeitszeit, lustige Teamevents - online und offline, vermögenswirksame Leistungen und betriebliche Altersvorsorge (bis zu 100% Zuschuss), Jobrad und -ticket, Urban Sports Mitgliedschaft, Mental Health Plattform und noch mehr! Sei Teil etwas Großem : Als eine führende Shopify-Agentur in Deutschland verfolgen wir das Ziel, ein verlässlicher Partner und Arbeitgeber zu sein. Wir unterstützen dich dabei, effizient zu arbeiten und fördern eine gesunde Arbeitsweise Unbegrenzte Entwicklungsmöglichkeiten: Bei uns bist du mehr als nur ein „Rädchen im Getriebe“. Du hast die Chance, kontinuierlich zu lernen, Neues auszuprobieren und dich weiterzuentwickeln, während dein Team immer hinter dir steht Echte Werte und Authentizität: Wir schätzen Kommunikation, Empathie und Entwicklung. Bei uns findest du eine inklusive Kultur, die Diversität fördert Originally posted on Himalayas",
-      "date": "2026-06-20",
-      "region": "brazil",
-      "first_seen": "2026-06-20",
-      "is_new": false
-    },
-    {
-      "id": "adzuna-5769277698",
-      "title": "PHP Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277698?se=MsdnAcJv8RGIWorTphsLOQ&utm_medium=api&utm_source=bd0bee3e&v=5FA7FA6286408FB0A58AE00D84CFB2406CEE9844",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for PHP Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team players passi…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-20",
-      "is_new": false,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 2
-    },
-    {
-      "id": "adzuna-5769277375",
-      "title": "React Native Developer - Remote Work",
-      "company": "INDI Staffing Services",
-      "location": "São Paulo, Estado de São Paulo, Brasil",
-      "url": "https://www.adzuna.com.br/land/ad/5769277375?se=MsdnAcJv8RGIWorTphsLOQ&utm_medium=api&utm_source=bd0bee3e&v=C0A78B270F6148FAA7B6210B2534ADE548D6AE4E",
-      "source": "Adzuna",
-      "description": "At INDI, we're passionate about empowering individuals and businesses worldwide. Our cutting-edge recruiters connect leading companies with top talent, fostering a dynamic environment where innovation thrives. Join us in shaping the future of work. Overview of the role: We are looking for React Native Senior Developers to join our Development team and participate in different projects made up of multicultural teams distributed throughout the world. We are looking for proactive people, team play…",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-20",
-      "is_new": false,
-      "also_on": [
-        "Adzuna"
-      ],
-      "dup_count": 1
-    },
-    {
-      "id": "remoteok-1133690",
-      "title": "Analista de Relacionamento com o Cliente Jr Remoto",
-      "company": "Shopper.com.br",
-      "location": "Brasil,",
-      "url": "https://remoteOK.com/remote-jobs/remote-analista-de-relacionamento-com-o-cliente-jr-remoto-shopper-com-br-1133690",
-      "source": "RemoteOK",
-      "description": "Anunciada 22:38:13. Aqui ninguÃ©m usa terno, gravata ou camisa. NÃ£o seguimos padrÃµes sem sentido!O ambiente Ã© informal eâ¦ - veja esta vaga e outras semelhantes no LinkedIn. Please mention the word **FAULTLESS** and tag RMTcyLjE4NC4xNzMuMjQz when applying to show you read the job post completely (#RMTcyLjE4NC4xNzMuMjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "date": "2026-06-19",
-      "region": "brazil",
-      "first_seen": "2026-06-20",
-      "is_new": false
-    },
-    {
-      "id": "remoteok-1133667",
-      "title": "Senior Backend Engineer Studio AI",
-      "company": "Creative Fabrica",
-      "location": "",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-studio-ai-creative-fabrica-1133667",
-      "source": "RemoteOK",
-      "description": "Remote - About Creative FabricaCreative Fabrica is a subscription platform serving millions of creators, designers, and crafters worldwide. We're built on the principle that everyone can be creative. We remove what stands in the way: expensive software, technical expertise, an... Please mention the word **PROLIFIC** and tag RMTcyLjE4NC4xNzMuMjQz when applying to show you read the job post completely (#RMTcyLjE4NC4xNzMuMjQz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.",
-      "date": "2026-06-18",
-      "region": "unknown",
-      "first_seen": "2026-06-20",
       "is_new": false
     },
     {
